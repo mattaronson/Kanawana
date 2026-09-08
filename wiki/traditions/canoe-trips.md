@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 31*
-*Last Updated: 2026-09-07 (the Foresters expedition, and the Ultimate programme length separated from its trip length)*
+*Status: E1-reviewed | Sources: 33*
+*Last Updated: 2026-09-08 (a second year of the canoe-building programme, and a parent's letter about a trip)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -220,11 +220,23 @@ than simple registration, which is a selection step the camp-based sections do n
 
 The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
 
-## Building them, not only paddling them, 2001-02
+## Building them, not only paddling them, 2001-03
 
 One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, under **YMCA Kamp Kanawana**, a "**Programme de construction de canots**" — a canoe-*building* programme, as distinct from everything else on this page, which is about canoes being paddled.^28 It sits beside a second Kanawana line, "Accessibilité au YMCA."
 
-*The money is not assigned here.* The scan puts **$16,323** on the accessibility line and leaves the canoe line without a figure of its own, so the amount may belong to either or be a total for both, and nothing in the table decides it. Nor is anything known about what the programme was, who ran it, how long it lasted, or whether a canoe came out of it. **"Canoe building" and "construction de canots" occur nowhere else in this project** — which, for an article this long about canoes, is worth saying plainly.
+*The money is not assigned here.* The scan puts **$16,323** on the accessibility line and leaves the canoe line without a figure of its own, so the amount may belong to either or be a total for both, and nothing in the table decides it.
+
+**It ran a second year, and that year the figure is unambiguous.** [f_5766] The 2002-03 table prints "**KAMP KANAWANA — Canoe building program — $2,000**," with no accessibility line beside it, and the French edition confirms it as "*Programme de construction de canots, 2 000 $*."^32 So the programme was not a one-off, and the 2001-02 ambiguity above narrows: at $2,000 in a year when it stood alone, the canoe line is unlikely to have carried $16,323 by itself the year before, which makes the total-for-both reading much the more probable. That still does not make it certain, and the 2001-02 split between the canoe programme and Accessibilité au YMCA remains unassigned within that $16,323. Nor is anything known about what the programme was, who ran it, how long it lasted, or whether a canoe came out of it. **"Canoe building" and "construction de canots" occur nowhere else in this project** — which, for an article this long about canoes, is worth saying plainly.
+
+
+**And one trip has a parent's account of what it did.** The YMCAs of Québec's 2010 community report prints a
+letter written after a canoe-camping trip, with first names only: "I want to thank you (camp) and Jen's guides
+**Joe and Elli** for giving Jen an awesome experience. She has not stopped talking about it since I picked her
+up on Friday, and it seems she has **a new found belief in herself**. I know she learned many valuable lessons
+during the trip, and that they will help keep her on track **during the school year**."^33 Almost everything
+this article holds about what tripping was for comes from staff, directors or the association. This is a
+mother, and the unit she measures the trip in is a school year. See
+[[history/modern-era|The Modern Era]] for the 2016 letter beside it. [f_5776]
 
 ## Open Questions
 
@@ -280,3 +292,5 @@ One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, und
 29. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_camp_perrot_season_report], the table of overnight groups using the property; and the Camp Perrot annual report for 1951 [src_ymf_1951_camp_perrot_annual_report], its "Groups Using Camp Perrot" list. Recovered 2026-09-07 from the second text file of an item this project had read only the first of; the 1951 recurrence found the same day under `p_491`. See [f_5432] and [f_5699].
 30. Camp YMCA Kanawana, the six expedition and leadership programme pages [src_ymcaq_kanawana_expedition_leadership_pages_2026] — Voyageurs, Voyageurs Extreme, Voyageurs Ultimate, Rangers, Trailblazers CIT and Foresters canoe-guides-in-training, under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07 and advertising the 2027 season; cached together at `sources/cache/web-pages/ymcaquebec-kanawana-expedition-leadership-pages-2026.txt`, one header line per page giving its own URL. See [f_5614].
 31. *The Green Triangle*, Issue 2, **21 July 1940** [src_ymf_the_green_triangle_1940_07_21], and a Concordia Archives photograph captioned "Pop Cameron and the Canoe Trippers", dated by its **1941** Quebec licence plate [src_flickr_kanawana_concordia_historical_album]. The **1940** canoe-trip log naming **Jack Cameron's car** and the **1941** photograph naming **Pop Cameron** are joined at [f_5626]; the photograph alone is at [f_1571].
+32. YMCA of Montreal annual report **2002-2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Foundation's endowment allocation table. Read 2026-09-08 under p_487. The four-year series is at [[history/modern-era|The Modern Era]]. See [f_5766].
+33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].

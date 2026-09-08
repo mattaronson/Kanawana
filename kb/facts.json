@@ -1,8 +1,8 @@
 {
-  "version": "11.47",
-  "kb_version": "11.47",
+  "version": "11.48",
+  "kb_version": "11.48",
   "migrated_from": "3.3",
-  "fact_count": 5737,
+  "fact_count": 5738,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103536,6 +103536,24 @@
       "date_ref": "2010-2018",
       "conflicts_with": [],
       "added_version": "11.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5776",
+      "claim": "WHAT SHARE OF THE ASSOCIATION'S FINANCIAL ASSISTANCE WENT TO CAMP, AND A PARENT'S LETTER ABOUT A CANOE TRIP. The YMCAs of Quebec's 2010 community report: 'In 2010, thanks to the ACCESS FOR ALL POLICY, 10,861 people benefitted from financial assistance provided by the YMCA in order to participate in our programs, for a total of $885,776.' (The leading digit is OCR-damaged, reading '0,861'; ten thousand is the only reading that fits the association's scale.) An accompanying infographic breaks the policy down by programme and gives CAMP Y KANAWANA 3.24%, against 15.14% against the policy heading itself, swimming and other aquatic programs 0.29%, and the Ski and Snowboard School 1.74%. DELIBERATELY NOT DONE: no dollar figure is computed from the 3.24%. The report does not say whether the percentages are shares of the dollars, of the people, or of something else, and the infographic's layout is reflowed by the OCR into a single stream; multiplying $885,776 by 3.24% would manufacture a precise-looking number out of an unstated denominator. THE SAME PAGE CARRIES A PARENT'S LETTER, one of very few in this project written by a camper's family rather than by staff or the association: 'I want to thank you (camp) and Jen's guides JOE AND ELLI for giving Jen an awesome experience. She has not stopped talking about it since I picked her up on Friday, and it seems she has A NEW FOUND BELIEF IN HERSELF. I know she learned many valuable lessons during the trip, and that they will help keep her on track during the school year. (...) Through Jen, I have come to realise that Kanawana is a really special place. Over the past year, Jen has been gaining strength and maturity through the many dedicated people who have helped her.' The report gives the camper and both guides by first name only; that redaction is the association's own and is kept.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2010"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Access for All",
+        "Camp Y Kanawana",
+        "canoe tripping"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "11.48",
       "added_by": "ralph_loop"
     }
   ]

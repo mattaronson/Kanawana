@@ -62,6 +62,17 @@ individuals in need." Nearly **$50,000** of that came from "an **online viral ca
 promoted through **Facebook**," with "a hundred or so '**volunteer storytellers**'" contributing.^21 That is
 the earliest instance this project holds of the camp inside a social-media fundraising campaign.
 
+**How much of the association's assistance the camp accounted for, in the one year it is broken out.** The
+same report: "In 2010, thanks to the **Access for All policy**, 10,861 people benefitted from financial
+assistance provided by the YMCA in order to participate in our programs, for a total of **$885,776**." An
+infographic beside it splits the policy by programme and gives **Camp Y Kanawana 3.24%**, against 15.14%
+against the policy heading, 1.74% for the Ski and Snowboard School and 0.29% for swimming and other aquatic
+programmes.^21 *No dollar figure is computed from that here.* The report never says whether the percentages
+are shares of the money, of the people, or of something else, and the OCR reflows the infographic into a
+single stream; multiplying $885,776 by 3.24% would manufacture a precise-looking number out of an unstated
+denominator. (The people-count's leading digit is OCR-damaged, reading "0,861"; ten thousand is the only
+reading that fits the association's scale.)
+
 **And it was one of only two things the association was asking donors to build.** The same report solicits
 "commitments to our **development projects (Camp Y Kanawana and Destination Youth)**."^21 The camp had been
 in the green shift since 2006; this is what that looked like from the fundraising side.
@@ -155,11 +166,21 @@ Saint-Sauveur, **but in a day camp format**."^24 The second is the "Aventure à 
 entirely. The same report gives the season's attendance — **782 kids and teens** — which is carried in
 [[meta/attendance-series|the attendance series]].
 
-## A parent's reason, 2016
+## Parents' reasons, 2010 and 2016
 
 This wiki holds a great deal about what the camp's staff and its association said the camp was *for*, across
-130 years, and very little from the families who used it. The 2016 community report prints one, with first
-names only:
+130 years, and very little from the families who used it. Two community reports print a family's own words,
+both with first names only.
+
+**2010, after a canoe trip.** "I want to thank you (camp) and Jen's guides **Joe and Elli** for giving Jen an
+awesome experience. She has not stopped talking about it since I picked her up on Friday, and it seems she has
+**a new found belief in herself**. I know she learned many valuable lessons during the trip, and that they
+will help keep her on track during the school year… Through Jen, I have come to realise that **Kanawana is a
+really special place**. Over the past year, Jen has been gaining strength and maturity through the many
+dedicated people who have helped her."^21 The trip is the [[traditions/canoe-trips|canoe-camping]] programme,
+and what the mother measures it by is a school year rather than a summer. [f_5776]
+
+**2016**, at greater length:
 
 > "My name is **Star**. My thirteen-year-old son **Bishop** has been going to Camp YMCA Kanawana **since he
 > was six**. This wouldn't have been possible without **financial assistance** from the YMCA… I see a
