@@ -8377,3 +8377,20 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Supplement now read through. What remains is branch staffing with no camp bearing.
   PR #10 checked: CI green on the head, mergeable clean, draft, no review threads. Its body is one
     session stale and dated in itself; left rather than risk mangling 15KB of text for a lag.
+2026-09-08T01:56:56Z
+  p_487 third pass -- the twenty asserted full reads closed. f_5757, KB 11.31 -> 11.32.
+  All twenty are Concordia finding-aid MIRROR PAGES, each under 5.4 KB stripped, so "read in full"
+    is trivially true and the priority's tell (thin yield against a LARGE document) does not apply.
+  Twelve produced facts. Of the eight that did not, five (the 12C Otoreke series) are used in
+    camp-otoreke.md under a different source id -- the provenance-pointer gap, found a third time.
+    Three are honest nulls, read here: an 1870 royal visit, 1920s-30s branch open houses, the 1976
+    Olympics. All twenty basis strings rewritten asserted -> measured; that basis count is now zero.
+  THE FIND IS IN THE TWELFTH: src_concordia_mirror_12b07 lists "RANGERS LOG BOOK. - 1957" in Box
+    HA2315. The Rangers section was discovered only on 2026-09-07 from five table rows, with the note
+    that this project "had no record of a Rangers section at Kanawana at all" -- and a log book of it
+    sat in a cached aid marked read in full, dated three years before the first row that revealed it.
+    "Lumbermen-Voyageurs week. - 1958" and "Horseback riding program. - 1971" equally unused.
+  Written into attendance-series.md. The lesson is not about reading but about USING: a document can
+    be genuinely read, correctly marked, and have every entry go nowhere, and nothing checks for it.
+  Remaining asserted population: 223 "full-text-cached-and-keyword-swept-not-read-closely", which is
+    the honest label and names 223 documents never read closely.

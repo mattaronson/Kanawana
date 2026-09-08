@@ -1,8 +1,8 @@
 {
-  "version": "11.31",
-  "kb_version": "11.31",
+  "version": "11.32",
+  "kb_version": "11.32",
   "migrated_from": "3.3",
-  "fact_count": 5718,
+  "fact_count": 5719,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103129,6 +103129,27 @@
       "conflicts_with": [],
       "added_version": "11.31",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5757",
+      "claim": "p_487'S TWENTY 'asserted:fetched-and-read-in-full' RECORDS ARE ALL TRUE, AND ONE OF THEM WAS SITTING ON A DOCUMENT NOBODY HAD USED. The priority named these twenty as the next population to check on the rule that 'a grep is not a read'. ALL TWENTY ARE CONCORDIA FINDING-AID MIRROR PAGES, every one under 5.4 KB of stripped text, so 'read in full' is trivially true of each and the suspicion does not apply -- p_487's own tell is THIN YIELD AGAINST A LARGE DOCUMENT, and there is no large document here. Twelve produced facts. Of the eight that produced none, FIVE (the 12C series, Camp Otoreke's administration, land, communications, staff and programme aids) ARE used in site/camp-otoreke.md under a different source id, which is a provenance-pointer gap and the same defect this priority found twice before, not an unread document. THREE ARE HONEST NULLS, read here in full: 13A is a single item, a royal visit of 1870; 13C is branch open houses of the 1920s and 1930s; 13F is the Y's participation in the 1976 Olympics. None touches a camp. All twenty basis strings rewritten from asserted to measured. THE FIND IS IN THE TWELFTH. src_concordia_mirror_12b07, the aid for Kamp Kanawana's PROGRAM sub-series, lists in Box HA2315: 'RANGERS LOG BOOK. - 1957'. The Rangers are a fifth camp section this project discovered ONLY on 2026-09-07, from five rows of a statistical table, and recorded then that 'this project had no record of a Rangers section at Kanawana at all'. A log book of it survives, three years EARLIER than the first row in that table -- so the section is older than the figures that revealed it -- and it was named in a finding aid already cached and already marked read in full. Two neighbouring entries in the same box are equally unused: 'Lumbermen-Voyageurs week. - 1958', earlier than anything the L&V article holds from inside the camp, and 'Horseback riding program. - 1971', the year the riding programme was condemned, cancelled and run anyway. All three written into meta/attendance-series.md. THE LESSON IS NOT ABOUT READING BUT ABOUT USING: a document can be genuinely read in full, correctly marked, and still have every one of its entries go nowhere, and no check in this project looks for that.",
+      "sources": [
+        "src_concordia_mirror_12b07",
+        "src_concordia_mirror_13a",
+        "src_concordia_mirror_13c",
+        "src_concordia_mirror_13f"
+      ],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_487",
+        "Rangers",
+        "P145/12B07"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.32",
+      "added_by": "manual"
     }
   ]
 }

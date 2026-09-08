@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 49*
+*Status: draft | Sources: 50*
 *Last Updated: 2026-09-07 (four more Social Audit years, out of the French editions)*
 
 ## Overview
@@ -354,6 +354,18 @@ was never more than about three per cent of camp and it halved over five years b
 disappearance is confirmed by arithmetic rather than only read off the row: 1965's four remaining
 sections sum exactly to the printed total, leaving nothing for a fifth. **This project had no record of
 a Rangers section at Kanawana at all.**^45 [f_5653]
+
+**And a log book of it survives.** Concordia's finding aid for sub-series **P145/12B07**, Kamp Kanawana
+*Program*, lists in **Box HA2315**: "**Rangers log book. - 1957**".^50 That is three years before the
+first Rangers row in the table above, so the section is older than the run of figures that revealed it,
+and a log book is the kind of document that would say what the Rangers actually were — an age band, a
+programme, or something else again. *The finding aid was already in this project's cache and had been
+marked read in full*; the entry had simply never been carried anywhere, which is how a document naming
+a section nobody knew existed sat unremarked beside the discovery of it. Two neighbouring entries in the
+same box are worth the same request: "**Lumbermen-Voyageurs week. - 1958**", earlier than anything
+[[traditions/lv-games|the L&V Games article]] holds from inside the camp, and "**Horseback riding
+program. - 1971**", the year [[site/camp-becsies|the riding programme]] was condemned and cancelled and
+run anyway.
 
 **Coeducation, counted.** Girls appear in brackets inside every total from 1968, under the legend
 "Figures shown in brackets - Girl Campers (included in overall totals)". They are eleven per cent of
@@ -751,6 +763,7 @@ own, one of those three is its source.
 
 49. The **French editions** of the association's annual reports for **2002-2003**, **2005-2006**, **2007**, **2008** and **2009** [src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2005_2006_fr, src_ymf_sgw_ymca_annual_report_2007_fr, src_ymf_sgw_ymca_annual_report_2008_fr, src_ymf_sgw_ymca_annual_report_2009_fr], their PROGRAMMES / PERSONNES tables. Read 2026-09-07 under `p_259`, on the premise that the OCR damage falls differently — which is what note 24 above says defeated the English scans for these years. **Controlled**: the French 2008 and 2009 tables give 1 091 and 1 281, exactly the English figures at note 24. See [f_5718].
 
+50. Concordia University Archives, YMCA of Montreal fonds, sub-sub-series **P145/12B07 — Kamp Kanawana, Program** (finding aid) [src_concordia_mirror_12b07]. Box HA2315's item list: the 1957 Rangers log book, the 1958 Lumbermen-Voyageurs week, the 1971 horseback riding programme. Re-read 2026-09-08 under p_487, which was auditing records that assert a full read; this one had been read and its entries never used. See [f_5757].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.

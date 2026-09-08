@@ -10728,7 +10728,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12e",
@@ -10746,7 +10746,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12h",
@@ -10764,7 +10764,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12i",
@@ -10782,7 +10782,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12j",
@@ -10800,7 +10800,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12m",
@@ -10818,7 +10818,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_13a",
@@ -10836,7 +10836,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-null-one-item-1870-royal-visit"
     },
     {
       "source_id": "src_concordia_mirror_13b",
@@ -10854,7 +10854,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_13c",
@@ -10872,7 +10872,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-null-one-item-branch-open-houses-1920s-30s"
     },
     {
       "source_id": "src_concordia_mirror_13f",
@@ -10890,7 +10890,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-null-1976-olympics-no-camp-content"
     },
     {
       "source_id": "src_concordia_mirror_12b07",
@@ -10908,7 +10908,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12c01",
@@ -10926,7 +10926,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12c02",
@@ -10944,7 +10944,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12c03",
@@ -10962,7 +10962,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12c04",
@@ -10980,7 +10980,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12c05",
@@ -10998,7 +10998,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12c07",
@@ -11016,7 +11016,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12n01",
@@ -11034,7 +11034,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12n02",
@@ -11052,7 +11052,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_mirror_12n04",
@@ -11070,7 +11070,7 @@
       "reliability": "secondary",
       "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-and-read-in-full"
+      "read_state_basis": "measured:read-in-full-2026-09-08-p_487-finding-aid-page-under-5.4kb"
     },
     {
       "source_id": "src_concordia_p0145_full_findingaid_pdf",
