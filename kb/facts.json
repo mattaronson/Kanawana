@@ -1,8 +1,8 @@
 {
-  "version": "11.17",
-  "kb_version": "11.17",
+  "version": "11.18",
+  "kb_version": "11.18",
   "migrated_from": "3.3",
-  "fact_count": 5695,
+  "fact_count": 5696,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102701,6 +102701,23 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5734",
+      "claim": "A THIRD CITATION CHANNEL, AND THE CHECK WAS INVENTING THE BACKLOG IT REPORTED. site/places-and-locations.md was uncited_sources.py's HEADLINE FINDING on 2026-09-07 -- '19 of its 28 entries, and its body uses only NINE distinct markers' -- and was the article the diagnosis read by eye to confirm the defect was real. IT IS NOT. Thirteen of those nineteen are cited INLINE BY SOURCE ID: the body writes 'The camp dining hall has a capacity of over 300 people [src_ymca_website]' and the entry carries the same id. That is a citation a reader can follow, and it is the article's ORIGINAL channel, joined later by ^ markers for the entries added from 2026-09 onward. Four more of myths-and-legends' are the same. The check resolved only ^n markers, so it reported seventeen live citations as defects. Fixed: it now resolves ids as well, and the whole-wiki count fell 57 to 40 with no article touched. SECOND TIME IN ONE DAY THAT A CHECK MISREADING ITS CORPUS'S CONVENTIONS MANUFACTURED A BACKLOG -- the other was dangling_labels' first two versions (f_5731), which reported ~45 false findings against three different ways of writing a label. THESE ARTICLES CITE THREE WAYS, and any check written against them has to know all three. AND THEN I DID THE THING THE DIAGNOSIS WARNED ABOUT. Clearing the six genuine ones, I wrote a note on entry 18 saying the McConnell Foundation database had been 'searched for construction money behind the buildings above and yielding nothing that names Kanawana' -- kept, I said, so the null was on the record. THE SOURCE RECORD SAYS THE OPPOSITE: a grant of $700,000 (2023-2027) for major renovations at Camp Kanawana, under the Springboard for Life campaign, with the foundation stating it has supported the camp 'over the years'. The article's own funding paragraph already carried the figure, four lines from where I was working. I invented a null for a source I had not opened, to justify leaving an entry uncited. Corrected within the minute: entry 18 now describes the grant and is cited at the funding paragraph, which gained the campaign name and the 'over the years' statement. Entry 11's note was overstated the same way and was rewritten from the source record. A WRONG NOTE ON A SOURCE ENTRY IS THE SAME FAULT AS A WRONG MARKER -- it asserts a provenance, or an absence, that nobody checked -- and the fix for both is to open the source record before writing about it.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "places-and-locations",
+        "uncited_sources.py",
+        "McConnell Foundation"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.18",
       "added_by": "manual"
     }
   ]

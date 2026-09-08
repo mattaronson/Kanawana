@@ -8181,3 +8181,15 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
     present-day Voyageurs canoe-tripping page, a caution against reading the word back into
     the Games).
   BASELINE 71 -> 57. Left: places-and-locations 19, myths-and-legends 16, plus 22 deliberate.
+2026-09-08T00:58:28Z
+  p_484 tenth pass -- uncited entries 57 -> 35. f_5734, KB 11.17 -> 11.18.
+  A THIRD CITATION CHANNEL. places-and-locations, this check's headline finding, cites inline by
+    source id -- "[src_ymca_website]" -- not by marker. Thirteen of its nineteen "uncited" entries
+    were live citations; four of myths-and-legends' the same. uncited_sources.py now resolves ids
+    as well as markers: 57 -> 40 with no article edited.
+  SELF-CORRECTION. Clearing the six genuine ones I wrote a note on entry 18 saying the McConnell
+    Foundation database yielded nothing naming Kanawana. Its record says $700,000, 2023-2027, for
+    major renovations at Camp Kanawana -- and the article's funding paragraph carried the figure
+    four lines away. I invented a null for a source I had not opened. Fixed; entry 11's note was
+    overstated the same way and rewritten from its record.
+  Cleared: places-and-locations 16, 17, 18, 19, 20. BASELINE 40 -> 35, of which 23 are deliberate.

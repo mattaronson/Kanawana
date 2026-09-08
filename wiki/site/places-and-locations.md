@@ -225,7 +225,7 @@ Direct re-examination of the 1941, 1980-2001, and 2025 camp maps (2026-07-09) id
 
 One of the oldest cabins at Camp Kanawana, built after the Lookout (pre-existing), the Dining Hall (1911), and the Infirmary (1920s?).^15 It was situated just north of the Senior Parking Lot, to the west of the Dining Hall.^15 The cabin served as the **CIT (Counsellor-in-Training) director's cabin** in the 1980s and 1990s.^15 According to oral history, the **end of World War II was heard on the radio** in this cabin.^15
 
-Grand Portage was demolished around 2006 to make way for the new washroom buildings constructed as part of the green shift / Clivus Multrum composting toilet installation.^15 The new washroom buildings bear the Grand Portage name. The name references the fur-trade portage tradition central to Kanawana's French-Canadian wilderness identity.
+Grand Portage was demolished around 2006 to make way for the new washroom buildings constructed as part of the green shift / Clivus Multrum composting toilet installation.^15 ^16 The new washroom buildings bear the Grand Portage name. The name references the fur-trade portage tradition central to Kanawana's French-Canadian wilderness identity.
 
 ### Longhouse (Demolished c. 1979)
 
@@ -282,7 +282,7 @@ A 30-foot rock climbing wall is among the camp's current facilities [src_ymca_we
 
 ### Desjardins Pavilion (2018)
 
-In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission [src_lapresse_ymca_2018]. The McConnell Foundation provided $700,000 (2023–2027) for major renovations at the camp [f_0575]. Whether the Desjardins Pavilion was constructed as announced has not been confirmed in subsequent reporting.
+In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission [src_lapresse_ymca_2018]. The McConnell Foundation provided $700,000 (2023–2027) for major renovations at the camp, part of the YMCA's Springboard for Life campaign, and its own database says the foundation has supported Kanawana "over the years" [f_0575].^18 Whether the Desjardins Pavilion was constructed as announced has not been confirmed in subsequent reporting.
 
 ## Current Outdoor Facilities
 
@@ -307,7 +307,7 @@ The **Canadian Centre for Architecture (CCA)** holds architectural drawings in t
 
 1. **YMCA Boy's Camp buildings**, 1913–1914 (AP013.S1.D37, CCA #48095) — 5 working drawings, the firm's earliest Kanawana work;
 2. **Dining and Kitchen Pavilion**, 1919 (AP013.S1.D46, CCA #48710) — 6 drawings, "Dining and Kitchen Pavilion for YMCA Boy's Camp, Saint-Sauveur-des-Monts";
-3. **Doctor's Cottage**, 1921 (AP013.S1.D67, CCA #50576) — 3 drawings (ARCH25242 preliminary, ARCH25243 working, ARCH25244 structural details) [f_0573].
+3. **Doctor's Cottage**, 1921 (AP013.S1.D67, CCA #50576) — 3 drawings (ARCH25242 preliminary, ARCH25243 working, ARCH25244 structural details) [f_0573].^17
 
 Fourteen drawings in total, all client = YMCA, location = Saint-Sauveur-des-Monts, described as "executed (?)". Ross & Macdonald was one of Canada's most prominent architectural firms (active 1904–1946), responsible for the Château Laurier, Royal York Hotel, Mount Royal Hotel, and Maple Leaf Gardens [f_0574]. The 1919 dining/kitchen pavilion drawings likely correspond to the dining pavilion documented in the 1922–1923 brochures, and the 1921 Doctor's Cottage may relate to the 1922 Hospital (below). The CCA drawings have not been examined page by page.
 
@@ -409,7 +409,7 @@ Camp Kanawana replaced its old septic system with a **Clivus Multrum** compostin
 
 ## Cabin and Tent Inventory (2025)
 
-The current (2025) official camp map gives, for the first time in this KB, a comprehensive list of individually named cabins and tents by zone [f_1798, f_1802, f_1803]:
+The current (2025) official camp map gives, for the first time in this KB, a comprehensive list of individually named cabins and tents by zone [f_1798, f_1802, f_1803]:^20
 
 - **Zone 3 (Coureurs des bois):** Outpost, I-Bridge, Crossroads, Rock, LegenDeck, Newer Deck, **Chopsy's**, Backroads, Sauna, Laguna, Daytona, Verardaro, Bondi, Omaha, Newport, Oka, Basin, Malibu — many following a beach/surf-destination naming pattern (Malibu, Newport, Bondi, Daytona, Laguna).
 - **Zone 5 (Woodsmen):** cabins #2, #4, #5, #6, #7, Torpedo Junction, Bella, Roadhouse, Zodiac.
@@ -442,7 +442,7 @@ The camp's water supply in 1923 was "obtained from two mountain spring wells" [s
 
 | Date | Description | Location | Source |
 |------|-------------|----------|--------|
-| 1915 | Hand-drawn, coloured property/lot-transaction sketches | Concordia Archives P145/12B03, Box HA2694 | [f_1785] |
+| 1915 | Hand-drawn, coloured property/lot-transaction sketches | Concordia Archives P145/12B03, Box HA2694^19 | [f_1785] |
 | 1928 | Illustrated camp map | Concordia Archives P145/12B07, "Maps of Kanawana n.d." | Reproduced in full in McMorris thesis, Figure 2.2 [f_1810, f_1811] |
 | 1937 | Trail mapping | Concordia Archives P145/12B03, Box HA2313 | [f_1786] |
 | 1941 | Hand-drawn illustrated camp map (3 near-identical copies) | Flickr, official Kanawana Concordia historical album | [f_1789, f_1790] |
@@ -579,14 +579,14 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 8. *The Green Triangle*, Vol. 4 No. 4, July 29, 1938 [src_green_triangle_1938]
 9. Grace McMorris, MA thesis, Concordia University, 2023 [src_mcmorris_thesis]
 10. Concordia University Archives, YMCA of Montreal Fonds P0145 [src_concordia_fonds]
-11. MySummerCamps.com, "YMCA Kamp Kanawana" [src_mysummercamps_kanawana]
+11. MySummerCamps.com, "YMCA Kamp Kanawana" [src_mysummercamps_kanawana] — a camp-directory listing giving 550 acres, three private lakes and forty-five minutes north of Montreal, and describing Lake Wilson for its views and stargazing. See [f_0474], [f_1076], [f_1077], [f_1497]. *Deliberately uncited here*: the figures and the descriptions it carries reached this wiki through those facts and through the camp's own material at notes 1 and 20, and no sentence in this article rests on the directory itself.
 12. La Presse, "Un million pour les YMCA" (May 15, 2018) [src_lapresse_ymca_2018]
 13. *KA News*, May 1980 [src_ka_news_1980]
 14. Journal Accès, "Un bâtiment du Camp YMCA Kanawana ravagé par les flammes" (May 16, 2023) [src_journal_acces_fire_2023]
 15. Oral history, Matt Aronson [src_oral_aronson]
 16. Clivus Multrum, Parks & Recreation Projects portfolio [src_clivus_multrum_projects]
 17. Canadian Centre for Architecture, Ross & Macdonald fonds, "Doctor's Cottage for Kamp Kanawana" [src_cca_ross_macdonald_kanawana]
-18. McConnell Foundation, "YMCAs of Quebec" funding database [src_mcconnell_foundation_ymca]
+18. McConnell Foundation, "YMCAs of Québec" funding database [src_mcconnell_foundation_ymca]. The $700,000 grant of 2023-2027 for major renovations at Camp Kanawana, under the YMCA's Springboard for Life campaign, and the statement that the foundation has supported the camp "over the years". See [f_0575].
 19. Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 (Land, facilities, equipment, supplies) [src_concordia_12B03]
 20. Camp YMCA Kanawana Preparation Guide, Summer 2025 [src_kk_prep_guide_2025]
 21. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: the camp orienteering map (catalogued 1974, internally c.1978+); "Kamp Kanawana History," 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1929, 1952, 1953, 1954 [src_ia_ymca_montreal_annual_reports_collection]; *The Green Triangle* 13 August 1932; Kanawana season reports 1969, 1974, 1976, 1978, 1979 and 1987 [src_ia_kanawana_report_1969, src_ia_kanawana_report_1974, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979, src_ia_kanawana_report_1987]; and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988] — whose facilities table gives bracketed construction years including house [1935], infirmary [1945], **lodge [1880's]**, dining hall/kitchen [1919], arts & crafts centre [1932] and bathroom buildings [1945]. *Two of those conflict with the 1951 history, which gives the dining hall as 1920 and the lodge as 1927. The 1880s lodge date is the harder problem: the site was not purchased until 1910, so it would have to be a pre-existing farm structure later converted. Both readings are defensible and neither is adopted here.*

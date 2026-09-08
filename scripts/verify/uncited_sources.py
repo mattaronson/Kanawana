@@ -39,6 +39,16 @@ first five inside a dozen articles; the sixth turned up on 2026-09-08:
      superseded by notes 15-17; j-w-mcconnell 5 by note 14; camp-perrot 2 by
      note 8. Found 2026-09-08, f_5729.)
 
+A SEVENTH THING, AND IT WAS THIS CHECK'S OWN FAULT rather than the wiki's: an
+entry CITED INLINE BY SOURCE ID instead of by marker. Older articles write
+"capacity of over 300 people [src_ymca_website]" in the body and carry the same
+id in the entry, which is a citation a reader can follow. This check counted
+only `^n` markers, so it reported thirteen of places-and-locations' nineteen and
+four of myths-and-legends' as defects -- and that article was the headline
+finding this check shipped with. It now resolves ids as well as markers. A CHECK
+THAT KNOWS ONE OF ITS CORPUS'S CONVENTIONS AND NOT THE OTHERS INVENTS A BACKLOG,
+which is the second time that has happened here in one day (f_5731, f_5734).
+
 Deleting all of them would risk (1); keeping all of them guarantees (2) and (3);
 forcing a marker onto (4), (5) or (6) would assert a provenance that does not exist.
 So this reports and NEVER fixes, and the count will never reach zero -- some of
@@ -68,7 +78,8 @@ found 136 uncited entries across 34 articles -- places-and-locations.md alone
 has 28 entries and cites 9 of them. That is a backlog, and a blocking check
 against a backlog trains everyone to ignore the output. Queued as p_484; make
 this blocking when it clears. The first passes took it to 124 across 25, and the
-2026-09-08 passes to 57 across 17: 35 of them Population A, 22 deliberate.
+2026-09-08 passes to 35 across 17, of which 23 are deliberate. Seventeen of
+that drop came from the check itself: see the inline-source-id note in main().
 
 WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
 something.
@@ -84,7 +95,7 @@ import os
 import re
 import sys
 
-BASELINE = 57           # whole-wiki count after the 2026-09-08 p_484 passes
+BASELINE = 35           # whole-wiki count after the 2026-09-08 p_484 passes
 #                         (was 136 when this check was written, the same day)
 
 
@@ -126,7 +137,21 @@ def main() -> int:
                 continue
             body = text[:start] + text[end:]
             marks = {int(m.group(1)) for m in re.finditer(r'\^(\d+)', body)}
-            uncited = [n for n in entries if n not in marks]
+            # A SECOND CITATION CHANNEL, found 2026-09-08 (f_5734). Older
+            # articles cite inline by source id -- "capacity of over 300 people
+            # [src_ymca_website]" -- rather than by marker, and the entry
+            # carries the same id. That is a citation; the reader can follow it.
+            # places-and-locations.md was this check's headline finding, "19 of
+            # 28 entries uncited", and thirteen of those nineteen are cited this
+            # way. Counting them as defects manufactured a backlog.
+            inline = set(re.findall(r'\[(src_[a-z0-9_]+)\]', body))
+            entry_ids = {}
+            for m in re.finditer(r'^(\d+)\. (.*(?:\n(?![0-9]+\. |#).*)*)$',
+                                 text[start:end], re.M):
+                entry_ids[int(m.group(1))] = set(
+                    re.findall(r'\[(src_[a-z0-9_]+)\]', m.group(2)))
+            uncited = [n for n in entries
+                       if n not in marks and not (entry_ids.get(n, set()) & inline)]
             if uncited:
                 rows.append((len(uncited), aid, uncited))
 
