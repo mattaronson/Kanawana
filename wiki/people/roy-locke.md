@@ -1,6 +1,6 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 16*
+*Status: draft | Sources: 17*
 *Last Updated: 2026-09-08 (the branch chair between the camp and the metropolitan portfolio)*
 
 ## Overview
@@ -126,6 +126,21 @@ obituary compresses fifteen years into a phrase. Both are documented; neither is
 gap in the reconstruction falls exactly there — the clause between "in Toronto" and "business from 1954
 to 1969" was not recovered, and it is the clause that would cover his Montreal years, Kanawana included.
 
+**And the 1969 return may be in the association's own report, under a heading the scan has scrambled.**
+The 117th annual report, for the fiscal year ended **31 May 1969**, carries a personnel section in two
+columns that the OCR has reflowed into one. Among its lines: "**R. Locke - Assistant to the General
+Secretary.**"^17
+
+*The trouble is which list it belongs to.* The section runs NEW APPOINTMENTS, TRANSFERS, RESIGNATIONS,
+RETIREMENT, and the reflow puts this line after the retirement entry for F. G. Hubbard and after a
+sentence recording deaths. **If it is an appointment, it is the obituary's "returned to the YMCA" in
+1969, dated to a fiscal year ending 31 May 1969 and given a title the obituary does not name** — the
+obituary calls the return post "director of financial development", which is what the 1986 Metropolitan
+Staff roster has him as, seventeen years later. **If it is a retirement, it contradicts the obituary
+outright.** Nothing in the OCR settles it and neither reading is preferred here. **The next step is
+small and specific: read the personnel page of that report from the scan rather than the text layer**,
+where the two columns will be visible and the heading will be unambiguous.
+
 *How this was read.* The volume is lending-restricted on the Internet Archive and cannot be opened from
 here. The entry was assembled from about a dozen overlapping phrase queries against Open Library's
 search-inside endpoint, which returns snippets from restricted books; the method and its limits are at
@@ -186,6 +201,7 @@ That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report 
 15. Kamp Kanawana counsellor recruitment advertisements, *The McGill Daily*, Vol. 37 No. 100, 20 May 1948 [src_mcgill_daily_1948_05_20] and Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]. Both transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5413], [f_5414].
 
 16. YMCA of Montreal annual report for the year ending **31 March 1948** [src_ymf_sgw_ymca_annual_report_1948], the secretarial-staff paragraph: Locke's move from the Notre Dame de Grace boys' work secretaryship to the Eastern Communities executive secretaryship, succeeding R. H. Hanagan. Read 2026-09-08 under p_490. See [f_5745].
+17. YMCA of Montreal, **117th Annual Report**, for the fiscal year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the personnel section. Read 2026-09-08 under p_490. The section is a two-column table the OCR has reflowed into a single stream, so the line "R. Locke - Assistant to the General Secretary" cannot be assigned to its heading from the text layer. See [f_5753].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_250) from facts established by the director-gap research campaign of the same day (f_2079, f_2084, f_2120). No new research was conducted for this spawn.

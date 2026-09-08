@@ -1,8 +1,8 @@
 {
-  "version": "11.27",
-  "kb_version": "11.27",
+  "version": "11.28",
+  "kb_version": "11.28",
   "migrated_from": "3.3",
-  "fact_count": 5714,
+  "fact_count": 5715,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103049,6 +103049,24 @@
       "date_ref": "1930/1935",
       "conflicts_with": [],
       "added_version": "11.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5753",
+      "claim": "THE 1968 REPORT'S PERSONNEL TABLE, READ BY COLUMN POSITION, NAMES TWO KANAWANA POSTS AND A THIRD LINE NOBODY CAN PLACE. The YMCA of Montreal's 117th annual report covers the fiscal year ended 31 MAY 1969 -- not a calendar 1968 -- and its personnel section is a two-column table the OCR has reflowed into one stream, headers and names first, role descriptions after. Under TRANSFERS, five names and five moves, read by position: G. ANDERSON, 'Associate Executive, West Island Branch, TO DIRECTOR, KAMP KANAWANA'; E. Giles; R. McKelvie; T. Raynor; and G. TURLEY, 'Beaconsfield Youth Director, West Island Branch, TO ASSISTANT CAMP DIRECTOR, KAMP KANAWANA'. THE POSITIONAL READING IS NOT A GUESS: G. Turley appears independently under West Island in the same report's NEW APPOINTMENTS list as Beaconsfield Youth Program Director, which is exactly what the fifth transfer line says he was transferring from, so the fifth row is confirmed from outside the table and the count matches exactly. The Anderson half is already in people/geoff-anderson.md; THE TURLEY HALF IS NEW -- an assistant camp directorship this index had nothing for in the 1960s, and the West Island branch supplying both halves of the camp's leadership in one year. He is very probably the Gavin Turley the coeducation article has at camp as 'a Sir George Williams student in his first year'; not asserted, initials on one side and a given name on the other. AND ANDERSON'S OWN DATE FITS RATHER THAN CONFLICTS: he writes in the 1969 camp report 'I was appointed Director on February 1st, 1969', which falls inside a fiscal year ending 31 May 1969. A report labelled for a season year covering a fiscal year ending the FOLLOWING May is a dating trap worth remembering; the project's scripts/reread/annual_report_year_ends.py already carries it. THE LINE NOBODY CAN PLACE: 'R. LOCKE - Assistant to the General Secretary' appears in the same reflowed stream, after the retirement entry for F. G. Hubbard and after a sentence recording deaths. IF IT IS AN APPOINTMENT it is the return to the YMCA that Roy Locke's obituary dates to 1969 after fifteen years in business, with a title the obituary does not give; IF IT IS A RETIREMENT it contradicts that obituary outright. The text layer cannot tell, and the next step is to read that page from the scan rather than the OCR, where the columns will be visible.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1968"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Gavin Turley",
+        "Geoff Anderson",
+        "Roy D. Locke"
+      ],
+      "date_ref": "1968-69",
+      "conflicts_with": [],
+      "added_version": "11.28",
       "added_by": "ralph_loop"
     }
   ]
