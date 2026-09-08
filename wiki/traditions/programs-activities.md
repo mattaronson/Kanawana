@@ -556,10 +556,27 @@ organisation chart looked odd — the structure was unusual "due to the **Execut
 to Industrial Caterers** and the Business Office and the Director's relationship to the program areas,"
 which the report calls "definitely an asset" because it let the Director concentrate on staff development
 and programme. The same paragraph asks for "a fulltime competent Business Manager who is capable of
-dealing with the catering service and the business office." A camp that had cooked its own food since
-1894 contracting it out is a change of the same order as the section reorganisations tracked above, and
-it happened in the season that also brought the first cystic fibrosis campers and the third year of
-coeducation.^kk70 [f_5706]
+dealing with the catering service and the business office." So a catering service is in the picture by 1970, in some role
+that sentence does not specify.^kk70 [f_5706]
+
+*This passage read, until 2026-09-08, that "a camp that had cooked its own food since 1894 contracting it out
+is a change of the same order as the section reorganisations tracked above, and it happened in the season that
+also brought the first cystic fibrosis campers and the third year of coeducation."* **That dating is wrong,
+and three of the camp's own reports say so.** The **1975** report has the camp plainly cooking: "Due to the
+very capable supervision of **Ed Neal** from the Downtown Branch and the cooking abilities of **our Head Chef,
+Mrs. Madeline Wundele**, the quality and variety of hearty meals once again greatly improved (as did the cost
+increase). There is still a need for some more equipment in the kitchen (i.e. mixer and exhaust fan)… **As in
+1974, we had difficulties in retaining staff in our kitchen**."^kk75 A camp with its own head chef, its own
+kitchen staff, its own retention problem and its own equipment list is not a camp whose food is contracted
+out — and the 1978 staff roster still carries Kitchen positions among the camp's own.
+
+**The 1979 report dates the handover and names who took it.** "Parents rated the food fairly closely to our
+1976 statistics. **That was our last year of being involved with the total kitchen operation**." By 1979 the
+caterer is **Fan Fare Foods Limited**, and the director is unhappy with it: "I was not satisfied this year
+with the services offered by Fan Fare Foods Limited. Overall the service can only be rated as average. **In
+past years the previous Director and staff were very satisfied.** This year the quality, quantity and variety
+often came into question by kampers, staff and parents."^kk79 So the full handover falls in **1976–77**, six or
+seven years after the sentence this article had been dating it from. [f_5802]
 
 **The French-language thread of these years is at [[traditions/french-language-camping|French-Language Camping and Kanawana, 1967-1973]].** Kanawana ran a residential French immersion section for English-speaking boys aged 12 to 16 in 1969, called "Living-in-French", and it was one branch of a Montreal YMCA programme that had been running French-language day camps for immigrant children since 1967. That article carries the two 1969 press releases, the day camps' proposal and season report, and the Mile End West submission of January 1971.
 
@@ -927,7 +944,8 @@ report does not say so, and this article does not assume it.
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
-- **kk79** — *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its group-usage table and its questionnaire results. Read 2026-09-08 under p_441. See [f_5800] and [f_5801].
+- **kk75** — *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its FOOD SERVICES section. Read 2026-09-08 under p_441. See [f_5802].
+- **kk79** — *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its group-usage table, its questionnaire results and its food-services section. Read 2026-09-08 under p_441. See [f_5800], [f_5801] and [f_5802].
 - **kk78** — *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its GROUP USEAGE section. Read 2026-09-08 under p_441. See [f_5796].
 - **ar96f** — Montreal YMCA annual report **1996, French edition** [src_ymf_sgw_ymca_annual_report_1996_fr], the Kamp Kanawana page. Read 2026-09-08 under p_487, checking the French editions' camp passages against their English destinations. Its wording of the outside-groups claim is stronger than the English edition's.
 - **ar98** — Montreal YMCA annual reports **1998** and **1998-1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999], the year-in-review bullets and the Kanawana page. Read 2026-09-08 under p_487; the 1998 volume had been read for Kanawana content on 2026-09-06 under p_454 and these items were not taken. See [f_5767].

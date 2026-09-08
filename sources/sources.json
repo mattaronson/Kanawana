@@ -10422,7 +10422,7 @@
       "reliability": "primary",
       "notes": "Signed \"Derek V. Walsh, Director, Kamp Kanawana '75.\"",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact | cached text linked 2026-09-02: the file was on disk under no record"
+      "read_state_basis": "RE-READ 2026-09-08 under p_441 for its FOOD SERVICES section, which shows the camp still employing its own Head Chef (Mrs Madeline Wundele) and kitchen staff under Ed Neal of the Downtown Branch -- the evidence that disproves programs-activities.md's dating of the kitchen's contracting-out to 1970 (f_5802)."
     },
     {
       "source_id": "src_ia_kanawana_report_1977",
@@ -10476,7 +10476,7 @@
       "reliability": "primary",
       "notes": "Signed \"G. David Twynam / Director\", with the conclusion opening \"This being my first year as Director of Kamp Kanawana\" -- fixing 1979 as the FIRST year of his tenure. 441 kampers and 18 CITs; children accepted from Youth Horizons, Children's Mountain Cottage, and sponsored by the Rotary Club of Westmount. Closes with a poem by Joan Dalrymple.",
       "read_state": "partial",
-      "read_state_basis": "2026-09-08 under p_441, reached through scripts/reread/skimmed_triage.py over the EXTRACTED population (84 absent tokens of 145, 62 camp mentions). Read for its closing poem (f_5799), its group-usage table -- which survives with the columns the 1978 scan lost (f_5800) -- and its questionnaire on how new campers heard of the camp (f_5801). ITS FOOD-SERVICE SECTION IS A NAMED RESIDUE: it identifies FAN FARE FOODS LIMITED as the caterer, rates the year's service average against previous satisfaction, and says 1976 'was our last year of being involved with the total kitchen operation' -- which needs setting against programs-activities.md's dating of the outsourcing to about 1970 from the Industrial Caterers line in the 1970 report, and is not written up here."
+      "read_state_basis": "2026-09-08 under p_441, reached through scripts/reread/skimmed_triage.py over the EXTRACTED population (84 absent tokens of 145, 62 camp mentions). Read for its closing poem (f_5799), its group-usage table -- which survives with the columns the 1978 scan lost (f_5800) -- and its questionnaire on how new campers heard of the camp (f_5801). ITS FOOD-SERVICE SECTION IS A NAMED RESIDUE: it identifies FAN FARE FOODS LIMITED as the caterer, rates the year's service average against previous satisfaction, and says 1976 'was our last year of being involved with the total kitchen operation' -- which needs setting against programs-activities.md's dating of the outsourcing to about 1970 from the Industrial Caterers line in the 1970 report, and IS NOW WRITTEN UP: f_5802 sets the three reports against each other and corrects the article's 1970 dating to 1976-77."
     },
     {
       "source_id": "src_ia_kanawana_report_1987",

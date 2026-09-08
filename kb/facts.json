@@ -1,8 +1,8 @@
 {
-  "version": "11.65",
-  "kb_version": "11.65",
+  "version": "11.66",
+  "kb_version": "11.66",
   "migrated_from": "3.3",
-  "fact_count": 5763,
+  "fact_count": 5764,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104045,6 +104045,29 @@
       "date_ref": "1979",
       "conflicts_with": [],
       "added_version": "11.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5802",
+      "claim": "THE CAMP DID NOT CONTRACT OUT ITS KITCHEN IN 1970, AND THREE REPORTS DATE THE REAL HANDOVER TO 1976. programs-activities.md reads the 1970 report's line -- the organisation chart was unusual 'due to the EXECUTIVE DIRECTOR'S RELATIONSHIP TO INDUSTRIAL CATERERS and the Business Office', with a call for a business manager 'capable of dealing with THE CATERING SERVICE' -- as the moment 'a camp that had cooked its own food since 1894' contracted it out, and dates the change to that season. THE 1975 REPORT SHOWS THE CAMP STILL COOKING: 'Due to the very capable supervision of ED NEAL from the Downtown Branch and the cooking abilities of OUR HEAD CHEF, MRS. MADELINE WUNDELE, the quality and variety of hearty meals once again greatly improved (as did the cost increase). There is still a need for some more equipment in the kitchen (i.e. mixer and exhaust fan)... AS IN 1974, WE HAD DIFFICULTIES IN RETAINING STAFF IN OUR KITCHEN.' A camp with its own head chef, its own kitchen staff, its own retention problem and its own equipment list is not a camp whose food is contracted out. The 1978 staff roster still lists KITCHEN positions among the camp's own. AND THE 1979 REPORT DATES THE HANDOVER: 'parents rated the food fairly closely to our 1976 statistics. THAT WAS OUR LAST YEAR OF BEING INVOLVED WITH THE TOTAL KITCHEN OPERATION.' By 1979 the caterer is FAN FARE FOODS LIMITED and the director is unhappy with it: 'I was not satisfied this year with the services offered by Fan Fare Foods Limited. Overall the service can only be rated as average. IN PAST YEARS THE PREVIOUS DIRECTOR AND STAFF WERE VERY SATISFIED. This year the quality, quantity and variety often came into question by kampers, staff and parents.' SO: a catering service was in the picture by 1970 in some role the 1970 report does not specify, the camp ran its own kitchen through at least 1976, and the full handover falls in 1976-77. The wiki's 1970 dating is an inference from one sentence about an organisation chart, and it is wrong.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "kitchen",
+        "Fan Fare Foods Limited",
+        "Madeline Wundele",
+        "Ed Neal",
+        "Industrial Caterers"
+      ],
+      "date_ref": "1970-1979",
+      "conflicts_with": [],
+      "added_version": "11.66",
       "added_by": "ralph_loop"
     }
   ]
