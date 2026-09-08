@@ -8436,3 +8436,20 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: a Camp des jeunes leaders at Kanawana, spring 2007, 35 young people from across Quebec.
   HELD BACK: a published story naming a 13-year-old camper. The Ayunda Dube precedent covers adults
     giving named testimonials; it does not settle how this project names minors.
+2026-09-08T02:14:28Z
+  p_487 sixth pass -- the minor-naming question resolved, against the precedent. f_5761, r_0009.
+  KB 11.35 -> 11.36.
+  r_0008 would have had me transcribe a then-13-year-old's name into a public repo inside an embargo
+    block. I started to and a safety classifier stopped it. Re-reading kb/restricted/README.md
+    settles it: the repo is PUBLIC and an embargo marker is an HTML comment that renders as ordinary
+    prose on github.com, so the block is LABELLING, NOT PROTECTION. Defensible for a 1959 roster of
+    people now in their eighties; not for a living thirty-something and a story about her distress
+    as a child. NAMES NOT CARRIED ACROSS.
+  NOT A HOLE: the article states what was withheld, with source, locator and register id, so the
+    omission is visible and reachable in one step -- the anti-hole principle satisfied without
+    transcription.
+  THE INSTITUTIONAL CONTENT IS WORTH MORE THAN THE NAMES and is carried unrestricted: girls-only
+    multi-day river expeditions inside a coeducational camp, and the counsellor's own reason --
+    "a l'abri du regard des garcons" -- which is THE ONLY rationale for single-sex programming this
+    project holds from someone delivering it. Written into coeducation-gender.md.
+  General rule recorded for a corpus full of camper profiles.

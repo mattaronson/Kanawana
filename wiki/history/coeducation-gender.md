@@ -277,6 +277,42 @@ The camp has also made a public institutional commitment on this front: an offic
 
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
+## A counsellor's reason for the girls-only canoe trip, c. 2004
+
+**The camp ran multi-day river expeditions for girls alone inside a coeducational camp, and one of the
+staff who ran them said why.** The association's 2007 annual report tells the story of a Pathfinders
+canoe trip of about 2004 — nine girl campers, several days on the river, a cold day that turned into a
+thunderstorm — and quotes the section's counsellor on what the format was for:^ar07fr
+
+> "En canot camping, **on apprend a se connaitre, a etre veritablement soi-meme, sans fard et a l'abri
+> du regard des garcons**. C'est un moment propice pour nouer des liens d'amitie."
+
+*In canoe camping you learn to know yourself, to be genuinely yourself, unadorned and out of the boys'
+gaze. It is a good moment for making friendships.*
+
+**That is the only statement in this wiki of a rationale for single-sex programming from someone
+delivering it.** Everything else here on the question is institutional — a 1965 staff poll, a board
+decision, a programme table. This is a counsellor in her late teens describing the point of the
+arrangement in the middle of doing it, and the reason she gives is not about supervision or logistics
+but about who a thirteen-year-old can be when there are no boys watching. Set it beside the 2026
+programme table below, where every junior and intermediate programme is still single-gender: the camp
+has held that shape for at least twenty years, and this is the nearest thing to an explanation of it in
+the camp's own published words.
+
+*The story also documents the camper-to-staff pipeline in one sentence.* Three years on, the camper was
+returning every summer and intending to become an **aspirante-monitrice** — a counsellor-in-training —
+alongside the woman who had been her section counsellor. See
+[[traditions/cit-lit-program|The CIT and LIT Programmes]].
+
+**Two names are in that report at this point and are deliberately not transcribed here.** The camper was
+**thirteen** at the expedition and almost sixteen when the report appeared; the counsellor was
+**seventeen** and twenty. Both would be in their thirties now. The standing instruction in CLAUDE.md is
+not to publish personal information about living private individuals, and a promotional profile naming a
+child does not stop being that because the institution published it. *This is recorded rather than
+silently omitted so that it is not an invisible hole*: the names are in the source at the passage cited
+below, one paragraph after the chairman's message, and anyone who needs them can reach them in one step.
+The register entry is `r_0009`.
+
 ## Where it stands, 2026
 
 The camp's live programme listing, read on 7 September 2026 and already advertising the 2027 season, carries
@@ -458,6 +494,7 @@ coming to Kamp Kanawana each summer."
 - [ar4649] YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945-1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078], [f_5079].
 - [ar67] YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], the "Co-ed Camping" section. Read 2026-09-06 under p_441. See [f_5095]. *(This volume had a second source record, `src_ia_sgw_annual_report_1967`, marked "extracted" on the strength of two facts citing it rather than on a read; the volume itself had not been read through. See p_442.)*
 - [nr69] Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer" [src_ymf_news_release_1969_05_13_202501]. Read 2026-09-06 under p_451. See [f_5100].
+- [ar07fr] **Les YMCA du Quebec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the human-interest profile immediately after the chairman's and president's message. The Pathfinders canoe expedition of about 2004, the counsellor's statement of what girls-only tripping is for, and the camper's intention to become an aspirante-monitrice. Read 2026-09-08 under p_487. **Two names in that passage are not transcribed into this article**; see the note in the section above and register entry `r_0009`. See [f_5761].
 - [ar68] YMCA of Montreal annual report for the year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the "Girls Help Kanawana Gain" item. Its season is the summer of 1968 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5109].
 
 ## Research Notes

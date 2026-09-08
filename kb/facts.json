@@ -1,8 +1,8 @@
 {
-  "version": "11.35",
-  "kb_version": "11.35",
+  "version": "11.36",
+  "kb_version": "11.36",
   "migrated_from": "3.3",
-  "fact_count": 5722,
+  "fact_count": 5723,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103205,6 +103205,24 @@
       "date_ref": "2007",
       "conflicts_with": [],
       "added_version": "11.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5761",
+      "claim": "A COUNSELLOR'S STATED REASON FOR GIRLS-ONLY CANOE TRIPPING, AND THE FIRST TIME THIS PROJECT HAS ONE FROM SOMEONE DELIVERING IT. The association's 2007 annual report (French edition) profiles a Pathfinders canoe expedition of about 2004: nine girl campers, several days on the river out of Kanawana, a cold day that broke into a thunderstorm. The section's counsellor is quoted on what the format is for: 'En canot camping, ON APPREND A SE CONNAITRE, A ETRE VERITABLEMENT SOI-MEME, SANS FARD ET A L'ABRI DU REGARD DES GARCONS. C'est un moment propice pour nouer des liens d'amitie.' EVERYTHING ELSE THIS WIKI HOLDS ON SINGLE-SEX PROGRAMMING IS INSTITUTIONAL -- a 1965 staff poll, a board decision, a 2026 programme table. This is a counsellor in her late teens giving the point of the arrangement while running it, and the reason is not supervision or logistics but who a thirteen-year-old can be when there are no boys watching. It sits directly against the 2026 programme table, where every junior and intermediate programme is still single-gender: the camp has held that shape for at least twenty years and this is the nearest thing to an explanation in its own published words. The same profile documents the camper-to-staff pipeline in a sentence -- three years on she was returning every summer and meant to become an ASPIRANTE-MONITRICE alongside her former section counsellor. TWO NAMES IN THAT PASSAGE ARE NOT CARRIED INTO THIS PROJECT, and that decision is recorded rather than silently taken: register r_0009. The camper was thirteen at the expedition, the counsellor seventeen; both are living and in their thirties. THIS DEPARTS FROM r_0008, which wrote named minors from a public 1959 brochure into an article inside an embargo block, and the departure is deliberate. The restricted README records that this repository is PUBLIC and that an embargo marker is an HTML comment rendering as ordinary prose on github.com, so the block is labelling and not protection. For people now in their eighties that was a reasonable trade; for a contemporary private individual who was a child, and a story about her distress, it is not. The withholding is stated in the article with the source and locator, so it is visible and reversible rather than a hole.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2007_fr"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Pathfinders",
+        "coeducation",
+        "canoe tripping"
+      ],
+      "date_ref": "c. 2004 / 2007",
+      "conflicts_with": [],
+      "added_version": "11.36",
       "added_by": "ralph_loop"
     }
   ]
