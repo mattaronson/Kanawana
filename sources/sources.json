@@ -10493,8 +10493,8 @@
       "extraction_version": "v5.20",
       "reliability": "primary",
       "notes": "Title page reads \"KAMP KANAWANA / DIRECTOR'S REPORT 1987 / Jay Netherwood.\"",
-      "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact | cached text linked 2026-09-02: the file was on disk under no record"
+      "read_state": "partial",
+      "read_state_basis": "RE-READ 2026-09-08 under p_441. THIS SCAN IS BADLY DAMAGED -- most of the triage's absent tokens are OCR garbage ('OOD TETDECOEUSE', 'SRATTST ECS'), which is the noise floor working as documented. Two legible sections taken: the FARM PROGRAM, animals kept for one summer as a homesickness intervention (f_5809), and the PUBLICITY and FREE PUBLICITY tables, the camp's whole 1987 marketing plan with first-time use marked (f_5810). Its Glissade d'Eau, demographic and site-maintenance sections remain unread; its special-events list was already worked into plaque-culture.md before this session."
     },
     {
       "source_id": "src_ia_sgw_annual_report_1967",

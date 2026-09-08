@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-08 (the cords, the Mile Swim, and nineteen groups using the site in 1978)*
+*Last Updated: 2026-09-08 (the 1987 farm programme; the cords and the Mile Swim; nineteen groups using the site in 1978)*
 
 ## Overview
 
@@ -533,6 +533,23 @@ A separate line in the same list would have ended a long-standing fixture: "That
 visitors days** during camp for parents and friends." Whether either was adopted is not established
 here.^kk70 [f_5683]
 
+**In 1987 the camp tried to treat it with animals.** Jay Netherwood's director's report for that year, under
+*Farm Program*: "**Horses, sheep, goats, rabbits and chickens** shared their summer with our campers **for the
+first time** at Kamp Kanawana… It was brought into Kamp Kanawana in order to increase a sense of
+responsibility in junior campers by having them look after the animals for a set period of time and **in order
+to create a bond between junior campers and animals which would lower cases of homesickness: animals are often
+easier to communicate to than are humans**."^kk87 Nothing in this project records farm animals at Kanawana in
+any other year.
+
+*It did not work, and the report says why in the same breath.* "What was lacking was **a part time resource
+person** to implement the program and insure its follow through. So while the kids visited the animals, [the
+C.I.T.s] took care of them. **While the C.I.T.s found this to be rewarding, it was not the objective of the
+program.**" The work fell to the wrong group because nobody had been assigned to it, which made it a chore for
+the CITs rather than a bond for the juniors. Netherwood adds that homesickness was "alleviated however through
+the interaction between our campers and **the wild animals in our nature program**," and recommends
+reintroducing the farm "should [it] be properly structured with a responsible staff member at its head."
+[f_5809]
+
 **Fifty-six years later the camp addresses the same problem by citing an outside expert to the parents.** The
 2026 parent guide opens its preparation advice by naming its authorities: children "feel excitement, anxiety,
 fear and nervousness before going to camp. **All of these emotions are normal!**"; the tips that follow are
@@ -944,6 +961,7 @@ report does not say so, and this article does not assume it.
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
+- **kk87** — *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987], Jay Netherwood, its Farm Program section. Read 2026-09-08 under p_441. See [f_5809].
 - **kk75** — *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its FOOD SERVICES section. Read 2026-09-08 under p_441. See [f_5802].
 - **kk79** — *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its group-usage table, its questionnaire results and its food-services section. Read 2026-09-08 under p_441. See [f_5800], [f_5801] and [f_5802].
 - **kk78** — *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its GROUP USEAGE section. Read 2026-09-08 under p_441. See [f_5796].

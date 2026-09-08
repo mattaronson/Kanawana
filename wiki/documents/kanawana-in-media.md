@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 37*
-*Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
+*Status: E1-reviewed | Sources: 38*
+*Last Updated: 2026-09-08 (the camp's whole publicity plan for 1987)*
 
 ## Overview
 
@@ -324,6 +324,37 @@ than repeat the search or write it down as fact. Worth weighing against it: the 
 donated artwork of the period, **Eric Sandmark's 1978 t-shirt design**, came from a member of a family
 with three siblings on staff — so a local, in-house donor is at least as likely a shape for this. [f_5682]
 
+
+### The whole plan, 1987, with first use marked
+
+Seventeen years after that list of recommendations, the camp tabulates what it actually bought and what it got
+free. The asterisks are the report's own, marking "used for the 1st time."^38
+
+**Paid.** T.V. ads*, **3 French and 13 English**; Yellow Pages*; the *Gazette* camp section; the *Gazette*
+West Island* (4) and South Shore* (3) sections; the *West Island Chronicle** (3); the ***McGill Daily* —
+Staff*** (6); the ***Concordia Link* — Staff*** (5); the *T.M.R. Weekly Post* (3); the *Westmount Examiner*
+(3); *The Monitor* (4); *The Downtowner* (4); *Willingdon Home and School** (1); posters in each branch; ads in
+the Centre-ville and West Island Y spring brochures*; and **information sent to all Consulates in Montreal***.
+
+**Free.** T.V. ads; two articles on camping including Kanawana in the *Gazette*; a listing in the Camping Guide
+of the **Association des camps du Québec**; radio mentions on **CHOM and CJAD**; and "Radio CBC conducted
+**Canada AM interview at Kamp Kanawana**."
+
+*Four things in that.* **Nine of the sixteen paid channels are marked first-time**, so 1987 is a deliberate
+expansion rather than a routine year. **The staff advertising is separate and student-facing** — six
+insertions in the *McGill Daily* and five in the *Concordia Link*, both new that year, the camp recruiting
+counsellors from the two universities this wiki ties it to institutionally. **"Information sent to all
+Consulates in Montreal"** is a reach for international campers that nothing else here records. And *the
+report's own attribution is confused on its biggest item*: **Canada AM was a CTV programme, not CBC, and it
+was television rather than radio**. The sentence is left as written, because what it establishes — a national
+morning-television interview conducted at the camp — does not depend on which network.
+
+**Set that against what the camp's own questionnaire had found eight years earlier.** In 1979 advertising
+brought **4.25%** of new campers and former campers and their relatives brought more than half
+([[meta/attendance-series|the attendance series]] has the table). This is a camp buying sixteen channels for
+the recruitment stream its own data called marginal. [f_5810]
+
+
 ## Journalism
 
 **1897 Montreal Gazette.** *The Montreal Gazette* published an article about YMCA Summer Camp Kanawana on July 7, 1897 — just three years after founding. This is the earliest known newspaper coverage of the camp.^13
@@ -457,6 +488,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 35. John Latimer (Director, Kilcoo Camp), "Promotion", *Canadian Camping* Vol. 29 No. 1, **February 1977** [src_cache_canadiancampingmagazine_vol29_no1_1977february]. The Canadian Camping Association's promotion doctrine, including birthday cards among the retention devices. **John Latimer**'s February 1977 doctrine, birthday cards included, is at [f_3940] — which had been in the KB since before this section existed and was cited by no article.
 36. **James Simpkins, biographical, and a null.** One web search on **2026-09-07** under `p_491`, returning The Canadian Encyclopedia, Wikipedia, the Lambiek Comiclopedia and the Canadian Animation, Cartooning and Illustration encyclopedia. These establish the cartoonist's dates and career and **nothing linking him to Montreal, the YMCA or Kanawana**; the identification is recorded as untested rather than made. See [f_5682].
 37. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its PROMOTION section. Cached at `sources/cache/ymca-montreal-fonds/1969-kamp-kanawana-annual-report.txt`; read 2026-09-07 under `p_491`. See [f_5688].
+38. *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987], Jay Netherwood, its Publicity and Free Publicity tables. Read 2026-09-08 under p_441. See [f_5810].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

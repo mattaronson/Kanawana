@@ -1304,7 +1304,8 @@
         "src_ia_kanawana_report_1978",
         "src_kk_prep_guide_2026_fr",
         "src_ia_kanawana_report_1979",
-        "src_ia_kanawana_report_1975"
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_report_1987"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1319,7 +1320,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 17424,
+      "word_count": 17688,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7737,7 +7738,8 @@
         "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1970",
         "src_cache_canadiancampingmagazine_vol29_no1_1977february",
-        "src_ia_kanawana_report_1969"
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1987"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7751,7 +7753,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 7843,
+      "word_count": 8209,
       "tags": {
         "era": [
           "1960s",

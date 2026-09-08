@@ -1,8 +1,8 @@
 {
-  "version": "11.71",
-  "kb_version": "11.71",
+  "version": "11.73",
+  "kb_version": "11.73",
   "migrated_from": "3.3",
-  "fact_count": 5770,
+  "fact_count": 5772,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104186,6 +104186,46 @@
       "date_ref": "1988",
       "conflicts_with": [],
       "added_version": "11.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5809",
+      "claim": "KANAWANA KEPT FARM ANIMALS FOR ONE SUMMER, 1987, AND THE REASON WAS HOMESICKNESS. Jay Netherwood's 1987 director's report, under FARM PROGRAM: 'HORSES, SHEEP, GOATS, RABBITS AND CHICKENS shared their summer with our campers FOR THE FIRST TIME at Kamp Kanawana. For many of our campers it was their first opportunity to see, feed and pet these animals. While the program was successful as an introduction IT DID NOT FULFILL THE OBJECTIVES that were hoped for. IT WAS BROUGHT INTO KAMP KANAWANA IN ORDER TO INCREASE A SENSE OF RESPONSIBILITY IN JUNIOR CAMPERS by having them look after the animals for a set period of time and IN ORDER TO CREATE A BOND BETWEEN JUNIOR CAMPERS AND ANIMALS WHICH WOULD LOWER CASES OF HOMESICKNESS: ANIMALS ARE OFTEN EASIER TO COMMUNICATE TO THAN ARE HUMANS. What was lacking was A PART TIME RESOURCE PERSON to implement the program and insure its follow through. So while the kids visited the animals, [the C.I.T.s] took care of them. WHILE THE C.I.T.S FOUND THIS TO BE REWARDING, IT WAS NOT THE OBJECTIVE OF THE PROGRAM. Much of the homesickness was alleviated however through the interaction between our campers and THE WILD ANIMALS IN OUR NATURE PROGRAM. Should the farm program be properly structured with a responsible staff member at its head I WOULD RECOMMEND REINTRODUCING IT.' NOTHING IN THIS PROJECT RECORDS FARM ANIMALS AT KANAWANA IN ANY OTHER YEAR. What makes it worth more than novelty is the STATED THERAPEUTIC RATIONALE -- animal contact as a treatment for homesickness, on the reasoning that 'animals are often easier to communicate to than are humans'. This wiki traces homesickness through a 1970 report that located it in the parents and a 2026 parent guide that cites an American psychologist; 1987 is a third approach, and the only one that is an intervention rather than advice. The failure is diagnosed honestly too: the work fell to the CITs because nobody was assigned to it, which made it a chore for the wrong group rather than a bond for the intended one.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "farm program",
+        "homesickness",
+        "Jay Netherwood",
+        "CIT"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "11.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5810",
+      "claim": "THE CAMP'S WHOLE PUBLICITY PLAN FOR 1987, PAID AND FREE, WITH FIRST-TIME USE MARKED. Jay Netherwood's 1987 director's report tabulates it. PUBLICITY (asterisks are the report's own mark for 'used for the 1st time'): T.V. ads*, 3 FRENCH AND 13 ENGLISH; Yellow Pages*; Gazette camp section; Gazette WEST ISLAND*(4) and SOUTH SHORE*(3) sections; West Island Chronicle*(3); McGILL DAILY - STAFF*(6); CONCORDIA LINK - STAFF*(5); T.M.R. Weekly Post (3); Westmount Examiner (3); The Monitor (4); The Downtowner (4); Willingdon Home and School*(1); posters and information in each branch; ads in Centre-ville and West Island Y spring brochures*; and INFORMATION SENT TO ALL CONSULATES IN MONTREAL*. FREE PUBLICITY: T.V. ads; two articles on camping including Kamp Kanawana in the Gazette; a listing in the Camping Guide from the ASSOCIATION DES CAMPS DU QUEBEC; radio mentions on CHOM and CJAD; and 'Radio CBC conducted CANADA AM INTERVIEW at Kamp Kanawana'. FOUR THINGS. (1) NINE OF THE SIXTEEN PAID CHANNELS ARE MARKED FIRST-TIME, so 1987 is a deliberate expansion rather than a routine year. (2) THE STAFF ADVERTISING IS SEPARATE AND STUDENT-FACING -- six insertions in the McGill Daily and five in the Concordia Link, both marked new, which is the camp recruiting counsellors from the two universities this wiki already ties it to institutionally. (3) 'INFORMATION SENT TO ALL CONSULATES IN MONTREAL' is a deliberate reach for international campers in 1987, and nothing else in this project records it. (4) THE REPORT'S OWN ATTRIBUTION IS CONFUSED on the biggest item: CANADA AM WAS A CTV PROGRAMME, NOT CBC, and it was television rather than radio; the sentence is recorded as written with that noted, since what it establishes -- a national morning-television interview conducted at the camp -- does not depend on which network. SET AGAINST THE 1979 QUESTIONNAIRE (f_5801), WHERE ADVERTISING BROUGHT 4.25% OF NEW CAMPERS AND FORMER CAMPERS BROUGHT OVER HALF, this is a camp spending across sixteen channels for a recruitment stream its own data said was marginal.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "publicity",
+        "McGill Daily",
+        "Concordia Link",
+        "Canada AM",
+        "CHOM",
+        "CJAD"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "11.73",
       "added_by": "ralph_loop"
     }
   ]
