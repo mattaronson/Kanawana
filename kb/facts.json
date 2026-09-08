@@ -1,8 +1,8 @@
 {
-  "version": "11.25",
-  "kb_version": "11.25",
+  "version": "11.26",
+  "kb_version": "11.26",
   "migrated_from": "3.3",
-  "fact_count": 5712,
+  "fact_count": 5713,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103006,6 +103006,30 @@
       "date_ref": "1912/13-1931",
       "conflicts_with": [],
       "added_version": "11.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5751",
+      "claim": "THE SUPPLEMENT PAYS FOR ITSELF: FORTY-NINE PASSAGES THE FIRST SWEEP COULD NOT SEE, AND THE CENTRAL BOYS' DESK RUNS McEWEN TO KIDD TO LANGILLE. scripts/reread/staff_changes_supplement.py extracts the staff-change passages where the VERB ITSELF is broken across a line by the OCR -- 'resign- ed', 'appoint- ed', 'trans- ferred' -- which the plain search behind kb/reread/ymca_annual_report_staff_changes.md matched in none of the ninety-two reports. 825 plain verb hits against 857 tolerant; 49 passages in 25 reports are new. FOUR FINDINGS FROM THE FIRST READING OF IT. (1) The report for the year ending 31 March 1938: 'Mr. NELSON McEWEN, M.A., was granted LEAVE OF ABSENCE FROM THE CENTRAL BRANCH TO BECOME NATIONAL BOYS' WORK SECRETARY, in which position he has since been confirmed. Mr. JOHN P. KIDD, B.A., was APPOINTED TEMPORARILY to succeed him.' That is the employer's own account of a move this project had only from a federal statistical survey for 1938-40 and a Concordia file for 1941-45: it names the post, dates the departure, says the arrangement began as leave and was already confirmed, and names the successor. It also explains the 'ACTING' in the 1939 report's record of Kidd resigning that desk for Brantford -- so CENTRAL'S BOYS' WORK SECRETARYSHIP RUNS McEWEN TO KIDD TO HOWARD LANGILLE IN TWO YEARS, and Kidd had four Kanawana seasons behind him while Langille would be the camp's Chief by 1941. IT ALSO SITS AWKWARDLY beside nelson-mcewen.md's own opening, which has him Montreal's Boys' Work Secretary 'from roughly 1927 to 1947'; the article now says that span is untested rather than documented. And it bears on c_028, which turns on whether McEwen held a National Council boys' work post: he did, from 1937-38, though the conflict is about 1951 and stays open. (2) The 1917 report, North Branch: 'Mr. A. L. WALSH, Boys' Work Secretary, RESIGNED TO ENTER COLLEGE and was succeeded by Mr. S. B. Cuthbert' -- a name new to this project, leaving for the same reason Guiton would leave the same desk ten years later. (3) THE SAME PARAGRAPH CREATES A SMALL TENSION rather than resolving one: it has E. M. CRAWFORD succeeding E. Hobson as Westmount's Boys' Work Secretary in 1916, while the 1919 report has Crawford taking that post on 24 February 1919 replacing C. L. Brown. Either he held it, lost it and took it back, or one report is loose about the post; neither says, and the sequence is recorded unsmoothed. (4) The 1936 report gives GEORGE S. MOONEY's fourteen-year career in one sentence -- 'after a BRIEF TERM AS BOYS' WORK SECRETARY IN THE NORTH BRANCH' he ran Verdun's community branch, then three years as Central's Young Men's Division Secretary, then seven years running the new Verdun building. It is the sixth career in people/boys-work-secretaries.md to take that shape and the plainest statement any of these documents makes of it: THE BOYS' WORK SECRETARYSHIP WAS A RUNG.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_ymf_sgw_ymca_annual_report_1917",
+        "src_cache_sgw_ymca_annual_report_1936"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Nelson McEwen",
+        "John P. Kidd",
+        "Howie Langille",
+        "A. L. Walsh",
+        "George S. Mooney",
+        "E. M. Crawford"
+      ],
+      "date_ref": "1917/1936/1938/1939",
+      "conflicts_with": [],
+      "added_version": "11.26",
       "added_by": "ralph_loop"
     }
   ]

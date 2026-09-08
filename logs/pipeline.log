@@ -8292,3 +8292,22 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Charlton and Cushing return only board-election and family mentions. Those nulls stand, now tested.
   TOOL DEFECT caught on first real run: no word boundaries, so "Ball" matched inside "basketball"
     and returned 1,253 hits. Boundaries added at the two ends only.
+2026-09-08T01:36:19Z
+  p_490 sixth pass -- the finding aid rebuilt as a supplement. f_5751, KB 11.25 -> 11.26.
+  scripts/reread/staff_changes_supplement.py extracts the passages where the staff-change VERB is
+    broken across a line by the OCR. 825 plain verb hits against 857 tolerant: 49 passages in 25
+    reports the first sweep could not see, at
+    kb/reread/ymca_annual_report_staff_changes_supplement.md. The original aid is left alone.
+  NELSON McEWEN: the 1938 report has him granted leave of absence from Central to become NATIONAL
+    BOYS' WORK SECRETARY, "since confirmed", with JOHN P. KIDD "appointed temporarily to succeed
+    him". That explains the "Acting" in the 1939 report, so Central's boys' desk runs
+    McEWEN -> KIDD -> LANGILLE in two years. Annotated onto c_028, which stays open (it is about
+    1951). nelson-mcewen.md's "roughly 1927 to 1947" now marked as an untested span.
+  A. L. WALSH, North Branch Boys' Work Secretary, resigned to enter College in 1916-17, succeeded by
+    S. B. Cuthbert. New name.
+  A TENSION RECORDED UNSMOOTHED: the 1917 report has E. M. Crawford succeeding E. Hobson at
+    Westmount; the 1919 report has Crawford taking that post in Feb 1919 replacing C. L. Brown.
+  GEORGE S. MOONEY's fourteen years in one sentence -- "after a brief term as Boys' Work Secretary
+    in the North Branch" -- the sixth career in that article to take the shape.
+  prose_dupes: the new 60-word boys-work/kidd-brothers overlap is shared quotation of the two report
+    sentences both articles need. Citation graph working, per f_5119.

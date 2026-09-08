@@ -1,6 +1,6 @@
 # Montreal's Boys' Work Secretaries, 1900–1923
 
-*Status: draft | Sources: 7*
+*Status: draft | Sources: 8*
 *Last Updated: 2026-09-08 (the 1919 and 1920 staff-changes sections, under p_490)*
 
 ## Overview
@@ -220,6 +220,42 @@ Beaton who was still Montreal's General Secretary when he died in office in 1951
 begins on a dated day — **1 November 1919** — and runs thirty-two years. See
 [[people/harold-cross|Harold C. Cross]], who acted in his place twice.
 
+## The line after 1923, in three sentences the reports give and the rosters do not
+
+**This article stops at 1923 because the *Year Book* run does. The Montreal reports carry it further, and
+three passages found on 2026-09-08 sketch what happened to the office.**^8
+
+**The Central desk changes hands twice in two years, and Kanawana is on both ends of it.** The report for
+the year ending 31 March 1938: "Mr. **Nelson McEwen**, M.A., was granted **leave of absence from the
+Central Branch to become National Boys' Work Secretary**, in which position he has since been confirmed.
+**Mr. John P. Kidd**, B.A., was appointed **temporarily** to succeed him." The following year's report:
+"Mr. John P. Kidd, **Acting** Boys' Work Secretary of Central Branch, resigned to accept a similar position
+with the **Brantford** Association, and Mr. **Howard Langille**, B.A. … was appointed to succeed him."^8
+So the desk runs **McEwen → Kidd → Langille** between 1937 and 1939, and [[people/notable-alumni/kidd-brothers|Kidd]]
+had four Kanawana seasons behind him while [[people/howie-langille|Langille]] would be the camp's Chief by
+1941.
+
+**A branch boys' secretary before Cuthbert.** The report for the year ending 30 April 1917, under *North*:
+"Mr. **A. L. Walsh**, Boys' Work Secretary, **resigned to enter College** and was succeeded by Mr. **S. B.
+Cuthbert**."^8 Cuthbert is already above, retiring in 1918 "to enter business life"; Walsh is a name new to
+this project, and the reason he left — college — is the same reason [[people/geoffrey-guiton|Guiton]] would
+leave the same branch's desk ten years later. *The same paragraph puts a Westmount succession on record
+that does not sit flat with a later one*: "Mr. E. Hobson, Boys' Work Secretary, resigned in August, and was
+succeeded by Mr. **E. M. Crawford**" — while the 1919 report has Crawford becoming Westmount's Boys' Work
+Secretary on 24 February 1919, replacing C. L. Brown. Either Crawford held the desk, lost it to Brown and
+took it back, or one of the two reports is loose about the post. **Neither report says**, and the sequence
+is recorded here rather than smoothed.
+
+**And a career that began at that desk and went a long way from it.** The report for the year ending 31
+March 1936, on the resignation of **George S. Mooney** after **fourteen years**: "Mr. Mooney came to our
+staff from business and, **after a brief term as Boys' Work Secretary in the North Branch**, was appointed
+Executive Secretary of the Community Branch in Verdun. Then for three years he was Young Men's Division
+Secretary in the Central Branch. When construction on the new building in Verdun was commenced, he was
+appointed Executive Secretary of that Branch, and for seven years gave devoted leadership to that work."^8
+Mooney is the "Asst. Boys, G. S. Mooney" of the 1920-21 volume in the table above. **Fourteen years, of
+which the boys' work is a brief term at the start** — which is the sixth career in this article to take
+that shape, and the plainest statement of it any of these documents makes.
+
 ## The branch secretaries, and the camp's own contact
 
 **A North Branch boys' secretary was the camp's own contact for his branch.** The **1922 Kamp Kanawana
@@ -276,6 +312,7 @@ autumn.** Moving up and out, not down. See [[people/w-j-holliday|Captain William
 6. *Kamp Kanawana* brochure, 1922 season [src_brochure_1922], and the *YMCA North Branch* brochure for 1922-23 [src_ymf_1922_1923_ymca_north_branch_brochure]. The Guiton identification was made by asking them a question, not by fetching anything. See [f_5326].
 7. YMCA of Montreal annual reports for the years ending **30 April 1919** and **30 April 1920** [src_ymf_sgw_ymca_annual_report_1919_montreal_men, src_ymf_sgw_ymca_annual_report_1920], the *Staff Changes* sections read branch by branch on 2026-09-08 under p_490. Both had been read for their camps sections only. See [f_5736].
 
+8. YMCA of Montreal annual reports for the years ending **30 April 1917** and **31 March** of **1936**, **1938** and **1939** [src_ymf_sgw_ymca_annual_report_1917, src_cache_sgw_ymca_annual_report_1936, src_ymf_sgw_ymca_annual_report_1938, src_ymf_sgw_ymca_annual_report_1939], the staff-changes sections. Read 2026-09-08 under p_490. Three of the four came from the supplement of passages the priority's first sweep could not see, its search having been blind to the OCR's line-end hyphenation. See [f_5751].
 ## Research Notes
 
 *Spun out of `people/directors-index.md` on 2026-09-08 under `p_452`, from two sections totalling about 2,800 words.*

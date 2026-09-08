@@ -8502,7 +8502,8 @@
         "src_mcmorris_thesis",
         "src_ymca_year_book_official_rosters_1921",
         "src_greig_ontario_boys_2014",
-        "src_dbs_biennial_survey_education"
+        "src_dbs_biennial_survey_education",
+        "src_ymf_sgw_ymca_annual_report_1938"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -8512,7 +8513,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 1802,
+      "word_count": 2128,
       "notes": "2026-07-11: Workstream C1 spawn. Synthesizes an already-completed formal RALPH campaign (documented in directors-index.md's R8/R9 research notes, 2026-06-22) into a standalone article -- no new research conducted. Single-source reliance on the Camp Stephens Alumni blog for most biographical detail is preserved as an explicit limitation.",
       "tags": {
         "era": [
@@ -12373,7 +12374,11 @@
         "src_ymf_1922_1923_ymca_north_branch_brochure",
         "src_ymf_sgw_ymca_annual_report_1918",
         "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
-        "src_ymf_sgw_ymca_annual_report_1920"
+        "src_ymf_sgw_ymca_annual_report_1920",
+        "src_ymf_sgw_ymca_annual_report_1917",
+        "src_cache_sgw_ymca_annual_report_1936",
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1939"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12385,7 +12390,7 @@
         "history/wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 3918
+      "word_count": 4483
     },
     {
       "article_id": "wallace-forgie",
@@ -12687,7 +12692,8 @@
         "src_ymf_the_green_triangle_1935_08_17",
         "src_ymf_the_green_triangle_1937_03_30",
         "src_ymf_the_green_triangle_1940_06_27",
-        "src_ymf_sgw_ymca_annual_report_1939"
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_ymf_sgw_ymca_annual_report_1938"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12700,7 +12706,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 2680,
+      "word_count": 2837,
       "notes": "Created 2026-09-07. The two Kidds were on Kanawana's staff six years apart and were brothers; the material had accumulated inside traditions-and-culture.md's 1940 circus passage, which does not fit two biographies. Filed under notable-alumni on the hub-and-spoke test: J. Roby Kidd would warrant an article if Kanawana had never existed. One article rather than two, on the cushing-family and page-family precedent, because the Kanawana story is one story.",
       "tags": {
         "era": [

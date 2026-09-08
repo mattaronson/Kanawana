@@ -1,7 +1,7 @@
 # Nelson McEwen
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-09-06 (Saint John in 1918, a middle initial, and the only quotation of his own words)*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-08 (the association's own date for the move to the national office)*
 
 ## Overview
 
@@ -30,6 +30,26 @@ Canada, **21 Dundas Street, Toronto**, is the **chief boys' work director**"; in
 and **1945-46**, "**21 Dundas Square** … **chief boys' work secretary**."^13 This article's evidence
 for the national office was a Concordia file covering 1941-45 and Greig's 1945 quotation; a federal
 statistical publication has him in it by the survey of 1938-40.
+
+**And the Montreal association dated the move itself, two years before the survey.** Its annual report
+for the year ending **31 March 1938**, among the year's staff changes: "**Mr. Nelson McEwen, M.A., was
+granted leave of absence from the Central Branch to become National Boys' Work Secretary, in which
+position he has since been confirmed. Mr. John P. Kidd, B.A., was appointed temporarily to succeed
+him.**"^14 That is the employer's own account and it is better than the federal survey on every point:
+it names the post, dates the departure to the year ending March 1938, says the arrangement began as
+**leave of absence** and had already been **confirmed** when the report was written, and names the man
+left holding his desk.
+
+*Two things follow from it.* The successor is [[people/notable-alumni/kidd-brothers|John P. Kidd]], who
+was at Kanawana across four seasons in the 1930s — and the "**Acting** Boys' Work Secretary of Central
+Branch" the following year's report records him resigning is this temporary appointment, so the Central
+desk runs **McEwen to Kidd to [[people/howie-langille|Howie Langille]]** in two years. And it sits
+awkwardly beside this article's own opening, which has him "Boys' Work Secretary of the Montreal YMCA
+from roughly 1927 to 1947": *the 1938 report has him leaving Central for the national office nine years
+into that span.* Both can be true if he returned to a metropolitan rather than a branch post, which is
+what the later Concordia file covering 1941-45 would suggest — but nothing read here says so, and the
+1927-1947 framing should be treated as a span this project has not tested rather than a documented
+tenure.
 
 *The caveat belongs with the fact rather than in a footnote.* That paragraph is **standing
 boilerplate**, reprinted survey after survey with only the address and the job title touched up, which
@@ -85,6 +105,7 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 12. Christopher J. Greig, *Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960* (Waterloo: Wilfrid Laurier University Press, 2014), Internet Archive scan leaf 218 [src_greig_ontario_boys_2014]. **One passage only**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. See [f_4963].
 13. Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, *Elementary and Secondary Education in Canada*, being Part I of the *Biennial Survey of Education in Canada* [src_dbs_biennial_survey_education], the surveys for **1938-40**, **1943-44** and **1945-46**. Internet Archive item `31761119680775`, full text downloaded; the item binds at least twelve surveys and each occurrence is placed by the interior title page above it. The YMCA entry is standing boilerplate, reprinted with small edits, and is read as such. See [f_5357].
 
+14. YMCA of Montreal annual report for the year ending **31 March 1938** [src_ymf_sgw_ymca_annual_report_1938], the staff-changes section: McEwen's leave of absence from Central Branch to become National Boys' Work Secretary, since confirmed, and John P. Kidd's temporary appointment to succeed him. Read 2026-09-08 under p_490, from the supplement of passages the priority's first sweep could not see. See [f_5751].
 ## Research Notes
 
 <!-- RALPH process log (informal, not reader-facing). -->

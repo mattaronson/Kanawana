@@ -1,6 +1,6 @@
 # The Kidd Brothers
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-09-08 (John Kidd's Montreal post, and where he went from it)*
 
 ## Overview
@@ -55,6 +55,14 @@ year his own 1950 anecdote records, and long enough for the paper to build runni
 for Brantford.** The annual report for the year ending 31 March 1939: "**Mr. John P. Kidd, Acting Boys'
 Work Secretary of Central Branch, resigned to accept a similar position with the Brantford Association**,
 and Mr. Howard Langille, B.A. … was appointed to succeed him."^8
+
+**And the year before, the report says how he got it.** For the year ending 31 March 1938: "**Mr. Nelson
+McEwen, M.A., was granted leave of absence from the Central Branch to become National Boys' Work
+Secretary** … **Mr. John P. Kidd, B.A., was appointed temporarily to succeed him.**"^9 So the "Acting" in
+the following year's sentence is not a formality: he was holding a desk for a man who had gone to the
+national office on leave, and when that leave was confirmed he left for Brantford rather than be
+confirmed in it himself. **The Central Branch boys' desk runs [[people/nelson-mcewen|McEwen]] to Kidd to
+[[people/howie-langille|Langille]] inside two years**, and two of those three ran Kanawana.
 
 That fills the years between his four Kanawana seasons and the Canadian Citizenship Council: he was not a
 volunteer leader who went away, he was on the association's paid staff, holding the Central Branch desk
@@ -196,6 +204,7 @@ Neither year is preferred here.
 7. *The Green Triangle*, **17 August 1935**, **30 March 1937** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5589], [f_5593], [f_5599].
 
 8. YMCA of Montreal annual report for the year ending **31 March 1939** [src_ymf_sgw_ymca_annual_report_1939], the staff-changes paragraph: John P. Kidd's resignation of the Central Branch acting boys' work secretaryship for Brantford, and Howard Langille's appointment to succeed him. Read 2026-09-08 under p_490, using a hyphenation-tolerant search — the OCR breaks the successor's name as "Lan- gille", which is why the paragraph had never been found. See [f_5747].
+9. YMCA of Montreal annual report for the year ending **31 March 1938** [src_ymf_sgw_ymca_annual_report_1938], the staff-changes section: Nelson McEwen's leave of absence for the national office and John P. Kidd's temporary appointment to succeed him. Read 2026-09-08 under p_490. See [f_5751].
 ## Research Notes
 
 ### Revision History
