@@ -1,8 +1,8 @@
 {
-  "version": "11.38",
-  "kb_version": "11.38",
+  "version": "11.39",
+  "kb_version": "11.39",
   "migrated_from": "3.3",
-  "fact_count": 5727,
+  "fact_count": 5729,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103323,6 +103323,48 @@
       "date_ref": "1980-2009",
       "conflicts_with": [],
       "added_version": "11.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5766",
+      "claim": "FOUR YEARS OF WHAT THE ENDOWMENT FUND ACTUALLY BOUGHT AT KANAWANA, WITH LINE ITEMS. modern-era.md describes the association's Endowment Fund from the 2004-2005 report, which says only that donor-selected revenues went to programmes 'such as international development and Camp YMCA Kanawana'. The reports for 1999-2000 through 2002-2003 print the allocation table itself, centre by centre. KAMP KANAWANA'S LINES: 1999-2000, 'Development funding' $2,874 of a $48,982 total; 2000-2001, 'Young campers video project' and 'Accessibility', $20,143 of $106,025; 2001-2002, 'Canoe building program' and 'Accessibility', $16,323 of $106,127; 2002-2003, 'Canoe building program' $2,000 of $90,114, confirmed in the French edition as 'Programme de construction de canots, 2 000 $'. A CAVEAT ON THE TWO MIDDLE YEARS: in the 1999-2000 and 2002-2003 tables each amount sits on its own programme line, but in 2000-2001 and 2001-2002 the amount is printed once against the LAST programme line of a centre, so $20,143 and $16,323 are read as each year's Kanawana TOTAL across its two listed programmes rather than as the Accessibility line alone. THREE PROGRAMME NAMES NEW TO THIS PROJECT: a canoe building programme running at least 2001-02 and 2002-03; a young campers video project in 2000-01; and an 'Accessibility' line in two consecutive years, which is the shape a camperships allocation takes. The same tables show the 'Gabrielle et Maurice Masse' Award as an endowment line in 2000-01 ($1,545) and 2001-02 ($1,418) -- the award Judy and Michael Weil received in March 2009 (f_5764).",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1999_2000",
+        "src_ymf_sgw_ymca_annual_report_2000_2001",
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2002_2003_fr"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Montreal YMCA Foundation",
+        "Endowment Fund",
+        "canoe building program",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1999-2000 to 2002-2003",
+      "conflicts_with": [],
+      "added_version": "11.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5767",
+      "claim": "TWO THINGS KANAWANA DID IN 1998 THAT THIS PROJECT HAD NOT RECORDED. The Montreal YMCA's 1998 annual report, in its year-in-review bullets: 'Kamp Kanawana ADDED A NEW ACTIVITY to its summer program by offering CAMP INITIATION STAYS TO YOUNGER CHILDREN' -- a short-stay format for children below the ordinary camper age, which is the earliest documented instance in this project of the camp deliberately building a step below its youngest section. And, in the same volume: 'Kamp Kanawana EXPANDED ITS ACTIVITIES this year by hosting youth from the DIVERSION AND IMPACT PROGRAMS, SCOUT AND GUIDE TROOPS, and a variety of other groups. The camp also provided a venue for STUDENTS IN IMMERSION PROGRAMS offered by several Montreal area school boards.' Diversion and Impact are the association's own youth-justice programmes; the sentence documents the site being used by outside groups and by school-board immersion classes in the shoulder seasons, thirty years after the camp ran its own French immersion section in 1969.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1998"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "Diversion program",
+        "Impact program",
+        "French immersion"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "11.39",
       "added_by": "ralph_loop"
     }
   ]
