@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 44*
+*Status: E1-reviewed | Sources: 45*
 *Last Updated: 2026-09-07 (the acid-rain thread spun out; the mis-headed section renamed)*
 
 ## Overview
@@ -140,6 +140,26 @@ Actual monitoring values were retrieved via operator browser access: in 2010 the
 ### School Programs
 
 Camp Kanawana hosts EMSB school groups for fall conservation education trips. Students from schools including Vincent Massey Collegiate and John F. Kennedy High School have spent overnight stays learning about modern conservation, nature, and team building, then planning community-based conservation action projects to implement throughout the year.^4 The Montreal YMCA's 2009 annual report documents this school-partnership program at scale: over 500 students from six schools and roughly ten community groups took part in Kanawana's nature classes that year, with educational content co-developed with the Commission scolaire de Montréal (CSDM) and the Clubs 4-H du Québec.^26
+
+### The bio-generational garden, 2007
+
+**The green shift produced a programme that was not about the camp's own campers.** The association's
+2007 report records that Kanawana "a élaboré un programme d'éducation au jardinage écologique, **en
+partenariat avec le YMCA Pointe-Saint-Charles**", in which "**aînés et jeunes étaient jumelés**" — seniors
+and young people paired — "pour la production de semis et la plantation en terre, ainsi que pour les
+activités de compostage, sous la supervision d'une spécialiste en aménagement de potager bio."^45
+
+The Foundation's own list of projects funded that year prices it: "**Jardin bio-générationnel** — YMCA
+Pointe-Saint-Charles et YMCA Kanawana, **17 100 $**", described as "un potager biologique pour sensibiliser
+les enfants et les aînés à des habitudes alimentaires plus saines, à l'agriculture biologique et au
+compostage." A second Kanawana line in the same list gives "**Éducation environnementale — YMCA Kanawana,
+6 700 $**", a "programme d'éducation écologique pour les usagers du camp."^45
+
+*Two things are worth noticing.* The camp is running an intergenerational programme with an inner-city
+branch, which is a different use of the site from either summer camping or school conservation trips. And
+the Foundation is funding the camp's environmental education as a **grant-supported programme with a
+price on it**, not only as capital works — the $5 million development project this article follows is the
+buildings, and this is the teaching.
 
 ### Accessibility and Inclusion
 
@@ -392,6 +412,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 43. Montreal YMCA annual report for the year ended 31 December 2009 [src_ymf_sgw_ymca_annual_report_2009], "Kanawana: significant progress". Read 2026-09-06 under p_454.
 
 44. YMCA of Montreal annual reports for **1949** and for **1952 through 1957** [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], the Kamp Kanawana descriptions. Read 2026-09-08 under p_490, in the course of testing whether the 1947-1958 director gap could be closed from these volumes. See [f_5754].
+45. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Kanawana development pages and the Foundation's list of projects funded in 2007. Read 2026-09-08 under p_487, which was working the records marked "keyword-swept, not read closely": the French editions carry material their English twins do not, and this project had read the English 2007 report for the $5 million framing and the 19% assistance figure without reaching these. See [f_5760].
 ## Research Notes
 
 ### Revision History

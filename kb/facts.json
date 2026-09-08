@@ -1,8 +1,8 @@
 {
-  "version": "11.34",
-  "kb_version": "11.34",
+  "version": "11.35",
+  "kb_version": "11.35",
   "migrated_from": "3.3",
-  "fact_count": 5721,
+  "fact_count": 5722,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103187,6 +103187,24 @@
       "date_ref": "2010",
       "conflicts_with": [],
       "added_version": "11.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5760",
+      "claim": "THE 2007 FRENCH REPORT GIVES THE GREEN SHIFT'S TEACHING SIDE, AND SAYS WHAT THE THREE-SEASON BUILDINGS WERE FOR. Three things the English edition did not yield, though it was read for the $5 million framing and the 19% assistance figure. (1) THE PURPOSE OF THE THREE-SEASON FACILITIES, stated three years before they show up as a number: the campaign would fund 'la construction d'INSTALLATIONS TROIS SAISONS pour accueillir DES ECOLES ET DES GROUPES COMMUNAUTAIRES le printemps et l'automne.' That is what the 2010 Bilan social's separate 'CLASSES NATURE - Camp Y Kanawana 1 450' row is counting, so the green shift's stated purpose and its first measured result now sit against each other in meta/attendance-series.md. (2) A BIO-GENERATIONAL GARDEN. The camp 'a elabore un programme d'education au jardinage ecologique, EN PARTENARIAT AVEC LE YMCA POINTE-SAINT-CHARLES', in which 'AINES ET JEUNES ETAIENT JUMELES' for seedlings, planting and composting under a bio-garden specialist -- an intergenerational programme run with an inner-city branch, which is a third use of the site beside summer camping and school conservation trips. The Foundation's project list prices it at 17,100 dollars, and carries a second Kanawana line, 'Education environnementale - YMCA Kanawana, 6 700 dollars', for 'un programme d'education ecologique pour les usagers du camp'. SO THE FOUNDATION WAS FUNDING THE TEACHING AS A GRANT-SUPPORTED PROGRAMME WITH A PRICE ON IT, not only the buildings the $5 million development project covers. (3) A CAMP DES JEUNES LEADERS held at Kanawana in the spring of 2007, bringing thirty-five young people from YMCAs across Quebec. Endowment context: the fund stood at 4.98 million dollars in January 2007, with 101,592 dollars to donor-chosen programmes including Kanawana development and 88,521 dollars to committee-chosen projects.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2007_fr"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kanawana green shift",
+        "YMCA Pointe-Saint-Charles",
+        "Classes nature"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "11.35",
       "added_by": "ralph_loop"
     }
   ]
