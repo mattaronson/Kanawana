@@ -1,8 +1,8 @@
 {
-  "version": "11.18",
-  "kb_version": "11.18",
+  "version": "11.19",
+  "kb_version": "11.19",
   "migrated_from": "3.3",
-  "fact_count": 5696,
+  "fact_count": 5697,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102718,6 +102718,22 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5735",
+      "claim": "p_484 IS CLEARED: 136 UNCITED SOURCE ENTRIES DOWN TO 23, AND ALL TWENTY-THREE ARE DELIBERATE. Each of the survivors says so in its own text -- tombstones, archival pointers, unconsulted leads, block sources covering runs of table rows, superseded generics, entries moved with their subject, and one caution (lv-games 8, the camp's present-day Voyageurs canoe-tripping page, listed so the word is not read back into the Games). The check stays ADVISORY as f_5566 concluded: the target was never zero and the number to watch is the delta. THE ARITHMETIC OF THE CLEARANCE IS THE FINDING. Of the 113 removed, roughly SIXTY were the check's own misreadings of conventions this wiki uses and the script did not know -- seventeen entries cited inline by source id, and then a further eight hidden behind a LOWERCASE-ONLY id pattern that silently skipped every archival id carrying a box or sub-series code (src_concordia_atom_12B04, src_concordia_12B03), and two more behind the bracket form '[f_0411, src_wikipedia_big_cove]' that puts a fact id and a source id in one group. THREE DETECTOR BUGS IN ONE DAY, all the same shape: a check written against one convention, run over a corpus that uses several, reporting the difference as a defect. dangling_labels' first two versions did it with three ways of writing a label; uncited_sources did it three times over with citation form and then twice more with id case and bracket shape. THE RULE THAT FALLS OUT: before believing a check's first number, find out how many ways the corpus does the thing being checked, and forgive rather than flag -- a check that over-reports trains its readers to ignore it, which is the failure mode this project has been guarding against since section_headings shipped advisory. THE OTHER FIFTY-ODD WERE REAL and are itemised across the ten passes: three pointer paragraphs left by spinouts asserting facts with no marker, three mis-aimed markers including one that cited the source of the error it corrected, fifteen lettered markers pointing at no entry at all, two articles citing through a table column, and two research findings (Kairos at Otoreke in 1967, Otoreke's own post office) that had been found, written into a source note, and never put where a reader could see them.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "uncited_sources.py",
+        "dangling_labels.py"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.19",
       "added_by": "manual"
     }
   ]

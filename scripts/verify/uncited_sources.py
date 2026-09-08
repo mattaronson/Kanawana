@@ -78,7 +78,10 @@ found 136 uncited entries across 34 articles -- places-and-locations.md alone
 has 28 entries and cites 9 of them. That is a backlog, and a blocking check
 against a backlog trains everyone to ignore the output. Queued as p_484; make
 this blocking when it clears. The first passes took it to 124 across 25, and the
-2026-09-08 passes to 35 across 17, of which 23 are deliberate. Seventeen of
+2026-09-08 passes to 23 across 16 -- AND ALL TWENTY-THREE ARE DELIBERATE,
+each saying so in its own text. The backlog is worked out. The check stays
+ADVISORY anyway, per f_5566: the target was never zero, and what matters is the
+delta. Seventeen of
 that drop came from the check itself: see the inline-source-id note in main().
 
 WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
@@ -95,7 +98,7 @@ import os
 import re
 import sys
 
-BASELINE = 35           # whole-wiki count after the 2026-09-08 p_484 passes
+BASELINE = 23           # the deliberate floor, 2026-09-08; backlog cleared
 #                         (was 136 when this check was written, the same day)
 
 
@@ -141,15 +144,24 @@ def main() -> int:
             # articles cite inline by source id -- "capacity of over 300 people
             # [src_ymca_website]" -- rather than by marker, and the entry
             # carries the same id. That is a citation; the reader can follow it.
+            # The id pattern must allow UPPERCASE: archival ids carry box and
+            # sub-series codes, as in src_concordia_atom_12B04, and a lowercase-only
+            # pattern silently misses every one of them (f_5735).
             # places-and-locations.md was this check's headline finding, "19 of
             # 28 entries uncited", and thirteen of those nineteen are cited this
             # way. Counting them as defects manufactured a backlog.
-            inline = set(re.findall(r'\[(src_[a-z0-9_]+)\]', body))
+            # Match the id anywhere in the body, not only inside its own
+            # brackets: articles also write "[f_0411, src_wikipedia_big_cove]",
+            # putting a fact id and a source id in one group. Forgiving on
+            # purpose -- an id named in prose is close enough to a citation for
+            # a reader to follow, and this check's job is to find entries with
+            # no route to them at all.
+            inline = set(re.findall(r'\b(src_[A-Za-z0-9_]+)', body))
             entry_ids = {}
             for m in re.finditer(r'^(\d+)\. (.*(?:\n(?![0-9]+\. |#).*)*)$',
                                  text[start:end], re.M):
                 entry_ids[int(m.group(1))] = set(
-                    re.findall(r'\[(src_[a-z0-9_]+)\]', m.group(2)))
+                    re.findall(r'\[(src_[A-Za-z0-9_]+)\]', m.group(2)))
             uncited = [n for n in entries
                        if n not in marks and not (entry_ids.get(n, set()) & inline)]
             if uncited:

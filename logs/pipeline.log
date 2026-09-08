@@ -8193,3 +8193,16 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
     four lines away. I invented a null for a source I had not opened. Fixed; entry 11's note was
     overstated the same way and rewritten from its record.
   Cleared: places-and-locations 16, 17, 18, 19, 20. BASELINE 40 -> 35, of which 23 are deliberate.
+2026-09-08T01:01:33Z
+  p_484 COMPLETE -- uncited source entries 136 -> 23, and all 23 are deliberate.
+  f_5735, KB 11.18 -> 11.19. BASELINE set to 23, the deliberate floor. Check stays advisory.
+  Of the 113 removed, roughly sixty were the check's own misreadings: entries cited inline by
+    source id (17), archival ids skipped by a lowercase-only pattern (8), and the
+    "[f_0411, src_wikipedia_big_cove]" bracket form (2). Three detector bugs in one day, all the
+    same shape -- a check written against one convention run over a corpus that uses several.
+  The rest were real: three spinout pointer paragraphs asserting facts with no marker, three
+    mis-aimed markers, fifteen lettered markers resolving to nothing, two articles citing through
+    a table column or block sources, and two research findings written into a source note and
+    never into an article.
+  Last cleared this pass: myths-and-legends 4, 12, 13, 14, 15, 16, 17, 18, 19; places-and-locations
+    16, 17, 18, 19, 20. wallace-forgie 5 and 6 relabelled as explicit pointers.
