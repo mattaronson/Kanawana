@@ -90,14 +90,14 @@ Faubourg Building FG A112, 1250 Guy.
 > **To:** archives@concordia.ca
 > **Subject:** Research access request — YMCA of Montreal fonds (P0145), Kamp Kanawana
 >
-> Dear Mr. Richan,
+> Dear John Richan,
 >
 > I am a Westmount city councillor and lawyer, researching the history of Camp Kanawana — the YMCA of
 > Montreal's camp at Saint-Sauveur, founded 1894 — for a non-commercial public history project. I have
 > been working from your published finding aid for the YMCA of Montreal fonds (P0145, generated
 > 24 November 2023), which has been invaluable.
 >
-> I have six requests, in descending order of importance.
+> I have seven requests, in descending order of importance.
 >
 > **1. P0145/12C01 — "Evaluation, recommendations re Camp Otoreke as a mixed [gender] camp, 1936"
 > (Box HA2315).** This is the single document I would most like to see. Kanawana did not admit girls
@@ -152,6 +152,27 @@ Faubourg Building FG A112, 1250 Guy.
 > pay for a scan of the Kanawana entry, or of the whole volume if that is simpler. The same box's
 > "Constitution et règlements" (1979) and "Publications, public relations" (1978-1979) would be worth
 > seeing in the same visit.
+>
+>
+> **7. P145/12B07 — Kamp Kanawana, Program (Box HA2315).** Four items in this sub-sub-series would each
+> answer a question I cannot answer from anything published:
+>
+> - **"Rangers log book," 1957.** I have recently established, from statistical appendices in the
+>   association's own annual reports, that Kanawana ran a fifth section called the Rangers through the
+>   early 1960s — about three per cent of the camp, shrinking each year until it ended after 1964.
+>   Nothing else I have found records that section's existence at all, and this log book predates my
+>   earliest figure by three years. It is the one document likely to say what the Rangers were.
+> - **"Lumbermen-Voyageurs week," 1958.** The L&V Games are the camp's central tradition and are still
+>   run; my earliest account of them from inside the camp is a retrospective written in 1988.
+> - **"KK pageant scripts," 1931-1932, and "Firelighting ceremony," 1936.** The Council Ring ceremony
+>   scripts I have are dated about 1925-27 and reach me at second hand.
+> - **"Horseback riding program," 1971** — a programme the annual reports of those years argue about
+>   from the outside.
+>
+> **Also, in P145/12C04 — Camp Otoreke, Communications:** Box HA160 "Film labeled Otoreke," Box HA2321
+> "Sound recordings related to Camp Otoreke," and Box HA2652 "Film reels related to Camp Otoreke." My
+> request 5 above covers the P0145-11 audio reels; these Otoreke holdings are a separate cluster, and I
+> would be glad to know what condition and format they are in before asking for anything from them.
 >
 > I am in Montreal and can come to the Reading Room at your convenience.
 >
