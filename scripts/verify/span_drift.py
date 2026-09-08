@@ -57,18 +57,34 @@ FOUR OF THEM ARE UNCARRIED CORRECTIONS OLDER THAN THE ONE THAT PROMPTED THIS.
     directors index's OWN plaque note still reads "(1988-1994)".
 
 All four were corrected in people/directors-index.md ON THE SAME DAY,
-2026-08-14, and none of the four travelled. bruce-netherwood.md even says so in
+2026-08-14, and none of the four travelled. ALL FOUR WERE CARRIED THE SAME DAY
+under p_503, into fourteen articles, and the count fell from thirteen to eight.
+Two of the fourteen edits were places the check itself could not see -- a
+section heading reading "## Camp Kanawana (1959-1967)", and dave-twynam.md's
+lead saying "from 1979 into at least 1980" while its own body documented him in
+post to April 1981. A near-miss instrument finds the neighbourhood; the reading
+finds the rest. bruce-netherwood.md even says so in
 its own superseded note -- "those dates were corrected in the directors index on
 2026-08-14 and this article did not catch up" -- so the project had already met
 this failure once, for one person, and did not generalise it. That is what an
 instrument is for.
 
-The remaining rows are legitimate: gary-white's three spans are a documented
-ambiguity held open on purpose, roy-locke's 1947-1954 and 1948-1954 are a
-documented span against an open question about which seasons he was on site,
-harold-cross's 1938-1957 is a manuscript's date range and not a tenure, and the
-billy-ball and rob-braide pairs are this window catching a range that belongs to
-a different person in the same sentence.
+THE ELEVEN THAT REMAIN, all read, none a defect:
+
+  - gary-white's three spans are a documented ambiguity held open on purpose.
+  - roy-locke's 1947-1954 and 1948-1954 are a documented span against an open
+    question about which seasons he was actually on site.
+  - harold-cross's 1938-1957 is a manuscript's date range, not a tenure.
+  - the billy-ball and rob-braide pairs are this window catching a range that
+    belongs to a different person in the same sentence.
+  - AND THREE ARE THE CORRECTION NOTES THEMSELVES -- macdiarmid, netherwood and
+    seaman still report because an article that carries its own repair quotes
+    the superseded span, and in these three the marker word ("SUPERSEDED", the
+    arrow in a research note) sits further than WINDOW characters from it. The
+    HISTORICAL filter catches the close ones and not these. Widening it further
+    would start hiding real drift, which is a worse trade than three rows a
+    reader can dismiss in a second. If this check ever reaches zero it will be
+    because someone deleted the record of a fix.
 
 A RANGE QUOTED INSIDE A CORRECTION is skipped: "corrected from 1988-1994",
 "this sentence read \"from 1988 to 1994\"", a struck-through open question. On its
@@ -87,7 +103,7 @@ import re
 import sys
 from collections import defaultdict
 
-BASELINE = 13   # 2026-09-08, first whole-wiki run; all thirteen read, see below
+BASELINE = 11   # 2026-09-08, after p_503 carried the four; all eleven read, see below
 
 RANGE = re.compile(r'\b(1[89]\d\d|20\d\d)\s*(?:-|–|—|to )\s*(1[89]\d\d|20\d\d)\b')
 WINDOW = 70
@@ -99,8 +115,8 @@ WINDOW = 70
 # page and still matches. Suppressing it is not hiding anything -- the article
 # states the correction in the same breath, which is the opposite of drift.
 HISTORICAL = re.compile(
-    r'(corrected from|superseded|this sentence read|previously read|had it as'
-    r'|used to read|until 2026|read ["“]|~~)', re.I)
+    r'(corrected from|extended from|superseded|this sentence read|previously read'
+    r'|had it as|used to read|span read|was 1[89]\d\d|until 2026|read ["“]|~~)', re.I)
 
 # Collective and index articles: their id's last segment is not a surname, so
 # it matches half the wiki. Excluded by name rather than by heuristic, because

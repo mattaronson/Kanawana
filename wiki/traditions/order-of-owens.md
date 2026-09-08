@@ -188,7 +188,7 @@ would name his father.** The shape of the succession — O. N. H. Owens chairing
 unproven.
 
 *(Note what "Director" means in that entry: it sits under Clubs, and [[people/directors-index|the
-directors index]] has A. Ross Seaman as Camp Director from 1959 to 1967. This is a governance seat,
+directors index]] has A. Ross Seaman as Camp Director from 1959 to 1968. This is a governance seat,
 not the summer directorship.)*
 
 ## Open Questions

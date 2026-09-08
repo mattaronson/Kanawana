@@ -793,7 +793,7 @@ them recur in the 1960 masthead.
 ## Related Articles
 
 - [[traditions/canoe-trips|Canoe Trips]] — the parent article: Kanawana's own canoe tripping, and the movement's safety reckoning of 1975–1981
-- [[people/a-ross-seaman|A. Ross Seaman]] — Kanawana's director 1959–1967, named the programme's founder by his obituary
+- [[people/a-ross-seaman|A. Ross Seaman]] — Kanawana's director 1959–1968, named the programme's founder by his obituary
 - [[people/derek-walsh|Derek Walsh]] — the accredited director in the 1975 national directory
 - [[site/camp-otoreke|Camp Otoreke]] — the other Montreal YMCA camp with its own site and its own arc
 - [[history/centennial-1967|The 1967 Centennial]] — the year a Voyageur crew's notes went into a national guide book

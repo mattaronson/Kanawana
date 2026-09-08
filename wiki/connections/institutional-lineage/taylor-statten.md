@@ -77,7 +77,7 @@ The fellowship's terms are worth noting for what they say about how Canadian cam
 
 Statten's influence on Kanawana was primarily indirect: through the CSET program adopted by YMCA camps nationally, the Indian Lore programming model, and the CCA organizational framework. Concordia University Archives contain Taylor Statten weekly letters from 1915, suggesting an early connection to the Montreal YMCA network that has not yet been explored.^2
 
-At Kanawana, A. Ross Seaman served as director from 1959 to 1967 and simultaneously joined the Applied Social Science department at Sir George Williams University in 1963 as a part-time faculty member.^2
+At Kanawana, A. Ross Seaman served as director from 1959 to 1968 and simultaneously joined the Applied Social Science department at Sir George Williams University in 1963 as a part-time faculty member.^2
 
 Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Centennial Program, which became a permanent tradition — a parallel to Kanawana's own canoe tripping evolution in the La Vérendrye region during the same period.^2
 

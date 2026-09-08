@@ -156,9 +156,9 @@ one paragraph: "John W. Beaton, our General Secretary, has continued as Senior S
 Y.M.C.A. War Services, on loan from the Montreal Association. **W. J. G. Macdiarmid** is senior Y.M.C.A.
 supervisor for Great Britain, **C. J. McGerrigle** and **W. J. Holliday** are also serving in the War
 Services overseas. **W. H. Spearman** has recently been appointed manager of the famous Beaver Club in
-London."^5 Read the camp names off it: **Macdiarmid** was Kanawana's Camp Chief 1935-1938, **Spearman**
+London."^5 Read the camp names off it: **Macdiarmid** was Kanawana's Camp Chief 1935-1939, **Spearman**
 1932-1934, **McGerrigle** ran Camp Otoreke from about 1935 and returned to it after, and **Holliday** opened
-the Lac Wilson site in 1910. Four eras of the camp's leadership, abroad in the same year.
+the Lac Wilson site in 1910. Four eras of the camp's leadership, abroad in the same year. *[Macdiarmid's span read 1935-1938 here until 2026-09-08; [[people/directors-index|the index]] extended it to 1935-1939 on 2026-08-14 — his tenure ended when he went overseas, which is the very departure this passage records — and the correction did not travel. Found by `scripts/verify/span_drift.py`.]*
 
 **The first war took the department the same way, and two men on the list had run Kanawana seasons.** The
 1918-19 volume's war-service section carries "**Miller, Capt. Thomas Hicks**" — the T. Hicks Miller who had

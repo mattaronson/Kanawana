@@ -25,7 +25,7 @@ The same directory lists a second camp under his name — **Les Voyageurs de la 
 
 The directory also fills a gap in the table above. The Quebec Camping Association English Section's officer list for January 1975 gives "**Mr. Derek Walsh — Publicity and Public Relations**" among its committee chairmen, under President Mrs. Val Willis.^6 So the presidency recorded here as held "by Oct 1976" followed a committee chairmanship in exactly the portfolio he would later chair nationally for the CCA — the same subject, three times over, from provincial committee to provincial presidency to national chairman, ending in the 1981 pamphlet *How to Promote Your Camp*.
 
-One other name on that list is worth noting: **A. Ross Seaman**, Kanawana's director from 1959 to 1967, sits as an Honorary Member of the same section in the same year.^6 Two Kanawana directors, a generation apart, on one provincial executive.
+One other name on that list is worth noting: **A. Ross Seaman**, Kanawana's director from 1959 to 1968, sits as an Honorary Member of the same section in the same year.^6 Two Kanawana directors, a generation apart, on one provincial executive.
 
 ## The national career
 

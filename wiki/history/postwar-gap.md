@@ -5,7 +5,7 @@
 
 ## Overview
 
-The two decades between Nelson McEwen's 1947 departure and Canada's 1967 Centennial are the thinnest-documented stretch in Kanawana's directorial history — CLAUDE.md itself names the "1947–2003 director gap" as a standing research priority. Within that stretch, the years 1947–1958 remain a true blank: no director is documented at all. But the period is not silent institutionally — it includes A. Ross Seaman's eight-year directorship (1959–1967), the founding of Sir George Williams University's Department of Applied Social Science by a Kanawana-linked researcher, and the beginnings of the La Vérendrye canoe-tripping program that still bears his stamp today.
+The two decades between Nelson McEwen's 1947 departure and Canada's 1967 Centennial are the thinnest-documented stretch in Kanawana's directorial history — CLAUDE.md itself names the "1947–2003 director gap" as a standing research priority. Within that stretch, the years 1947–1958 remain a true blank: no director is documented at all. But the period is not silent institutionally — it includes A. Ross Seaman's nine-year directorship (1959–1968), the founding of Sir George Williams University's Department of Applied Social Science by a Kanawana-linked researcher, and the beginnings of the La Vérendrye canoe-tripping program that still bears his stamp today.
 
 ## The True Gap (1947–1958)
 
@@ -79,7 +79,7 @@ Two things in it are worth the space. It is a **rationale for the counsellor rel
 
 *The same issue carries a truncated line worth flagging rather than using.* A staff-changes list of men returning from war service includes "**W. E. Yard (Ted), from Boys-Building,**" and the destination is lost at a column break in the scan.^14 This project holds Ted Yard from 1951 onward; the line puts him in a Boys-Building post by mid-1946 and says nothing more.
 
-## A. Ross Seaman's Directorship (1959–1967)
+## A. Ross Seaman's Directorship (1959–1968)
 
 A. Ross Seaman directed Kamp Kanawana from 1959 until 1967, overseeing the 1959 section renaming and the launch of the La Vérendrye canoe-trip program, which grew from exploratory trips in 1958 into a formal satellite operation with a lease at Lac Landron by the early 1960s.^4 ^5 The Montreal YMCA's 1966–67 Annual Report, read directly from the Internet Archive, documents Seaman's "participatory democracy" philosophy and that season's structure.^6 Seaman went on to a parallel academic career, joining Sir George Williams University's Department of Applied Social Science as part-time faculty in 1963 — **while still directing Kanawana**, which he continued to do through 1967 — see [[people/a-ross-seaman|A. Ross Seaman]] for his full biography.
 
@@ -104,7 +104,7 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 1. [Critical] Who, if anyone, directed Kanawana between 1947 and 1958? This is the single largest undocumented span in the camp's post-founding directorial history. See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Gap Periods section for the ongoing research status.
 2. [Important] What programming or institutional changes occurred at Kanawana during the 1947–1958 gap? No source addresses this period's day-to-day operations at all.
 3. [Nice-to-have] What specific programming changes did Seaman make at Kanawana during his earlier (pre-1966) seasons? Only his final 1966–67 season is documented in detail via the Annual Report; his 1959–1965 seasons remain comparatively thin.
-4. [Important, surfaced 2026-08-14] **[[people/directors-index|Directors and Staff of Camp Kanawana]] lists a second gap, "1963–1973," that contradicts its own Camp Directors table and this article.** The index's Gap Periods section reasons that the directorship "became vacant around" 1963 because Seaman moved to SGW faculty that year — but the same index's table gives Seaman 1959–1967 and Ross Bannerman 1969, both inside the stated gap, and [[people/a-ross-seaman|his own biography]] states he took the faculty post *while still directing Kanawana*. The 1963 start date therefore rests on a premise this wiki elsewhere contradicts. What genuinely needs establishing is who directed Kanawana between Seaman's 1967 departure and Derek Walsh's arrival in 1974 — a real gap, but a seven-year one, not eleven. Reconciling the index itself is tracked separately as queue item p_227, since it is an E1-reviewed article.
+4. [Important, surfaced 2026-08-14] **[[people/directors-index|Directors and Staff of Camp Kanawana]] lists a second gap, "1963–1973," that contradicts its own Camp Directors table and this article.** The index's Gap Periods section reasons that the directorship "became vacant around" 1963 because Seaman moved to SGW faculty that year — but the same index's table gives Seaman 1959–1968 and Ross Bannerman 1969, both inside the stated gap, and [[people/a-ross-seaman|his own biography]] states he took the faculty post *while still directing Kanawana*. The 1963 start date therefore rests on a premise this wiki elsewhere contradicts. What genuinely needs establishing is who directed Kanawana between Seaman's 1967 departure and Derek Walsh's arrival in 1974 — a real gap, but a seven-year one, not eleven. Reconciling the index itself is tracked separately as queue item p_227, since it is an E1-reviewed article.
 
 ## Related Articles
 
@@ -123,7 +123,7 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 1. Camp Stephens Alumni Blog, 2013 posts on Nelson McEwen [src_camp_stephens_alumni_blog].
 2. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
 3. Camp Perrot annual reports, 1952 [src_ia_camp_perrot_collection]; "A Fresh Look at Camp Perrot," 1959 memo [src_camp_perrot_1959_fresh_look].
-4. McMorris, Grace (2023), Concordia Archives references to Seaman's directorship 1959-1967 [src_mcmorris_thesis].
+4. McMorris, Grace (2023), Concordia Archives references to Seaman's directorship 1959-1967 [src_mcmorris_thesis]. *The thesis's own range; this wiki dates the directorship 1959-1968 on the branch officers table and the national Year Book, so the thesis is a narrower reading rather than a conflicting one.*
 5. Concordia University Archives, YMCA of Montreal fonds, P0145/12K — La Vérendrye canoe trip records (1958-1982) [src_concordia_fonds].
 6. YMCA of Montreal, Annual Report 1966-67 (Internet Archive, digitized by Concordia RMA) [src_ia_ymca_annual_report_1966_67].
 7. Concordia University Archives: Department of Human Sciences fonds; Centre for Human Relations and Community Studies fonds; YMCA of Montreal Fonds P145/12B05 (Staff) [src_concordia_chrcs_fonds].

@@ -5,7 +5,7 @@
 
 ## Overview
 
-Nelson McEwen (c.1897–1956) served as Boys' Work Secretary of the Montreal YMCA from roughly 1927 to 1947, a role under which he directed Camp Kanawana, and later became the first Metropolitan General Secretary of the Winnipeg YMCA, dying in active service in 1956.^1 ^2 His documented on-site directorship in Grace McMorris's 2023 thesis is narrower — 1930–1931 only^3 — while a 2013 Camp Stephens alumni blog post describes an administrative oversight role spanning nearly two decades.^1 The likeliest reconciliation, not confirmed by any source directly, is that McEwen held the senior administrative title (Boys' Work Secretary) throughout this span while operational, on-site Camp Chiefs — such as Greig Macdiarmid, documented 1935–1938 — reported to him.^4
+Nelson McEwen (c.1897–1956) served as Boys' Work Secretary of the Montreal YMCA from roughly 1927 to 1947, a role under which he directed Camp Kanawana, and later became the first Metropolitan General Secretary of the Winnipeg YMCA, dying in active service in 1956.^1 ^2 His documented on-site directorship in Grace McMorris's 2023 thesis is narrower — 1930–1931 only^3 — while a 2013 Camp Stephens alumni blog post describes an administrative oversight role spanning nearly two decades.^1 The likeliest reconciliation, not confirmed by any source directly, is that McEwen held the senior administrative title (Boys' Work Secretary) throughout this span while operational, on-site Camp Chiefs — such as Greig Macdiarmid, documented 1935–1939 — reported to him.^4
 
 ## Early Career and Camp Stephens (Winnipeg)
 
@@ -94,7 +94,7 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 1. Camp Stephens Alumni Blog, 2013 posts on Nelson McEwen (campstephensalumni.blogspot.com) [src_camp_stephens_alumni_blog]. Content recovered via search-engine snippets; direct WebFetch returned HTTP 403.
 2. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 14D (National Council) [src_concordia_14D10].
 3. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
-4. Directors and Staff of Camp Kanawana (this wiki) — Greig Macdiarmid's documented 1935–1938 Camp Chief tenure.
+4. Directors and Staff of Camp Kanawana (this wiki) — Greig Macdiarmid's documented 1935–1939 Camp Chief tenure. *[Was 1935–1938 until 2026-09-08; the index extended it on 2026-08-14, the end explained by his going overseas with YMCA War Services that December, and this note did not catch up.]*
 5. Concordia University Archives, sub-sub-series 14D10: National Council Boys' Work Secretary, Nelson McEwen — E.M. Nelson correspondence, 1941–1945 [src_concordia_14D10]. Not digitized.
 6. Camp Stephens Alumni Blog, 2013 (CCA co-founding claim) [src_camp_stephens_alumni_blog].
 7. Canadian Camps Association, "Our History" (ccamping.org/history) [src_cca_history].
