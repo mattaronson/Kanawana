@@ -1,0 +1,48 @@
+SOURCE: Canada, Post Office Department, Annual Report 1914-1915.
+        Internet Archive item n24annualreport1915cana, full djvu text downloaded 2026-09-06.
+        This file holds ONLY the two passages naming Kanawana, with their table headings and
+        enough surrounding lines to show the alphabetical run. The rest of the volume is unread.
+
+=== 1. MAIL TRANSPORTATION -- MONTREAL DIVISION (line 47577 of the djvu text) ===
+
+
+Joliette — L.  Boxes 
+
+Jonction  Bel-Air — Railway  Station 
+
+Kanawana — St.  Sauveur  des  Mont/  . . . 
+
+Kelvin  Grove — Railway  Station 
+
+Kierkoski — St. Charles  Kiver  Richelieu 
+
+
+
+=== 2. NON-ACCOUNTING POST OFFICES -- REVENUE, SALARIES AND ALLOWANCES (line 230456) ===
+    (the table's footnotes annotate offices opened or closed in the year with a letter prefix;
+     note 'h Kaleland' below against the footnote 'h Closed 6-4-14'. Kanawana has no prefix.)
+Kaladar  Station . 
+
+Kaleida 
+
+h  Kaleland 
+
+Kanata 
+
+Kananaskis 
+
+Kanawana 
+
+Kanes 
+
+Kantenville 
+
+Kanyengeh ...    . 
+
+    Footnote line from the same table:
+a  Opened  1-1-15.            b  Closed  6-10-14.           d  Opened  1-6-14.          c  Opened  1-7-14.  /Opened  1-8-14. 
+
+9  Closed  1-5-14.      h  Closed  6-4-14.      i  Closed  1-8-14.      ;  Closed  15-7-14.      k  Closed  14-9-14.  /  Including  $10 
+
+NOT RECORDED: the revenue and allowance figures on Kanawana's row. The OCR breaks this table
+into separate column runs and the rows cannot be aligned to their numbers with any confidence.

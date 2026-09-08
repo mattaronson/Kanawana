@@ -1,0 +1,39 @@
+SOURCE: Canada, "Guide officiel du service postal Canadien, 1917".
+        Internet Archive item guideofficieldus00cana. NOT lending-restricted; full djvu text
+        downloaded and searched 2026-09-06. "Kanawana" occurs twice; both are cached here.
+        The rest of the volume is unread.
+
+=== 1. The national alphabetical list of post offices (line 85407) ===
+fKamouraska-aux-Côtes. . 
+Kamsack 
+tt^a,nanaskis. 
+tKanata  . .   . . 
+Kanawana 
+b  Kandahar. . . 
+Kaiinon 
+tKanteuville 
+
+=== 2. The provincial list, under its own heading (line 154573) ===
+    "BUREAUX DE POSTE DANS LA PROVINCE DE QUÉBEC. ARRANGÉS SUIVANT LES DISTRICTS ÉLECTORAUX."
+    -- so the grouping is by FEDERAL ELECTORAL DISTRICT, not by county.
+    Kanawana appears under TERREBONNE (heading at line 158213), among its neighbours:
+Bréheuf 
+fBritonville 
+îDe  Lesseps 
+,  Entrelac 
+tFourteen  Island  Lake 
+tivry  Nord 
+Kanawana 
+jLa  Boucane 
+Lac  à  la  Truite 
+Lac  Charlebois 
+Lac  Duhamel 
+
+NOTE ON THE NEIGHBOURS: Entrelac, Fourteen Island Lake, Ivry Nord, Lac Charlebois, Lac Duhamel,
+  Lac Echo, Lac Guindon, Lac Manitou Sud, Lac Marois -- every one of them a Laurentian lake or
+  cottage place. Kanawana sits in a run of summer-country offices, which is what the Sessional
+  Papers of 1919 say it was.
+
+NOT DECODED: the daggers and asterisks prefixed to many names in these lists mark classes of
+  office or service. Kanawana carries none in either list. The legend was not found in the
+  volume's front matter and the symbols are therefore NOT interpreted here.

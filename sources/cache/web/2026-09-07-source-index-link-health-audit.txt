@@ -1,0 +1,83 @@
+LINK-HEALTH AUDIT OF THE SOURCE INDEX
+Run 2026-09-07. 441 distinct URLs tested, one request each, following
+redirects, with a browser user-agent.
+
+WHAT WAS TESTED AND WHAT WAS NOT. sources.json holds 1,717 records, 1,407 of
+them with a URL. Excluded from this pass: archive.org (778, item pages that do
+not rot the way ordinary web pages do), en.wikipedia.org (50), newspapers.com
+and facebook.com (paywalled and login-walled, so a code says nothing), and
+web.archive.org (21, which THIS ENVIRONMENT CANNOT REACH FOR ITS OWN REASONS --
+see f_5361 -- so any result would have been a fact about the proxy). That
+leaves 441.
+
+=====================================================================
+THE HEADLINE: 347 OF 441 ARE FINE
+=====================================================================
+
+  200  347      403   50      404   10      000    9      202    7
+  999    5      429    5      502    2      503    1      500    1
+  422    1      410    1      401    1      400    1
+
+=====================================================================
+THE 403/429/999 CLASS IS NOT LINK ROT -- DO NOT "FIX" IT
+=====================================================================
+
+Fifty 403s, five 429s and five 999s, and they cluster exactly where a site
+blocks automated requests: legacy.com (6), acacamps.org (6), ebay.com (3),
+tandfonline.com (2), ourkids.net (2), bac-lac.gc.ca (2), youtube.com (4 x 429),
+linkedin.com and ca.linkedin.com (5 x 999 -- LinkedIn's own bot-refusal code),
+instagram.com. THESE PAGES ARE ALMOST CERTAINLY LIVE IN A BROWSER. A 403 here
+is a fact about our request, not about the page, and anyone tidying the index
+should leave them alone.
+
+Same for the 202s (ydesfemmesmtl.org, imdb.com) and the 000s, which are the
+proxy's tunnel drops rather than anything about the target.
+
+=====================================================================
+GENUINE ROT: ELEVEN URLS, AND WHERE EACH ONE WENT
+=====================================================================
+
+RECOVERABLE FROM THE INTERNET ARCHIVE (six). Capture dates from
+archive.org's availability API, which works here while web.archive.org does
+not; all HTTP 200:
+
+  src_cmat_caddell_obituary        2021-12-02   James Caddell's obituary
+  src_devp_leduc_2015              2016-06-26   Development & Peace on Leduc
+  src_viu_news_twynam_award        2022-10-02   VIU on Dean Twynam's award
+  src_westislandblog_oolahwan      2020-10-27   Camp Oolahwan centennial
+  src_dawson_chris_adam            2019-07-20   Dawson on Chris Adam
+  src_campcode_95                  2021-11-23   Camp Code podcast episode 95
+
+FIXED LIVE, IN PLACE (one). src_canadian_encyclopedia_ymca pointed at
+/en/article/ymca, which 404s. The article is at
+/en/article/young-mens-christian-association and returns 200 with 203 KB.
+ANOTHER URL WRONG IN OUR OWN RECORD, the second found today after the McGill
+News article (f_5364).
+
+NO CAPTURE AND NO LIVE REPLACEMENT FOUND (four):
+  src_nfb_nothing_sacred           HTTP 410 -- the NFB has deliberately
+                                   withdrawn the page, not lost it
+  src_schleisscarter_team          the recorded path is "/iteami", which is
+                                   not a word; /team also 404s
+  src_lcc_lion_2024                issuu.com/lowercanadaschool 404s and
+                                   issuu.com/lowercanadacollege 404s too
+  src_vss_reglement_zonage_222_2008  a Saint-Sauveur zoning by-law PDF
+
+AND ONE THAT NEEDS A BROWSER: src_viu_news_twynam_award has an archive capture,
+but VIU's own site search (news.viu.ca/?s=Twynam) RENDERS ITS RESULTS IN
+JAVASCRIPT and returns 200 with no result links in the HTML, so the live
+replacement URL cannot be found from here either. Same wall as BAnQ (f_5362).
+
+=====================================================================
+WHAT THE AUDIT IS ACTUALLY FOR
+=====================================================================
+
+Not tidiness. A source record whose URL 404s reads, to the next person, as
+evidence that the source is gone -- and today two of them were our own typos
+and six more are one click from readable. The failure mode this audit exists
+to prevent is the one f_5364 records: a mistyped URL recorded as a fact about
+the site, which then sits in the index looking like link rot for a year.
+
+RE-RUN IT with sources/cache/web/, the worklist builder and the threaded
+checker kept in the session scratchpad; the whole pass took about ninety
+seconds at eight workers.

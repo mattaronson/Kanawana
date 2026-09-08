@@ -1,0 +1,372 @@
+ALL 76 ITEMS WHOSE TEXT CONTAINS "KANAWANA" — THE COMPLETE LIST
+================================================================
+Enumerated 2026-09-06 (p_430). Open Library search-inside, `openlibrary.org/search/inside.json`.
+
+WHY THIS FILE EXISTS: THE API PAGES, AND NOBODY HAD PAGED IT
+------------------------------------------------------------
+A query for "Kanawana" reports `total: 76` and RETURNS TWENTY. This project has carried the
+figure 76 since the capability was found, and has been working from the first page of it. The
+parameter is `&page=N` — `&from=` and `&offset=` are accepted and ignored, which is worse than
+rejecting them. Four pages give 20, 20, 20, 16 and the fifth is empty: 76 distinct identifiers,
+listed below.
+
+A COUNT IS NOT A LIST. Everything past the first page was invisible.
+
+AND A BUG OF MY OWN, worth recording because it wasted a query and nearly produced a false null:
+the `identifier` field in each hit is A LIST, not a string. Comparing `str(fields['identifier'])`
+against a bare identifier never matches — it yields "['moonwastiredofwa0000belt']" — and the first
+run of this sweep reported that none of the items being looked for were present when one of them
+was in the first twenty hits. Extract with `fields['identifier'][0]`.
+
+WHAT WAS BEING LOOKED FOR, AND WHAT IT TURNED OUT TO BE
+-------------------------------------------------------
+p_430 carried three items over as unread: `moonwastiredofwa0000belt` (1992),
+`swimmingwatersaf0000unse` (1995) and `atlasroutierduqu0000mapa`. ALL THREE ARE FALSE FRIENDS OR
+NEAR-MISSES, and each fails differently:
+
+  moonwastiredofwa0000belt — "the souls of shamans who cause death, Join KANAWANA, Thunder, Where
+    he lives with the white-haired..." This is the TAPIRAPE TERM FOR THUNDER. A whole cluster of
+    the 76 is this same word in South American ethnography — `isbn_086078519x` says it outright:
+    "the Tapirape term for thunder is Kanawana, but they also have a term, topu, cognate with..."
+    Every handbookofsoutha*, tobaccoshamanism, welcomeoftears, storytellerssour and similar item
+    in the list below belongs to this cluster. NOT THE CAMP.
+
+  swimmingwatersaf0000unse — "instructors, volunteers, or canoe clubs • Kanawana Magazine, a
+    72-page, full-colour quarterly publication • The Bill Mason..." This is an OCR ERROR FOR
+    *KANAWA* MAGAZINE, published by the CANADIAN RECREATIONAL CANOEING ASSOCIATION. Checked
+    rather than assumed: a search for "Kanawa Magazine" returns 20 items, among them "produces
+    Kanawa magazine, devoted to Canadian paddling issues" and "Kanawa Magazine (published by the
+    Canadian Recreational Canoeing Association)". NOT THE CAMP.
+
+  atlasroutierduqu0000mapa — "lac-des-Kanawana ... Becs-Scie ... Sainte-..." This one IS ours, but
+    it is A MAP LABEL FOR THE LAKE, in a road atlas index, and carries no information about the
+    camp beyond the lake's existence and position. Worth having for toponymy, not for history.
+
+THREE MORE FALSE FRIENDS IN THE LIST, each a different failure:
+  itsallgoingterri0000park — "Kiri te Kanawana" — KIRI TE KANAWA, the soprano, with an OCR'd n.
+  bwb_W8-BJN-432 — "settled on the Kanawana River and built the first ferry" — the KANAWHA RIVER.
+  the japaneseenglish* and ajapaneseandeng01hepbgoog items — Hepburn's Japanese-English
+    dictionary, where the string is a Japanese word.
+
+THE CAMP ITEMS IN THIS LIST WERE ALREADY FOUND. Everything genuinely about Kamp Kanawana that
+appears here — McLean's Vinyl Cafe notebooks, Torge's Dear Sam, Elvin's Box from Braunau, Fong's
+McConnell biography, the Canadian Key Business directories, the McGraw-Hill almanacs, the
+Canadian Almanac run, Who's Who, the summer-camp guides, the Petit Fute, the ski and plein-air
+guides, Ball's Basic Camp Management, montralinsideo00buxt's Kanawana Outing Club,
+mycanadasuchmech0000mike's "Camp Kanawana or Tameracouta", politicspeoplepo0000macd's five-day
+canoe trip — is already registered in sources.json. THE FIRST PAGE HAD THE SUBSTANCE. What paging
+adds is the certainty that it did, plus the taxonomy of what the other fifty-six are.
+
+THE COMPLETE LIST
+-----------------
+Registration status is against sources.json as of 2026-09-06. One highlight snippet per item, as
+returned; where an item's snippet is absent the API returned none on the page that carried it.
+
+acrossboundaries0000unse
+    [not in sources.json]
+    > shamanism. The Tapirape term for thunder is {{{Kanawana}}}, but they also have a term, topu, cognate
+
+ajapaneseandeng01hepbgoog
+    [not in sources.json]
+    > Kirei-ni; teinci-ni. NECESSARY, Kanaradz; nakute {{{kanawana}}}; yamu koto wo yedz; yondokoronai; yo- ginai. NEcK
+
+allknowinggod0000pett
+    [not in sources.json]
+    > basin, who also are Tupian, believe that Thunder ({{{Kanawana}}}) lives far away, on Maratawa, surrounded by the
+
+allknowinggod0000raff
+    [not in sources.json]
+    > basin, who also are Tupian, believe that Thunder ({{{Kanawana}}}) lives far away, on Maratawa, surrounded by the
+
+atlasroutierduqu0000mapa
+    [not in sources.json]
+    > Lac-Renaud x AV: dey: CHA RTS ee, à = SDlac-des- {{{Kanawana}}} Becs-Scie xf es Sai nte: Monts?) ye: = SE bane
+
+basiccampmanagem0000ball_r5m1
+    [REGISTERED]
+    > both organized in the same year: 1894—YMCA Kamp {{{Kanawana}}} in Quebec and Camp Keewaydin (formerly Kamp Kah
+
+bonniebelmont00coch
+    [not in sources.json]
+    > This creek was called by the Indians “{{{Kanawana}}}.” “I wish you would tell me of the incident
+
+boxfrombraunauin0000elvi
+    [REGISTERED]
+    > summer, Dad and Georgie went off to Kamp {{{Kanawana}}}, a YMCA camp located on a remote lake
+
+bwb_W8-BJN-432
+    [not in sources.json]
+    > settlements was by William Ingles, who settled on | the {{{Kanawana}}} River and built the first ferry across the river
+
+canadianalmanacd0000unse_h4a6
+    [not in sources.json]
+    > 'Kamsack. ..1,754 tKananaskis. . t Kanasuta . {{{Kanawana}}} . DOMINION ELECTORAL DISTRICTS . NB Victoria-
+
+canadianalmanacd0000unse_o8e8
+    [not in sources.json]
+    > Kainsack. ..2,327 t Kananaakis . tKanasuta . {{{Kanawana}}} . Vioioria- Uarletou . . . . N B Hastings-
+
+canadianalmanacd0000unse_x3a0
+    [not in sources.json]
+    > Kamouraska-aux- COtes. Kamsack . Kananaskis . Kanata . {{{Kanawana}}} . Kandahar . Kannon . Kantenville . Kanyengeh
+
+canadianalmanacd0000unse_y6g6
+    [REGISTERED]
+    > Kamouraska-aux COtes. Kamsack . Kanauaskis . Kanata . {{{Kanawana}}} . Kandahar . Kannon . Kantenville . Kanyengeh
+
+canadianalmanacd0000unse_y9h2
+    [not in sources.json]
+    > Alta/535-225 Kanasuta........ Ponbiag...)..<0%0% Q/699 7 {{{Kanawana}}},...... Terrebonne...... Q|St. Sauveur 529 or Piedmont
+
+canadiankeybusin1994unse
+    [not in sources.json]
+    > 20-765-0813 (HQ) Y M C A de Montreal Kamp {{{Kanawana}}} Div Of 1441 Drummond Rue. Montreal. PQ
+
+canadiankeybusin1997unse
+    [not in sources.json]
+    > Ressources Humaines Y M C A de Montreal Kamp {{{Kanawana}}} Div Of 1441 rue Drummond. Montreal. PQ
+
+canadiankeybusin1999unse
+    [REGISTERED]
+    > 20-765-0813 (HQ) Y M C A de Montreal Kamp {{{Kanawana}}} Dtv Of 1441 rue Drummond. Montreal. PQ
+
+canadiankeybusin2000unse
+    [not in sources.json]
+    > 20-765-0813 (HQ) Y M C A de Montreal Kamp {{{Kanawana}}} Div Of 1441 rue Drummond, Montreal, PQ
+
+canadianliterary0362unse
+    [REGISTERED]
+    > vacation of 1969 he got a job as a counselor at Kamp {{{Kanawana}}}, near Saint-Sauveur, Quebec, about an hour from
+
+canadianobituary0000stam_b1t2
+    [REGISTERED]
+    > Quebec, and was a di¬ rector of Camp {{{Kanawana}}}, a children's camp in the Laurentians. He
+
+canadiansummerjo0000unse
+    [REGISTERED]
+    > application package on their website YMCA KAMP {{{KANAWANA}}} 1435 rue Drummond, 4e etage Montreal, QC
+
+canadiansummerjo0000unse_q4r4
+    [REGISTERED]
+    > Job Directory Finding a Summer Job 215 YMCA KAMP {{{KANAWANA}}} 1435 Drummond, 4th Floor Montréal, QC H3G 1W3
+
+chemistryofminda0000perr
+    [not in sources.json]
+    > Araguaya. There it is that the sun comes up. | saw {{{Kanawana}}}. He was big and his body was covered with much
+
+compilationofaut00unit
+    [not in sources.json]
+    > although de- nominated a purchase. Connor v. {{{Kanawana}}}, 104 Wis. 471. 23 A proceeding to condemn
+
+dearsamgrievingd0000jane
+    [REGISTERED]
+    > a position as a counselor-in-training at Kamp {{{Kanawana}}}, the place he had spent practically every summer
+
+dictionnairedesb00univ
+    [REGISTERED]
+    > Kamuti V, m* C . Kanada V, M, C . {{{Kanawana}}} c Kanawyer c Kanaya V, M, C . Kancha
+
+fromenemyspointo0000cast
+    [not in sources.json]
+    > Karuguara is transformed into the Tapirapé Thunder ({{{Kanawana}}}), the Kayabi Master of Water (Karuat), the Guarani
+
+guideofficieldus00cana
+    [REGISTERED]
+    > . Kamsack tt^a,nanaskis. tKanata . . . . {{{Kanawana}}} b Kandahar. . . Kaiinon tKanteuville tKanyengeh
+
+guidepetitfuteci0000coll
+    [REGISTERED]
+    > avec la saison des pommes et des poires. CAMP Y {{{KANAWANA}}} 514-849-5331 www.ymcakanawana.ca Premier camp
+
+guidepleinairque0000unse
+    [REGISTERED]
+    > Sainl-Hippofyte Domaine des Prte 932.7161 Mont-Laurier {{{Kanawana}}} 819.623.5258 Saint-Sauveur 'Y' CountryCamp 849
+
+guidetogods0000leac
+    [not in sources.json]
+    > of the wind. Hawaii. (Westervelt, 1963, 3: 192) {{{Kanawana}}} The thunder. The Tapirape, Brazil. (Wagley and
+
+guidetogods0000leac_k3w1
+    [not in sources.json]
+    > of the wind. Hawaii. (Westervelt, 1963, 3: 192) {{{Kanawana}}} The thunder. The Tapirape, Brazil. (Wagley and
+
+guidetosummercam0000port
+    [REGISTERED]
+    > Canadian Outward Bound, Can. (C) Pine Island, ME (B) {{{Kanawana}}}, Can. (C) Waganaki, ME (B) Kapitachouane, Can
+
+guidetosummercam0000unse
+    [REGISTERED]
+    > Arohon, Can. (C) Canadian Outward Bound, Can. (C) {{{Kanawana}}}, ‘Can. (C) Kandalore, Can. (B) Kapitachouane,
+
+handbookofsoutha0003stew
+    [not in sources.json]
+    > and is the high point of shamanistic activity. {{{Kanawana}}}, the Thunder, lives on distant Maratawa surrounded
+
+handbookofsoutha0003unse
+    [not in sources.json]
+    > the high point of shamanistic activity. {{{Kanawana}}}, the Thunder, lives on distant Maratawa
+
+handbookofsoutha0007stew
+    [not in sources.json]
+    > 624 Kafiawa (Chenopodium sp.), 2: 518, 515, 557 {{{Kanawana}}}, Thunder god, 3: 177 Kanawari, see Canamari. Kandoshi
+
+handbookofsoutha0007unse
+    [not in sources.json]
+    > Kanawa ( Chenopodium sp.), 2: 513, 515, 557 {{{Kanawana}}}, Thunder god, 3: 177 Kanawari, see Canamari
+
+handbookofsoutha00stew
+    [not in sources.json]
+    > the high point of shamanistic activity. {{{Kanawana}}}, the Thunder, lives on distant Maratawa
+
+highschoolmagazi00high
+    [REGISTERED]
+    > PLACE for YOUR BOY CONDCCTED BY K A M P {{{Kanawana}}} for BOYS Open June 24th to August 12th The
+
+ifbymiracle0000kutz
+    [REGISTERED]
+    > wheelchairs, as well as for diabetic children from Camp {{{Kanawana}}}. Our organization’s donations helped create one
+
+indiancountrysid00oconiala
+    [not in sources.json]
+    > of them, and nobody does them any harm. {{{KanaWana}}} Tne town near which we are encamped
+
+isbn_086078519x
+    [not in sources.json]
+    > sha- manism. The Tapirapé term for thunder is {{{Kanawana}}}, but they also have a term, topu, cognate with
+
+isbn_0888500963
+    [not in sources.json]
+    > Kananaskis, UP (Alta.) 34 D2 Kanata, UP (Ont.) 17 D4 {{{Kanawana}}}, UP (Que.) 18 F4 Kandahar, UP (Sask.) 31 H1 Kane
+
+itsallgoingterri0000park
+    [not in sources.json]
+    > Ceremony for Minerva II, Tower Bridge Kiri te {{{Kanawana}}} ° Stephen Fry Not Forgotten Association Christmas
+
+japaneseenglish00hepbgoog
+    [not in sources.json]
+    > Fu-s0-0 na, fueniai, fue s6t6, ni-awanu, ri ni {{{kanawana}}}, muta yalietbvenshibun. = conduct, fiyox Ipaopniety
+
+japaneseenglishe00hepbuoft
+    [not in sources.json]
+    > kOron, keukwa, •rasoi. DiHQfAi,iriFr.. pp. {{{Kanawana}}}, tekito nonti. Dis<. Slutupai •a«erti, wazurawMQ
+
+jwmcconnellfinan0000fong
+    [REGISTERED]
+    > Desjardins, near Saint-Sauveur, for a new Camp {{{Kanawana}}}, which was renamed Lake Wilson after his
+
+lequbecenpleinai0000laru
+    [REGISTERED]
+    > camp existe toujours: c’est maintenant le camp {{{Kanawana}}}. En 1911, le Camp Nominingue, le premier camp
+
+leslaurentidespe0000unse
+    [REGISTERED]
+    > des colonies de vacances comme le camp {{{Kanawana}}} de la YMCA sont venus dormir sous la tente
+
+lespistesdeskide0000veil
+    [REGISTERED]
+    > Plante Casier postal 308 Val David, Québec JOT 2N0 {{{Kanawana}}} Outing Club Y.M.C.A. 882, Montmorency Châteauguay
+
+mcgrawhilldirect0000unse
+    [REGISTERED]
+    > Kanasuta, PQ, see ON Arntfield, PQ Kanata, Ont O {{{Kanawana}}}, PQ, see St-Sauveur-des-Monts, PQ Kandahar,
+
+mcgrawhilldirect0000unse_f4f5
+    [not in sources.json]
+    > Kanasuta, PQ, see Arntfield, PQ ON Kanata, Ont O {{{Kanawana}}}, PQ, see St-Sauveur-des-Monts, PQ Kandahar,
+
+mcgrawhilldirect0000unse_v4j7
+    [not in sources.json]
+    > Blackville, NB Kanata, Ont o CN Keene, Ont 0 CN; CP {{{Kanawana}}}, PQ, see CP Keephills, Alta, see CN St-Sauveur-des-Monts
+
+meltingpotbeyon00amer
+    [not in sources.json]
+    > Italians was sent to work on the Little {{{Kanawana}}} River in West Virginia, but upon discovering
+
+mindfuloffaminer0000wilb
+    [not in sources.json]
+    > village shaman and his wife who challenge Thunder ({{{Kanawana}}}), with his retinue of children (topii) and ancestral
+
+montralinsideo00buxt
+    [REGISTERED]
+    > trips to various trails throughout Quebec. {{{Kanawana}}} Outing Club, operated by the YMCA near
+
+moonwastiredofwa0000belt
+    [not in sources.json]
+    > the souls of shamans who cause death, Join {{{Kanawana}}}, Thunder, Where he lives with the white-haired
+
+mycanadasuchmech0000mike
+    [REGISTERED]
+    > if you were really fortunate, getting = Camp {{{Kanawana}}} or Tameracouta for two weeks); t the gods, the
+
+n08sessionalpaper54canauoft
+    [REGISTERED]
+    > Kanata " Alberta.. Kananaskis Alberta.. {{{Kanawana}}} (summer office) P.Q Kannon P.Q Kantenville
+
+n24annualreport1915cana
+    [REGISTERED]
+    > Boxes Jonction Bel-Air — Railway Station {{{Kanawana}}} — St. Sauveur des Mont/ . . . Kelvin Grove
+
+politicspeoplepo0000macd
+    [REGISTERED]
+    > recently went on a five-day canoe trip at Camp {{{Kanawana}}} in the Lauren- tians, she is the family expert
+
+portalsofpowersh0000unse
+    [not in sources.json]
+    > living in the sky, governing his immortal children; {{{Kanawana}}} is a wrathful nature deity living on a mountain
+
+randmcnallycosin00rand
+    [REGISTERED]
+    > Labelle , , 36 Kamouraska, E-18 * t 600 {{{Kanawana}}}, Terrebonne, (Summer P. O.) Kartoum,
+
+retenueparunfil0000unse
+    [REGISTERED]
+    > appelé Escobar, il a pour sa part rejoint le camp {{{Kanawana}}} du YMCA. Il m'a écrit de longues lettres décrivant
+
+rpertoirelusaged0000unse
+    [not in sources.json]
+    > Kamouraska-Moulin (Kamouraska) Kanaaupscow (Nouveau Québec) {{{Kanawana}}} (Terrebonne) Kapistauchisitanuch (Nouveau-Québec)
+
+storytellerssour0000macd
+    [not in sources.json]
+    > are women (E610). Shaman’s souls join Thunder, {{{Kanawana}}}, where he lives with topu, small beings who travel
+
+stuffofdreamsnat00lenz
+    [not in sources.json]
+    > represents a tupan, a supernatural helper of {{{Kanawana}}}, the thunder. A tupan is described as being
+
+summercampsprogr0000gold
+    [REGISTERED]
+    > Fernwood, 154 Gunflint Wilderness Camp, 158-159 Kamp {{{Kanawana}}}-Montreal YMCA, 172-173 Keewaydin Camp on Lake
+
+swimmingwatersaf0000unse
+    [not in sources.json]
+    > instructors, volunteers, or canoe clubs • {{{Kanawana}}} Magazine , a 72-page, full- colour quarterly
+
+tobaccoshamanism0000wilb
+    [not in sources.json]
+    > There it is that the sun comes up. I saw {{{Kanawana}}}. He was big and his body was covered with
+
+vanishingworldsa0000unse
+    [not in sources.json]
+    > figurine, Topu, representing the messenger of {{{Kanawana}}}, a supernatural spirit. (Cat. 66) same village
+
+vinylcafenoteboo0000mcle
+    [REGISTERED]
+    > Kamp {{{Kanawana}}} on the shores of Lake {{{Kanawana}}} in the Laurentian Mountains. {{{Kanawana}}} is where
+
+welcomeoftears00char
+    [not in sources.json]
+    > a powerful supernatural. He was called {{{Kanawana}}}. Kana- wana lives in his house in the
+
+welcomeoftearsta0000wagl
+    [not in sources.json]
+    > Thunder a powerful supernatural. He was called {{{Kanawana}}}. Kana- wana lives in his house in the sky surrounded
+
+whoswhoincanada0000unse_r1d7
+    [REGISTERED]
+    > Ski (President, 1960); Redbirds Ski; Kamp {{{Kanawana}}} (YMCA), Director, IN CANADA 1965. Recreation;
+
+
+QUERIES RUN: "Kanawana" pages 1-5; "Kamp Kanawana" (13, all returned); "Camp Kanawana" (8, all
+returned); "Kanawana Magazine" (1); "a 72-page, full-colour quarterly" (1); "Kanawa Magazine" (20);
+and archive.org/metadata on the three p_430 carry-overs, all three of which are lending-restricted.

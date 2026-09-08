@@ -1,13 +1,19 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 18*
+*Last Updated: 2026-09-08 (the branch chair between the camp and the metropolitan portfolio)*
 
 ## Overview
 
 **Roy D. Locke** became Camp Chief of Kamp Kanawana in the summer of 1947 and held the Montreal YMCA's Boys' Work and Camping portfolio until September 1954. He is the first name to fill the 1947–1958 postwar gap, which this project treated as entirely undocumented until August 2026.
 
-His association career is the longest of any figure in this index: he appears as Kanawana's Camp Chief in 1947, returns as executive secretary of the **Camping Branch** in 1970–72 — this time as the branch head above [[people/james-h-turner|James H. Turner]] in the camp's short-lived two-tier structure — and is still on the Montreal YMCA's Metropolitan Staff in 1986 as Director of Funding Development. That is a documented span of roughly forty years.^1 ^2
+**And he advertised, publicly, under his own name and telephone number.** *The McGill Daily* of **20 May 1948** carries: "**FIVE VACANCIES** on our Counsellor Staff. Phone: **R. D. Locke, Director**, Y.M.C.A. Kamp Kanawana. **MA. 8331**, for an interesting, healthful and profitable summer." The same block ran on **25 May 1949** with "**FOUR VACANCIES**" and a line of property description.^15 These are the first outside, dated documents this project holds from inside his Kanawana years, and they were placed by the camp itself, in the last week of term, in a university newspaper.
+
+*Note the title, and do not read too much into it.* The association's own records call him **Camp Chief**; the advertisement he placed calls him **Director**. Which is what a camp puts in a newspaper to strangers. It is a caution against treating title variation in this period as evidence of a change in post.
+
+*And note what kind of number the vacancies are.* Five and then four, advertised at the end of May, is not a staff total — it is what the camp still needed after its own channels had been worked, which says the late-season shortfall was small and roughly steady across two years. See [[connections/institutional-lineage/sgw-concordia-connection|The SGW–Concordia Connection]] for the other end of the same recruiting: the Sir George Fellowship men who staffed the Montreal camps in these years.
+
+His association career is the longest of any figure in this index: he appears as Kanawana's Camp Chief in 1947, returns as executive secretary of the **Camping Branch** in 1970–72 — this time as the branch head above [[people/james-h-turner|James H. Turner]] in the camp's short-lived two-tier structure — and is still on the Montreal YMCA's Metropolitan Staff in 1986 as Director of Funding Development. That is a documented span of roughly forty years.^1 ^2 ^3
 
 ## Kanawana Camp Chief (1947–1954)
 
@@ -35,6 +41,17 @@ the national movement, and they run earlier and longer than this article previou
 | April 1952 | "**Roy D. Locke** director of Y.M.C. Kamp Kanawana **is president of the Quebec Camping Association**"^4 |
 | April 1954 | "Quebec **Past President** — Mr. Roy Locke, **Boys' Work Secretary, Metropolitan YMCA Montreal**"^9 |
 | June 1954 | "Mr. Roy Locke, **Past President of the Q.C.A.**, gave an impressive speech"^10 |
+
+**And there is a branch chair between the camp and the metropolitan portfolio.** The Montreal
+association's annual report for the year ending **31 March 1948** records, among that year's secretarial
+changes: "**R. H. Hanagan, Executive Secretary of Eastern Communities Branch, resigned. He was succeeded by
+Roy D. Locke, Boys' Work Secretary of Notre Dame de Grace Branch.**"^16 Two things follow. His post before
+that was **Notre Dame de Grace's boys' work**, which this article did not have; and by the year ending
+March 1948 he was running a branch — the **Eastern Communities Branch**, the chair
+[[people/rh-hanagan|R. H. Hanagan]] was leaving, and the chair Hanagan had been directing camp from in
+1946. So Locke took Kanawana in 1947 and the branch in 1947-48, and the metropolitan Boys' Work and Camping
+secretaryship came later. *The camp chieftaincy was not a post he held instead of a branch job; it sat on
+top of one.*
 
 He also appears in February 1951 in a national committee meeting alongside Mary Edgar — founder of
 [[connections/related-camps/camp-oolahwan|Camp Oolahwan]] — Agnes Mutchler of the
@@ -72,6 +89,63 @@ Locke … June 1953**" a decade later.^11
 **No copy of the manual itself is known to survive in this project's sources.** It would be among the
 most valuable single documents for the camp's 1950s operation, and it is a specific thing to ask
 Concordia for — tracked as `p_285`.
+
+## Death, full name, and the identification this article had refused to make
+
+**Roy Douglas Locke died at Montreal West on 19 September 1991, aged 71.** He was born in Toronto about
+1920, which makes him about twenty-seven when he became Camp Chief in 1947. His entry in *The Canadian
+Obituary Record* runs:^14
+
+> "**LOCKE, ROY** municipal politician [b. Toronto, Ont., c. 1920; d. Montreal West, Que., 19 September
+> 1991, age 71]. **Roy Douglas Locke** was a former mayor of the suburban Montreal community of Montreal
+> West. Locke graduated from the **University of Toronto** and worked initially with the Young Men's
+> Christian Association (YMCA) in Toronto[…] **business from 1954 to 1969, then returned to the YMCA as
+> director of financial development until 1986**. He served on the **town commission of Montreal West
+> from 1973 to 1989, first as commissioner of recreation, then for 12 years as mayor**. Locke was
+> particularly proud of his work in developing parks and protecting green spaces in the community. Locke
+> headed the financial campaign for the **Fraser Hickson Library** in Notre Dame de Grace, Quebec, **and
+> was a director of Camp Kanawana**, a children's camp in the Laurentians. He is survived by his wife,
+> **Patricia, née Binns**, daughter **Vicky Chantler** and three grandchildren. (MG 20 and 21 Sep [1991])"
+
+**The section below this one was written to say that the mayor of Montreal West and the Kanawana camp
+chief were probably the same man and that no document joined them.** One does. The obituary gives both
+in a single entry, and the middle initial matches: the camp's records say "Roy D. Locke", and the
+obituary says Roy **Douglas** Locke. The section is kept as written, because the reasoning that declined
+the identification was right to decline it on what was then available.
+
+Two more things fall into place. The 1986 Metropolitan Staff roster listing him as **Director, Funding
+Development** is the end of the YMCA return the obituary dates "until 1986". And the 1978 director's
+report thanking "the Town of Montreal West and **Mayor Roy Locke**" for the loan of water meters falls
+inside a mayoralty of twelve years within a commission service of 1973–1989 — so the camp borrowed its
+water meters from its own former camp chief.
+
+**One tension, not smoothed over.** The obituary puts him in business from 1954 to 1969. The Montreal
+YMCA's own 1954 Annual Report has him succeeding N. A. Millington at Westmount Branch on 1 September
+1954.^2 *That man is **Norman J. Millington***, appointed Membership Secretary of Central Branch in the year ending 31 March 1947, whose given name the 1947 report spells out and whose initial the 1954 scan renders as an A; he led the Foremen's Club that rebuilt [[site/camp-perrot|Camp Perrot]]'s barn in 1948.^18 Either the Westmount posting was brief and he left the association soon after taking it, or the
+obituary compresses fifteen years into a phrase. Both are documented; neither is preferred here. The
+gap in the reconstruction falls exactly there — the clause between "in Toronto" and "business from 1954
+to 1969" was not recovered, and it is the clause that would cover his Montreal years, Kanawana included.
+
+**And the 1969 return may be in the association's own report, under a heading the scan has scrambled.**
+The 117th annual report, for the fiscal year ended **31 May 1969**, carries a personnel section in two
+columns that the OCR has reflowed into one. Among its lines: "**R. Locke - Assistant to the General
+Secretary.**"^17
+
+*The trouble is which list it belongs to.* The section runs NEW APPOINTMENTS, TRANSFERS, RESIGNATIONS,
+RETIREMENT, and the reflow puts this line after the retirement entry for F. G. Hubbard and after a
+sentence recording deaths. **If it is an appointment, it is the obituary's "returned to the YMCA" in
+1969, dated to a fiscal year ending 31 May 1969 and given a title the obituary does not name** — the
+obituary calls the return post "director of financial development", which is what the 1986 Metropolitan
+Staff roster has him as, seventeen years later. **If it is a retirement, it contradicts the obituary
+outright.** Nothing in the OCR settles it and neither reading is preferred here. **The next step is
+small and specific: read the personnel page of that report from the scan rather than the text layer**,
+where the two columns will be visible and the heading will be unambiguous.
+
+*How this was read.* The volume is lending-restricted on the Internet Archive and cannot be opened from
+here. The entry was assembled from about a dozen overlapping phrase queries against Open Library's
+search-inside endpoint, which returns snippets from restricted books; the method and its limits are at
+[f_4933], and the reconstruction with its queries is cached.^14 The underlying obituary — the *Montreal
+Gazette* of 20 and 21 September 1991 — has not been read, and would carry more.
 
 ## A Possible Later Life
 
@@ -123,7 +197,12 @@ That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report 
 11. *Canadian Camping* Vol. 16 No. 1, December 1963 — cumulative subject index [src_ia_canadian_camping_collection].
 12. *Kamp Kanawana Director's Report 1978*, acknowledgements [src_ia_ymca_montreal_fonds_collection].
 13. *Canadian Camping*: officer lists June 1949, February 1951, April 1952 and April 1954, and Roy D. Locke, "A Manual of Operations," June 1953 [src_ia_canadian_camping_collection]. See [f_2472]. The 1965 successor is at [f_2403].
+14. Robert M. Stamp (ed.), *The Canadian Obituary Record* (Toronto: Dundurn Press), entry "LOCKE, ROY", Internet Archive scan leaf 266 [src_stamp_canadian_obituary_record]. **One entry only**, reconstructed 2026-09-06 from about a dozen overlapping Open Library search-inside queries, with one internal gap not recovered; the volume is lending-restricted and has not been read, and the printed page number is unknown. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-stamp-obituary-roy-locke.txt`. See [f_4935], [f_4933].
+15. Kamp Kanawana counsellor recruitment advertisements, *The McGill Daily*, Vol. 37 No. 100, 20 May 1948 [src_mcgill_daily_1948_05_20] and Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]. Both transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5413], [f_5414].
 
+16. YMCA of Montreal annual report for the year ending **31 March 1948** [src_ymf_sgw_ymca_annual_report_1948], the secretarial-staff paragraph: Locke's move from the Notre Dame de Grace boys' work secretaryship to the Eastern Communities executive secretaryship, succeeding R. H. Hanagan. Read 2026-09-08 under p_490. See [f_5745].
+17. YMCA of Montreal, **117th Annual Report**, for the fiscal year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the personnel section. Read 2026-09-08 under p_490. The section is a two-column table the OCR has reflowed into a single stream, so the line "R. Locke - Assistant to the General Secretary" cannot be assigned to its heading from the text layer. See [f_5753].
+18. YMCA of Montreal annual report for the year ending **31 March 1947** [src_ymf_sgw_ymca_annual_report_1947], the staff paragraph: "Central Branch was strengthened by the appointment of **Norman J. Millington** as Membership Secretary." Read 2026-09-08 under p_490. See [f_5756].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_250) from facts established by the director-gap research campaign of the same day (f_2079, f_2084, f_2120). No new research was conducted for this spawn.

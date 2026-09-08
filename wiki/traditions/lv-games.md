@@ -1,7 +1,9 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 21*
+*Last Updated: 2026-09-07 (the Capitaine role attested from outside the camp, and earlier)*
+
+## Overview
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. **The camp's own 1988 report states it plainly**, under Programme Highlights: "1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created."^13 The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
@@ -9,9 +11,11 @@ The format as it developed through the late 1940s and 1950s was distinctive. Tea
 
 **The earliest contemporaneous description is from 1949**, and adds three things this article did not have. The YMCA of Montreal's 1950 Annual Report, covering the 1949 season, records: "'Lumbermen-Voyageur' Week, as a closing feature of camp programme has become a worthwhile tradition of Kanawana. A striking, large **fireplace mural in the dining hall** makes use of this motif. Division of the entire camp into two teams for this final week of good-natured competition again met with tremendous enthusiasm on the part of campers."^13 So by 1949 it ran a **full week**, it was the **closing feature** of the season, and the dining hall carried a **large fireplace mural** of the Lumbermen/Voyageur motif — a physical artifact of the tradition that no longer appears in any modern description of the room.
 
+## Origins: from Lumberman-Voyageur Week to the Games
+
 ### What the parent tradition looked like at Pine Crest
 
-This article has always described the Pine Crest borrowing from the outside, on the strength of a commemorative book and a YMCA blog. The ceremony itself is now on record, described by the man who ran the camp. **W. E. "Ted" Yard** — Director of Camp Pine Crest through the 1950s and early 1960s, President of the Ontario Camping Association 1949-51 and of the Canadian Camping Association 1953-55 — wrote an account of the camp's observances that the national magazine reprinted as his obituary tribute in 1983.^20 The **Voyageur-Lumberman ceremony** in it is not a competition but a tableau at sunset, with a spoken text:
+This article has always described the Pine Crest borrowing from the outside, on the strength of a commemorative book and a YMCA blog.^3 ^4 The ceremony itself is now on record, described by the man who ran the camp. **W. E. "Ted" Yard** — Director of Camp Pine Crest through the 1950s and early 1960s, President of the Ontario Camping Association 1949-51 and of the Canadian Camping Association 1953-55 — wrote an account of the camp's observances that the national magazine reprinted as his obituary tribute in 1983.^20 The **Voyageur-Lumberman ceremony** in it is not a competition but a tableau at sunset, with a spoken text:
 
 > "**Let us pause for a moment, and viewing the truly beautiful shades of our Muskoka evening, let us this day drink deep of the beauty in lake and sky and stately pine. Let us cherish the deep friendships discovered at this spot; may they give deeper meaning to lives already dedicated to helpful, purposeful ends.**"
 >
@@ -33,7 +37,7 @@ The name was never formally changed; it drifted, and it drifted back. Documented
 |---|---|
 | 1949–50 | "Lumbermen-Voyageur **Week**" |
 | 1960 | "Lumberman-Voyageur **Day**" |
-| 1966 | "Lumberman and Voyageur" (no unit word) |
+| 1966 | "Lumberman and Voyageur" (no unit word)^10 |
 | 1969 | "Lumbermen and Voyageurs," under *total camp activities* |
 | 1975–77 | "Lumbermen-Voyageurs" / "Lumbermen-Voyageur Competitions" |
 | **1982** | **"the Lumbermen-Voyageurs Games"** — first attested use of "Games" |
@@ -51,11 +55,11 @@ It survived the winter — 1977, 1978, 1982, 1987 and 1993 are all documented. T
 
 By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^1 The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^1 The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, consistent with a 1947 origin and exactly one skipped season. That season is **2021** — not 2020, as this article inferred before the trophy was read and the remote-Games account supplied; see The Annual Trophy below. On the same count, the 2026 Games contested on 14 August 2026 were the **79th edition**.
 
-The tradition was not unique to Pine Crest and Kanawana, though the parallel is looser than an earlier version of this article stated (see Revision History). YMCA Hayo-Went-Ha Camps in Michigan (founded 1904) use "Woodsmen" and "Voyageurs" as program names, but direct fetches of both program pages show these are age-based program *levels* (Woodsmen: younger boys' general in-camp activities; Voyageurs: older campers' canoe-expedition tier, e.g. an AuSable River trip), not a Color-War-style competing team pair — neither page describes any team rivalry or scoring against the other. The naming echo is real but is not evidence of a shared *competitive* tradition.
+The tradition was not unique to Pine Crest and Kanawana, though the parallel is looser than an earlier version of this article stated (see Revision History). YMCA Hayo-Went-Ha Camps in Michigan (founded 1904) use "Woodsmen" and "Voyageurs" as program names, but direct fetches of both program pages show these are age-based program *levels* (Woodsmen: younger boys' general in-camp activities; Voyageurs: older campers' canoe-expedition tier, e.g. an AuSable River trip), not a Color-War-style competing team pair — neither page describes any team rivalry or scoring against the other.^5 ^9 The naming echo is real but is not evidence of a shared *competitive* tradition.
 
-Camp Pine Crest's own camping lineage traces further back than 1940: it had roots in the Broadview Boys' Institute camping tradition dating to 1896; the Institute (Toronto) amalgamated with the Toronto YMCA in 1910 to become the Broadview YMCA, which opened Pine Crest that same year. However, the Pine Crest Games themselves are independently confirmed (YMCA of Greater Toronto's own history page and blog) to have begun only in 1940 — seven years before Kanawana adopted the format — so the 1896 root is camp/institutional lineage, not evidence the L&V-style competition itself is older than 1940.
+Camp Pine Crest's own camping lineage traces further back than 1940: it had roots in the Broadview Boys' Institute camping tradition dating to 1896; the Institute (Toronto) amalgamated with the Toronto YMCA in 1910 to become the Broadview YMCA, which opened Pine Crest that same year. However, the Pine Crest Games themselves are independently confirmed (YMCA of Greater Toronto's own history page and blog) to have begun only in 1940^3 — seven years before Kanawana adopted the format — so the 1896 root is camp/institutional lineage, not evidence the L&V-style competition itself is older than 1940.
 
-More broadly, the general team-competition-week genre (of which Lumbermen-vs-Voyageurs is a Canadian/YMCA/frontier-themed regional variant) is documented by historian Leslie Paris (UBC) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple (known generically as "Color War") by the 1920s. This places Kanawana and Pine Crest's L&V tradition as a regional YMCA branch of an already-established American genre, not a novel invention.
+More broadly, the general team-competition-week genre (of which Lumbermen-vs-Voyageurs is a Canadian/YMCA/frontier-themed regional variant) is documented by historian Leslie Paris (UBC) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple (known generically as "Color War") by the 1920s.^7 This places Kanawana and Pine Crest's L&V tradition as a regional YMCA branch of an already-established American genre, not a novel invention.
 
 The name itself evolved. What began as "Lumberman-Voyageur Week" eventually became simply "the L&V Games," and the event expanded in scope and intensity over the decades. For generations of Kanawana alumni, the L&V Games represent the emotional peak of the camp summer, the week when everything else falls away and the entire community organizes around a single shared competition. The fact that the tradition has survived essentially intact for nearly eight decades, with the same team names, the same basic structure, and the same position as the climax of the season, makes it one of the longest continuously running traditions in Canadian organized camping.
 
@@ -156,7 +160,7 @@ In the 1991–1998 window the Voyageurs took six of eight seasons, pulling the s
 
 The trophy carries a shield for **2020 (Voyageurs)** but none for **2021** — a pattern that initially looked contradictory, since the overnight camp was closed for both summers. It is not. In the first COVID summer the Games were played **remotely**: volunteer alumni and campers competed in individual and online challenges from within their socially-distanced "bubbles."^17 The 2021 Games were not held at all.^17
 
-This reconciles every other record. YMCA Quebec's 2025 history calls that year the **78th edition**, which from a 1947 start requires exactly one lost season in seventy-nine — and 2021 is it. [[traditions/order-of-owens|The Order of Owens]], by contrast, was not awarded in *either* year, which is consistent rather than contradictory: the Owens recognises canoe-tripping leadership at camp, and there was no in-person camp in 2020 to earn it at, while a remote competition needed no waterfront. The two records diverge because the two honours measure different things.
+This reconciles every other record. YMCA Quebec's 2025 history calls that year the **78th edition**, which from a 1947 start requires exactly one lost season in seventy-nine^2 — and 2021 is it. [[traditions/order-of-owens|The Order of Owens]], by contrast, was not awarded in *either* year, which is consistent rather than contradictory: the Owens recognises canoe-tripping leadership at camp, and there was no in-person camp in 2020 to earn it at, while a remote competition needed no waterfront. The two records diverge because the two honours measure different things.
 
 The upshot is a stronger continuity claim than this article previously made. **The L&V Games have been contested every season since 1947 except 2021** — including one pandemic year in which the camp itself was shut and the competition moved online rather than lapsing. For a tradition whose whole character is physical, communal, and site-bound, that adaptation is itself a measure of how much weight the camp places on the streak.
 
@@ -165,6 +169,22 @@ The upshot is a stronger continuity claim than this article previously made. **T
 ## The Capitaine Role
 
 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive. Leigh Evans, who attended Camp Kanawana for six summers (one as a camper, one as a Leader-in-Training, four as staff), was named Capitaine for the Voyageur team in 2012. She credited Camp Kanawana with shaping her career as an educator.^6
+
+**A second, earlier instance, from outside the camp's own paper.** Concordia's booklet of bursary
+winners for the A. Ross Seaman Leadership Development Fund, printed in 2007, describes a winner who
+had been part of the Kanawana community "ever since the summer of 1992" — camper, then
+counsellor-in-training, then junior counsellor, then senior counsellor, volunteering at camper
+reunions and staff bowling nights and spending an off-season weekend painting cabins — and records
+that "**as a result of his dedication to his campers and his tireless commitment to Kanawana, he was
+selected as the 'Capitaine' of the Voyageurs for the annual summer-ending Lumbermen and Voyageurs
+games**."^21
+
+Two things follow. The role is attested by a document produced outside the camp, in a university's
+own publication, which is better evidence that the honour was understood as one beyond Kanawana's
+walls. And the citation states the *grounds* — dedication and commitment over years, not seniority or
+a rota — which matches this article's account of the Capitaine as an honour rather than a job. He is
+not named here: he is a living private individual, and the booklet's roster is deliberately not
+reproduced in this wiki. See register entry `r_0006`.
 
 ## What the national association thought of games like these
 
@@ -177,39 +197,6 @@ Its five instructions to member camps were to eliminate competition "where you h
 The editors were making a case rather than a remark. The same issue carries an interview with **June Labbett**, who bought Camp Oconto in 1949 and abolished its Best All-Around Camper cup in her first season — "**I just couldn't live with that**" — replacing it with a shield earned by two tribes together, "a fun thing, not a competitive thing"; the editor cross-references the editorial from her answer.^19 She also reports a "definite decrease" in tests and badges over thirty years, with skill levels "perhaps as good or better than when they were motivated by badges."
 
 **Nothing here shows that Kanawana changed anything.** No Kanawana document responding to this argument is known to this project, and none is implied. What the editorial supplies is the argument the Games were operating against, dated, in the camp's own national trade press, in a year the series was running — and the terms in which any surviving discussion of the Games or of [[traditions/order-of-owens|the Order of Owens]] in a Kanawana director's report of the early 1980s should be read. It is worth noting that the Games as Kanawana ran them are a two-team series in which every camper is on one side or the other, which is not quite the ten-children race the editorial describes; whether the camp's own staff drew that distinction at the time is not documented.
-
-## Related Articles
-
-- [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
-- [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
-- [[traditions/programs-activities|Programs and Activities]]
-- [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
-- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
-- [[site/council-ring|The Council Ring]]
-- [[connections/related-camps/camp-pine-crest|Camp Pine Crest]]
-
-## Sources
-
-1. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
-2. YMCA Quebec, "Summer Camp Kanawana: History" (ymcaquebec.org). States: "1947, Creation of the Lumbermen and Voyageur Games... inspired by Pinecrest Camp." References 78th edition in 2025, confirming 1947 origin (2025 minus 78 plus 1 = 1947).
-3. YMCA of Greater Toronto, "Celebrating tradition with the Pine Crest Games" (ymcagta.org/blog). Confirms Pine Crest Games since 1940 with identical team structure: Voyageurs (paddle) vs Lumbermen (axe).
-4. *Lumbermen & Voyageurs: The YMCA Pine Crest Story*. Camp Pine Crest commemorative book.
-5. ACA Find a Camp, YMCA Hayo-Went-Ha Camps — "Woodsmen" and "Voyageurs" program listings (find.acacamps.org).
-6. Leigh Evans, "Camp" (blog memoir). URL: https://leighcevans.wordpress.com/about/camp/
-7. Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" [src_wikipedia_color_war].
-8. YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page].
-9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
-10. *Kamp Kanawana Annual Report 1966*, YMCA of Montreal (Internet Archive) [src_ia_kanawana_annual_report_1966].
-11. *Kamp Kanawana Director's Report 1976* and the September 1976 *Green Triangle* (Internet Archive) [src_ia_kanawana_directors_report_1976]; riding-program history from the digitized YMCA of Montreal fonds [src_ia_ymca_montreal_fonds_collection].
-12. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977] and *1978* [src_ia_kanawana_report_1978] (Internet Archive); *The Lookout* Vol. 1 No. 3, Kanawana Alumni newsletter, autumn 1993 [src_ia_the_lookout_1993].
-13. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, "Programme Highlights" [src_ia_kanawana_place_to_grow_1988]; and the YMCA of Montreal Annual Report for 1950, describing the 1949 season [src_ia_ymca_montreal_annual_reports_collection].
-14. Operator determination (Matt Aronson), 2026-08-14, resolving conflict `c_025`: "1966 is clearly Lumbermen (from the photo)" — read directly from the photographed 1966 shield of the Kanawana Annual Trophy [src_photo_lv_annual_trophy, src_oral_aronson_lv_trophy_gaps_2026].
-15. Operator recollection and standing instruction (Matt Aronson), 2026-08-14: the Voyageurs are remembered as holding the longest unbroken run, and the Lumbermen as holding slightly more wins overall with the gap having narrowed during his camper years; and, on the unread shield, *"61 is Voyageurs until proven wrong"* [src_oral_aronson_lv_balance_recollection]. Basis for the provisional 1961 attribution.
-16. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
-17. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
-18. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form and span, and — read shield by shield — the winners roll tabulated above. See [f_1996], [f_2000], [f_2001]. Four shields were illegible in the photographs and were supplied separately (source 16); 1961 alone remains unread. The earlier note here that the shields were "not yet reliably transcribed" described the state of the work in August 2026 and no longer holds.
-19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
-20. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice in *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). Yard directed Camp Pine Crest in the 1950s and early 1960s and was CCA President 1953-55; the article is undated and describes Pine Crest, not Kanawana.
 
 ## The 1966 discrepancy — resolved in favour of the trophy
 
@@ -240,6 +227,39 @@ Three possibilities, in the order this article thinks likeliest:
 
 **A note on how this was found, and got briefly mis-stated.** When the 1966 report was first added to this article on 2026-08-14, the sentence claimed it was "matching the trophy shield." It does not match; the claim was written without checking it against the roll in this same article, and it stood for a few hours. The correction is recorded here rather than quietly applied, because the error is instructive: a corroborating source is only corroboration if you actually compare it.
 
+## Related Articles
+
+- [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
+- [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
+- [[traditions/programs-activities|Programs and Activities]]
+- [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[site/council-ring|The Council Ring]]
+- [[connections/related-camps/camp-pine-crest|Camp Pine Crest]]
+
+## Sources
+
+1. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+2. YMCA Quebec, "Summer Camp Kanawana: History" (ymcaquebec.org). States: "1947, Creation of the Lumbermen and Voyageur Games... inspired by Pinecrest Camp." References 78th edition in 2025, confirming 1947 origin (2025 minus 78 plus 1 = 1947).
+3. YMCA of Greater Toronto, "Celebrating tradition with the Pine Crest Games" (ymcagta.org/blog). Confirms Pine Crest Games since 1940 with identical team structure: Voyageurs (paddle) vs Lumbermen (axe).
+4. *Lumbermen & Voyageurs: The YMCA Pine Crest Story*. Camp Pine Crest commemorative book.
+5. ACA Find a Camp, YMCA Hayo-Went-Ha Camps — "Woodsmen" and "Voyageurs" program listings (find.acacamps.org).
+6. Leigh Evans, "Camp" (blog memoir). URL: https://leighcevans.wordpress.com/about/camp/
+7. Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" [src_wikipedia_color_war].
+8. *Kept as a caution, and deliberately uncited.* YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page] — the camp's **present-day** Voyageurs, which is a canoe-tripping section and not a Games team. It is listed so that a reader meeting the word on the camp's own site does not read it back into the Games; nothing in this article rests on it. The same trap in reverse is the Hayo-Went-Ha naming echo at note 5.
+9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
+10. *Kamp Kanawana Annual Report 1966*, YMCA of Montreal (Internet Archive) [src_ia_kanawana_annual_report_1966].
+11. *Kamp Kanawana Director's Report 1976* and the September 1976 *Green Triangle* (Internet Archive) [src_ia_kanawana_directors_report_1976]; riding-program history from the digitized YMCA of Montreal fonds [src_ia_ymca_montreal_fonds_collection].
+12. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977] and *1978* [src_ia_kanawana_report_1978] (Internet Archive); *The Lookout* Vol. 1 No. 3, Kanawana Alumni newsletter, autumn 1993 [src_ia_the_lookout_1993].
+13. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, "Programme Highlights" [src_ia_kanawana_place_to_grow_1988]; and the YMCA of Montreal Annual Report for 1950, describing the 1949 season [src_ia_ymca_montreal_annual_reports_collection].
+14. Operator determination (Matt Aronson), 2026-08-14, resolving conflict `c_025`: "1966 is clearly Lumbermen (from the photo)" — read directly from the photographed 1966 shield of the Kanawana Annual Trophy [src_photo_lv_annual_trophy, src_oral_aronson_lv_trophy_gaps_2026].
+15. Operator recollection and standing instruction (Matt Aronson), 2026-08-14: the Voyageurs are remembered as holding the longest unbroken run, and the Lumbermen as holding slightly more wins overall with the gap having narrowed during his camper years; and, on the unread shield, *"61 is Voyageurs until proven wrong"* [src_oral_aronson_lv_balance_recollection]. Basis for the provisional 1961 attribution.
+16. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
+17. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
+18. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form and span, and — read shield by shield — the winners roll tabulated above. See [f_1996], [f_2000], [f_2001]. Four shields were illegible in the photographs and were supplied separately (source 16); 1961 alone remains unread. The earlier note here that the shields were "not yet reliably transcribed" described the state of the work in August 2026 and no longer holds.
+19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
+20. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice in *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). Yard directed Camp Pine Crest in the 1950s and early 1960s and was CCA President 1953-55; the article is undated and describes Pine Crest, not Kanawana.
+21. Concordia University, *A History of Bursary Award Winners 1989-2006*, A. Ross Seaman Leadership Development Fund, 23 May 2007 [src_concordia_seaman_award_history_2007]. Cached at `sources/cache/concordia-publications/2026-09-07-seaman-fund-award-winners-1989-2006.txt`. The winner is named in the booklet and is not named here — a living private individual; see register entry `r_0006`. See [f_5411].
 
 ## Open Questions
 

@@ -74,6 +74,15 @@ ALIASES = {  # justified in the audit record; nothing here is a guess
  # the staff-1979 plaque transcription it resolves twenty-odd painted names that
  # the audit had read phonetically. Every pair below is one person on one board,
  # confirmed by a second document, not a similarity guess.
+ # Justin Pulfer is painted "Justin 'JT' Pulfer" on the 2008 LIT board and
+ # "Justin J. Pulfer" on the 2009 JC board. shape() strips a quoted nickname but
+ # keeps a middle initial, so the two shaped apart and one person became two rows
+ # -- which hid a seventh member of the 2008 LIT cohort that moved up together to
+ # JC in 2009 (f_2340 names seven; the index showed six). Merged on the grounds
+ # this list exists for and not on similarity: same given name and surname,
+ # consecutive years, and the LIT-to-JC step the other six make on the same pair
+ # of boards. Found 2026-09-06 checking f_2340 against the index.
+ "justin 'jt' pulfer":'justin pulfer','justin j. pulfer':'justin pulfer',
  'allan iundall':'allan gandall','allan gandall':'allan gandall',
  'ann jourdeau':'ann gourdeau','ann gourdeau':'ann gourdeau',
  'aylene tickeawin':'aylene mckeown','aylene mckeown':'aylene mckeown',

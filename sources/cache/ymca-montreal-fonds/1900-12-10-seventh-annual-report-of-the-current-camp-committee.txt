@@ -1,0 +1,15 @@
+POINTER, not a cache file. This path held a 0-byte file from the day the item was
+first ingested, because the Internet Archive scan of the "Seventh Annual Report of
+the Current Camp Committee" (10 December 1900) carries no OCR text layer -- the
+document is cursive manuscript and no OCR was going to read it.
+
+The eight page images were read by eye and transcribed on 2026-09-06 (p_288). The
+transcript is at:
+
+    sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt
+
+(note the shorter filename: no "of-the"). Source record:
+src_ia_seventh_annual_report_current_camp_1900. See facts f_4879 to f_4885.
+
+This file is left in place, rather than deleted, because the empty version was what
+anyone grepping the cache found for years, and a pointer is more use than an absence.

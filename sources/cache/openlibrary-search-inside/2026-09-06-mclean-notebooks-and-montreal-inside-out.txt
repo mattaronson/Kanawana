@@ -1,0 +1,47 @@
+TWO MORE BOOKS NAMING KANAWANA, both lending-restricted on the Internet Archive and neither
+readable from here. Each passage assembled 2026-09-06 from overlapping Open Library
+search-inside windows. RECONSTRUCTIONS, not transcriptions.
+
+================================================================================
+1. Stuart McLean, "The Vinyl Cafe Notebooks" (Toronto: Viking Canada, 2010)
+   Internet Archive item vinylcafenoteboo0000mcle, scan leaf 378.
+
+QUERIES: "Kanawana" "Sir George Williams" ; "Kamp Kanawana on the shores of Lake Kanawana" ;
+         "Kanawana is where" ; "where I found my sea legs" ; "1969, 1 got a job at Kamp" ;
+         "began for me. In the summer of" Kanawana ; "where I was able to leave the" ;
+         "shaky and uncertain turbulence" ; "of my adolescence behind and" ;
+         "find the road, or, more to the"
+
+RECONSTRUCTED (the OCR reads "1 got" for "I got"):
+
+  ... [Kanawana is] where it all began for me. In the summer of 1969, [I] got a job at Kamp
+  Kanawana on the shores of Lake Kanawana in the Laurentian Mountains. Kanawana is where I found
+  my sea legs, where I was able to leave the shaky and uncertain turbulence of my adolescence
+  behind and find the road, or, more to the point, find the where[-]withal ...
+
+The bracketed opening is supplied: the first window begins at "where it all began for me" and
+the subject before it was not recovered. The sentence after "wherewithal" was not recovered
+either. The same leaf carries McLean on Sir George Williams University, which is how the passage
+was found — a query pairing "Kanawana" with "Sir George Williams".
+
+================================================================================
+2. Bonnie Buxton and Betty Guernsey, "Montréal Inside Out"
+   (Ottawa: Waxwing Productions, 1976)
+   Internet Archive item montralinsideo00buxt, scan leaf 296. A city guidebook.
+
+QUERIES: "Kanawana" "Sir George Williams" ; "Kanawana Outing Club, operated by the YMCA near" ;
+         "near St-Sauveur, has 20 miles" ; "trips to various trails throughout Quebec" ;
+         "of blazed trails, a clubhouse" ; "a clubhouse and babysitting. Instruction and"
+
+RECONSTRUCTED:
+
+  ... [a club that] organizes weekly trips to various trails throughout Quebec. Kanawana Outing
+  Club, operated by the YMCA near St-Sauveur, has 20 miles of blazed trails, a clubhouse and
+  babysitting. Instruction and rentals available. Phone 849-[...] ...
+
+The phone number is cut off at "849-". The YMCA of Montreal's Drummond Street number in this
+period was 849-5331, which is what the 1975 and 1976 national camp directories print for
+Kanawana's winter office; the completion is therefore likely but is NOT established here.
+
+The preceding clause belongs to a different club, not to Kanawana, and its name was not
+recovered.

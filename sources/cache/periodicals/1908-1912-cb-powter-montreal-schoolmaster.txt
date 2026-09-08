@@ -1,0 +1,91 @@
+SOURCE EXTRACTS — read from the full djvu texts, 2026-09-06
+============================================================
+C. B. POWTER AND D. J. EVANS IN MONTREAL, 1908 AND 1912 — two unrestricted items found by the
+p_430 name sweep, both downloaded whole and read.
+
+WHY THESE MEN. C. B. Powter is one of the four named in charge of the YMCA of Montreal's senior
+camp at Lake St. Joseph in 1898 (f_4911), four years before he founded his own camp on the same
+lake. D. J. Evans is one of the three in charge of Kamp Kanawana in 1913 (directors-index.md, from
+the association's 1914 annual report). Neither had any documented life outside the camp records.
+
+
+-------------------------------------------------------------------------------
+ITEM 1. COMMERCIAL AND TECHNICAL HIGH SCHOOL (Montreal), PROSPECTUS FOR SESSION 1908-1909
+        [Montreal: Eaton, Printer, 1908]
+        Internet Archive: prospectusforses00mont (and cihm_74471, the CIHM microform of the same)
+        NOT lending-restricted. Full djvu text (29,156 bytes) downloaded and searched.
+        "Kanawana" and "camp" occur ZERO times in it.
+-------------------------------------------------------------------------------
+
+The staff list, as printed (the leader dots are the prospectus's own):
+
+    " M. A. KEE, ------- Drawing and English
+    " K. G. PATTERSON, _____ Reading and French
+    " A. COX, _-____--_ Writing
+    "- E. M. WILLIAMS, - English and Music
+    " M. BROWN, ______ Mathematics and Music
+    " L. M. KER, --------- English
+    " S. FRANCIS, -__-__ Drawing and French
+    " H. M. CUNNINGHAM, - - - - Book-keeping and English
+    " C. MACMARTIN, _"-_-_ Arithmetic and English
+    MRS. M. L. SIMISTER, -------- Drawing
+    W. H. SMITH, ESQ., F.T.S.C. ----- Music
+    C. JOHANSSON, ESQ., ------ Manual Training
+    C. B. POWTER, ESQ., - - - - - - - Physical Training
+    MISS J. DOW, ---_-_--- Domestic Science
+    " I. WADE, --_-_-__- Calisthenics
+    " S. TYNDALE, ________ Typewriting
+
+So C. B. Powter was **Physical Training master at the Commercial and Technical High School,
+Montreal**, in the session 1908-09 — six years after he founded Camp Sans Egal / Powter's Camp on
+Lac St. Joseph, and ten after he ran the YMCA's own camp on the same lake.
+
+
+-------------------------------------------------------------------------------
+ITEM 2. EXPOSITION POUR LE BIEN-ÊTRE DES ENFANTS, tenue au Manège Militaire, rue Craig,
+        Montréal, octobre 1912 : GUIDE-SOUVENIR
+        Internet Archive: cihm_81839. NOT lending-restricted; full text (138,982 bytes)
+        downloaded and searched. "Kanawana" occurs zero times.
+-------------------------------------------------------------------------------
+
+(a) The committee, printed under its own heading:
+
+    "PROGRAMME DES AMUSEMENTS.
+    Dr F. Tees, D. J. EVANS, J. McClements, Henry Scott, Mde R. MacMillan, W. H. Smith,
+    Mlle Idola St-Jean, C. B. POWTER, Mlle Cartwright, M. J. Chabelle, Major J. Long,
+    L. J. MacMahon, J. E. Merritt, Rufus Smith."
+
+(b) The programme itself, Wednesday 9 October 1912:
+
+    "4 P.M. Milice et chœur, par les écoles anglaises, sous la direction de C. B. Powter et
+    W. H. Smith."
+
+    (The OCR prints "C, E. Powter" there and "C, B. Powter" in the committee list; the initial
+    is B in the school prospectus and in every camp record.)
+
+TWO THINGS FOLLOW.
+
+**Powter and D. J. Evans sat on the same committee.** Evans led Kanawana's 1913 season; Powter had
+run the YMCA's camp in 1898 and by 1912 had his own on the same lake. The exhibition is Montreal's
+first child-welfare exhibition, held in the Craig Street drill hall in October 1912, and its
+amusements committee put both men in the same room a year before Evans took the camp.
+
+**Powter and W. H. Smith are colleagues.** Smith is the Music master on the same school staff list
+in Item 1, and the two of them jointly direct the English schools' contribution — drill and chorus
+— to the exhibition. This is one school's physical-training and music masters running the English
+Protestant schools' public showpiece.
+
+WHAT IT ADDS TO THE CAMP'S OWN STORY. The pattern already visible in F. H. Spinney — Kanawana's
+Educational Director, and Principal of Alexandra School, Montreal (f_4958) — holds here too. **The
+men the Montreal YMCA put in charge of its camps were schoolmasters**, and specifically the
+physical-training and educational specialists of the city's schools. That is not a surprising
+finding, but this project had asserted it nowhere and had the evidence for it nowhere either.
+
+NOT ESTABLISHED: Powter's and Evans's first names; whether either taught at the school in any other
+year; whether they knew each other before 1912 or through the camps; and what the "Programme des
+Amusements" committee actually did. The exhibition's guide-souvenir has not been read beyond the
+two passages above and its committee lists.
+
+QUERIES: the name sweep query was `"C. B. Powter"` (19 hits, most of them a modern Alberta
+land-reclamation editor of the same initials). Everything else here came from downloading the two
+unrestricted items whole and grepping them.

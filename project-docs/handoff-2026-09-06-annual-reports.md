@@ -1,0 +1,320 @@
+# Handoff — the annual-report sweep, and three false claims about my own checks
+
+*Written 2026-09-06, after `handoff-2026-09-06-night.md`. Named for its content rather than the
+hour, because that file already took "night" and a fourth time-of-day label helps nobody find
+anything.*
+
+## What was done
+
+**p_454 is closed.** The measurement that opened it now reads zero uncited English annual reports
+naming Camp Otoreke, zero naming Camp Weredale, and zero naming Kanawana three or more times.
+Twenty-one volumes were read and cited: 1913, 1919 (*Montreal Men*), 1921-1922, 1922-1923, 1931,
+1932, 1933, 1938, 1940, 1941, 1942, 1944, 1947, 1965, 1969, 1976-1977, 1988, 1997, 1998, 1998-1999,
+1999-2000. Facts **f_5166–f_5203**, conflict **c_067**, priorities **p_455** and **p_456**.
+
+**The French editions are settled and should not be read as fresh sources.** Sixteen sit uncited,
+each twinned with a cited English one. Three pairs were compared passage by passage — 1988,
+2000-2001, 2006 — and all three are straight translations, sentence for sentence (f_5184). Their
+value is as a **second scan of the same text**, because the OCR is damaged differently in each: the
+2000-2001 English reads "ages of 3 and 60" cleanly where its French reads "3 à 00 ans". One repair
+already made — the 1988 English's generic "Montreal School for the Deaf" is "l'École orale de
+Montréal pour les sourds" in the French.
+**But read both COLUMNS of a bilingual report.** That is a different thing and it does diverge:
+the 1969 report's English says "low-income families from inner city" where its French names **la
+Petite Bourgogne** (f_5192), which is the same pattern as f_5104 and f_5110.
+
+**The Otoreke corpus sweep.** "Kanawana" had been enumerated in full weeks ago; **the camp's other
+name had never been run**. `openlibrary.org/search/inside.json` on "Otoreke" returns 15 items,
+twelve of them new here, and four are worth having: the Canadian Youth Commission's *Youth & Jobs in
+Canada* (1945) attributing an equal-pay recommendation to "(Camp Otoreke, Y.M.C.A., Montreal.)";
+Doris Robertson's linocut *Camp Otoreke, Laurentians*, exhibited at the Art Association of Montreal
+in 1936; Arthur Ney's *W Hour*, a photograph of him at the camp in 1947; and the United Church's
+1967 record of a Kairos "Summer Event" there. Cached with its nulls at
+`sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`.
+
+**Left for a human:** `c_067` (the 99.2% occupancy figure — two documented sources, and the reading
+changes a published row), plus the standing p_442 and p_443.
+
+## Three more rules, and they are all one rule
+
+**25. A claim about a check is a claim, and costs the same command to test.** Three times today I
+wrote a verification result into a commit message without the result in front of me.
+
+- Twice: "spinout_audit reports no section over 900 words" and "spinout_audit clear for the article
+  touched", both false, both about articles I had just enlarged. **The structural cause was the
+  shell line**: `python3 scripts/wiki/spinout_audit.py && git commit -F msg` puts the claim in the
+  message *before* the output exists, every single time. Twice in a row is a property of the
+  command, not of attention, and the second one even added "this time I read the output before
+  writing this sentence", which was also false.
+- Once: "the year-end scanner had missed that line, because the page gives a full span rather than a
+  'for the year ending' formula." `scripts/reread/annual_report_year_ends.py` reads it correctly and
+  has a pattern written for spans of exactly that shape. **And f_5131 says so in its own text** —
+  "the scanner then reads 1964 as May 1965 and 1965 as May 1966" — a fact I had quoted for the
+  sentence immediately before.
+
+The project already holds that **a null from a tool is a fact about the tool, not about the world**.
+The third case is that rule's mirror and was not covered by it: **a claimed FAILURE of a tool is
+also a claim about the tool.** Both cost one command.
+
+*The fix is procedural.* Audits and scanners run in **their own call**, and the commit message is
+written **after** the output is on screen. Never chain a check to the commit that reports it.
+
+**26. Grep before the sentence, not after it.** Rule 2 says "X appears nowhere in this project" costs
+one grep. Today the greps were run — twice, and both times *after* the sentence was already written.
+
+- "Camp Lewis appears nowhere in this project": it is there nine times, as the Boys' Home of
+  Montreal's camp and Camp Weredale's predecessor (f_5174).
+- "Harry is the earliest named kitchen staff": he is Harry Smith, chef from about 1913, documented
+  through his ninth and tenth years in the 1921 and 1922 brochures (f_5178).
+
+Both were caught before commit and both facts carry the correction and its cause in their own text.
+The order matters because a sentence already written is a thing you then look for support for. The
+Camp Lewis error is also the day's best argument for the rule: running the grep turned a wrong claim
+into a better finding — the YMCA was using the Boys' Home's camp in **1921**, thirteen years before
+Camp Weredale existed.
+
+## Two mechanical traps found in the volumes themselves
+
+**The filename year can be the year the fiscal year BEGINS.** The file named 1965 is the 114th
+report, whose title page reads "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — the
+opposite of the two cases `meta/attendance-series.md` already warned about, where the file named
+1963 is the report for the year ended 31 May 1964. **Read the title page. Never date a season from a
+filename, and never derive a source id from one either** — that last habit would have produced a
+wrong citation four separate times today; look the id up by `cache_path`.
+
+**Three sums in these volumes do not close**, and all three are recorded as gaps rather than fixed:
+the 1921 badge list totals 389 against a stated 812; Otoreke's 1921 branch figures total 119 against
+a stated 126, with Verdun conspicuously absent; and Westmount's 1931 subsidy split makes 33 against a
+stated 43. Two of the three are all-capitals scans with visible character damage in the same
+paragraph, so a dropped line is at least as likely as an error in the report. **Keep the stated
+total, flag the split.**
+
+## What is next, in order
+
+1. **The remaining thirteen French editions** — as scans to consult against their twins, not as reads.
+2. **p_455** (Camp Lewis) is an **access failure with a named target**: LAC's Weredale House fonds,
+   Camp Lewis records 1919-1966, and LAC refuses this environment at the gateway (p_428).
+3. **p_456** (Camp Macaulay) — the branch is settled (International, the immigrant-services branch);
+   what is open is page 67 of Maranda Moses's *Proud Past, Bright Future* and the Negro Community
+   Centre fonds at Concordia.
+4. **f_5111**, **f_5093**, **c_066** as narrowed by f_5133 — all unchanged.
+5. The **volumes with one or two Kanawana mentions apiece**, deliberately left: below p_454's own
+   threshold and a much longer job. Re-run `scripts/reread/camp_coverage.py` before reopening.
+
+
+---
+
+# Later the same evening: the corpus sweep on PEOPLE (p_430)
+
+The annual reports were finished; this is what came after, and it was the more
+productive half. **The whole of it rests on one trick.**
+
+## The index form
+
+`openlibrary.org/search/inside.json` takes exact phrases only. **Directories, periodical indexes and
+back-of-book indexes all invert the name**, and the running form drowns in a much larger set. Every
+find below came from the inverted form:
+
+| query | hits | what it found |
+|---|---|---|
+| `"Owens, O. N. H."` | 2 | his day job; the running form returns the company entries but not the man |
+| `"Patton, T. Duncan"` | 9 | the Naismith biography that indexes him on five pages |
+| `"Charlton, R. L."` | 24 | the 1895 Point St. Charles benefactors page |
+| `"O. N. H. Owens"` | 4 | the company entries only |
+| `"T. Duncan Patton"` | 24 | photo captions |
+| `Duncan Patton` (bare) | 107 | noise |
+
+**Try the index form first, every time.**
+
+## What it produced
+
+**O. N. H. Owens had a day job and a first name** (f_5204). The Financial Post's *Directory of
+Directors*, 1947: "OWENS, O. N. H.; man. dir. **Central Investment Corp.**, 1240 Phillips Sq.,
+Montreal", on a board with three Birkses. The *Art Index* gives "**Owens, Owen N. H.**", which is the
+leading given name `order-of-owens.md` said no document in the corpus spells out — so the LAC file for
+OWENS, OWEN NORREYS HARRINGTON is better supported, still not proved. **And it cracked a pattern:**
+`directors-index.md` had just established that the men who *ran* the camps were schoolmasters. The man
+who *chaired* Kanawana was a Birks executive. Directors out of the schoolrooms, chairmen out of the
+counting houses.
+
+**One 1895 page holds five of this project's people** (f_5206). The *Report of the Point St. Charles
+Institute*: Life Benefactors **Charles Cushing, Robertson Macaulay, T. B. Macaulay**, James Cochrane;
+1894-95 benefactors **Chas. Alexander, R. L. Charlton, H. B. Ames** and three others. Kanawana's first
+camp committee, the Boys' Home of Montreal's founder, and the Macaulays, subscribing to one settlement
+mission in the camp's founding year. **Three of the five are name matches, not identifications**, and
+the fact and the article both say so.
+
+**Patton's basketball claim now has print sources**, and the fullest account of him anywhere —
+Rains's *James Naismith* (Temple UP, 2009), which **indexes him on five pages** — is named, unread,
+and gettable from a library (f_5205).
+
+**Doris Robertson was looked for and is not there** (f_5197). She made the 1936 linocut *Camp Otoreke,
+Laurentians* and showed at the Art Association for thirteen years; outside that catalogue she is in
+nothing indexed. The null is logged with the untried archives named — MMFA, NGC, LAC, BAnQ.
+
+## Rule 27, from a correction I caught by luck
+
+**27. No arithmetic the source does not perform — and check whether the source performs its own.**
+I read "the forty years of its history" in the 1931 report as dating Otoreke to 1891. **Seventeen
+lines earlier, in the same camps section about the same lake, that report writes "in 1898, or forty
+years ago"** — wrong by seven years, which tells you "forty years" is the writer's stock phrase and
+dates nothing. `founding-1894.md` already carried the association's retrospective dates across five
+decades, better than the section I was about to add.
+
+*What makes this rule worth writing down is how it was caught:* the insert script's anchor assertion
+failed, and reading the destination to fix it is what showed me the article already had it. **Not
+discipline — luck.** Check the destination first, and check the same document for its own use of the
+phrase you are about to interpret.
+
+## Where p_430 stands
+
+**Swept and null:** Shantz, Robitaille, Bruce Netherwood, Ronald Hupfield (index form), all zero.
+McEwen 13, all false friends. Twynam 2, both false friends. Camp **name** forms exhausted:
+"Kanawanna" 0, "Lac Kanawana" 0, "Kanawana, Que" 0, "Lake Kanawana" 1 and already held.
+
+**Left, and each needs a pairing term rather than a bare surname:** Dawson (551), Dimock (468),
+Turner (447), Hupfield unqualified (663). An exact-phrase endpoint cannot narrow those; they want a
+boolean full-text search — HathiTrust — or a distinctive multi-word string.
+
+
+## HathiTrust, tested: the catalogue is reachable and the full text is not
+
+Two separate needs point at HathiTrust — p_439's public-domain YMCA Year Books for 1901-1905 and
+1910-1920, and the four names left on p_430, whose corpus hit-counts run 447 to 663 and which an
+exact-phrase endpoint cannot narrow. So it was tested (f_5207):
+
+| endpoint | result |
+|---|---|
+| `catalog.hathitrust.org/api/volumes/brief/oclc/<n>.json` | **200** — catalogue records only, no text, no search |
+| `babel.hathitrust.org/cgi/ls` (full-text search) | **403**, `cf-mitigated: challenge` |
+| `babel.hathitrust.org/cgi/pt` (page text) | **403**, same |
+| `solr-sdr-search.hathitrust.org` | 502 at the tunnel; not public anyway |
+
+The 403s carry `server: cloudflare` and a body titled "Just a moment…" — **a JavaScript interstitial,
+not a HathiTrust refusal and not the agent proxy**, whose status endpoint records no failure for that
+host. Same class of obstacle as the 1923 dam Bill on BAnQ (f_5162): a challenge that needs a real
+browser session, and this environment's browser dies at the proxy tunnel.
+
+**"Public domain and full view" is true and irrelevant here.** The volumes are one click away for a
+person and unreachable for this environment.
+
+**The untried two-step, worth doing before anyone calls HathiTrust a dead end:** many of its volumes
+are also on the Internet Archive, whose full text this project reaches freely. Use the bibliographic
+API to identify the edition, then look for the same one on the Archive.
+
+
+## Three standing priorities now have a box and folder number
+
+`archives.trentu.ca` publishes its finding aids, and the **Quebec Camping Association fonds 85-013**
+(1948-1982, 90 cm, three boxes) answers three of them. Cached verbatim at
+`sources/cache/trent-archives/2026-09-06-qca-fonds-85-013-finding-aid.txt`.
+
+| priority | what it wants | where it is |
+|---|---|---|
+| **p_339** | the QCA's 1965 inspection report on Kanawana | **Box 1, Folder 1** — "Camp visitation reports and related correspondence, **1962-1968**" |
+| **p_346** | the Quebec accreditation standards | **Box 1, Folder 21** — "Q.C.A. Standards, correspondence, 1953-1973" |
+| **p_337** | Kanawana's 1967 Centenary Journey trip log | **Box 2, Folder 22** — "Q.C.A. Centennial Commission" |
+
+Also Box 1 Folder 20 (photographs of the QCA annual meeting of **1965**), Box 2 Folder 12
+("personnel-camps, members"), Box 2 Folders 14-18 (minutes from 1948), and a pointer onward to "the
+Canadian Camping Association and Ronald H. Perry fonds (**82-016**)". **None of it is digitized** —
+this is a reading-room visit or a paid retrieval, now specified to the folder rather than to the
+repository. All three priorities are reclassified `blocked` with that as the blocker.
+
+**And the fonds has been in `sources.json` since 2026-03-15**, its notes already naming "camp
+visitation reports (1962-1968, 1968-1971, 1972-1978)". p_339 was raised *afterwards* and says "where
+to look: … the CCA/ACC fonds at Trent" — the right building, without the shelf that was already
+written down here. Its `read_state` was `derived:cited-by-fact`: a summary, never read. **Rule 21
+again**, and the third time this session that the best find of an hour was already in this project's
+own files.
+
+## Rule 28
+
+**28. A summarizer's negative is not the document's negative.** That finding aid was first read
+through a summarizing fetch, which reported "Centenary/Centennial canoe journey records (1965-1967):
+**Absent**" and "Member camp files: **Absent**". Box 2 Folder 22 is headed "Q.C.A. Centennial
+Commission"; Box 2 Folder 12 is "personnel-camps, members". **Fetch a finding aid raw and read the
+listing yourself before recording anything as absent from it.** This is rule 23's shape — a source
+searched in one section is searched in one section — with a summarizing layer standing in for the
+section.
+
+
+# Late evening: the archives, and one obstacle wearing three names
+
+**`project-docs/trent-access-plan.md` is the deliverable.** Fifteen Trent finding aids fetched raw
+and searched; twenty-odd named box-and-folder targets across eight accessions, ordered by likelihood,
+with the six swept-and-null accessions listed so nobody spends a visit on them. Two rows name Kanawana
+or Montreal outright — **a 1970s Kanawana brochure** (78-006, Box 24, Folder 25) and a folder titled
+**"YMCA - Montreal"** (84-019, Box 1, Folder 10). Nothing there needs permission; it needs a person
+with a list. Priorities p_337, p_339, p_346 and p_348 all now carry box and folder numbers, and p_348
+is complete as far as finding aids can take it.
+
+## The consolidation worth carrying forward
+
+**Three of this project's four archival blockers are one technical thing** (f_5213, f_5207):
+
+| Institution | What we say | What it actually is |
+|---|---|---|
+| Library and Archives Canada | "refuses at the gateway" | **Cloudflare challenge** — 403, `cf-mitigated: challenge`, "Just a moment…" |
+| HathiTrust (`babel`) | not reachable | **Cloudflare challenge**, identical headers |
+| Concordia (AtoM) | a wall | **AtoM's own JS challenge**, a standard feature adopted against crawler load |
+
+**Nobody is refusing this project.** Three institutions independently deployed the same anti-bot
+control, and this environment cannot solve a JavaScript challenge because its browser dies at the
+proxy tunnel. **A person with an ordinary browser reaches all three in one click, and no letter is
+needed.** That is a different thing to hand the operator than "access denied", and it is the same
+correction made this evening for `p_404`, where "the book has not been read" turned out to mean "the
+book has not been bought" — twenty-five dollars from the camp's own shop.
+
+*What does answer:* HathiTrust's **bibliographic API** (200, catalogue only) and **open.canada.ca**'s
+CKAN API (200) — but the latter publishes only LAC's *administrative* datasets, 71 of them, none
+collection-level. Neither substitutes for the search behind the challenge.
+
+**The untried route out of the HathiTrust case** stands: use its bibliographic API to identify an
+edition, then look for the same edition on the Internet Archive, whose full text this project reaches
+freely.
+
+
+## Five failure modes, and not one of them is a refusal
+
+Written down because this project has been calling all of them "blocked", and they need different
+things from different people (f_5213, f_5214, f_5207):
+
+| What you see | What it is | What fixes it |
+|---|---|---|
+| 403 + `cf-mitigated: challenge`, "Just a moment…" | **Cloudflare JS challenge** — LAC Collection Search, HathiTrust `babel`, and in its own form Concordia's AtoM | a person with an ordinary browser, one click, **no letter needed** |
+| 403 + `x-block-reason: hostname_blocked`, "Blocked by egress policy" | **this environment's own allowlist** — `web.archive.org` | an allowlist entry, or a person |
+| `000`, `ws_closed_mid_exchange` | **the proxy tunnel** — `web.archive.org/cdx`, `canada.ca`, rendered-browser fetches | retry, or another endpoint on the same service |
+| Radware "Captcha Page", redirect to `validate.perfdrive.com`, or `__uzdbm_*` fingerprinting | **Radware Bot Manager** — Archives of Ontario, and BAnQ Advitam's *data API* | a person with a browser |
+| `202` from `awselb/2.0` with a zero-byte body | **AWS WAF** — `archives.lib.umn.edu` | a person with a browser |
+| an institution saying no | **a genuine refusal** | **this project has not documented one** |
+
+**The Wayback case is the sharpest.** `archive.org` answers 200 throughout — `advancedsearch`,
+`metadata`, `wayback/available` — which is why the whole book-corpus programme works. Only the
+**replay** host is blocked. So the availability API can confirm a snapshot exists and give its
+timestamp, and the snapshot cannot be read here. For **p_416** that is enough to hand over a working
+URL: Carol Skinner's blog is archived at
+`http://web.archive.org/web/20260518101254/https://livelovelaughwithcarol.com/`, captured **18 May
+2026**. One click for a person; impossible here; and the difference is an allowlist entry rather than
+anyone's permission.
+
+
+### And a 200 is a claim about the transport, not the content
+
+Re-testing p_271's four host blocks, a header-only check showed BAnQ Advitam **200** and Archives of
+Ontario **200**, and the sentence "two of the four are now reachable" was already forming. Reading the
+bodies killed it (f_5215):
+
+- **Archives of Ontario's 200 was the CAPTCHA's own status** — the redirect chain ends at
+  `validate.perfdrive.com` serving "Radware Captcha Page … your activity and behavior on this site made
+  us think that you are a bot."
+- **BAnQ Advitam's 200 is a 12.5 KB Angular shell containing 88 characters of text.** Its data API,
+  named in the JS bundle, is `advitam.banq.qc.ca/api/service/…` — and *that* returns 302 with Radware
+  fingerprinting. **The block moved from the page to the API**, which is exactly the thing a future
+  session will misread.
+- **UMN's 202 from `awselb/2.0` has a zero-byte body.**
+
+A CAPTCHA serves 200. An SPA shell serves 200 with nothing in it. A WAF serves 202 with nothing in it.
+All three look like success to `curl -o /dev/null -w '%{http_code}'`. **Measure the text, not the
+status and not the bytes** — this is rule 25 in another costume: a check reported without its output
+being read.

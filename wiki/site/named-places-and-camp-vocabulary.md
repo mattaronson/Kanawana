@@ -1,7 +1,7 @@
 # Named Places and Camp Vocabulary
 
-*Status: R3-verified | Sources: 8*
-*Last Updated: 2026-09-02*
+*Status: R3-verified | Sources: 9*
+*Last Updated: 2026-09-07 (the Panama, a second canal name, from the 1939 hike log)*
 
 ## Overview
 
@@ -17,7 +17,7 @@ It is also an architectural exception. This wiki records the Senior sections —
 
 **The Suez Bridge** crosses the narrow channel joining Lake Kanawana and Lake Wilson.^5 A 1987 board reads "The Suez Bridge — Senior Boys '87" and carries nothing else, the paint worn to the grain.^1
 
-The location matters, because that channel is already in this wiki from the other side: [[site/the-kanawana-site|the site article]] records the two lakes as "connected by a **dam** between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season." The bridge, the dam and one of the camp's surviving seasonal rituals all sit at the same point on the property — and the 1998 five-kilometre swim, running Wilson Falls to Frogs Bog, passed through it. The name is a joke on the Suez Canal.
+The location matters, because that channel is already in this wiki from the other side: [[site/the-kanawana-site|the site article]] records the two lakes as "connected by a **dam** between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season." The bridge, the dam and one of the camp's surviving seasonal rituals all sit at the same point on the property — and the 1998 five-kilometre swim, running Wilson Falls to Frogs Bog, passed through it. The name is a joke on the Suez Canal — **and not a one-off joke**. A camper's log of the Junior Camp hike of 18–19 July 1939, printed in the *Green Triangle*, brings the party home the back way: "As we took the trail **we had to cross the Panama**. This was accomplished by felling a tree crossing over it. Doug Stewart tested it, and fell in losing his compass."^9 A second crossing called **the Panama** makes this a naming habit rather than a single pun: the camp named its water passages after the world's two great canals. Where the Panama was is not established — the log places it between the falls near the haunted house and Farewell Rock, on the way back to camp, and it was narrow enough that a felled tree bridged it and shallow enough to leave a man wet to the knees. The Suez is also in the paper two years earlier, as one of the things the 1936 season was remembered for: "paddling through the Suez at sunset."^9
 
 The Knights of Kanawana charter's fifth challenge asks a candidate to "contribute something of permanence to camp — a substantial part of a totem pole, **or a bridge**," so camper-built bridges were an expected thing here.^2 **And the campers did build this one.** The 1987 Director's Report records that "the entire senior boys section spent the second and third session rotating their time in razing and re-building the bridge across the Suez canal. Thousands of man hours were used in re-constructing the bridge."^8 The 1987 board reading "The Suez Bridge — Senior Boys '87" is therefore the roster of the section that rebuilt it. See [[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]].
 
@@ -75,6 +75,7 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 6. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), 4 March 2026 [src_postmedia_nature_deficit_2026], as summarised in [[traditions/programs-activities|Programs and Activities]].
 7. *Kamp Kanawana Annual Report 1964*, YMCA of Montreal [src_ia_kanawana_report_1964], "Staff" section. See [f_2388], [f_2385].
 8. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects — Suez Bridge". See [f_2454].
+9. *The Green Triangle*, **22 July 1939** [src_ymf_the_green_triangle_1939_07_22] — Ernie Latter's log of the Junior Camp hike of 18–19 July 1939, and **30 March 1937** [src_ymf_the_green_triangle_1937_03_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5590], [f_5598].
 
 ## Research Notes
 

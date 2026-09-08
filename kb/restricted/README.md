@@ -71,6 +71,43 @@ subject's consent or on confirmation of death.
 `review_on` is a date to look again. It is never a date to publish
 automatically.
 
+## An assumption in this that turned out to be false, and what was decided
+
+**Checked 2026-09-07: this repository is public.** GitHub reports
+`mattaronson/Kanawana` as `visibility: public`, with no licence and no
+distribution notice.
+
+The directive quoted at the top of this file — that "for the purpose of
+collecting the data and writing the articles, the repo and wiki are fine" —
+defers publication policy to a wiki UI layer that will decide what to surface.
+Every embargo written since has been built on it. But an embargo marker is an
+HTML comment. On github.com the marker is invisible and the passage inside it
+renders as ordinary prose to anyone who opens the file. There is no UI layer
+standing between this material and the public. The repository is the surface.
+
+That was put to the operator on 2026-09-07 with the specifics: that
+`wiki/people/leo-robitaille.md` sits on the default branch carrying a 1973
+director's do-not-re-hire list naming three people and adverse assessments of
+two more, and that those five are now in their seventies. The options offered
+were a private repository, a public repository with the embargoed passages held
+in a private half, leaving it as it stands, or deferring.
+
+**He chose to leave it as it stands.** The repository stays public with the
+material in it, and embargoed material continues to be written into it as this
+file directs.
+
+Three things follow, recorded here so the question is not re-raised from
+scratch by a later pass:
+
+1. **The labelling is unchanged.** Everything still gets extracted, wrapped,
+   registered and dated. What was decided is the *surface*, not the labelling.
+   Unlabelled is still the failure.
+2. **`r_0006` is unblocked.** It had summarised a 27-name honour roll instead of
+   transcribing it inside markers, which was the weaker treatment under the
+   reasoning above and is now the one to correct.
+3. **The decision covers this repository.** It is not permission to reproduce
+   this material anywhere else.
+
 ## The check
 
 `scripts/verify/restricted_guard.py` verifies that every embargoed fact is

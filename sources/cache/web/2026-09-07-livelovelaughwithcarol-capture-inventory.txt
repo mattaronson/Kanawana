@@ -1,0 +1,108 @@
+CAROL SKINNER'S BLOG: WHAT THE INTERNET ARCHIVE HOLDS
+livelovelaughwithcarol.com -- "Live Love Laugh with Carol"
+Inventory built 2026-09-07 FROM THIS ENVIRONMENT, which cannot read the
+captures themselves. Prepared so that whoever opens an ordinary browser spends
+minutes rather than an hour.
+
+=====================================================================
+THE CAPABILITY FINDING FIRST, BECAUSE IT IS REUSABLE
+=====================================================================
+
+p_416 recorded that "web.archive.org is blocked by THIS ENVIRONMENT'S egress
+policy". THAT IS CONFIRMED, and now precisely:
+
+  web.archive.org:443   the tunnel opens and is dropped mid-exchange
+                        (ws_closed_mid_exchange, three retries, all identical)
+  web.archive.org:80    HTTP 403, body "Blocked by egress policy" -- 24 bytes,
+                        which is the proxy talking, not the archive
+  timetravel.mementoweb.org  same drop as :443
+
+BUT THE ARCHIVE'S AVAILABILITY API IS ON A DIFFERENT HOST AND IT WORKS:
+
+  http://archive.org/wayback/available?url=<URL>&timestamp=<YYYYMMDD>
+
+It returns the CLOSEST capture to a timestamp, with its date, HTTP status and
+canonical web.archive.org URL. It will not return content, but probed timestamp
+by timestamp it enumerates what exists. THAT IS THE WHOLE TECHNIQUE HERE, and
+it is worth remembering the next time an archive.org subdomain is unreachable:
+the block is per-host, and archive.org itself has been reachable all day.
+
+=====================================================================
+THE BLOG EXISTED AND WAS CAPTURED FOR AT LEAST SEVEN YEARS
+=====================================================================
+
+Front page, closest capture to 1 June of each year, all HTTP 200:
+
+  2015-06-13   http://www.livelovelaughwithcarol.com:80/
+  2016-03-30   http://www.livelovelaughwithcarol.com/
+  2017-07-04   http://www.livelovelaughwithcarol.com/
+  2018-04-13   https://www.livelovelaughwithcarol.com/
+  2019-06-27   https://www.livelovelaughwithcarol.com/
+  2019-12-15   https://www.livelovelaughwithcarol.com/     <- see below
+  2020-08-06   https://www.livelovelaughwithcarol.com/
+  2021-05-15   https://www.livelovelaughwithcarol.com/
+  2022-01-23 · 2022-04-22 · 2022-08-16 · 2022-09-26        (all www.)
+
+THE ONE INTERIOR PAGE CONFIRMED CAPTURED:
+
+  /blog/       2019-12-15 13:40:35, HTTP 200
+               http://web.archive.org/web/20191215134035/https://www.livelovelaughwithcarol.com/blog/
+
+  The front page of the same crawl is 2019-12-15 13:28:13 -- twelve minutes
+  earlier -- so THAT CRAWL WENT DEEPER THAN THE FRONT PAGE and is the one to
+  start from. Whatever else it reached will be visible from the calendar view
+  of that day.
+
+=====================================================================
+WHERE TO STOP, AND THIS IS THE IMPORTANT PART
+=====================================================================
+
+THE CAPTURES FROM 2023 ONWARD ARE PROBABLY NOT HER BLOG. f_4825 records that
+the domain was taken over and now serves an Indonesian online-gambling site.
+This inventory cannot read the pages, but it can see the URL FORM CHANGE:
+
+  through 2022-09-26   every capture is of  www.livelovelaughwithcarol.com
+  from   2023-04-01    every capture is of      livelovelaughwithcarol.com
+
+A WordPress site on www. replaced by something on the bare domain, in a gap
+where no capture at all is returned for January 2023, is what a domain change
+of hands looks like. SO THE BOUNDARY LIES BETWEEN 26 SEPTEMBER 2022 AND
+1 APRIL 2023. That is a signal and not a proof: nothing here has read either
+side of it. Anyone browsing should treat 2022-09-26 as the last capture likely
+to be hers and check the 2023-04-01 one before trusting anything later.
+
+The /feed endpoint returns only a 2025 capture, which by the above is the
+replacement site's feed and not hers.
+
+=====================================================================
+WHAT WAS PROBED AND FOUND ABSENT
+=====================================================================
+
+p_416 lists a section structure taken from search indexes -- Love Story, ALS,
+Blog, Tips & Tricks, Gallery, Travel, Media. ONLY /blog/ RESOLVES. These were
+tried and returned no capture at all:
+
+  /als · /love-story · /about · /media · /gallery · /travel · /tips-tricks ·
+  /contact · /my-story · /our-love-story · /the-love-story · /living-with-als ·
+  /my-als · /category/blog · /2019/06 · /wp-content · /sitemap.xml
+
+THAT IS NOT EVIDENCE THE SECTIONS WERE NEVER CAPTURED. It is evidence that
+THESE GUESSED SLUGS ARE NOT THE REAL ONES -- the section names came from search
+snippets, not from the site's own navigation, and a WordPress site's menu
+labels rarely match its URLs. The real slugs will be on the front page of the
+2019-12-15 capture, in its navigation bar. READ THE MENU FIRST, then follow it.
+
+=====================================================================
+WHAT IS BEING LOOKED FOR
+=====================================================================
+
+Her Kanawana years in her own words: which section(s) she directed, which
+years, what she says the place was like. This is, per p_416, THE ONLY
+FIRST-PERSON LONG-FORM SOURCE THIS PROJECT HAS EVER IDENTIFIED FOR ANY
+KANAWANA PERSON WRITING ABOUT THEIR OWN LIFE. ALS Canada's 2021 memorial calls
+the blog "a source of positivity and strength for many".
+
+A NOTE ON HANDLING. She died in 2021 and the blog was public and written for
+an audience, so quoting it is quoting a published work. Its subject is her
+illness, and much of it will be about her body and her family rather than
+about a summer camp. Take the camp material; leave the rest where she put it.

@@ -1,0 +1,18 @@
+FETCHED 2026-09-06 — https://www.stadolphedhoward.qc.ca/27/patrimoine
+Municipalité de Saint-Adolphe-d'Howard, "Patrimoine" page.
+
+NOT A FULL CAPTURE. Fetched through WebFetch, which converts the page and answers a prompt
+against it; the passage below is what came back, and the rest of the page has not been read.
+
+THE PASSAGE, as returned:
+
+    "le Y.M.C.A. s'établit sur une des îles du lac Saint-Joseph en 1893"
+    (the YMCA established itself on one of the islands of Lac Saint-Joseph in 1893)
+
+The page notes that this vacation colony no longer exists, while several historical camps in
+the municipality remain active. It does NOT name Camp Jubilee or Camp Otoreke, and it does NOT
+mention a dam on the lake or any change to the water level — which is what it was fetched for
+(f_5160's lead, the 1923 dam Bill).
+
+WHY THE FETCH HAPPENED. f_5162 names this page as one of four untried routes to the 1923 Bill.
+It is a null for the dam and a small find for the founding date.

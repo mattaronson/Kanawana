@@ -1,0 +1,77 @@
+SOURCE: Union postale universelle, Bureau international, "Dictionnaire des bureaux de poste"
+        (Lausanne: Imprimeries réunies). Internet Archive item dictionnairedesb00univ.
+        NOT lending-restricted. Full djvu text (12.4 MB) downloaded and searched 2026-09-06.
+        "Kanawana" occurs EXACTLY ONCE in the whole file, at djvu-text line 908066.
+
+THE ITEM CONTAINS TWO PUBLICATIONS BOUND TOGETHER, AND THE DIFFERENCE IS THE WHOLE POINT:
+
+  1. The DICTIONNAIRE proper, NOVEMBRE 1909. Its own Observations, at line 100:
+       OBSERVATIONS 
+       i°)05 
+       1.  Le  présent  Dictionnaire  contient  les  noms  des  bu- 
+       reaux de  poste  de  tous  les  pays  faisant  partie  de  l'Union 
+       postale  universelle,  à  la  date  du  1er  mars  1909  (à  l'excep- 
+
+  2. A SUPPLÉMENT, AOÛT 1912. Its Observations, at line 885050:
+       1 .  Le  présent  Supplément  contient  les  changements  au 
+       Dictionnaire  des  bureaux  de  poste  (édition  de  novembre 
+       1909)  qui  ont  été  notifiés  au  Bureau  international  par 
+       les  divers  Offices  de  l'Union  et  par  l'Office  chinois  depuis 
+       la  publication  de  cet  ouvrage  jusqu'au  1er  juin  1912. 
+       Il  contient  également  les  noms  des  bureaux  de  poste 
+       de  la  République  de  Panama  qui  ne  figurent  pas  dans 
+       le  Dictionnaire. 
+       2.  Ce  Supplément  se  divise  en  trois  parties,  savoir: 
+       I.  Bureaux  à  ajouter  (pages  1  à  93). 
+       II.  Bureaux  à  biffer  (pages  94  à  143). 
+       III.  Modifications  (pages  144  à  191). 
+
+KANAWANA IS IN THE 1912 SUPPLEMENT, PART I ("Bureaux à ajouter"), NOT IN THE 1909 DICTIONARY.
+  Verified by line number: the last "Bureaux à ajouter" heading before the entry is at line
+  907856, and the first "Bureaux à biffer" heading is at 944546. The entry at 908066 therefore
+  sits inside Part I, offices to be ADDED.
+
+=== THE ENTRY, name column (line 908066) ===
+Kamuti  V,  m*  C    . 
+Kanada  V,  M,  C     . 
+Kanawana  c 
+Kanawyer  c 
+Kanaya  V,  M,  C     . 
+Kancha  V,  C     .     . 
+Kanchausi  V,  m*,  C 
+
+=== THE COUNTRY COLUMN, which the OCR prints as a separate run below the names ===
+Hawaï  (Poss.  amer.) . 
+Inde  brit.,  Ramnad. 
+Japon,  Buzen. 
+Canada,  Québec. 
+E.-U.  d'Am.,  Cal. 
+Japon,  Kazusa. 
+Inde  brit.,  Pindi. 
+Inde  brit.,  Etawah. 
+
+HOW THE COLUMNS WERE ALIGNED, and the check that validates it:
+  Counting back from the end of both runs --
+     Kanchen   <- Chine, Chekiang.
+     Kanchausi <- Inde brit., Etawah.
+     Kancha    <- Inde brit., Pindi.
+     Kanaya    <- Japon, Kazusa.
+     KANAWYER  <- E.-U. d'Am., Cal.
+     KANAWANA  <- CANADA, QUÉBEC.
+     Kanada    <- Japon, Buzen.
+  The check is KANAWYER: it is a real place in California (Kings Canyon), which is what the
+  alignment assigns it. If the offset were wrong by one, Kanawyer would land in Canada and
+  Kanawana in the United States.
+
+WHAT THIS ESTABLISHES:
+  The Kanawana post office did NOT exist on 1 March 1909, the date to which the main
+  dictionary is compiled, and DID exist by 1 June 1912, the closing date of the supplement.
+  Opening therefore falls in that window. The YMCA bought the Saint-Sauveur site in 1910.
+
+WHAT IT DOES NOT ESTABLISH: the exact opening date, the postmaster, or whether the office was
+  the camp's own. The letter beside the name in the name column is a service code whose legend
+  was not read.
+
+THE TRAP, recorded because it nearly worked: the Internet Archive catalogues this item as
+  "1909". Read at face value, a Kanawana post office in 1909 would predate the YMCA's arrival
+  and unsettle the account of how the place got its name. It is in the 1912 supplement.

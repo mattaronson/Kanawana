@@ -1,0 +1,139 @@
+#!/usr/bin/env python3
+"""Append a numbered source note to a wiki article, correctly, in one step.
+
+WHY THIS EXISTS. Adding a numbered source note by hand is four steps, and on
+2026-09-06 three of them were got wrong three separate times, in three different
+articles, each time shortly after the same mistake had been fixed somewhere else:
+
+  1. pick the next free number -- by enumerating BOTH entries and markers, since
+     either can run higher than the last entry you happen to read;
+  2. insert the entry INSIDE the Sources list, after the last numbered entry --
+     not at the end of the file, because most articles here carry Research Notes
+     and HTML comments after Sources, and a naive append lands outside the list
+     where the marker resolves to nothing;
+  3. bump the `Sources: N` count in the header, which counts NUMBERED entries
+     (a lettered sub-note like 8bt does not move it);
+  4. add the source id to articles.json `sources_cited` ONLY IF the article
+     actually cites the source id -- if it cites a fact id instead, adding it
+     there produces the other direction of verify_harness's A2: present in
+     sources_cited, never cited in the article.
+
+This does 1-3. Step 4 stays manual because only the author knows how the article
+cites. Run scripts/verify/all.py afterwards either way.
+
+Usage:
+    python scripts/wiki/add_source_note.py wiki/site/camp-otoreke.md "Note text."
+    python scripts/wiki/add_source_note.py ARTICLE "Note text." --dry-run
+
+It prints the number it assigned; put `^<number>` in the prose yourself, because
+where the marker belongs is a judgement about the sentence, not about the file.
+
+A NOTE ABOUT THE NOTE TEXT, learned three times in one afternoon (2026-09-07).
+citation_aim.py checks SOURCE NOTES as well as prose, and it will fail a note
+whose [f_XXXX] reference sits in a sentence sharing no name, year or number with
+that fact. The failing shape is always the same, and it is the natural way to
+write one of these:
+
+    "...cached at `sources/cache/foo.txt`. See [f_5083] and [f_5094]."
+
+The final sentence carries the fact ids and nothing else, so the check has
+nothing to match. Write instead:
+
+    "...cached at `sources/cache/foo.txt`. The **1953** and **1954** volumes are
+     at [f_5083]; the **1964** and **1965** volumes are at [f_5094]."
+
+Put each fact id beside the year, name or figure it covers. That is also better
+for a reader, who otherwise cannot tell which id holds which half.
+"""
+import argparse
+import re
+import sys
+from pathlib import Path
+
+
+def sources_region(text: str) -> tuple:
+    """(start, end) of the ## Sources section -- to the NEXT top-level heading.
+
+    WHY THE END MATTERS. Every function here used to slice from "## Sources" to
+    end of file, and most articles carry ## Research Notes after Sources. On
+    2026-09-07 green-triangle.md had an orphan "7. ..." line inside its Research
+    Notes, left over from an older edit; the new entry was appended after THAT,
+    landing outside the Sources list where the marker resolves to nothing. Verify
+    caught it as A1 + B, which is exactly the failure this script exists to
+    prevent -- so the bug was in the fence, not in the hand. Bounding the region
+    fixes the numbering, the insertion point and the count together, because all
+    three read the same slice.
+    """
+    start = text.find("## Sources")
+    if start < 0:
+        return (-1, -1)
+    nxt = re.search(r"^## ", text[start + len("## Sources"):], re.M)
+    end = start + len("## Sources") + nxt.start() if nxt else len(text)
+    return (start, end)
+
+
+def next_free(text: str) -> int:
+    """Highest of every numbered entry and every ^N marker, plus one."""
+    s, e = sources_region(text)
+    src = text[s:e] if s >= 0 else ""
+    entries = {int(m.group(1)) for m in re.finditer(r"^(\d+)\. ", src, re.M)}
+    markers = {int(m.group(1)) for m in re.finditer(r"\^(\d+)\b", text)}
+    return max(entries | markers, default=0) + 1
+
+
+def insert_after_last_entry(text: str, note_line: str) -> str:
+    """Place the note directly after the last numbered entry in ## Sources."""
+    start, end = sources_region(text)
+    if start < 0:
+        raise SystemExit("no '## Sources' heading in this article")
+    last_end = None
+    for m in re.finditer(r"^\d+\. .*$", text[start:end], re.M):
+        last_end = start + m.end()
+    if last_end is None:
+        raise SystemExit("'## Sources' has no numbered entries to append after")
+    return text[:last_end] + "\n" + note_line + text[last_end:]
+
+
+def bump_header(text: str, new_count: int) -> str:
+    m = re.search(r"^(\*Status: .+? \| Sources: )(\d+)(\*)$", text, re.M)
+    if not m:
+        print("  warning: no '*Status: ... | Sources: N*' header found; not bumped")
+        return text
+    return text[:m.start()] + m.group(1) + str(new_count) + m.group(3) + text[m.end():]
+
+
+def count_entries(text: str) -> int:
+    s, e = sources_region(text)
+    src = text[s:e] if s >= 0 else ""
+    return len({int(m.group(1)) for m in re.finditer(r"^(\d+)\. ", src, re.M)})
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("article")
+    ap.add_argument("note", help="the note text, without its leading number")
+    ap.add_argument("--dry-run", action="store_true")
+    args = ap.parse_args()
+
+    path = Path(args.article)
+    text = path.read_text()
+
+    n = next_free(text)
+    line = f"{n}. {args.note.lstrip()}"
+    out = insert_after_last_entry(text, line)
+    out = bump_header(out, count_entries(out))
+
+    if args.dry_run:
+        print(f"would assign ^{n} and insert:\n  {line[:120]}")
+        return 0
+
+    path.write_text(out)
+    print(f"added note {n} to {path}")
+    print(f"  now put ^{n} in the prose, then run scripts/verify/all.py")
+    print( "  and add the source id to articles.json sources_cited ONLY if the")
+    print( "  article cites the source id rather than a fact id.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

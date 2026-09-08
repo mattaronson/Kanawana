@@ -1,0 +1,124 @@
+THE LINK (Concordia University student newspaper), ELEVEN ISSUES 1988-1993
+Recruitment advertising, the Seaman Memorial Cup, and the naturalist named
+
+Found 2026-09-07 by the accounted sweep of rma-concordia-publications (p_479).
+Eleven issues matched; ten on "Kanawana" and one (vol. 3 no. 22) on Weredale,
+which is the false-positive class recorded at f_5421. Each item checked for
+multiple text files: one each.
+
+===============================================================================
+1. THE RECRUITMENT ADVERTISING RUN, 1988-1990
+===============================================================================
+
+Vol. 8 nos. 39, 40 and 41 — 22 and 29 March 1988 and the issue between them —
+carry the same display three weeks running:
+
+  "THE EXPERIENCE THAT LASTS A LIFETIME! We specialize in fun. Kamp Kanawana is
+  nestled in the heart of the Laurentians, on 1200 ACRES, near St. Sauveur. FOR
+  93 YEARS we have shared our excitement for discovery, personal growth and
+  leadership with the youth of Montreal. Share your enthusiasm, creativity and
+  leadership with others. Kamp Kanawana is a co-ed camp for children aged 7-15."
+
+Vol. 9 nos. 34 and 36 — 9 March 1989 and the issue before it — carry the wording
+the McGill Daily also ran on 20 February 1989: "a co-ed camp for children aged
+7-15, is situated in the heart of the Laurentians near St. Sauveur, on 1200
+acres of land and THREE PRIVATE LAKES."
+
+Vol. 10 nos. 34 and 38 — 6 March 1990 and later — carry a third variant: "If
+you're looking for an experience that will allow you to spend your summer away…"
+
+THREE THINGS.
+
+(a) THE TAGLINE MOVES BACK ANOTHER YEAR. "The experience that lasts a lifetime"
+    was found this morning in the McGill Daily of 20 February 1989 and written
+    up as predating the 1993 documentary of that name by four years. It is here
+    on 22 MARCH 1988, so the margin is five years and the phrase was in use
+    across at least two student papers.
+
+(b) "FOR 93 YEARS", IN MARCH 1988, IS THE CAMP'S OWN COUNT AND IT DOES NOT
+    MATCH THE WIKI'S FOUNDING DATE CLEANLY. 1988 − 93 = 1895. This project dates
+    the founding to 1894. The gap is one year and there are ordinary
+    explanations — counting completed seasons rather than years, counting from
+    the first full season, or a round number chosen by whoever wrote the
+    advertisement. IT IS NOT EVIDENCE AGAINST 1894 and is not offered as such.
+    What it is worth is that it is the CAMP counting, in public, in its own
+    advertising, and history/oldest-camp-question.md is built on exactly this
+    kind of self-description.
+
+(c) The camp advertised in Concordia's paper and McGill's in the same seasons,
+    which sits with the 1948, 1949 and 1962 advertisements already held: a
+    continuous practice of recruiting counsellors out of the city's universities.
+
+===============================================================================
+2. VOL. 12 NO. 38, 17 MARCH 1992 — THE SEAMAN FUND'S EVENT HAS A NAME
+===============================================================================
+
+  "Friday, March 20. A. ROSS SEAMAN MEMORIAL CUP: friendly competition of
+  'SPACEBALL' between LEISURE STUDIES, APSS, DAWSON'S CRLT PROGRAMME, AND YMCA'S
+  CAMP KANAWANA. Also: variety show, t-shirts, buffet dinner, an auction, &
+  awards. 2:30pm, Loyola Campus Athletic Complex, 7141 Sherbrooke St. W. Info:
+  Anita 489-7723."
+
+(Repeated in vol. 12 no. 39.)
+
+WHY THIS MATTERS. wiki/people/a-ross-seaman.md records that the memorial fund
+"is notable for raising money through an annual awards evening with auction —
+described as possibly the only active Concordia scholarship using this
+fundraising model." That is the whole of what this project knew about the event.
+Here is the event: it had a NAME, the A. Ross Seaman Memorial Cup; a FORMAT, a
+Spaceball tournament; a VENUE, the Loyola Campus Athletic Complex; and — the
+part that matters — ITS FOUR TEAMS ARE THE FOUR CONSTITUENCIES NAMED IN THE
+SCHOLARSHIP'S OWN TERMS. Concordia's calendar says the award honours Seaman's
+dedication "to the communities of Concordia University, Dawson College, Kamp
+Kanawana and the YMCA" and that "each year, students from these four
+institutions are recognized." Leisure Studies and Applied Social Science are the
+two Concordia departments Seaman taught in; CRLT is the Dawson programme he
+built; Camp Kanawana is the camp. THE FOUR COMMUNITIES OF THE SCHOLARSHIP PLAYED
+A BALL GAME AGAINST EACH OTHER TO RAISE THE MONEY FOR IT.
+
+It also joins up with the 2007 bursary booklet read earlier today, one of whose
+citations praises a winner as an "active member in the CRLT Community" who
+"worked on the T-shirt Committee, A. Ross Seaman Cup and Bill Lewis Race at the
+YMCA" — the t-shirts and the Cup both appear in this notice, and "Bill Lewis
+Race" remains unidentified.
+
+===============================================================================
+3. VOL. 14 NO. 20, 26 NOVEMBER 1993 — "FOLK RHYTHM AND LIGHT SPIRITS"
+    by Sarah Musgrave, and it names the naturalist
+===============================================================================
+
+A companion piece to the McGill Daily's review of the same show one day earlier,
+25 November 1993, already held here. This one is longer and carries three things
+the Daily does not.
+
+  "The music largely represents a selection of Day's compositions since he first
+  picked up a guitar TWO YEARS AGO ON A TRIP TO INDONESIA. 'I WAS SUFFERING FROM
+  CULTURE SHOCK. I JUST DIDN'T WANT TO COME OUT OF THE HUT. SO I BORROWED A
+  GUITAR AND PASSED MY TIME INSIDE WRITING SONGS.' HE TRIED OUT HIS MUSIC ON A
+  'CAPTIVE AUDIENCE' AT KANAWANA, a summer camp in the Laurentians, where the
+  response was overwhelmingly positive. CONCORDIA DANCE STUDENT ELAINE HOOPER
+  MET DAY WHEN THEY WORKED TOGETHER AS NATURALISTS AT CAMP. Hooper has a degree
+  in biology and her desire to incorporate her ecological and biological
+  knowledge into her performance was in keeping with Day's environmental
+  themes."
+
+Also: Day "is presently training for a future in OPERA"; the line-up is "three
+vocalists, a couple of guitarists, a trumpet player, and two dancers," aged 17
+to 30; songs by Day and McGill student Hartley Wynberg; the other dancer is
+Alorani Martin; the show is called "Spirit Rhythms" here against the Daily's
+"Spirit Rhythm."
+
+THE POINT FOR THIS WIKI. wiki/people/sean-day.md quotes Day from the Daily — "I
+used to work with a naturalist, mostly in Kanawana. We used to do an 'earth
+values' program" — and says in terms: "AND THE NATURALIST IS NOT NAMED. Chris
+Adam is the obvious candidate… but Day does not say." THE LINK NAMES A FELLOW
+NATURALIST: Elaine Hooper, a Concordia dance student with a biology degree, who
+"met Day when they worked together as naturalists at camp."
+
+BE CAREFUL WITH THAT, AND THE ARTICLE IS. Hooper is A naturalist Day worked with
+at Kanawana, which makes her a far stronger candidate than Chris Adam for the
+one in the quotation. It does not make her THAT naturalist: Day says "a
+naturalist," singular and unnamed, and the Link says the two of them worked "as
+naturalists," which describes both of them holding the role rather than
+identifying his collaborator on the "earth values" programme. The candidate
+changes; the question does not close.

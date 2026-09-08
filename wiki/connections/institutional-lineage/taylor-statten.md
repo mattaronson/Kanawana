@@ -1,6 +1,6 @@
 # Taylor Statten and the Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 10*
+*Status: E1-reviewed | Sources: 11*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -15,7 +15,31 @@ Hedley S. Dimock (1891–1958) conducted pioneering camping research at Ahmek fr
 
 Statten entered Toronto YMCA boys' work in 1902 and became full-time Secretary of Boys' Work at the Toronto Central YMCA on May 1, 1905, a post he held until 1911, rising afterward to national Boys' Work Secretary (refines the previous "around 1905–1906" dating).^2 ^8 He developed the Canadian Standards Efficiency Training (CSET) program, which standardized youth development across YMCA camps using a "fourfold" development philosophy: intellectual, physical, spiritual, and social.^4
 
-The CSET program was formally launched in October 1918 with two tiers: Trail Rangers (ages 12–14) and TUXIS (ages 15–17).^4 A parallel girls' program, Canadian Girls in Training (CGIT), was also created.^4 Statten organized the first Ontario TUXIS and Older Boys' Parliament in 1917, reflecting his belief that boys should have leadership roles in program decision-making.^4
+The CSET program was formally launched in October 1918 with two tiers: Trail Rangers (ages 12–14) and TUXIS (ages 15–17).^4
+
+**Two things about that account are contested by the programme's own publications, and neither is
+settled here.** *The Boy's Own Book*, issued in 1929 by the National Boys' Work Board of the
+Religious Education Council of Canada, gives a different chronology: the forerunner "prepared and
+published" in **1912** as the Canadian Standard Efficiency ***Tests***, a little red handbook of
+which forty-two thousand were used, and the revised programme complete in **October 1918**, when
+"the name 'Canadian Standard Efficiency ***Training***' became" the name it kept. **The acronym's
+expansion changed**, and neither date is 1914. **The 1914 date has since been traced, and it rests on
+Wikipedia** — source 4 of this article, the *TUXIS* entry, is the only thing cited for it anywhere in
+this wiki. So the disagreement is not two documented sources of equal standing: it is a tertiary web
+encyclopedia against two contemporaneous publications of the programme itself. **The date is left
+standing anyway**, because changing an E1-reviewed article's central claim about its central figure is
+an editorial decision and because 1914 may be true of some event neither 1918 nor 1929 source
+describes. Recorded as **conflict c_069**, with that recommendation, for a human.^11
+
+**And CSET has a second author this article has never named.** The same 1929 passage: "Messrs.
+**Taylor Statten and Wallace Forgie**, as Boys' Work Secretaries of the Central Branch of the
+Y.M.C.A., in Toronto, were carrying on experiments which in 1912 were to blossom out into what were
+then called the Canadian Standard Efficiency Tests. **It was in 1907 that Mr. Forgie got the idea of
+Luke 2:52** … as a basis for such a programme." Luke 2:52 is the verse the whole **fourfold** scheme
+rests on. The same passage calls Statten "the moving spirit in and through it all," so this is not a
+demotion — but the idea is given to Forgie, the direction of the 1918 revision is given to Forgie,
+and the 1918 manual names him Secretary of the C.S.E.T. Committee. He is also **Statten's
+brother-in-law**. See [[connections/institutional-lineage/wallace-forgie|A. Wallace Forgie]].^11 A parallel girls' program, Canadian Girls in Training (CGIT), was also created.^4 Statten organized the first Ontario TUXIS and Older Boys' Parliament in 1917, reflecting his belief that boys should have leadership roles in program decision-making.^4
 
 The program was co-managed with Protestant churches via the National Boys' Work Board, later dominated by the United Church of Canada. The YMCA eventually stepped back, and the program declined after the Second World War.^4
 
@@ -53,7 +77,7 @@ The fellowship's terms are worth noting for what they say about how Canadian cam
 
 Statten's influence on Kanawana was primarily indirect: through the CSET program adopted by YMCA camps nationally, the Indian Lore programming model, and the CCA organizational framework. Concordia University Archives contain Taylor Statten weekly letters from 1915, suggesting an early connection to the Montreal YMCA network that has not yet been explored.^2
 
-At Kanawana, A. Ross Seaman served as director from 1959 to 1967 and simultaneously joined the Applied Social Science department at Sir George Williams University in 1963 as a part-time faculty member.^2
+At Kanawana, A. Ross Seaman served as director from 1959 to 1968 and simultaneously joined the Applied Social Science department at Sir George Williams University in 1963 as a part-time faculty member.^2
 
 Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Centennial Program, which became a permanent tradition — a parallel to Kanawana's own canoe tripping evolution in the La Vérendrye region during the same period.^2
 
@@ -86,6 +110,7 @@ Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Cen
 8. Burry, Donald. *A History of the Taylor Statten Camps.* MA thesis, University of Saskatchewan, 1985 — read in full 2026-07-09 [src_burry_thesis_1985].
 9. J. Alex Edmison, "Taylor Statten," and "An Historic Occasion," *Canadian Camping* Vol. 14 No. 4 (June 1962), pp. 163-165 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issues 62-63).
 10. "Taylor Statten Memorial Fellowship," *Canadian Camping* Vol. 28 No. 5 (December 1976), p. 2 [src_ia_canadian_camping_collection]. Found by the same read (issue 110).
+11. *The Boy's Own Book* (Toronto: National Boys' Work Board of the Religious Education Council of Canada, 1929) [src_boys_own_book_1929] and *The C.S.E.T. Manual for Tuxis Boys* (National Council of YMCAs of Canada, 1918) [src_cset_manual_tuxis_1918]. Both found 2026-09-07 by a quoted sweep of the Internet Archive book corpus and downloaded in full; the CSET-origin passages and the manual's acknowledgements were read closely, the rest of both books was not. Quoted in full at `sources/cache/cset/2026-09-07-forgie-and-the-origin-of-cset.txt`. See [f_5350], [f_5351] and conflict c_069.
 
 ## Research Notes
 

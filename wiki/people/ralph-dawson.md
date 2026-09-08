@@ -1,7 +1,7 @@
 # Ralph Dawson
 
-*Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-09-06 (the 1899 Permanent Camp Committee's membership is known, and he is not on it)*
 
 ## Overview
 
@@ -29,9 +29,13 @@ One additional archival lead was identified: Concordia Archives sub-series 13D (
 
 A second, previously unexplored lead surfaced in the same pass: Concordia's finding aid also references a "Permanent Camp Committee," with minute and correspondence files spanning 1895-96, 1899-1901, 1908, 1911-1926, and 1921 — covering nearly all of the period Dawson is known to have been active. This committee is a plausible venue for his role to be documented and has not been checked in any prior research campaign.^9 Resolving the open questions will require consultation of the Concordia Archives physical holdings, particularly the 1933 manuscript, the Permanent Camp Committee minute books, and the Joyce Oliver research files.
 
+**The Permanent Camp Committee's membership is now known for one year, and Dawson is not on it.** The lead above — that the committee "is a plausible venue for his role to be documented" — can be narrowed without opening the file series at all. The association's *printed* annual report for the year ending 30 April 1899 gives the committee in full: "**Chas. Cushing, Chairman. John W. Ross. W. E. Cushing. C. S. Paterson. F. L. Benedict.**"^10 Five men, and no Dawson — in the year after the 1898 Camp Jubilee photograph that is this project's earliest sighting of him. The same report names the men in charge of the camps themselves that season (A. MacKellar, C. B. Powter, A. R. Ross and W. H. Ball for the senior camp; W. F. Chapman and C. S. Paterson for the junior), and Dawson is not among those either.
+
+That is a negative and it is worth having: **in 1898-99 he was neither on the committee nor running a camp**, which fits McMorris's "alumnus" and fits the 1898 photograph, and which makes the unread minute books a test of the later years rather than of these. One printed year is not the file series, and the committee's membership certainly changed across 1895-1926.
+
 ## Open Questions
 
-1. [Critical, advanced 2026-07-09] What was Ralph Dawson's formal role at Camp Kanawana? Was he a director, committee member, or volunteer historian? McMorris's thesis leans "alumnus" (former camper), but this is her inference, not a confirmed title — still open. New archive lead: the "Permanent Camp Committee" file series (1895-1926) has not yet been checked and covers nearly all of Dawson's known active period.
+1. [Critical, advanced 2026-07-09, **narrowed 2026-09-06**] What was Ralph Dawson's formal role at Camp Kanawana? Was he a director, committee member, or volunteer historian? McMorris's thesis leans "alumnus" (former camper), but this is her inference, not a confirmed title — still open. New archive lead: the "Permanent Camp Committee" file series (1895-1926) has not yet been checked and covers nearly all of Dawson's known active period.
 2. [Critical, re-confirmed dead end 2026-07-09] What are Dawson's biographical details — birth/death dates, profession, YMCA role? His middle initial "H." is confirmed from the 1898 photo caption. A fourth independent web-research campaign (WikiTree, Find A Grave, MyHeritage, FamilySearch-adjacent, LCC/McGill/Westmount combinations) again found zero hits tying any "Ralph Dawson" to Montreal/the YMCA — this is now a confirmed dead end for open-web research across four separate sessions (March, June x2, July).
 3. [Important] What does the 1933 "History of Kamp Kanawana" contain? This unpublished manuscript in Concordia Archives 12A (Box HA2307) is a primary source for camp history — still finding-aid-level only, no excerpt or content description found beyond the already-known name-origin passage.
 4. ~~[Important] Does the McMorris thesis full text mention Dawson's role?~~ [Resolved 2026-07-09] Yes — read directly as a full PDF (previously only user-pasted excerpts existed in the cache). Two total mentions of "Dawson" in the 129-page thesis; she characterizes him as "an alumnus" (p. 76, fn. 81) but gives no further biographical or role detail.
@@ -55,3 +59,4 @@ A second, previously unexplored lead surfaced in the same pass: Concordia's find
 7. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University, p. 76 and fn. 81 — read as a full PDF direct from spectrum.library.concordia.ca, 2026-07-09 (previously only user-pasted excerpts had been extracted).
 8. Concordia University Archives, finding-aid page for sub-series 13D ("Material for Book of Remembrance and History," Joyce Oliver, 1939-1940), Box HA2330 [src_concordia_13D_joyce_oliver]. Direct fetch 2026-07-09.
 9. Concordia University Archives, finding aid referencing the "Permanent Camp Committee" file series, 1895-1926 [src_concordia_atom_12A].
+10. YMCA of Montreal, annual report for the year ending 30 April 1899, the Permanent Camp Committee's own report and membership list [src_ia_ymca_montreal_annual_reports_collection]. Read from the page images 2026-09-05. See [f_4908], [f_4911], [f_4913].

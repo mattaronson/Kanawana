@@ -1,0 +1,37 @@
+SOURCE: William Fong, "J.W. McConnell: Financier, Philanthropist, Patriot"
+        (Montreal: McGill-Queen's University Press, 2008).
+        Internet Archive item jwmcconnellfinan0000fong, scan leaf 766.
+        The book is lending-restricted and print-disabled; it CANNOT be read whole from here.
+
+HOW THIS TEXT WAS OBTAINED, and what it therefore is:
+  Open Library's search-inside endpoint returns a highlighted window of about a dozen words
+  around a matched phrase, for restricted books as well as open ones. Seven overlapping phrase
+  queries were run on 2026-09-06 and their windows joined. This file is THAT RECONSTRUCTION,
+  not a transcription of the page and not a facsimile. The printed page number is unknown;
+  766 is the scan leaf. Nothing before or after the passage below has been read.
+
+QUERIES RUN, in order, each returning one window from this item:
+  "Camp Kanawana"                          -> "...for a new Camp Kanawana, which was renamed"
+  "which was renamed Lake Wilson after"    -> "...for a new Camp Kanawana, which was renamed Lake Wilson after his first son. Lurther, the"
+  "Wilson after his first son"             -> "...Kanawana, which was renamed Lake Wilson after his first son. Lurther, the YMC A campaign provided"
+  "near Saint-Sauveur, for a new"          -> "...bought a site at Lake Desjardins, near Saint-Sauveur, for a new Camp Kanawana, which was renamed"
+  "bought a site at Lake Desjardins"       -> "1912, in that year he also bought a site at Lake Desjardins, near Saint-Sauveur, for a new"
+  "campaign provided" "Kanawana"           -> "...his first son. Lurther, the YMC A campaign provided the model for a fundraising campaign"
+  "model for a fundraising campaign"       -> "...YMC A campaign provided the model for a fundraising campaign of McGill University, also in"
+
+THE PASSAGE AS RECONSTRUCTED (OCR artefacts preserved and marked):
+
+  ... 1912, in that year he also bought a site at Lake Desjardins, near Saint-Sauveur,
+  for a new Camp Kanawana, which was renamed Lake Wilson after his first son.
+  Lurther[= Further], the YMC A[= YMCA] campaign provided the model for a fundraising
+  campaign of McGill University, also in ...
+
+NOTES ON READING IT
+  - "Lurther" is OCR for "Further"; the F has been read as an L. "YMC A" is a spacing artefact.
+  - The sentence begins mid-clause. What precedes "1912, in that year he also" has not been read,
+    so what else McConnell did in 1912 is unknown here, and the antecedent of "he" is McConnell
+    only by the subject matter of the book.
+  - "his first son" is not named. This project identifies him as Wilson Griffith McConnell
+    (1908-1966) on the family record; Fong does not write the name in this window.
+  - The passage does not say whether the purchase and the renaming happened in the same year,
+    nor whether he bought the lake or the whole site.

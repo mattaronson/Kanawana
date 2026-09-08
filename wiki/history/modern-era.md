@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 17*
-*Last Updated: 2026-08-28*
+*Status: draft | Sources: 35*
+*Last Updated: 2026-09-08 (the advisory committee's history; the endowment; what a parent signs)*
 
 ## Overview
 
@@ -9,7 +9,7 @@ In 1995, Kanawana split its single Camp Director role into two parallel position
 
 ## The Two-Tier Structure Begins (1995)
 
-Bruce Netherwood's directorship, which had run since 1988 through the camp's 1994 Centennial (see [[history/centennial-1994|The 1994 Centennial]]), ended that year. In its place, the YMCA created a year-round Executive Director role, headquartered in Montreal and responsible for the organization overall, and a three-season on-site Director who ran the camp each summer — colloquially called "Chief," a title from the camp's "playing Indian" era, until it was retired in the early 2020s as part of Kanawana's reconciliation efforts.^1 Arleen Boyer served as the first Executive Director (1995–2000), with [[people/joanna-hoad|Joanna A.A. Hoad]] as on-site Director for the same span.^1 Both tenures rest on oral history: Hoad's Kanawana years in particular are not independently corroborated by any source found across two full research passes, though her subsequent career at Lower Canada College from 2000 is well documented.^1
+Bruce Netherwood's directorship, which had run since **1989** through the camp's 1994 Centennial (see [[history/centennial-1994|The 1994 Centennial]]), ended that year. In its place, the YMCA created a year-round Executive Director role, headquartered in Montreal and responsible for the organization overall, and a three-season on-site Director who ran the camp each summer — colloquially called "Chief," a title from the camp's "playing Indian" era, until it was retired in the early 2020s as part of Kanawana's reconciliation efforts.^1 Arleen Boyer served as the first Executive Director (1995–2000), with [[people/joanna-hoad|Joanna A.A. Hoad]] as on-site Director for the same span.^1 Both tenures rest on oral history: Hoad's Kanawana years in particular are not independently corroborated by any source found across two full research passes, though her subsequent career at Lower Canada College from 2000 is well documented.^1
 
 ## Directorial Succession, 2001–2023
 
@@ -18,6 +18,290 @@ The Executive Director role passed from Boyer to [[people/gary-white|Gary White]
 ## The Green Shift (2006–2012)
 
 Beginning in 2006, Kanawana undertook a "virage vert" (green shift) aimed at reducing its ecological footprint and repositioning itself as an outdoor education centre; the Montreal YMCA's 2007 annual report frames it as a $5 million development and Quebec's first "green camp."^6 The Grand Portage cabin was demolished around 2006 to make way for new washroom buildings housing 16 commercial Clivus Multrum composting units and 32 dry toilets, installed specifically to protect Lake Kanawana from septic pollution.^10 ^11 Two green sanitary installations were tested during the summers of 2007 and 2008.^11 By December 2008, $1.48 million had been raised toward the $5 million goal;^7 by 2009 Phase I was nearly complete, with twelve new three-season cabins erected for younger campers and counsellors.^8 The project earned an honourable mention for environmental achievement at Saint-Sauveur's 2010 Gala Méritas, and a new eco-educational pavilion opened in 2012.^9 TELUS contributed $50,000 in 2010 toward a three-season educational pavilion at the camp;^12 whether that grant funded the pavilion that opened in 2012 is not stated by any source and is not assumed here. The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season facility — see [[traditions/environmental-history|Environmental Education and Stewardship at Kanawana]] for the full year-by-year account, including subsequent water-quality monitoring data and school-partnership conservation programming.
+
+### The camp as it described itself to job-seekers, 2006 and 2008
+
+The green shift is documented from the YMCA's side. What the camp told **applicants** in the same years
+is in a commercial job directory, and it is the plainest self-description this article holds for the
+period.^18
+
+> "YMCA Kamp Kanawana is located outside of St.-Sauveur-des-Monts, Quebec, about an hour North of
+> Montreal. The camp is nestled in the heart of the Laurentian Mountains on **500 acres** [2006] /
+> **550 acres** [2008] of pristine wilderness with 3 private lakes. Kanawana offers programming for boys
+> and girls **aged 5 to 16**, including canoeing, nature, hiking, sailing, **rockclimbing**, kayaking,
+> swimming, **ropes course activities**, arts & crafts, drama…"
+
+Four things it settles or moves. The winter address is **1435 Drummond**, not the 1441 printed in every
+earlier directory this project holds, from 1975 to 1987 — and, it now turns out, through 2001. The **age floor is five**, against 7 in the
+1983-84 and 1987 guides and 8 in 1975-76. **Rockclimbing and a ropes course** appear in the activity
+list, which they do in none of the earlier ones. And the **acreage moves between the two editions**, 500
+to 550, in copy that is otherwise word for word the same — so the camp's own figure changed between 2006
+and 2008 and landed on the number the YMCA still uses (see
+[[site/the-kanawana-site|The Kanawana Site]]).
+
+**And the staff structure is named post by post**, which is as close to an organigram as this article
+gets for the 2000s: "junior counselor (17 years), counselor (18 years and over), lifeguard, program
+specialist (such as canoeing specialist, sailing specialist…), maintenance assistant/counselor, office
+assistant, **counselor-in-training director**, **out-trip director**, **assistant out-trip director**,
+**nature leader/counselor**, **head lifeguard/counselor**, and counsellors."^18 The out-trip
+directorship with its own assistant is the tripping programme's line of command a generation after
+[[traditions/canoe-trips|Les Voyageurs]] stopped being listed as a camp of its own.
+
+*A caution kept with the source.* The directory page carries several employers' entries, and other
+plausible-looking post lists came back in the same search windows. None of those is attributed here.
+Only the text walked contiguously from Kanawana's own heading is quoted.
+
+
+## The camp as a fundraising unit, 2010
+
+**By 2010 Kanawana was raising money as a branch of the association, not only spending it.** The YMCAs of
+Québec community report for that year puts the camp in the Strong Kids Campaign beside the association's
+other units: "volunteers from the **ten Y centres, the International Language School, the Residence, and Camp
+Y Kanawana** raised close to **$340,000** to help empower youth, the young at heart, families, and
+individuals in need." Nearly **$50,000** of that came from "an **online viral campaign** which was also
+promoted through **Facebook**," with "a hundred or so '**volunteer storytellers**'" contributing.^21 That is
+the earliest instance this project holds of the camp inside a social-media fundraising campaign.
+
+**And the share of Kanawana's own campers on assistance had risen sixfold in the five years before.** The
+association's 2009 report: "Since 2004, the percentage of campers receiving financial assistance to attend
+camp has grown from **4% to 26%**."^33 That is the number behind everything else on this page about access —
+Star's letter in 2016 about seven summers her son could not otherwise have had, the camperships line running
+through the endowment table below, and the Access for All figures that follow. The 2010 report adds where the
+money came from: the camp had reached more children "thanks to the support of the **private sector**" and
+would now reach more again "as a result of its **eligibility for government subsidies**."^21 The full sequence
+is at [[traditions/environmental-history|Environmental Education and Stewardship]], which holds the paragraph
+this sentence closes. [f_5780]
+
+**How much of the association's assistance the camp accounted for, in the one year it is broken out.** The
+same report: "In 2010, thanks to the **Access for All policy**, 10,861 people benefitted from financial
+assistance provided by the YMCA in order to participate in our programs, for a total of **$885,776**." An
+infographic beside it splits the policy by programme and gives **Camp Y Kanawana 3.24%**, against 15.14%
+against the policy heading, 1.74% for the Ski and Snowboard School and 0.29% for swimming and other aquatic
+programmes.^21 *No dollar figure is computed from that here.* The report never says whether the percentages
+are shares of the money, of the people, or of something else, and the OCR reflows the infographic into a
+single stream; multiplying $885,776 by 3.24% would manufacture a precise-looking number out of an unstated
+denominator. (The people-count's leading digit is OCR-damaged, reading "0,861"; ten thousand is the only
+reading that fits the association's scale.)
+
+**And it was one of only two things the association was asking donors to build.** The same report solicits
+"commitments to our **development projects (Camp Y Kanawana and Destination Youth)**."^21 The camp had been
+in the green shift since 2006; this is what that looked like from the fundraising side.
+
+The report also dates the season — "**06/28** — Start of the summer season for Camp Y Kanawana, with 12 new
+three-season cabins" — and gives the camp's standing capacity as "more than **2,000 youth aged 6 to 17 years
+each year."^21 *That figure is a recurring annual statement rather than a count for 2010*, so it belongs
+with the camp's capacity claims and not in [[meta/attendance-series|the attendance series]], whose gap runs
+across most of 2010–2019. The twelve cabins are in the building chronology at
+[[site/places-and-locations|Places and Locations]]. *This sentence pointed at
+[[traditions/environmental-history|Environmental Education and Stewardship]] until 2026-09-08, which does
+not carry them and never did.* The same 2010 report also records that private support for accessibility
+at the camp had made it eligible for government grants, and that **at least one of two planned "pavillons
+écologiques éducatifs"** would be built — neither of which this project had.^21 The association served over
+115,000 people at 30 points of service that year, and calls the camp **"Camp Y Kanawana"** throughout its
+own English text.^21
+
+## What the community reports show, 2011 and 2012
+
+**2011 gives a season opening, a camper count and two programmes nobody here had heard of.** The report's
+chronology: "**06/19** — **Open House day** at YMCA Camp Kanawana. Summer is set to begin for **over 700
+campers!**" and, days later, the launch of "the summer session for the **Language Camps** at the Downtown
+YMCA's day camp **and at YMCA Camp Kanawana**."^22 The 700 is an attendance figure for a year
+[[meta/attendance-series|the attendance series]] does not cover, its gap running across most of 2010–2019.
+The association's **Endowment Fund** paid that year for "the **Boot Camp weekend for girls** at YMCA Camp
+Kanawana," listed beside a drug-abuse intervention programme at Pointe-Saint-Charles.^22 Neither "Boot Camp"
+nor "Open House" appeared anywhere in this wiki before.
+
+A parent's account survives from the same report, in a passage about women in the association's French
+conversation workshops, many of them seeking work: one "enthusiastically mentions the family activities and
+the **financial assistance that allowed her two eldest children to experience a stay at YMCA Camp
+Kanawana**."^22 The camp reached that family through a French-language adult programme at a city branch.
+
+**In 2012 the camp joined a provincial public-health pilot.** "Three of our day camps (Cartierville,
+Downtown, and Notre-Dame-de-Grâce YMCAs) and **YMCA Camp Kanawana** participated in **year one of the
+Tremplin Santé pilot project**, an initiative by the **Fondation des Camps Odyssée** financed by **Québec en
+forme**," aimed at healthy eating and active living in Quebec's summer camps, targeting "young campers,
+their parents, and camp administrators."^22 That is Kanawana inside a province-wide programme run through
+the Quebec camping sector's own foundation rather than through the YMCA — see
+[[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association]].
+
+The same report gives **$255,000 in financial assistance "to allow over 480 children attend camp,"** and a
+combined **3,000 children welcomed by "our day camps and YMCA Camp Kanawana."** *That 3,000 is a combined
+figure across the day camps and the resident camp, so it is not a Kanawana attendance number and is not used
+as one here.*
+
+And it prints a camper in her own words: **Laurie**, seventeen, a social sciences student at Dawson College,
+after "the last seven summers at YMCA Camp Kanawana in Saint-Sauveur" — so a camper from about 2005.
+"Kanawana taught me how to feel more comfortable with people, open up to them more, and **respect their
+differences**." Asked for one word: "**Learning!** Kanawana is truly an experience that allows you to learn
+more about yourself, nature, and others." The following summer, the report notes, would be her turn on the
+other side.^22
+
+## Who else used the camp, 2000-01
+
+**A psychiatric institute was among the camp's tenants, and not for the first time.** The association's
+annual report for 2000–01: "Once again this year, the camp welcomed people from the YMCA and from numerous
+other organizations as well, including the **Allan Memorial Institute** and several **Montreal school
+boards**."^25 The Allan Memorial is McGill's psychiatric institute. This wiki has documented the camp's
+rental business only in the abstract — as the thing that inflates the attendance figures of these years,
+which is why [[meta/attendance-series|the series]] flags 2000–01's "1,220 campers between the ages of 3 and
+60" as covering "summer camp **and rental programs** alone." Here is one of the tenants by name, and "once
+again" says it was a standing arrangement.
+
+The same passage gives the assistance figures: "The YMCA financial assistance program helped **27 children**
+from low-income families enjoy the Kamp Kanawana experience. Total funding for the children amounted to
+**$13,000**."^25 That is about $481 a child. Eleven years later the association reports $255,000 for over
+480 children across all its camps — about $530. The per-child figure barely moves across the decade.
+
+**And one small thing the report bothered to record.** "At the end of the summer, all remaining food from
+the kitchen, as well as any unclaimed clothing from the lost-and-found, were donated to **Le Bon Dieu dans
+la Rue**," the Montreal youth-homelessness charity.^25 Neither that organisation nor the practice appears
+anywhere else in this project.
+
+## Two claims and two programmes, 2021 and 2024
+
+**The association's own framing of the camp in 2021.** The community report for that year calls it "Camp
+YMCA Kanawana, **Quebec's first overnight summer camp**" — the narrower claim
+[[history/oldest-camp-question|the oldest-camp question]] settles on, in the association's voice — and adds
+that "In 1894, we opened Camp Kanawana. Today, Camp Kanawana is **one of only two green camps in the
+province**."^24 *"Green camps" appears nowhere else in this wiki, and the phrasing implies a designation
+with a countable set of holders, so two things are open: who certifies it, and which is the other camp.* The
+report does not name a certifying body, and none is assumed here.
+
+**2024 brought a science camp and a day-camp version of the place.** The impact report describes a **science
+and engineering camp** at Kanawana offering "opportunities to explore **chemistry, space, artificial
+intelligence**, and even the environment," and "**Adventure at Kanawana**," which "offers participants all
+the benefits of fully immersing themselves in the great outdoors on our gorgeous summer camp site in
+Saint-Sauveur, **but in a day camp format**."^24 The second is the "Aventure à Kanawana" day camp dated to
+2024 above, here described in English and confirmed running; the science camp is new to this project
+entirely. The same report gives the season's attendance — **782 kids and teens** — which is carried in
+[[meta/attendance-series|the attendance series]].
+
+## Parents' reasons, 2010 and 2016
+
+This wiki holds a great deal about what the camp's staff and its association said the camp was *for*, across
+130 years, and very little from the families who used it. Two community reports print a family's own words,
+both with first names only.
+
+**2010, after a canoe trip.** "I want to thank you (camp) and Jen's guides **Joe and Elli** for giving Jen an
+awesome experience. She has not stopped talking about it since I picked her up on Friday, and it seems she has
+**a new found belief in herself**. I know she learned many valuable lessons during the trip, and that they
+will help keep her on track during the school year… Through Jen, I have come to realise that **Kanawana is a
+really special place**. Over the past year, Jen has been gaining strength and maturity through the many
+dedicated people who have helped her."^21 The trip is the [[traditions/canoe-trips|canoe-camping]] programme,
+and what the mother measures it by is a school year rather than a summer. [f_5776]
+
+**2016**, at greater length:
+
+> "My name is **Star**. My thirteen-year-old son **Bishop** has been going to Camp YMCA Kanawana **since he
+> was six**. This wouldn't have been possible without **financial assistance** from the YMCA… I see a
+> difference every time Bishop comes back from camp. He has a healthier, more positive view of himself… At
+> his age, Bishop is still trying to figure out who he is. **It's hard to find an environment that will help
+> him build his character, where he won't be pressured into being someone he's not.** I would like to thank
+> you. **Thank you for not excluding people based on their income** or for any other reason."^24
+
+Seven consecutive summers on assistance, 2009 to 2016. The reason she gives is the one the national Boys'
+Work Committee gave in 1931 and the "Values for Living" framework at [[traditions/programs-activities|Programs and Activities]]
+gave in the 1950s, in institutional language: character formed somewhere the pressure is off.
+
+## The camp's own committee, 1995-2017
+
+**There was a Kanawana board from at least 1995, it disappears for six years, and it comes back in 2002 with
+a safety brief.** *Written earlier on 2026-09-08 as "it began in the summer of 2002"; corrected the same day
+once the earlier volumes were opened.* The 1995 report lists a **Kamp Kanawana Local Board** of fourteen under
+the heading *Local Boards*: Mark Boghen, Tom Castle, Tim Clark, Barbara Drury, Bill Flashner, Alison Fripp,
+Cheryl Gamberg, **Joanna Hoad (YMCA)**, **Sue Khan (Chairperson)**, **Rick Lozoff**, Bruce Netherwood (YMCA),
+Dianna Shannon and Wendy Watt. In 1996 it is down to seven, with **Barbara Drury** now in the chair. Then
+Kanawana falls off the list entirely: the 1998, 1998-99, 1999-2000, 2000-01 and 2001-02 volumes all print the
+branch bodies — renamed *Local Advisory Councils* from 1999-2000 — with six to nine branches on them and no
+camp.^31 [f_5768]
+
+*So "new" in the 2002 report is fair, and means re-established.* The Montreal YMCA's report for the year
+ended 31 May 2003 says so in the middle of its Kanawana paragraph: "This summer, we upgraded a number of our
+facilities and programs, **established a new Local Advisory Council to conduct safety audits**, and welcomed
+one of the most mature and culturally diverse groups of counselors and program staff ever." The French
+edition puts it the same way, *un nouveau conseil consultatif chargé de veiller à la sécurité du camp*.^28
+Set that against the camp's 2026 description of the same body, quoted further down this article — quarterly
+meetings, "a say on how Kanawana is managed… to discuss Kanawana's needs and future directions" — and the
+committee has travelled a long way from an audit function in twenty-four years.
+
+*This wiki quoted the sentence before it and the paragraph after it and never quoted this one.* The 770-camper
+figure two lines above is [f_5150]; the Non Nobis Solum volunteer group two lines below is [f_5149]; both were
+taken out of this volume on 2026-09-06, whose source record says it was read for Kanawana content. The
+council sentence sits between them and does not contain the word Kanawana, which is the whole of the
+explanation. [f_5762]
+
+**The rosters after it came back, and a chair who has been missing from this project.** The same reports print
+the branch committees under *Local Advisory Councils*. The first year back, FY2002-2003, six members: "Brown-Poole,
+Lynn; **Carter, Morgan M.**; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy," with no chair marked
+in either edition. FY2003-2004, six: "Boyer, Arleen; Brown-Poole, Lynn; **Cochand, Toni (Chair)**; Lozoff,
+Rick; Morriss, Marley; Weil, Judy." FY2004-2005, four: "Boyer, Arleen; Lozoff, Rick; Morriss, Marley; **Weil,
+Judy (Chair)**." So **Toni Cochand** chaired it and handed the chair to **Judy Weil**, Brown-Poole and Cochand
+left, and [[people/arleen-boyer|Arleen Boyer]] joined in the second year — five years after her own
+directorship ended.^29 [f_5763]
+
+**And Morgan Carter sat on it while he was running the camp — which turns out to be the normal arrangement.**
+In FY2002-2003 he is the camp's Interim Director *and* on its restored advisory council, eleven lines below the
+Senior Management entry that gives him the job; that entry is [[people/morgan-carter|his article]]'s source 2
+and has been since the article was spawned. *The first reading of this, written earlier today, was that it
+undercut the former-director-returns-as-volunteer pattern. It does less than that.* The 1995 and 1996 boards
+mark **Joanna Hoad (YMCA)** — the camp's own director — as a member, with Bruce Netherwood (YMCA) beside her
+in 1995, so a branch's staff sitting on the branch's board is the convention and not an anomaly. The
+"(YMCA)" marker is gone from the 2002-03 list, so that document by itself does not say in which capacity
+Carter sat. The earlier convention makes *ex officio* much the likelier reading.
+
+**Rick Lozoff is the long one.** He is on the 1995 and 1996 boards, and on all three of FY2002-03, FY2003-04
+and FY2004-05 — a decade of service straddling the lapse, and the longest committee tenure this project has
+for anyone but Morgan Carter.
+
+**The community reports print the camp's committee year by year, which is the most useful thing in them.**
+The **2013** roster names Don Bennett, Morgan Carter, **Valery Cordemans (Chair)**, Sean Day, Steven Henle, Derek Lyndsay, Adrian Maas and Chris Mannitt — *the chairmanship is read from the series' own layout convention, which the 2015 volume settles: the title line follows the name it belongs to and precedes the next. These are multi-column rosters in an OCR'd scan, so it is a reading of layout rather than of a sentence.*^23 The 2014 roster: "Camp YMCA Kanawana — Bennett, Don; **Carter, Morgan (Chair)**; Cordemans, Valerie; **Day,
+Sean**; Frankel, Chris; Fullerton, Tom; Henle, Steven; Lyndsay, Derek; Maas, Adrian; Mannitt, Chris;
+Muszinski, Nick; Valente, Vanessa."^23 In 2015 the same list runs to twelve with **Laura Davis** added and
+Carter's title changed to **President**; by 2017 it has halved to six — Carter as **Président**, with Chris
+Frankel, Tom Fullerton, Steven Henle, Derek Lyndsay and Adrian Maas.^23
+
+[[people/morgan-carter|Morgan Carter]] directed the camp on-site in 2001–2003, sat on this committee in
+2011, chaired it by 2014 and still presided in 2017 — **fourteen years after his paid tenure ended**, which
+answers a question his article had left open. [[people/sean-day|Sean Day]] sits on it in 2014 while
+Executive Director.
+
+**And three of its members had been counsellors-in-training together in 1995.** The "CITS 95" dining-hall
+plaque names twenty-nine CITs, among them **Chris Manitt**, **Laura Davis** and **Nick Muszynski** — all
+three of whom appear on these rosters twenty years later.^23 This wiki has documented the
+camper-to-CIT-to-staff ladder many times; this is the rung above it, and two decades on. *The match is on
+name, which in this project is a caution rather than a formality — see the three W. H. Balls in
+[[people/directors-index|the directors index]]. The names are uncommon, the institution is the same, and the
+interval fits a nineteen-year-old CIT becoming a forty-year-old committee member, so it is recorded as very
+probably the same three people and not as certainly.*
+
+*One further probable identification, not asserted:* **Steven Henle** here and **Dr. Steven Henle**, the
+Concordia Applied Human Sciences alumni representative on the [[people/a-ross-seaman|A. Ross Seaman]]
+committee in 2007, are very likely the same man, which would tie that fund's committee to the camp's own.
+
+## The camp in the credit directories, 1993–2001
+
+Dun & Bradstreet's *Canadian Key Business Directory* lists the association every year through the
+1990s, and in four of those years — 1994, 1997, 1999 and 2000 — the entry carries a division line for
+the camp: "**Y M C A de Montreal, Kamp Kanawana Div Of, 1441 rue Drummond, Montreal, PQ H3G 1W3, Tel
+514-849-5331**", under SIC 8399, Social Services.^19 Five further volumes (1993, 1995, 1998, 2001 and
+one the catalogue leaves undated) carry the same association entry at the same address without naming
+the camp. Nothing should be read into which years do and don't: on a scanned directory page that is
+far likelier to be OCR or the publisher's own rotating level of detail than anything that happened at
+Kanawana.
+
+What it is good for is the address. **1441 rue Drummond through 2001**, against 1435 in the 2006
+job directory above, dates the association's move to between those two years — the only bracket this
+project has for it.
+
+*What it is not good for, and the trap in it.* The entry carries employment and sales figures, and
+"Emp Here 55" is exactly the sort of number one would like for a camp staff — David Leduc's own
+account gives 75. It is not the camp's. The entry's D-U-N-S number, 20-765-0813, appears in
+twenty-four cross-reference listings in older volumes of the same directory, and every one of them
+reads "YOUNG MENS CHRISTIAN ASSOC MTL, 1441 Rue Drummond". The number belongs to the association;
+the camp had none of its own; and "Emp Here", "Emp Total 1,750" and "Sales 52,600,000" describe the
+YMCA of Montreal at its downtown office. The sales figure repeats unchanged across 1995, 1997, 1998
+and 1999 and is then replaced wholesale — a credit file's estimate carried forward and revised, not
+an annual series, and not a source for anything about the camp's finances.
 
 ## Gender-Expansive Programming and the Mountaineers (2022)
 
@@ -93,6 +377,199 @@ one alumnus calling another, three decades after both had left staff. Manitt was
 staff in 1997; both plaques name him.^17 That is the documented distance between the two men: shared
 seasons in the mid-1990s, thirty-one years before the phone call.
 
+## The Endowment Fund, and where Kanawana sat in it
+
+The 2004-2005 annual report sets out the association's **Endowment Fund**, whose capital is held "in
+perpetuity" with annual revenues distributed under Board policy so that "even during turbulent
+market conditions, the capital of the Fund is protected and continues to provide a steady source of
+financial support for the community programs offered by the nine YMCA centres **and its camp, YMCA
+Kanawana**." **As at 31 May 2005 the fund's market value was $4.3 million**, up "more than 16%
+compared to the previous year". Of the annual revenues, **$39,000 went to programmes selected by
+donors, "such as international development and Camp YMCA Kanawana"**, and **$63,650 to special
+projects** chosen by an Allocations Committee of Board volunteers and staff, from ten selected
+applications.^20
+
+The same report's President's message records that careful financial management "will help us
+implement an **extensive re-investment plan in our Pointe-St-Charles and Kanawana facilities**" —
+written in the year before the green shift's design work began, and the earliest signal this project
+has of the money behind it.^20
+
+**And for four years before that report, the allocation table itself is printed, so what the money bought
+at Kanawana can be read line by line.**^30
+
+| Year | Kanawana's programmes | Amount | Association total |
+|---|---|---|---|
+| 1998–99 | Access to the YMCA camp for youth from families in financial difficulty | $6,137 | $82,230 |
+| 1999–2000 | Development funding | $2,874 | $48,982 |
+| 2000–01 | Young campers video project; Accessibility | $20,143 | $106,025 |
+| 2001–02 | Canoe building program; Accessibility | $16,323 | $106,127 |
+| 2002–03 | Canoe building program | $2,000 | $90,114 |
+
+*The two middle amounts are read, not printed as such.* In the 1999–2000 and 2002–03 tables each figure sits
+on its own programme line; in 2000–01 and 2001–02 a centre's figure is printed once, against its last
+programme line. So $20,143 and $16,323 are taken as each year's Kanawana total across two programmes rather
+than as the Accessibility line alone. The French edition of the 2002–03 report confirms that year exactly:
+*Kamp Kanawana — Programme de construction de canots — 2 000 $*.
+
+Three of those programme names are new to this project. **A canoe building programme** ran for at least two
+consecutive years, which is a workshop and not a trip, and belongs beside
+[[traditions/canoe-trips|the canoe trips]] rather than inside them. **A young campers video project** in
+2000–01. And **"Accessibility"** in two consecutive years, which the 1998–99
+row settles: the same line, written out in full that year, is "access to the YMCA camp for youth from
+families in financial difficulty." It is camperships, not ramps. [f_5766]
+
+**Then the table stops, and the camp's own figure goes with it.** From 2004–05 the reports no longer itemise
+the donor-selected half by branch; Kanawana appears inside an aggregate instead, so what the camp received in
+any year after 2002–03 cannot be recovered from these documents. What they do give is the fund and the
+language:^32
+
+| Year | Fund value | Distributed | Donor-selected half, and how Kanawana is named in it |
+|---|---|---|---|
+| 2004–05 | $4.3M (31 May 2005) | — | $39,000, "such as international development and Camp YMCA Kanawana" |
+| 2006 | — | — | $57,016, "international development and **camperships to YMCA Kanawana**" |
+| 2007 | $4.98M (January) | $199,200 | $101,592, "homework help… and the **Development Project for YMCA Kanawana**" |
+| 2008 | $4.675M (31 December) | $207,380 | $95,370, "**camper funds, and the development of Camp YMCA Kanawana**" |
+
+The 2007 report also states the policy behind the distribution: "According to the revenue allocation method,
+**4% of the Fund** is used for community programs during the year." The 2011 report gives the fund's yearly
+revenue as "nearly **$200,000**" with no Kanawana line in it, and the 2012 report mentions the fund without
+figures, so 2010 is where the series stops.^33
+
+*The 2010 row sat three lines below a paragraph this article already quoted.* The Strong Kids figures and the
+"$615,000 in… development projects (Camp Y Kanawana and Destination Youth)" line, both in the section above,
+were worked out of that volume on 2026-09-07, whose source record says all twenty-three Kanawana occurrences
+were opened. The endowment paragraph names the camp too. [f_5774]
+
+*Two things fall out of the wording.* **Camperships** in 2006 and **camper funds** in 2008 confirm from the far
+end what the 1998–99 table said in full: the recurring Kanawana endowment line is bursaries. And the 2007 and
+2008 **"development project"** is the only endowment language here that is plainly capital rather than
+bursaries, in precisely the years [[traditions/environmental-history|the green-camp construction]] was under
+way. [f_5770]
+
+**The camperships line is still running in 2014, under a sixth name, and it has acquired a companion.** The
+2014 community report's list of donor-designated allocations names the camp twice: "**Bourse pour jeunes
+campeurs** (Camp YMCA Kanawana)" and "**Support for leadership development and employability** (Camp YMCA
+Kanawana)."^34 The first is the same line this article has traced from "access to the YMCA camp for youth from
+families in financial difficulty" (1998–99) through "Accessibility" (2000–02), "camperships" (2006), "camper
+funds" (2008) and "subsidies for campers" (2010) — six names for one thing across sixteen years. *The second
+is new in kind:* leadership development and employability is not money for a camper's stay but for the CIT and
+staff-training track, and it appears a year after
+[[traditions/cit-lit-program|Bill Ridley's bequest]] endowed places on that same programme. Two separate
+designated sources for the leadership track in consecutive years. [f_5788]
+
+*A small link back.* The same tables carry the **"Gabrielle et Maurice Massé" Award** as an endowment line in
+its own right, $1,545 in 2000–01 and $1,418 in 2001–02. That is the award the association gave to Judy and
+Michael Weil in March 2009, she being the chair of Kanawana's own advisory committee and he the association's
+former chief executive — see [[people/directors-index|the directors index]].
+
+**A lead, not an answer, for a question open elsewhere.** [[people/maureen-mcbride|Maureen
+McBride]]'s article asks what became of the **Maureen McBride Endowment Fund**, established in 1993
+to provide camperships. The fund described here is the association's general one and **is not the
+same thing**; nothing read says the McBride fund was folded into it. But a donor-selected allocation
+"such as… Camp YMCA Kanawana" is the shape a named campership fund would take inside an institutional
+endowment, and the association's endowment reporting is where to look next.
+
+## What the camp says it stands for, 2026
+
+The camp's current parent handbook opens with a mission and six named values, each with a paragraph of its
+own, and none of the six had appeared anywhere in this wiki before September 2026.^26 They are worth having
+verbatim, because a camp's own statement of what it is for is the kind of document that later reads as
+period evidence, and because two of them say things the historical record of this place does not.
+
+The mission: "Camp YMCA Kanawana strives to create a camp community where everyone feels safe and valued;
+where everyone has a chance to grow; where our actions and behaviors are driven by our common YMCA values,
+including **non nobis solum** (not for ourselves alone); and where we care for each other and the
+environment." The motto, which this wiki traces back through the camp's plaques and publications, is written
+into the mission statement itself.
+
+**Caring** is glossed as connection "with oneself, with others, and with nature," and specifically as
+learning "to disconnect from technology so they can reconnect with each other" — which the handbook backs
+with policy rather than sentiment: campers do not bring phones, may not use the camp telephone as a rule,
+cannot use computers, and write home once a week on a sheet of paper that the office scans and emails. The
+guide calls the place an "**unplugged** environment."
+
+**Inclusion** is the one that states a position: "To be a Kanawanian is to be part of a community that
+embraces diversity and welcomes all, regardless of cultural or socio-economic background, **gender identity,
+or sexual orientation**. Our inclusion program also aims to create a safe and accessible environment for
+children and youth with different needs and diverse abilities, from physical limitations, to behavioral
+challenges, to struggles with mental well-being." Read against
+[[history/coeducation-gender|Coeducation and Gender at Kanawana]], which follows this camp from a boys'
+institution through the 1968 admission of girls, that sentence is the end of a long argument, and it is
+stated in a document handed to every parent rather than in a policy nobody reads.
+
+**Solidarity** puts the motto to work — "campers learn to cooperate, to take care of one another, and to
+build cohesive groups… We emphasize **democratic living** and teamwork in everything we do" — a phrase with a
+history at this camp, since democratic living is what the 1953 Planned Group Development pilots were about.
+**Boldness** is the unusual one: "we choose not to rest on the successes of our past, instead we dare to
+implement intentional change." **Performance** claims "over 130 years of summer camping." **Respect** runs
+from campers and staff through "camp's infrastructure and equipment, the forest and lake on which we live at
+camp, and the natural world on a more global scale."
+
+The handbook also asks families to go through a **Camper Behavior Agreement** with their children — seven
+promises, framed as a commitment to the community and its motto, of which the last is "Contribute with my
+happiness, enthusiasm and humour."
+
+
+## What a parent signs, 2026
+
+The camp's registration package is published on the association's site, and it is the plainest statement this
+project holds of the relationship between the camp and a family — plainer than any brochure, because it is
+written to be agreed to.^35
+
+**Medication.** Staff may dispense over-the-counter medication "for common ailments such as headaches,
+earaches, fever," and the package names them: **acetaminophen, ibuprofen, anti-nausea drugs,
+antihistamines**. **Lice.** Staff "can check my child for lice"; a child with lice or nits either goes home for
+treatment or is treated at camp, "the cost of which will be paid by the parents." **Behaviour.** The camp
+"reserves the right to remove a camper from a program if their behaviour puts them or others at risk of
+**physical or emotional harm**," with the parent to collect the child "within a reasonable amount of time" and
+to "assume any expense(s) arising from such a dismissal." **Property.** The YMCA "is not responsible for the
+loss, theft or damage of my child's property."
+
+**And one clause names a contractor.** "In case of a serious emergency during a **back-country trip** where an
+**evacuation by plane or helicopter** is required to ensure my child's safety and health, I understand that a
+third-party organization, **AirMedic**, will be responsible for evacuating my child." That is the only named
+external emergency provider in this project's whole record of the camp.
+
+**The inherent risks, seven of them, named "in particular, but not limited to."** Falls and other movements
+(sprain, strain, fracture, head injury); blunt or sharp objects, "branches, equipment"; exposure to weather,
+"cold, hypothermia"; contact between individuals, "accidental or otherwise"; allergies, "food, insects,
+sunscreen, bug repellent"; **contact with water or drowning** during water activities; and burns or
+heat-induced injury, "hyperthermia, heat stroke."
+
+*Read it beside the 1980 emergency procedure* this wiki holds at
+[[traditions/canoe-trips|Canoe Trips]] — fifteen steps, a log of every action and phone call, the police who
+"MUST be called." That document is what staff do once something has happened. This one is what a parent is
+told can happen before it does, and it is **the only place in this project where the camp names drowning as a
+risk of its own programme, in its own words**. [f_5791]
+
+
+## Volunteers, paid in camper fees
+
+The camp's alumni page sets out **Volunteer Recognition Guidelines**, and describes them as "back" — so this
+is a revival of an earlier scheme rather than a new one, though when it lapsed is not stated.^27 The terms
+are unusually specific for a volunteer programme, and worth having in full because they put a dollar figure
+on something camps rarely price.
+
+A volunteer must pass a **criminal background check** and the camp's **child welfare screening process**,
+must serve **at least one week (seven days on site)**, must meet a real operational need, and — the phrase
+that gives the scheme its shape — must "**replace a service normally performed by an employee**." In
+exchange the volunteer receives "**compensation totalling $700 per week of service**," applied as a discount
+or reimbursement against the camp fees of a child, adopted child, nephew, niece or grandchild, in that
+season or the next. The credit expires on **30 September of the year following** the service, and the page
+supplies its own worked example. The alternative use is the interesting one: the volunteer may instead
+**donate the amount to fund the stay of a camper from a less privileged background**, which makes the scheme
+a camperships mechanism as much as a staffing one.
+
+The same page names the camp's **two standing committees**. The **Local Advisory Committee** meets
+quarterly, to "have a say on how Kanawana is managed… to discuss Kanawana's needs and future directions" —
+the body whose rosters this article records above, from its founding year of 2002 to 2017. And the **Non Nobis Solum Committee** is "the
+perfect committee to get your hands dirty," an on-call group for coordinated volunteering events such as the
+spring clean-up. The camp's Latin motto is the name of its working party, which is about as literal a use of
+*not for ourselves alone* as the phrase admits.
+
+One absence is worth noting rather than passing over: the page says the alumni newsletter subscription form
+"will be available shortly," so as of September 2026 **there is no working alumni newsletter sign-up**.
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -117,9 +594,9 @@ seasons in the mid-1990s, thirty-one years before the phone call.
 
 1. Oral history, Matt Aronson [src_oral_aronson].
 2. Montreal YMCA annual reports, FY2001-2002 through 2012 (Wayback Machine) [src_wayback_ymcamontreal_annualreport_2001_2002].
-3. CBC News (2021, 2022), pandemic closure and staffing coverage [src_msn_kanawana_closed_2021].
+3. CBC News (2021, 2022), pandemic closure and staffing coverage [src_gazette_covid_2021].
 4. Oral history, Matt Aronson; LinkedIn (davidgleduc); camp "Contact Us" page snapshots 2010-2014 [src_oral_aronson].
-5. Montreal Families, gender-expansive tent coverage [src_montreal_families_gender].
+5. Montreal Families, gender-expansive tent coverage [src_mtl_families_gender].
 6. Les YMCA du Québec, Rapport Annuel 2007 [src_ymcaquebec_annualreport_2007].
 7. Les YMCA du Québec, Rapport Annuel 2008 [src_ymcaquebec_annualreport_2008].
 8. Les YMCA du Québec, Rapport Annuel 2009 [src_ymcaquebec_annualreport_2009].
@@ -132,6 +609,26 @@ seasons in the mid-1990s, thirty-one years before the phone call.
 15. Kamp Kanawana parent preparation guides, 2025 and 2026 [src_kk_prep_guide_2026], [src_kk_prep_guide_2025]. See [f_2314].
 16. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_westmount_bus_2026]. See [f_2324], [f_2325]. Uncorroborated by any document; the operator is a participant in the account.
 17. "CITS 95" and "Kanawana Staff 97" plaques, Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album]; oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_cit_1995]. See [f_2326], [f_2327], [f_1614], [f_1705].
+18. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read, and the tail of the activities list was not recovered. Cached with the queries, and with the caution about the page's other employers, at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
+
+19. *Canadian Key Business Directory* (Dun & Bradstreet Canada), the volumes for 1993, 1994, 1995, 1997, 1998, 1999, 2000 and 2001, plus one the Internet Archive leaves undated [src_canadian_key_business_directory_1993_2001]. **One entry, walked in each volume from the D-U-N-S number that opens it to the one that opens the next**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; every volume is lending-restricted, none has been read, and page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page. Cached with its queries, its control test and its access failure at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-key-business-directories-ymca-kanawana.txt`. See [f_4951].
+20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
+21. YMCAs of Québec, community report for **2010** [src_ymf_sgw_ymca_community_report_2010]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2010.txt`; read for its twenty-three Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5578].
+22. YMCAs of Québec, community reports for **2011** and **2012** [src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012]. Both read for their Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5579] and [f_5580].
+23. YMCAs of Québec, community reports for **2013**, **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
+24. YMCAs of Québec, community reports for **2016** and **2021** and impact reports for **2024** and **2025** [src_ymf_sgw_ymca_community_report_2016, src_ymf_ymca_community_report_2021_eng, src_ymf_ymca_impact_report_2024, src_ymf_ymca_impact_report_2025]. Read 2026-09-07 under the sharpened p_441. See [f_5585] and [f_5586].
+25. YMCA of Montreal, annual report for **2000-2001** [src_ymf_sgw_ymca_annual_report_2000_2001]. Read 2026-09-07 under the sharpened p_441. See [f_5588].
+26. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], published on ymcaquebec.org and cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`, 74,071 characters; read word for word 2026-09-07 under p_487, having previously been marked *extracted* while its own record said a full extraction was outstanding. See [f_5603].
+27. Camp YMCA Kanawana, "Kanawana Alumni" [src_ymcaq_kanawana_alumni_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/alumni, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-alumni-2026.txt`. Carries the Volunteer Recognition Guidelines and the camp's two named committees. See [f_5613].
+
+28. YMCA of Montreal, annual report for the year ended **31 May 2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Kamp Kanawana paragraph. Read 2026-09-08. The volume had been read for Kanawana content on 2026-09-06 under p_454, which took the sentence before this one and the paragraph after it. See [f_5762].
+29. YMCA of Montreal, annual reports for **FY2002-2003**, **FY2003-2004** and **FY2004-2005**, both editions of each where cached [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2003_2004, src_ymf_sgw_ymca_annual_report_2003_2004_fr, src_ymf_sgw_ymca_annual_report_2004_2005, src_ymf_sgw_ymca_annual_report_2004_2005_fr], the *Local Advisory Councils* pages. The FY2003-2004 roster had been extracted in full on 2026-07-07 as [f_1751] and only Arleen Boyer's name from it was ever written into an article. See [f_5763].
+30. YMCA of Montreal / Montreal YMCA Foundation, the *Allocation of funds generated by YMCA Endowment Fund investments* tables in the annual reports for **1998-1999**, **1999-2000**, **2000-2001**, **2001-2002** and **2002-2003**, with the French edition of the last [src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001, src_ymf_sgw_ymca_annual_report_2001_2002, src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr]. Read 2026-09-08 under p_487. Only these five volumes carry the table. See [f_5766].
+31. YMCA of Montreal, annual reports for **1995**, **1996**, **1998**, **1998-1999**, **1999-2000**, **2000-2001** and **2001-2002** [src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001, src_ymf_sgw_ymca_annual_report_2001_2002], the *Local Boards* and *Local Advisory Councils* pages. Read 2026-09-08 under p_487, correcting the same day's earlier reading of source 28. Kanawana has a board in the first two volumes and is absent from the branch list in the last five. See [f_5768].
+32. YMCA of Montreal / The YMCAs of Québec, annual reports for **2006**, **2007** and **2008** [src_ymf_sgw_ymca_annual_report_2006, src_ymf_sgw_ymca_annual_report_2007, src_ymf_sgw_ymca_annual_report_2008], the *Projects supported by the Endowment Fund* and Foundation pages. Read 2026-09-08 under p_487. See [f_5770].
+33. Montreal YMCA / The YMCAs of Québec, annual report for the year ended **31 December 2009** [src_ymf_sgw_ymca_annual_report_2009] and community reports for **2010** and **2011** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011], the Foundation pages. Read 2026-09-08 under p_487. See [f_5774].
+34. The YMCAs of Québec, community report **2014**, French and English editions [src_ymf_sgw_ymca_community_report_2014_fr, src_ymf_sgw_ymca_community_report_2014], the donor-designated allocation list. Read 2026-09-08 under p_487, reached through the French-edition triage. See [f_5788].
+35. Camp YMCA Kanawana, the registration package published at ymcaquebec.org/en/summer-camp-kanawana/jobs [src_ymcaq_kanawana_jobs_intl_leadership_2026], its consent and inherent-risk sections. Cached at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`; read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5791].
 
 ## Research Notes
 

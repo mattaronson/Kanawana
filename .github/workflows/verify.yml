@@ -53,10 +53,14 @@ jobs:
         run: python scripts/verify/consistency.py
 
       - name: Citation aim
-        # Advisory. The harness above checks that every [f_NNNN] RESOLVES; this
-        # checks that it POINTS AT SOMETHING RELEVANT. A wrong-but-real id is
-        # invisible to a resolver and reads as authority downstream. Exits 0
-        # while the back catalogue is triaged (p_401).
+        # BLOCKING since 2026-09-05. The harness above checks that every
+        # [f_NNNN] RESOLVES; this checks that it POINTS AT SOMETHING RELEVANT.
+        # A wrong-but-real id is invisible to a resolver and reads as authority
+        # downstream. The four-item back catalogue is cleared (p_401), so a new
+        # finding is a new defect. Note the check is a deliberately weak
+        # heuristic -- it passes any citation sharing one distinctive token --
+        # so a clean run is not proof of correct aim, only absence of the
+        # grossest shape.
         run: python scripts/verify/citation_aim.py
 
       - name: Staleness
@@ -69,8 +73,62 @@ jobs:
         # human adjudicates them.
         run: python scripts/verify/staleness.py
 
+      - name: Footnote labels
+        # Advisory. Duplicate source labels, lettered markers that resolve to
+        # nothing, and entries that landed outside the Sources list. The
+        # harness's A1/B/C read entries as `^\d+\. `, so an article using
+        # lettered sub-entries (8a, 8b, ... 8bq) is invisible to them. Written
+        # after a duplicate 8t re-pointed two existing markers; on its first
+        # run it found 21 entries sitting after "## Research Notes" in the same
+        # article, and 21 markers resolving to nothing.
+        run: python scripts/verify/footnote_labels.py
+
       - name: Embargo labelling
         # Every embargoed fact registered and dated, every marker paired, and
         # no embargoed-only name loose in an article. Unlabelled is the
         # failure, not present.
         run: python scripts/verify/restricted_guard.py
+
+      - name: Uncited source entries (advisory)
+        # Numbered source entries that no citation marker points at. Written
+        # 2026-09-07 after a spinout stranded an entry in directors-index.md and
+        # every existing check passed: verify_harness tests that each MARKER
+        # resolves to an ENTRY, and nothing tested the reverse. Advisory while
+        # the 136-entry backlog in p_484 remains; it still reports the number
+        # going UP, which is the case it was built for. Never auto-fixes: an
+        # uncited entry is either a lost citation, meaning some claim is now
+        # unsourced, or an entry added for a passage never written.
+        run: python scripts/verify/uncited_sources.py
+
+      - name: Dangling lettered markers
+        # Lettered markers (^mc, ^ymcayb) that resolve to no entry in their own
+        # article. Written 2026-09-08 after canoe-trips.md was found citing ^mc
+        # five times, for its whole 1945-1964 chronology, with no entry "mc" in
+        # the file -- and passing every check, because verify_harness resolves
+        # numeric markers and ignores lettered ones. Four more articles were in
+        # the same state. Blocking from the start: unlike an uncited entry, a
+        # marker pointing at nothing has no legitimate case, and the backlog was
+        # cleared to zero the day the check was written.
+        run: python scripts/verify/dangling_labels.py
+
+      - name: Near-miss year spans
+        # A person given two nearly-agreeing spans in two different articles.
+        # Written 2026-09-08 after centennial-1994.md was found still printing
+        # Bruce Netherwood's directorship as 1988-1994 a day after his own
+        # article corrected it to 1989-1994 and marked the old reading
+        # superseded -- with all ten checks passing, because nothing in the
+        # suite compares a claim in one article against the same claim in
+        # another. The first run found four uncarried corrections, all four
+        # made in the directors index on the same day, 2026-08-14. ADVISORY:
+        # a near-miss pair is as often a real second span or an ambiguity held
+        # open on purpose, and only reading tells them apart.
+        run: python scripts/verify/span_drift.py
+
+      - name: Section headings
+        # Every registered article carries the sections CLAUDE.md's template
+        # names. Written 2026-09-07 after a spinout silently dropped the
+        # "## Sources" heading from an article that then passed every other
+        # check, because they count entries and markers and nothing looked at
+        # headings. Shipped advisory while the fourteen pre-existing offenders
+        # in p_481 remained; blocking since that backlog cleared the same day.
+        run: python scripts/verify/section_headings.py

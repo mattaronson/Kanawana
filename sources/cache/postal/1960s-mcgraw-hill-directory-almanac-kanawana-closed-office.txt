@@ -1,0 +1,91 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+McGRAW-HILL DIRECTORY AND ALMANAC OF CANADA, "POST OFFICES IN CANADA" — the Kanawana entry.
+
+NOT A SCAN. Every item of this series on the Internet Archive is lending-restricted and none has
+been read. The heading and the entry below were assembled from overlapping twelve-word windows
+returned by https://openlibrary.org/search/inside.json (contract at f_4933). Page images return
+HTTP 403 with an HTML body even with the item's own details page as Referer.
+
+
+THE HEADING, walked word by word to its closing bracket
+-------------------------------------------------------
+
+    "POST OFFICES IN CANADA (Sub post offices and closed and renamed post offices appear in
+    italics. The correct postal address for each closed post office appears immediately below the
+    closed post office name.) During summer months mail is delivered to fishing fleets at sea by CN
+    Coastal ..."
+
+The running heads on these pages are "Post Offices | Railway Postal Lines & Districts | Airports",
+and the list's own legend includes "(S) Seasonal P.O." — so the volume does distinguish seasonal
+offices, and does so with a code Kanawana does not carry here.
+
+RECOVERING THE HEADING WAS THE WHOLE JOB, and p_430 was right to say so. The entry alone —
+"Kanawana, PQ, see St-Sauveur-des-Monts, PQ" — is ambiguous. In a gazetteer it would mean "for this
+place, look under that one". Under this heading it means Kanawana is in the italicised class and
+St-Sauveur-des-Monts is the correct postal address for it.
+
+
+THE ENTRY
+---------
+
+    "... Kanasuta, PQ, see] Arntfield, PQ | ON | Kanata, Ont | O | KANAWANA, PQ, SEE
+    ST-SAUVEUR-DES-MONTS, PQ | Kandahar, Sask | S CP | Kane ..."
+
+(The single letters are the list's own service codes, printed in a separate column; they are not
+decoded here and none of them is attached to Kanawana in the recovered window.)
+
+Present in: mcgrawhilldirect0000unse (leaf 874) and mcgrawhilldirect0000unse_f4f5 (leaf 882).
+Not returned for: mcgrawhilldirect0000unse_v4j7 (leaf 842, which carries the same heading) or
+mcgrawhilldirect0000unse_j6s5 (leaf 874). A query that does not return a hit is not evidence of
+absence in a corpus where OCR hyphenation defeats phrase matching.
+
+
+WHAT IT ESTABLISHES, AND WHAT IT DOES NOT
+-----------------------------------------
+
+ESTABLISHES: a closing bracket. The Canadian Almanac's post-office table still carries Kanawana as
+an operating office in two volumes of the 1950s, the later of which prints calendars for 1954 and
+1955 (f_4936). This list has it in the italicised class. **The office ended between about 1955 and
+the mid-1960s** — the first closing bracket this project has, against an opening bracket of March
+1909 to 1911 (f_4944).
+
+DOES NOT ESTABLISH: which of the three. The heading puts sub post offices, closed ones and renamed
+ones into the same italics. Kanawana was not renamed — the name is still on the map in the 1981
+Atlas of Canada — so it is either closed outright or reduced to a sub post office served from
+St-Sauveur. This source cannot tell which, and gives no date, no postmaster and no reason.
+
+
+THE YEAR OF THE VOLUME — AND WHY IT IS NOT WRITTEN AS 1966
+----------------------------------------------------------
+The Internet Archive holds FOUR items of this series and catalogues EVERY ONE of them 1966. They
+are evidently different printings. No internal year was recovered from any of them; the only dating
+evidence found in passing was "Robert L. Hanbidge", Lieutenant Governor of Saskatchewan 1963-70,
+which is not close enough.
+
+This project has already been caught twice by this catalogue's series dates: every volume of the
+Canadian Almanac and Directory is dated 1848, and the UPU Dictionnaire's supplement of August 1912
+is dated 1909 — which, taken at face value, would have put a Kanawana post office in existence
+before the YMCA arrived. So the year here is carried as **"a mid-1960s volume catalogued 1966"**,
+and the closing bracket is written **"by the mid-1960s"** rather than "by 1966".
+
+
+ACCESS FAILURE, and what remains the authority
+----------------------------------------------
+archive.org/download/<id>/page/n<leaf>_w1600.jpg -> HTTP 403 with an HTML body, Referer set.
+Library and Archives Canada's Post Offices and Postmasters database gives opening dates, closing
+dates and postmasters for every Canadian post office and would answer all of this in one lookup.
+It refuses this project at the network gateway (HTTP 403), which is a fact about the gateway.
+Tracked as p_428. ROUTES NOT TRIED: a request through a Canadian library or a person with ordinary
+browser access; the Postal History Society of Canada's published county lists; BAnQ.
+
+QUERIES RUN, in order:
+  "Kanawana, PQ, see St-Sauveur-des-Monts"  ·  "Kanawana" "St-Sauveur-des-Monts"  ·
+  "Kanawana" "Post Offices"  ·  "Kanawana" "shipping point" (non-JSON) · "Kanawana" "Gazetteer"
+  (non-JSON) · "POST OFFICES IN CANADA (Sub post offices and closed and renamed post offices appear"
+  ·  "closed and renamed post offices appear in"  ·  "appear in italics. The correct postal"  ·
+  "The correct postal address for each closed post" (non-JSON) · "postal address for each closed
+  post"  ·  "closed post office appears immediately" (non-JSON) · "post office appears immediately"
+  ·  "immediately below the closed post office"  ·  "closed post office name.) During summer months"
+  (non-JSON) · "office name.) During summer months"  ·  "mail is delivered to fishing"  ·
+  "Robert L. Hanbidge" "Post Offices"  ·  "McGraw-Hill Directory and Almanac of Canada"

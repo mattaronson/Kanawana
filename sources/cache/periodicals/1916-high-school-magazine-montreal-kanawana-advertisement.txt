@@ -1,0 +1,95 @@
+SOURCE: The High School Magazine (Montreal, 1916), the centenary number of the Royal Grammar
+        School / High School of Montreal. Internet Archive item highschoolmagazi00high.
+        NOT lending-restricted; full djvu text downloaded and searched 2026-09-06.
+        "Kanawana" occurs exactly once, at line 7034, in the advertisement pages.
+
+=== THE ADVERTISEMENT (djvu text lines 7028-7052) ===
+CONDCCTED  BY 
+K  A  M  P 
+Kanawana 
+for  BOYS 
+Open  June  24th  to 
+August  12th 
+The  Cost, 
+S5.00  per  week 
+^Efje  iHontreal  goung  iilen's  Christian 
+Association 
+For  further  information,  apply  to  any  Branch 
+of  the  Y.  M.  C.  A. 
+
+READ AS SET: an advertisement occupying part of the first advertising page (the Contents
+  gives 'Advertisements ... 52'), reading:
+
+      AN IDEAL PLACE for YOUR BOY
+      CONDUCTED BY
+      KAMP Kanawana  for BOYS
+      Open June 24th to August 12th
+      The Cost, $5.00 per week
+      The Montreal Young Men's Christian Association
+      For further information, apply to any Branch of the Y.M.C.A.
+
+  (The OCR gives 'CONDCCTED', 'S5.00' for $5.00, and renders the Association's name in the
+   blackletter-derived garble "^Efje iHontreal goung iilen's Christian Association", which is
+   the standard OCR failure on Old English type and is read here as 'The Montreal Young Men's
+   Christian Association'.)
+
+WHAT IT ESTABLISHES: the 1916 season ran 24 JUNE to 12 AUGUST -- seven weeks -- at $5.00 A
+  WEEK, advertised to the boys of the High School of Montreal and their parents, with
+  enquiries taken at any YMCA branch rather than at the camp.
+
+================================================================================
+A CAUTION ABOUT THE PAGE BEFORE IT.
+
+  The article immediately preceding the advertisements is "A Week in the Woods" (Contents,
+  pp. 47-51), an unsigned canoe-trip narrative. It is tempting, and it is NOT attributed to
+  Kanawana here. It never names a camp, never names the Y.M.C.A., and names its route only by
+  lakes: Lac Diable, Lac Cypres, Lac Daby, Lac Clef, Lac Caribou, Lac Boisfranc, Lac Bois,
+  Lac Batiment and Lake McLaren. It does mention a "dining pavilion" and an "Old Guard", and
+  the Kanawana advertisement is the next thing on the page -- but an advertisement's position
+  is bought, not editorial, and adjacency is not attribution. If the route can be placed
+  against Kanawana's known trip country the question reopens; until then it is a High School
+  of Montreal canoe trip and nothing more.
+
+  THE ROUTE HAS SINCE BEEN PLACED, 2026-09-06, against Natural Resources Canada's geographical
+  names service (geogratis.gc.ca/services/geoname). Five of the nine lakes land in one tight
+  block in the LAC-LEGENDRE and SAINT-DONAT country of the MATAWINIE regional county
+  municipality:
+
+      Lac du Diable    Lac-Legendre, Matawinie   46.548 N  74.290 W   78 km from Kanawana
+      Lac Batiment     Lac-Legendre, Matawinie   46.522 N  74.297 W   75 km
+      Lac McLaren      Lac-Legendre, Matawinie   46.511 N  74.234 W   73 km
+      Lac des Cypres   Lac-Legendre, Matawinie   46.504 N  74.195 W   73 km
+      Lac la Clef      Saint-Donat, Matawinie    46.384 N  74.219 W   59 km
+
+  Cluster centre 46.494 N, 74.247 W -- about SEVENTY-TWO KILOMETRES NORTH of Kanawana
+  (45.851 N, 74.194 W). LAC BATIMENT AND LAC McLAREN ARE EACH UNIQUE IN THE PROVINCE, which is
+  what makes the identification firm rather than a coincidence of common lake names -- the same
+  kind of control that Kanawyer, California, provided for the postal list.
+
+  "Lac Daby" and "Lac Boisfranc" return nothing from that service or from a web search, and are
+  probably OCR manglings or unofficial local names. "Lac Bois" and "Lac Caribou" are too common
+  to place.
+
+  WHAT THIS DOES AND DOES NOT DO. It converts a vague lead into a located one. It does NOT settle
+  the attribution: a seven-week camp six years established at Saint-Sauveur could have sent a
+  party seventy kilometres north, and equally the High School of Montreal could have run its own
+  trip there. THE TEST FOR THE NEXT PASS IS NOW SPECIFIC: does any Kanawana record -- the 1920s
+  brochures, the Gas Bag runs, the directors' reports -- name Saint-Donat, Lac-Legendre, Lac
+  Batiment, Lac McLaren or the Rouge-Matawin country? None of the nine lake names appears
+  anywhere in this project's source cache outside this file.
+
+  AND THE TEST WAS RUN, the same hour, and came back NEGATIVE. The cache was searched for
+  Saint-Donat, St. Donat, St-Donat, Legendre, Matawin and Rouge-Matawin. NO KANAWANA SOURCE
+  NAMES ANY OF THEM. The hits are all other things: "St. Donat" appears in Canadian Camping as
+  OTHER camps' addresses in the 1975 directory and as a 1968 camp "situated at St. Donat in the
+  Laurentians"; "Legendre" appears once in the 1988 YMCA annual report as a person, Esther
+  Legendre. So the route country is absent from Kanawana's own literature as completely as the
+  lake names are.
+
+  CONCLUSION, recorded so the lead does not sit open tempting a later pass: "A Week in the Woods"
+  IS NOT ATTRIBUTABLE TO KANAWANA on anything this project holds. Its country is seventy-two
+  kilometres north of the camp and appears nowhere in the camp's records. What would reopen it is
+  a Kanawana document this project does not yet have -- a 1910s trip log, a brochure of the
+  period, or an early Gas Bag -- naming that country. Absent that, it is a High School of
+  Montreal canoe trip printed in a High School of Montreal magazine, and the Kanawana
+  advertisement on the following page is an advertisement.

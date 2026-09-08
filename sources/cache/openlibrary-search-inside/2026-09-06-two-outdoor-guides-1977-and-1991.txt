@@ -1,0 +1,121 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+TWO QUEBEC OUTDOOR GUIDES, AND THE COLUMN ALIGNMENT THAT HAD TO BE SOLVED BEFORE EITHER COULD BE
+USED. Both are p_430 group 4 items. Both were attempted earlier the same day and NOTHING WAS
+RECORDED, because the OCR scrambles their columns in exactly the way the UPU postal dictionary's
+were scrambled. This file records the controls that settled them.
+
+NOT SCANS. Both books are lending-restricted; neither has been read. Text assembled from
+overlapping twelve-word windows returned by https://openlibrary.org/search/inside.json (contract at
+f_4933). Page images return HTTP 403.
+
+
+===============================================================================
+ITEM 1. LES PISTES DE SKI DE FOND AU QUÉBEC (1977)
+        Internet Archive: lespistesdeskide0000veil — scan leaf 294
+===============================================================================
+
+RECOVERED RUN (a list of clubs with their mailing addresses):
+
+    "... [Club] DuSablon | 190 est, rue Principale | Ste-Agathe-des-Monts ||
+    Club Mont Plante | Casier postal 308 | Val David, Québec J0T 2N0 ||
+    KANAWANA OUTING CLUB Y.M.C.A. | 882, Montmorency | CHÂTEAUGUAY, QUÉBEC J6J 1S5 ||
+    McGill Outing Club | 3480, McTavish St. | Montréal ..."
+
+THE ALIGNMENT IS STRAIGHT HERE, and three internal controls say so: **J0T 2N0** is Val-David's
+postal code, **J6J 1S5** is Châteauguay's, and **3480 McTavish** is McGill's own student-union
+address. Each of the three lands on the row the plain reading assigns it, so no offset applies to
+this list.
+
+WHY IT MATTERS. The Kanawana Outing Club's mailing address in 1977 is **not the camp and not 1441
+Drummond**. It is a street address in Châteauguay — a private house or a club officer's home,
+forty kilometres the other side of Montreal from Saint-Sauveur. This is the second independent
+sighting of a Châteauguay connection: Lovell's Montreal City Directory for 1976 carried a second
+Kanawana listing under Châteauguay with the telephone 692-2801, and 514-692 is the Châteauguay
+exchange. So the club was administered from a private address in Châteauguay across at least
+1976-77, by somebody whose name this project does not have and which a Châteauguay street directory
+or voters' list for those years would give.
+
+AND THE COMPANY IT KEPT. The list is one of ski clubs, and Kanawana's neighbours in it are Club
+Mont Plante of Val-David and the **McGill Outing Club**. That is the register the club belonged to:
+not a camp programme, a public cross-country ski club, which is exactly what Bonnie Buxton and Betty
+Guernsey's *Montréal Inside Out* (1976) describes when it advertises "20 miles of blazed trails, a
+clubhouse and babysitting" to the general Montreal public (f_4942).
+
+The same leaf also carries "Huberdeau | Otter Lake Haus | Tél.: (819) 687-2767", which is a
+different list in the same book and is noted only because 819-687 is the Huberdeau exchange and
+therefore useful as a control below.
+
+
+===============================================================================
+ITEM 2. GUIDE PLEIN AIR QUÉBEC (1991)
+        Internet Archive: guidepleinairque0000unse — scan leaf 200
+===============================================================================
+
+THE RAW WINDOW, which is what stopped the earlier attempt:
+
+    "Sainl-Hippofyte Domaine des Prte 932.7161 Mont-Laurier Kanawana 819.623.5258 Saint-Sauveur 'Y'
+    CountryCamp 849.5331 Huberdeau 737.6551 Laval"
+
+Read straight — town, facility, telephone — that puts **Kanawana at Mont-Laurier** with an 819-623
+number, and the 'Y' Country Camp at Saint-Sauveur with 849-5331. Both are wrong, and the earlier
+attempt correctly recorded nothing.
+
+THE CONTROLS, all three documented from inside the same corpus rather than from memory:
+
+1. **849-5331 is the YMCA of Montreal, 1441 Drummond.** Bonnie Buxton and Betty Guernsey's Montreal
+   guidebook prints the two Montreal Ys on one line: "*Drummond (849-5331) — YM-YWHA: 5500,
+   Westbury (737-6551)*" (item montreallenvouta0000mccr, leaf 214). Every camp directory this
+   project holds from 1975 to 2001 gives 849-5331 for Kanawana.
+2. **737-6551 is the YM-YWHA of Montreal, 5500 Westbury** — same line, and confirmed again in
+   several Jewish community directories in the corpus.
+3. **The 'Y' Country Camp is the YM-YWHA's camp and it is at Huberdeau.** The *Directory of
+   Canadian Welfare Services / Repertoire des services sociaux canadiens* (Ottawa: Canadian
+   Council on Social Development, 1974), item directoryofcanad1974unse, leaf 218: "**'Y' Country
+   Camp Branch, 5500 Westbury Avenue, Montreal (winter), Huberdeau, Quebec (summer)**".
+   [CORRECTED 2026-09-06, same day: this file first called that item a "Directory of Canadian
+   [Camps] 1974", read off its identifier without checking its metadata. It is a directory of
+   WELFARE SERVICES, published by the Canadian Council on Social Development -- which is why a
+   YM-YWHA branch camp is in it, and which makes it a different and in some ways better witness
+   than a camping-association directory would be. The control it provides is unaffected.]
+   Corroborated by
+   jewishfamilybook00stra and jewishcatalogdo00sieg, both "Y Country Camp (Huberdeau), c/o YM/YWHA
+   of Montreal, 5500 Westbury", and by isbn_9783319461212, "Bronfman Y Country Camp (YM-YWHA Jewish
+   Community Centres of Montreal), 130 Chemin Lac Blanc, Huberdeau, QC".
+4. **819-623 is the Mont-Laurier exchange**, which the same leaf's other lists corroborate (819-687
+   for Huberdeau, 819-587 for Ferme-Neuve).
+
+THE ALIGNMENT THAT SATISFIES ALL FOUR. The facility column runs one row ahead of the town and
+telephone columns in the OCR stream. The rows are:
+
+    Mont-Laurier    | Domaine des Prêtres   | 819-623-5258
+    SAINT-SAUVEUR   | KANAWANA              | 849-5331
+    Huberdeau       | 'Y' Country Camp      | 737-6551
+
+Each row is now independently anchored: a Mont-Laurier number on a Mont-Laurier property, the
+YMCA's own number on the YMCA's camp, the YM-YWHA's own number on the YM-YWHA's camp at the town
+the 1974 directory gives for it. The straight reading fails all three at once; this one passes all
+three.
+
+WHAT IS RECORDED FROM IT: that Kanawana appears in a 1991 Quebec outdoor guide, at Saint-Sauveur,
+under the YMCA's Montreal number, among the province's outdoor and camp centres. That is a modest
+finding, and the alignment work is most of its value — the same offset will apply to the rest of
+this list, and to anyone who comes back for the other camps on it.
+
+WHAT IS NOT RECORDED: the trailing "Huberdeau 737.6551 Laval" tail, where the interleave breaks
+down at the window's edge; and the row before Mont-Laurier, whose facility name is not in the
+window (Saint-Hippolyte and 932-7161 belong to it).
+
+QUERIES RUN, in order:
+  "Mont-Laurier Kanawana"  ·  "Kanawana" "Huberdeau"  ·  "Country Camp" "Huberdeau"  ·  "737-6551"
+  ·  "Kanawana Outing Club Y.M.C.A." (0 hits — the OCR breaks it) · "Casier postal 308 Val David"  ·
+  "Québec JOT 2N0 Kanawana Outing Club"  ·  "Outing Club Y.M.C.A. 882, Montmorency Châteauguay"
+  (0 hits) · "882, Montmorency Châteauguay"  ·  "Kanawana Outing Club"  ·
+  "Ste-Agathe-des-Monts Club Mont Plante"  ·  "Châteauguay, Québec J6J 1S5 McGill Outing Club"
+
+A NOTE FOR THE NEXT PERSON. This is the fourth time a column ambiguity in this project has been
+settled by finding a field whose value can only land one way — after Kanawyer in the UPU postal
+list, Lac Bâtiment in the Matawinie lake cluster, and D-U-N-S 20-765-0813 in the credit
+directories. The method is now explicit: **do not read across a scrambled row. Find the field whose
+value is unique in the corpus, query that field on its own, and let it tell you which row it is
+in.** Here it took three of them, because one would have been a coincidence.

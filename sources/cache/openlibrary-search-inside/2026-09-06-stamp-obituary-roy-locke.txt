@@ -1,0 +1,46 @@
+SOURCE: The Canadian Obituary Record, ed. Robert M. Stamp (Toronto: Dundurn Press).
+        Internet Archive item canadianobituary0000stam_b1t2, scan leaf 266.
+        The volume is lending-restricted and print-disabled; it CANNOT be read whole from here.
+        The entries around this one are dated 1991, and this entry's own death date is 1991.
+
+HOW THIS TEXT WAS OBTAINED: as for the Fong file in this directory -- overlapping phrase queries
+against Open Library's search-inside endpoint on 2026-09-06, their windows joined. This is a
+RECONSTRUCTION from about a dozen windows, not a transcription of the page. Square brackets mark
+where the joins are uncertain or a word is supplied.
+
+QUERIES RUN (each returning one window from this item):
+  "Camp Kanawana"; "Camp Kanawana, a children's camp"; "Grace, Quebec, and was a";
+  "camp in the Laurentians. He is survived"; "Hickson Library in Notre Dame";
+  "financial campaign for the Fraser"; "nee Binns, daughter Vicky";
+  "LOCKE, ROY municipal politician"; "Roy Douglas Locke was a former mayor";
+  "of Montreal West. Locke graduated"; "University of Toronto and worked initially with";
+  "returned to the YMCA as director"; "director of fi" "nancial development until 1986";
+  "He served on the town commission of Montreal West"; "then for 12 years as mayor";
+  "green spaces in the community" Locke
+
+THE ENTRY AS RECONSTRUCTED:
+
+  LOCKE, ROY  municipal politician
+  [b. Toronto, Ont., c. 1920; d. Montreal West, Que., 19 September 1991, age 71]
+
+  Roy Douglas Locke was a former mayor of the suburban Montreal community of Montreal West.
+  Locke graduated from the University of Toronto and worked initially with the Young Men's
+  Chris[-]tian Association (YMCA) in Toronto[ ... ] business from 1954 to 1969, then returned
+  to the YMCA as director of fi[-]nancial development until 1986. He served on the town
+  commission of Montreal West from 1973 to 1989, first as commissioner of recreation, then for
+  12 years as mayor. Locke was particu[-]larly proud of his work in developing parks and
+  protecting green spaces in the community. Locke headed the financial campaign for the Fraser
+  Hickson Library in Notre Dame de Grace, Quebec, and was a di[-]rector of Camp Kanawana, a
+  children's camp in the Laurentians. He is survived by his wife, Patricia, nee Binns, daughter
+  Vicky Chantler and three grandchildren. (MG 20 and 21 Sep [1991])
+
+THE ONE GAP
+  Between "in Toronto" and "business from 1954 to 1969" there is unread text -- one clause at
+  least, and it is the clause that would cover his Montreal years, his Kanawana camp
+  chiefship of 1947 and the Westmount Branch posting of September 1954. It was not recovered.
+  What can be said is that the obituary places him in business from 1954, which sits against the
+  Montreal YMCA's own 1954 Annual Report recording him succeeding N. A. Millington at Westmount
+  Branch on 1 September 1954. Neither is preferred; see f_4935.
+
+  "MG" is the Montreal Gazette. The underlying obituary, Gazette of 20 and 21 September 1991,
+  has not been read.

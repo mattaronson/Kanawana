@@ -188,10 +188,15 @@ def main():
     if not bad:
         print('  every checked citation shares a name, year or number with its fact')
         return 0
-    print('  [advisory] %d citation(s) share nothing distinctive with the fact cited.' % len(bad))
-    print('  Advisory until the back catalogue is clean, then make this blocking.')
+    print('  [BLOCKING] %d citation(s) share nothing distinctive with the fact cited.' % len(bad))
+    print('  The back catalogue was cleared on 2026-09-05 (p_401), so this now fails the')
+    print('  build. Fix by citing the fact that carries the claim, or by rewording the')
+    print('  sentence to say what the cited fact says. If the aim is right and the check')
+    print('  simply cannot see it -- the distinctive name sits in the sentence before --')
+    print('  put the name back in the citing sentence: a sentence carrying a citation')
+    print('  should be checkable on its own.')
     for b in bad:
         print('  - %s' % b)
-    return 0
+    return 1
 
 sys.exit(main())

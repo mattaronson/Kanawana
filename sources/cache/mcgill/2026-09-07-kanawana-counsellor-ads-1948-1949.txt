@@ -1,0 +1,68 @@
+THE McGILL DAILY, TWO KANAWANA RECRUITMENT ADVERTISEMENTS
+20 May 1948 and 25 May 1949 — the camp buying space in a university newspaper
+
+Identifiers: McGillLibrary-mcgill-daily-v37-n100-may-20-1948-5382
+             McGillLibrary-mcgill-daily-v38-n100-may-25-1949-5479
+Found 2026-09-07 by the whole-corpus sweep of 9,890 McGill student publication
+items under p_479. "Kanawana" occurs exactly once in each issue, in the
+advertisement. Both fall in the last week of May, at the end of term.
+
+-------------------------------------------------------------------------------
+20 MAY 1948
+-------------------------------------------------------------------------------
+  "FIVE VACANCIES on our Counsellor Staff
+   Phone: R. D. Locke, Director
+   Y.M.C.A. Kamp Kanawana.  MA. 8331
+   for an interesting, healthful and profitable summer."
+
+-------------------------------------------------------------------------------
+25 MAY 1949
+-------------------------------------------------------------------------------
+  "FOUR VACANCIES on our Counsellor Staff
+   Phone: R. D. Locke, Director
+   Y.M.C.A. Kamp Kanawana.  MA. 8331
+   For an interesting, healthful and profitable summer
+   CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY"
+
+-------------------------------------------------------------------------------
+WHAT THEY GIVE, CHECKED AGAINST THE DESTINATION FIRST
+-------------------------------------------------------------------------------
+
+1. TWO DATED ATTESTATIONS OF R. D. LOCKE AS "DIRECTOR", IN PUBLIC, UNDER HIS
+   OWN NAME AND TELEPHONE NUMBER. wiki/people/roy-locke.md has him becoming
+   "Camp Chief of Kamp Kanawana in the summer of 1947" and holding the Montreal
+   YMCA's Boys' Work and Camping portfolio to September 1954, on internal
+   association evidence. These are two outside, dated documents from inside that
+   span. The TITLE is the small thing worth noting: the association's own
+   records call him Camp Chief; the advertisement he placed calls him DIRECTOR.
+   Which is what a camp would put in a newspaper, and a caution against reading
+   title variation in this period as evidence of a change in post.
+
+2. THE CAMP RECRUITED COUNSELLORS OUT OF THE UNIVERSITIES, AND THIS IS THE
+   EARLIEST DIRECT EVIDENCE OF IT HELD HERE. The pattern this project has been
+   building all day from the other side -- Sir George Fellowship men staffing
+   the camps, the 1962 Georgian advertisement for Kanawana staff, the 1993
+   Daily piece about a collective who "know each other from Camp Kanawana" --
+   has its plainest instance here: the camp buying display space in a student
+   newspaper in the last week of term, twice, in consecutive years.
+
+3. FIVE VACANCIES IN 1948 AND FOUR IN 1949, both advertised in late May. That
+   is a late-season gap of a known size in each year, which is a different kind
+   of number from a staff total: it says what the camp still needed after its
+   own channels had been worked.
+
+4. "3 LAKES — 600 ACRES OF WOODED PROPERTY", MAY 1949. This corroborates from
+   OUTSIDE the annual reports a figure the wiki holds only from inside them.
+   wiki/site/the-kanawana-site.md gives "600 acres" on the authority of "YMCA
+   annual reports, 1949-1959" and quotes the 1958 report's "three lakes and a
+   part of a fourth, covering some 600 acres". This advertisement is from MAY
+   1949 -- the first year of that range -- and states the same two figures in
+   public, to strangers, where an overstatement would have been checkable by
+   anyone who took the job. It does not resolve the wiki's open question about
+   the jump from 600 acres to 1,000, and it does not touch the 1957 report's
+   "sixty acres"; it makes the 600 figure independently attested at the range's
+   start. Note also that the ad says three lakes flat, where the 1958 report
+   says three and part of a fourth.
+
+NULL RESULTS. "Otoreke" 0 and "Perrot" 0 in both issues. Neither advertisement
+names a wage, a season length, an age requirement, or any other member of staff.

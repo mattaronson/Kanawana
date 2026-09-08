@@ -1,6 +1,6 @@
 # James H. Turner
 
-*Status: draft | Sources: 5*
+*Status: draft | Sources: 6*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -44,6 +44,49 @@ programmes" and adds that "il dialogue facilement avec eux grâce à son approch
 the *on-site* director in as many words, while [[people/roy-locke|Roy D. Locke]] held the Camping
 Branch above him — exactly the structure this article describes.
 
+## The 1970 summation, which is where the 1971 proposal comes from
+
+This article's first open question has asked what prompted the 1971 proposal, noting that "the report
+states the recommendation but not the reasoning behind it beyond budget." **Turner made the reasoning a
+year earlier**, in the summation closing his 1970 report, and it is the most candid self-assessment of
+the camp this project holds.^6
+
+The praise in it is specific and comes first. The camp has "an excellent reputation through the
+relationships we have developed with campers, parents and staff", and "our programs and activities are
+looked upon, **by other camps**, as being of a superior quality."
+
+Then the plant: "we are basically trying to operate our camp with **most of its original facilities**. Our
+camp is **inadequate, out-dated** and at times **gets in the way** of what we are trying to do — working
+with people. Our equipment is limited and at times there is not enough available to meet our program
+needs." That is in the same report as the erosion passage about ground that "does not look like a camp
+but a section of St. Catherine Street", and it is a verdict on the whole physical camp rather than one
+worn area.
+
+The programme critique is blunter. "The program vehicles which we have used in relating to our campers
+have (a) **disintegrated to a bare minimum** or (b) new innovative areas have been introduced in a **low
+quality manner** (ie waterfront and tripping areas are the former and our riding program the latter)."
+**The waterfront and tripping are the two things the 1971 proposal wants to rebuild the camp around**, and
+here, a year before, they are described as run down to a minimum.
+
+And the case for year-round staffing is a single rhetorical question carrying the scale of the place:
+"**How then can we operate a $100,000 operation with over 80 staff and involving approximately 800
+campers on a part-time basis?**" The same report recommends hiring the Camp Director and Business Manager
+"on a fulltime year round basis" and the senior staff on eight-month commitments.
+
+On coeducation he asks the institution to decide: "We have also moved into coeducational camping (for
+three years now) and **need to make our position very clear as to where we stand**." Three years in, the
+camp's own director says the question is unsettled — which is what the long appendix on coeducation in
+the same report then sets out to answer. [f_5684]
+
+**Two doctors in 1970, none in 1971.** Turner's 1970 report records that "for campers health we had **two
+excellent Doctors** with us for the Summer", and that the nurse "worked extra duty because of her
+interest in the campers and her concern for our Cystic Fibrosis campers". The 1971 report has **no doctor
+in residence** — the nurse carrying it alone, and sick campers, "sometimes 8 at one time", driven to the
+doctor in St-Sauveur with a standing decision about whether to wait for consulting hours there or drive
+on to St-Jérôme or Montreal. **Medical cover went from two resident doctors to none in a single year, and
+neither report remarks on the change.**^6 By 1978 the camp is thanking an outside physician for "covering
+the infirmary at the end of the summer", which suggests the 1970 arrangement did not return. [f_5686]
+
 ## The 1971 recommendation
 
 Turner's parting report proposes dismantling the camp as a physical plant:
@@ -52,11 +95,11 @@ Turner's parting report proposes dismantling the camp as a physical plant:
 
 He also recommended selling the Lac Bec-scies property, which the association did sell — in 1986, fifteen years later.^2 The main recommendation was not adopted; the camp is still on its Saint-Sauveur site.
 
-The same report recommends discontinuing the camp's riding program, which does disappear from the program areas thereafter.^1
+The same report recommends discontinuing the camp's riding program, which does disappear from the program areas thereafter.^1 **It was the second time he had asked.** The 1970 report's recommendations for Camp '71 already said "cancel this program for camp '71", and the programme ran in 1971 regardless — so of Turner's two attempts on the horses, the first was ignored and the second took effect. The two recommendations also give different reasons: in 1970 riding is a novelty "introduced in a low quality manner", and in 1971, after a season he calls excellent, it is "an expensive (too expensive) program".^6 [f_5672]
 
 ## Open Questions
 
-1. [Important] What prompted the 1971 proposal, and how did the Camping Branch and board respond? The report states the recommendation but not the reasoning behind it beyond budget, and no minutes recording a response have been located.
+1. ~~[Important] What prompted the 1971 proposal~~ **[First half answered 2026-09-07.]** The reasoning is in Turner's 1970 summation, set out above: an inadequate and out-dated plant operating on original facilities, programme areas either run down to a minimum or introduced at low quality, and a $100,000 operation with over 80 staff run part-time. **How the Camping Branch and board responded is still open**, and no minutes recording a response have been located.
 2. [Important] Why was the tenure "all too short"? Turner's own phrase. Nothing states whether he left, was moved, or was not renewed.
 3. [Nice-to-have] What was his career after 1971? The Montreal record is continuous from 1967 (Youth Secretary, International Branch → Lachine-Dorval) to 1971 and then stops.
 4. [Nice-to-have] Turner appears as "Jim Turner" in news releases and "James H. Turner" in signatures; the 1993 alumni newsletter has "Jim Turner (?-71)," recalling the end of his tenure but not the start.
@@ -76,6 +119,7 @@ The same report recommends discontinuing the camp's riding program, which does d
 3. Montreal YMCA news releases of 29 January 1970 ("TURNER TO KANAWANA") and 2 September 1969 (the West Island/Lachine-Dorval amalgamation), in the Concordia-digitized fonds [src_ia_ymca_montreal_fonds_collection]; *The Lookout* Vol. 1 No. 3, autumn 1993 [src_ia_the_lookout_1993].
 4. YMCA of Montreal Annual Report 1967, staff transfers [src_ia_ymca_montreal_annual_reports_collection].
 5. Montreal YMCA staff newsletter, 28 November 1968 [src_ia_ymca_montreal_fonds_collection].
+6. *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`; its SUMMATION and the Program recommendations of its coeducation appendix, both signed by Turner as Camp Director. Read whole 2026-09-07 under `p_491`. The summation is at [f_5684]; the two riding recommendations at [f_5672].
 
 ## Research Notes
 

@@ -27032,7 +27032,8 @@
  "justin pulfer": {
   "display": "Justin 'JT' Pulfer",
   "forms": [
-   "Justin 'JT' Pulfer"
+   "Justin 'JT' Pulfer",
+   "Justin J. Pulfer"
   ],
   "appearances": [
    {
@@ -27041,12 +27042,20 @@
     "role": "LIT",
     "image": "lit-2008.jpg",
     "as_written": "Justin 'JT' Pulfer"
+   },
+   {
+    "year": 2009,
+    "group": "JC",
+    "role": "JC",
+    "image": "junior-counsellors-2009.jpg",
+    "as_written": "Justin J. Pulfer"
    }
   ],
   "years": [
-   2008
+   2008,
+   2009
   ],
-  "span": 0,
+  "span": 1,
   "initial_only": false
  },
  "jon reisler": {
@@ -30896,26 +30905,6 @@
   ],
   "span": 0,
   "initial_only": true
- },
- "justin j pulfer": {
-  "display": "Justin J. Pulfer",
-  "forms": [
-   "Justin J. Pulfer"
-  ],
-  "appearances": [
-   {
-    "year": 2009,
-    "group": "JC",
-    "role": "JC",
-    "image": "junior-counsellors-2009.jpg",
-    "as_written": "Justin J. Pulfer"
-   }
-  ],
-  "years": [
-   2009
-  ],
-  "span": 0,
-  "initial_only": false
  },
  "evan hayward": {
   "display": "Evan Hayward",
