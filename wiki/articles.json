@@ -8553,9 +8553,11 @@
         "src_history_1935",
         "src_mcmorris_thesis",
         "src_ymf_the_green_triangle_1933_07_29",
-        "src_ymf_the_green_triangle_1933_08_05"
+        "src_ymf_the_green_triangle_1933_08_05",
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_ymf_sgw_ymca_annual_report_1942"
       ],
-      "open_questions": 3,
+      "open_questions": 2,
       "cross_links": [
         "directors-index",
         "kanawana-in-media",
@@ -8564,7 +8566,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 699,
+      "word_count": 1306,
       "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and wartime-kanawana.md prior RESEARCH passes -- no new research conducted.",
       "tags": {
         "era": [
@@ -10226,7 +10228,9 @@
         "src_mcmorris_thesis",
         "src_ymf_the_green_triangle_1933_07_29",
         "src_ymf_the_green_triangle_1933_08_05",
-        "src_ymf_the_green_triangle_1937_03_30"
+        "src_ymf_the_green_triangle_1937_03_30",
+        "src_cache_sgw_ymca_annual_report_1935",
+        "src_ymf_sgw_ymca_annual_report_1940"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10236,7 +10240,7 @@
         "camp-becsies"
       ],
       "file_id": null,
-      "word_count": 2611,
+      "word_count": 3070,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
       "tags": {
         "era": [
@@ -12676,7 +12680,8 @@
         "src_passionate_educators",
         "src_ymf_the_green_triangle_1935_08_17",
         "src_ymf_the_green_triangle_1937_03_30",
-        "src_ymf_the_green_triangle_1940_06_27"
+        "src_ymf_the_green_triangle_1940_06_27",
+        "src_ymf_sgw_ymca_annual_report_1939"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12689,7 +12694,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 2444,
+      "word_count": 2680,
       "notes": "Created 2026-09-07. The two Kidds were on Kanawana's staff six years apart and were brothers; the material had accumulated inside traditions-and-culture.md's 1940 circus passage, which does not fit two biographies. Filed under notable-alumni on the hub-and-spoke test: J. Roby Kidd would warrant an article if Kanawana had never existed. One article rather than two, on the cushing-family and page-family precedent, because the Kanawana story is one story.",
       "tags": {
         "era": [

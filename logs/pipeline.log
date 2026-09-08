@@ -8258,3 +8258,21 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Murray Shantz's "Murray G." slip was already handled in his own article; nothing to do.
   prose_dupes: the new rh-hanagan/roy-locke 26-word overlap is the shared quotation of the 1948
     passage both articles need. Citation graph working, per f_5119.
+2026-09-08T01:24:54Z
+  p_490 fourth pass -- THE PRIORITY'S OWN NULL LIST WAS WRONG. f_5747, f_5748, KB 11.22 -> 11.23.
+  "Ball, Dawson, Cushing, Potter, Charlton and Langille all return ZERO from the sweep" was a fact
+    about the search. The OCR breaks names as "Harold Pot- ter" and "Mr. Howard Lan- gille"; the
+    finding aid was built with a plain search and the method of grepping it inherited the blindness.
+  LANGILLE: 1939 report appoints "Mr. Howard Langille, B.A., for several years on the staff of the
+    Halifax Y.M.C.A." to succeed John P. Kidd as Central's Boys' Work Secretary, and says he took his
+    McGill degree while a Fellowship Secretary. 1942 report: "J. H. Langille ... resigned to take a
+    position with the London Y.M.C.A." Answers howie-langille.md Open Question 1 in both halves.
+  JOHN P. KIDD gains a Montreal post between the camp seasons and the Citizenship Council, and the
+    Central boys' desk passes Kidd -> Langille in 1938-39.
+  MACDIARMID: 1935 transfer to the Mount Royal Avenue executive secretaryship; 1940 as Executive
+    Secretary of the EASTERN COMMUNITY BRANCH, Military Services Secretary for Military District
+    No. 4, one of six YMCA officers with the First Division. Eastern Community is the chair Hanagan
+    held and Locke took in 1948 -- three camp directors in one branch post inside a decade.
+  Over-read caught before commit: "On August 1st" opens a four-transfer paragraph and may govern only
+    the first; the year is dated in the article and the day is not.
+  NEW TOOL: scripts/reread/name_search.py, hyphenation-tolerant, with --hyphen-only.

@@ -1,7 +1,7 @@
 # Greig Macdiarmid
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-09-07 (a fourth spelling, and the camp book he published)*
+*Status: draft | Sources: 15*
+*Last Updated: 2026-09-08 (the branch career the camp chieftaincy sat on top of)*
 
 ## Overview
 
@@ -30,12 +30,35 @@ Macdiarmid was at Kanawana on staff before he ran it, overlapping with [[people/
 | **15 September 1927** | Associate Secretary; appointed to succeed MacKinnon temporarily as Executive Secretary. *(Corrected from 1928. The report carrying this is the 1928 one, whose fiscal year ends **31 March 1928** — it cannot contain a September 1928 event. The September is 1927.)* |
 | 1929–1930 | Listed on the Verdun Branch staff |
 | 1933–1934 | Kanawana staff, under Camp Chief W. H. Spearman |
+| **1934-35** | Transferred from **Southwestern Branch** to the **Executive Secretaryship of the Mount Royal Avenue Branch**^14 |
 | 1935–1939 | Camp Chief, Kamp Kanawana |
-| December 1939 | Went overseas with YMCA War Services |
+| by 1939 | **Executive Secretary of the Eastern Community Branch**^15 |
+| **early September 1939** | Appointed **Military Services Secretary for Military District No. 4**^15 |
+| December 1939 | Went overseas with YMCA War Services, **as one of the six Y.M.C.A. officers with the First Division**^15 |
 | 1942–1943 | Senior YMCA Supervisor for Great Britain |
 | 1946 | Senior Secretary for War Services in the United Kingdom; resigned from the Montreal Association to become Executive Secretary, Toronto Central YMCA, effective September 1 |
 | 1946–1962 | Rose to **General Secretary of the Toronto YMCA** — the whole association, not the Central branch he joined in 1946.^11 Drove the expansion of **Camp Pine Crest**, **Camp Norval** and **Camp Wangoma**, developed **twenty-three YMCA day camps** in the Toronto area, and "set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children"^10 |
 | **21 May 1962** | **Died suddenly**, in office.^11 |
+
+**The branch career the camp chieftaincy sat on top of.** Two annual reports found on 2026-09-08, both
+already cached and both passed over because a plain search for the surname does not match the way the OCR
+sets it, broken across a line as "Macdiar- mid," fill in what he was doing in Montreal while he ran the
+camp. The report for the year ending 31 March 1935: "Mr. **W. J. G. Macdiarmid** was transferred from
+**Southwestern Branch** to the **Executive Secretaryship of Mount Royal Avenue Branch**," in a paragraph
+that also moves Harold C. Cross to the Metropolitan Programme Secretaryship.^14 *The paragraph opens "On
+August 1st" and then runs through four transfers; whether that date governs all of them or only the first,
+G. Ernest Trueman's, the report does not say, so the year is dated here and the day is not.* So he took the
+camp in 1935 as a branch executive, not as a camping specialist — the same shape found in this wiki for
+[[people/roy-locke|Roy Locke]], [[people/rh-hanagan|R. H. Hanagan]] and G. D. Brandon.
+
+**And the war posting has a date and a district.** The report for the year ending 31 March 1940:
+"**W. J. G. Macdiarmid, Executive Secretary of the Eastern Community Branch**, was appointed **Military
+Services Secretary for Military District No. 4 early in September**. In due course he went overseas as
+**one of the six Y.M.C.A. officers with the First Division**."^15 That names the branch he was running
+when the war began, dates the military appointment to the first weeks of it, and puts the "December 1939"
+in the table above inside a specific establishment: six officers, the First Division. *Eastern Community
+Branch is also the branch [[people/rh-hanagan|Hanagan]] would run and [[people/roy-locke|Locke]] would
+take from him in 1948* — the same chair, three camp directors in a decade.
 
 **Two details from the obituary itself, which this article had been quoting at second hand.** It gives
 his wartime post as **"Senior Officer Overseas of Canadian YMCA War Services"** — a third form of the
@@ -108,6 +131,8 @@ directorships and this is not one; what changes is the length of his association
 12. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 13. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`; read word for word 2026-09-07. See [f_5592].
 
+14. YMCA of Montreal annual report for the year ending **31 March 1935** [src_cache_sgw_ymca_annual_report_1935], the staff-changes paragraph: the transfer from Southwestern to the Mount Royal Avenue executive secretaryship on 1 August, in the same paragraph as Harold C. Cross's move to the Metropolitan Programme Secretaryship. Read 2026-09-08 under p_490. See [f_5748].
+15. YMCA of Montreal annual report for the year ending **31 March 1940** [src_ymf_sgw_ymca_annual_report_1940], the war-services paragraph: the Eastern Community Branch executive secretaryship, the Military District No. 4 appointment early in September, and the six Y.M.C.A. officers with the First Division. Read 2026-09-08 under p_490. See [f_5748].
 ## Research Notes
 
 <!-- Substantially rewritten 2026-08-14 from the digitized YMCA of Montreal fonds (Green Triangle run, annual reports 1926-1946, the 1938 Kanawana letterhead, the 1939 CFCF broadcast transcript).

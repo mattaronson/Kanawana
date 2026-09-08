@@ -1,7 +1,7 @@
 # The Kidd Brothers
 
-*Status: draft | Sources: 7*
-*Last Updated: 2026-09-07 (John Kidd across four seasons; Roby running the Senior Section in June 1940)*
+*Status: draft | Sources: 8*
+*Last Updated: 2026-09-08 (John Kidd's Montreal post, and where he went from it)*
 
 ## Overview
 
@@ -48,6 +48,21 @@ doing; "business major-domo" fits an administrative role; and "British Columbian
 since both were raised in Vancouver and Gibson's Landing. The given name is what separates them, and it
 is John. So John Kidd was at Kanawana across **1934, 1935, 1936 and 1937** — four seasons, not the single
 year his own 1950 anecdote records, and long enough for the paper to build running jokes on him.
+
+### And a Montreal post between the camp seasons and the Citizenship Council
+
+**John Kidd was the Montreal association's Acting Boys' Work Secretary at Central Branch, and he left it
+for Brantford.** The annual report for the year ending 31 March 1939: "**Mr. John P. Kidd, Acting Boys'
+Work Secretary of Central Branch, resigned to accept a similar position with the Brantford Association**,
+and Mr. Howard Langille, B.A. … was appointed to succeed him."^8
+
+That fills the years between his four Kanawana seasons and the Canadian Citizenship Council: he was not a
+volunteer leader who went away, he was on the association's paid staff, holding the Central Branch desk
+that ran the camp's own department — see [[people/boys-work-secretaries|Montreal's Boys' Work
+Secretaries]]. *Acting*, the report says, which is worth keeping: the post was his to hold and not yet
+his to keep, and he left it rather than be confirmed in it. **And the man who succeeded him is Kanawana's
+own next Camp Chief**, [[people/howie-langille|Howie Langille]], whose first name this same sentence
+supplies.
 
 ## Roby Kidd at Kanawana, 1940
 
@@ -180,6 +195,7 @@ Neither year is preferred here.
 6. Ron Faris, *The Passionate Educators: Voluntary Associations and the Struggle for Control of Adult Educational Broadcasting in Canada, 1919-52* (Toronto: P. Martin, 1975) [src_passionate_educators]. **Lending-restricted** — a direct fetch of its text returns HTTP 401, tested rather than assumed — so everything here comes from Open Library search-inside windows, each quoted in the source record so the joins can be checked. See [f_5571] and [f_5572].
 7. *The Green Triangle*, **17 August 1935**, **30 March 1937** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5589], [f_5593], [f_5599].
 
+8. YMCA of Montreal annual report for the year ending **31 March 1939** [src_ymf_sgw_ymca_annual_report_1939], the staff-changes paragraph: John P. Kidd's resignation of the Central Branch acting boys' work secretaryship for Brantford, and Howard Langille's appointment to succeed him. Read 2026-09-08 under p_490, using a hyphenation-tolerant search — the OCR breaks the successor's name as "Lan- gille", which is why the paragraph had never been found. See [f_5747].
 ## Research Notes
 
 ### Revision History

@@ -1,8 +1,8 @@
 {
-  "version": "11.22",
-  "kb_version": "11.22",
+  "version": "11.23",
+  "kb_version": "11.23",
   "migrated_from": "3.3",
-  "fact_count": 5708,
+  "fact_count": 5710,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102928,6 +102928,41 @@
       "date_ref": "1943",
       "conflicts_with": [],
       "added_version": "11.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5747",
+      "claim": "HOWIE LANGILLE IS HOWARD LANGILLE, HE CAME FROM HALIFAX, AND HE LEFT FOR LONDON -- AND p_490 HAD DECLARED HIM A NULL. The Montreal annual report for the year ending 31 March 1939: 'Mr. John P. Kidd, Acting Boys' Work Secretary of Central Branch, resigned to accept a similar position with the BRANTFORD Association, and Mr. HOWARD LANGILLE, B.A., for several years on the staff of the HALIFAX Y.M.C.A., was appointed to succeed him. Mr. Langille secured his university education at McGILL while one of our FELLOWSHIP SECRETARIES.' The report for the year ending 31 March 1942: 'J. H. Langille, Boys' Work Secretary of Central Branch, resigned to take a position with the LONDON Y.M.C.A.' THAT ANSWERS people/howie-langille.md's OPEN QUESTION 1 IN BOTH HALVES -- his first name and what became of him after 1941 -- and adds his Halifax years, his McGill degree taken while on the Montreal association's own training scheme, and the post he held: Boys' Work Secretary of Central Branch, the desk that ran the camp's department. A CAUTION KEPT: 1939 writes Howard and 1942 writes J. H., so the full name is probably J. Howard Langille and nothing read here writes it out. IT ALSO GIVES JOHN P. KIDD a Montreal post between his four Kanawana seasons and the Canadian Citizenship Council: acting holder of that same desk, leaving it for Brantford. p_490 RECORDED 'Ball, Dawson, Cushing, Potter, Charlton and Langille all return ZERO from the sweep' AND TWO OF THE SIX WERE WRONG. The OCR breaks a name across a line as 'Lan- gille' and 'Harold Pot- ter'; the finding aid was built with a plain search and so never extracted the passages, and the method of grepping the aid inherited the blindness. A NULL FROM A PLAIN GREP OVER OCR TEXT IS A FACT ABOUT THE GREP. scripts/reread/name_search.py now does the search with an optional hyphen and whitespace permitted between every pair of letters.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_ymf_sgw_ymca_annual_report_1942"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Howie Langille",
+        "John P. Kidd"
+      ],
+      "date_ref": "1939/1942",
+      "conflicts_with": [],
+      "added_version": "11.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5748",
+      "claim": "GREIG MACDIARMID'S BRANCH CAREER, WHICH THE CAMP CHIEFTAINCY SAT ON TOP OF. Two more reports found by the same hyphenation-tolerant search ('Macdiar- mid'). The report for the year ending 31 March 1935: 'Mr. W. J. G. Macdiarmid was transferred from SOUTHWESTERN BRANCH to the EXECUTIVE SECRETARYSHIP OF MOUNT ROYAL AVENUE BRANCH,' in the same paragraph that makes Harold C. Cross Metropolitan Programme Secretary. So he took Kanawana in 1935 as a branch executive rather than as a camping specialist -- the fourth instance of that shape today, after Brandon, Hanagan and Locke. The paragraph opens 'On August 1st' and then runs four transfers; WHETHER THAT DATE GOVERNS ALL OF THEM OR ONLY THE FIRST THE REPORT DOES NOT SAY, so the year is dated and the day is not. The report for the year ending 31 March 1940: 'W. J. G. Macdiarmid, EXECUTIVE SECRETARY OF THE EASTERN COMMUNITY BRANCH, was appointed MILITARY SERVICES SECRETARY FOR MILITARY DISTRICT NO. 4 EARLY IN SEPTEMBER. In due course he went overseas as ONE OF THE SIX Y.M.C.A. OFFICERS WITH THE FIRST DIVISION.' That names the branch he was running when the war began, dates the military appointment to the first weeks of it, and puts the 'December 1939' this project already had inside a specific establishment. EASTERN COMMUNITY BRANCH IS THE SAME CHAIR R. H. Hanagan would hold and Roy Locke take from him in 1948 -- three camp directors in one branch executive secretaryship inside a decade.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1935",
+        "src_ymf_sgw_ymca_annual_report_1940"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Greig Macdiarmid"
+      ],
+      "date_ref": "1935/1940",
+      "conflicts_with": [],
+      "added_version": "11.23",
       "added_by": "ralph_loop"
     }
   ]
