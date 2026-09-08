@@ -1,8 +1,8 @@
 {
-  "version": "11.74",
-  "kb_version": "11.74",
+  "version": "11.75",
+  "kb_version": "11.75",
   "migrated_from": "3.3",
-  "fact_count": 5774,
+  "fact_count": 5775,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104263,6 +104263,25 @@
       "date_ref": "2007 booklet, on a race documented from 1993",
       "conflicts_with": [],
       "added_version": "11.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5813",
+      "claim": "POWTER'S CAMP REACHES KANAWANA IN 1975, SEVENTY-THREE YEARS AFTER ITS FOUNDING, THROUGH A HIRED DIRECTOR. The 1975 director's report, Hike & Trip: 'We were fortunate this summer to recruit a very experienced and capable Hike & Trip Director, DICK MISCHOOK. Dick and his department successfully sent out a great quantity and variety of canoe trips, hikes and overnights. Due to Kanawana's past trip logs and records together with DICK'S KNOWLEDGE OF TRIPS FROM POWTER'S CAMP, we were able to DECREASE THE DISTANCE NEEDED FOR TRUCKING TRIPS OUT and maintain the various desired wilderness experiences. I should also mention that DICK OBTAINED EXCLUSIVE PERMISSION FOR KANAWANA TO SEND CANOE TRIPS TO PARC JOLIETTE.' TWO THINGS. (1) THIS WIKI TREATS POWTER'S CAMP AS A PARALLEL INSTITUTION at the far end of its own history: C. B. Powter was running the YMCA's camp at Lac Saint-Joseph in 1898, beside the association's Physical Director W. H. Ball, and founded Powter's Camp -- 'Sans Egal' -- on the same lake in 1902. Here it is 1975 and Powter's Camp is still a going concern whose ROUTE KNOWLEDGE transfers to Kanawana in a man's head when he changes jobs. Institutional knowledge moving between two camps by a hire is a mechanism this project has documented for staff but not for programme content. (2) PARC JOLIETTE AND AN EXCLUSIVITY: a trip destination new to this project, obtained on terms the report calls exclusive, which implies other camps were being kept out or had to be. AND A THIRD PASS OF THE SAME DOCUMENT: this is the third distinct section taken from the 1975 report on 2026-09-08 -- Food Services, then Kampers and Staff, now Hike & Trip -- each read for one thing and each leaving the next.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Dick Mischook",
+        "Powter's Camp",
+        "Parc Joliette",
+        "Hike and Trip"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "11.75",
       "added_by": "ralph_loop"
     }
   ]

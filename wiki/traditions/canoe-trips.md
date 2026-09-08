@@ -209,6 +209,21 @@ Two related national facts of the same year belong beside it. The **Canadian Rec
 
 Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip leader) role distinct from the section directors who ran the camp-based program. Rob Shackell appears as Tripper across at least four documented trips between 2001 and 2010 — the 2001 Voyageurs 4th-session portage, the 2005 Swazi trip, the 2008 Missinaibi River 21-day Voyageurs Ultimate expedition, and the 2010 Ashuapmushuan River trip — the longest documented tripping tenure of any named individual in the plaque archive. Steve Wesley co-led the 2010 Voyageurs 3rd-session and Ashuapmushuan trips alongside Shackell. Other named trip leaders include Lorna McNeish, credited "Capitaine" of the 2000 Voyageurs cohort, and Mark Chamandy-Cook, Tripper on a 2009 Talahassee trip through the Papineau-Labelle wildlife reserve.^10
 
+**And the year before that, the route knowledge arrived with a hire.** The 1975 report: "We were fortunate
+this summer to recruit a very experienced and capable Hike & Trip Director, **Dick Mischook**… Due to
+Kanawana's past trip logs and records together with **Dick's knowledge of trips from Powter's Camp**, we were
+able to **decrease the distance needed for trucking trips out** and maintain the various desired wilderness
+experiences. I should also mention that Dick obtained **exclusive permission for Kanawana to send canoe trips
+to Parc Joliette**."^36
+
+*Powter's Camp is not a stranger to this project.* **C. B. Powter** was running the YMCA's own camp at Lac
+Saint-Joseph in 1898, beside the association's Physical Director W. H. Ball, and founded Powter's Camp —
+"Sans Egal" — on the same lake in 1902 ([[site/camp-otoreke|Camp Otoreke]] has the whole of it). Here it is
+1975, the camp is still a going concern, and its route knowledge crosses to Kanawana **in one man's head when
+he changes jobs**. This wiki has documented staff moving between camps many times; programme content moving
+with them is new. **Parc Joliette** is a destination new here too, on terms the report calls exclusive.
+[f_5813]
+
 **The year before it, and the trips left the watershed.** The 1976 report, under Hike & Trip: "What a summer
 it was! After over **14,000 miles on the Kamp van in 7 weeks, over 85 trips** were sent out. These included the
 local trips on kamp property to extensive canoe trips in such areas as **Papineau-Labelle Park, Manewan Indian
@@ -350,4 +365,4 @@ mother, and the unit she measures the trip in is a school year. See
 33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].
 34. Camp YMCA Kanawana, the registration package published at ymcaquebec.org [src_ymcaq_kanawana_jobs_intl_leadership_2026], its emergency and inherent-risk clauses. Read 2026-09-08 under p_441. See [f_5791].
 35. *Camp Kanawana Parent Guide 2026*, English and French editions [src_kk_prep_guide_2026, src_kk_prep_guide_2026_fr], the Hike and Trip programme page. Read 2026-09-08 under p_441. The English guide is cited elsewhere in this wiki as ^pg26 and this list was not taken from it. See [f_5792].
-36. *Kamp Kanawana Director's Report* for **1976** and **1977** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977], their Hike & Trip sections and the 1977 special-programme list. Read 2026-09-08 under p_441. See [f_5804], [f_5805] and [f_5806].
+36. *Kamp Kanawana Director's Report* for **1975**, **1976** and **1977** [src_ia_kanawana_report_1975, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977], their Hike & Trip sections and the 1977 special-programme list. Read 2026-09-08 under p_441. See [f_5804], [f_5805], [f_5806] and [f_5813].
