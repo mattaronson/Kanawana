@@ -1,8 +1,8 @@
 {
-  "version": "11.42",
-  "kb_version": "11.42",
+  "version": "11.43",
+  "kb_version": "11.43",
   "migrated_from": "3.3",
-  "fact_count": 5731,
+  "fact_count": 5732,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103413,6 +103413,27 @@
       "date_ref": "1995 (on 1994)",
       "conflicts_with": [],
       "added_version": "11.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5770",
+      "claim": "THE ENDOWMENT FUND AFTER THE BRANCH TABLE STOPPED, 2006-2008, AND A CHANGE IN REPORTING PRACTICE. The Foundation printed a branch-by-branch allocation table from 1998-99 to 2002-2003 (f_5766), giving Kanawana's own line and amount. From 2004-2005 the reports stop itemising the donor-selected half by branch and name Kanawana only inside an aggregate, so the camp's own figure is no longer recoverable. What the later reports do give: 2006, '$57,016 was allocated to programs selected by donors, such as international development and CAMPERSHIPS TO YMCA KANAWANA', with $51,255 to special projects from six selected applications. 2007, 'In January 2007, the market value of the Endowment Fund was $4.98 MILLION. According to the revenue allocation method, 4% OF THE FUND is used for community programs during the year. As a result, $199,200 was distributed'; of that $101,592 went to donor-chosen programmes 'such as homework help at the Pointe-Saint-Charles YMCA and the DEVELOPMENT PROJECT FOR YMCA KANAWANA', and $88,521 to committee-selected projects. 2008, 'On December 31 2008, the value of the Endowment Fund stood at $4.675 MILLION. This allowed the distribution of $207,380, of which $95,370 was allocated to various projects selected by the donors, such as ... CAMPER FUNDS, AND THE DEVELOPMENT OF CAMP YMCA KANAWANA', with $88,635 committee-selected. TWO THINGS THIS SETTLES. The word CAMPERSHIPS in 2006 and CAMPER FUNDS in 2008 confirm from the far end what the 1998-99 table said in full and the 2000-02 tables abbreviated to 'Accessibility': the recurring Kanawana endowment line is bursaries for campers. And the 2007-2008 'development project' / 'development of Camp YMCA Kanawana' is the only endowment language that is plainly capital rather than camperships, in exactly the years the green-camp construction was under way. A fund-value series also follows: $4.3M at 31 May 2005, $4.98M in January 2007, $4.675M at 31 December 2008 -- the drop across 2008 being what a market year does to an endowment.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2006",
+        "src_ymf_sgw_ymca_annual_report_2007",
+        "src_ymf_sgw_ymca_annual_report_2008"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Endowment Fund",
+        "Montreal YMCA Foundation",
+        "camperships",
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": "2006-2008",
+      "conflicts_with": [],
+      "added_version": "11.43",
       "added_by": "ralph_loop"
     }
   ]
