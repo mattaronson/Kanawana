@@ -1,8 +1,8 @@
 {
-  "version": "11.46",
-  "kb_version": "11.46",
+  "version": "11.47",
+  "kb_version": "11.47",
   "migrated_from": "3.3",
-  "fact_count": 5735,
+  "fact_count": 5737,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103495,6 +103495,47 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.46",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5774",
+      "claim": "THE ENDOWMENT SERIES REACHES 2010, FROM A PARAGRAPH THREE LINES BELOW TWO ALREADY QUOTED. The YMCAs of Quebec's 2010 community report: 'The fund's market value is evaluated at $4.6 MILLION dollars. Part of the revenue, $90,000 dollars, went to programs chosen [by] donors, such as SUBSIDIES FOR CAMPERS AT CAMP Y KANAWANA. Another amount, nearly $85,000 dollars, was allocated to NINE projects selected by a committee comprised of volunteers from the Foundation's Board of Directors and of YMCA representatives.' A fourth consecutive year of the same donor-selected-versus-committee split, and a fourth naming of the Kanawana line as bursaries. THE MISS IS THE SAME SHAPE AS THE OTHERS: this volume's source record says it was 'read for its Kanawana passages 2026-09-07, all 23 occurrences opened', and the passages three and eleven lines ABOVE this one -- the Strong Kids Campaign's $340,000 and the '$615,000 in donations and commitments to our development projects (Camp Y Kanawana and Destination Youth)' -- were both worked into modern-era.md that day. This one names the camp too and was not taken. The 2011 report gives the fund's yearly revenue as 'nearly $200,000' with no Kanawana line; 2012 mentions the fund with no figures.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2010",
+        "src_ymf_sgw_ymca_community_report_2011"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Endowment Fund",
+        "Camp Y Kanawana",
+        "camperships"
+      ],
+      "date_ref": "2010-2011",
+      "conflicts_with": [],
+      "added_version": "11.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5775",
+      "claim": "THE ASSOCIATION'S CHIEF EXECUTIVE OF 1992-1994 CAME BACK AS ITS VOLUNTEER BOARD CHAIR SIXTEEN YEARS LATER. MICHAEL GOLDBLOOM signs the YMCAs of Quebec's community reports for 2010, 2011 and 2012 as 'Chair of the Board of Directors', and the 2013 report's board list gives 'Goldbloom, Michael (*)(**) / Chair of the Board / BISHOP'S UNIVERSITY' -- the association's own document supplying his day job. He is the same man the 1994 annual report records resigning as President and Chief Executive Officer on 1 June 1994 to become President and Publisher of The Gazette (f_5765). He appears again in the 2014, 2015, 2017 and 2018 reports in a list of past leaders and major donors that also carries John E. Cleghorn, Paul Dunne and Michael Novak. SO THE ASSOCIATION'S SENIOR VOLUNTEER LEADERSHIP RECYCLES ITS OWN FORMER STAFF, at the very top and across two decades -- the same pattern this project has documented at camp level with Morgan Carter, Arleen Boyer, Roxanne Martel and Matt Hamerman returning to Kanawana's advisory committee after their paid tenures. What is new is that it runs all the way up.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2010",
+        "src_ymf_sgw_ymca_community_report_2011",
+        "src_ymf_sgw_ymca_community_report_2012",
+        "src_ymf_sgw_ymca_community_report_2013",
+        "src_ymf_sgw_ymca_community_report_2018"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Michael Goldbloom",
+        "YMCAs of Quebec",
+        "Bishop's University"
+      ],
+      "date_ref": "2010-2018",
+      "conflicts_with": [],
+      "added_version": "11.47",
       "added_by": "ralph_loop"
     }
   ]
