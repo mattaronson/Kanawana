@@ -1,8 +1,8 @@
 {
-  "version": "11.56",
-  "kb_version": "11.56",
+  "version": "11.57",
+  "kb_version": "11.57",
   "migrated_from": "3.3",
-  "fact_count": 5751,
+  "fact_count": 5752,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103814,6 +103814,25 @@
       "date_ref": "1993",
       "conflicts_with": [],
       "added_version": "11.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5790",
+      "claim": "THE 1916 SEASON BY BRANCH, AND AN ADVERTISED CLOSING DATE THAT THE SEASON DID NOT KEEP. The YMCA of Montreal's sixty-sixth annual report, for the year ending 30 April 1917, on the season just past: 'The Boys' Camp OPENED ON JUNE 24TH, CONTINUING UNTIL AUGUST 18TH. The attendance reached 175, as follows -- CENTRAL BRANCH 68, WESTMOUNT BRANCH 54, NORTH BRANCH 53. Mr. MacKinnon acted as Leader throughout, assisted by a splendid group of volunteers. Various improvements were made in the equipment and A CREDIT BALANCE OF $217.18 REMAINED. A SITE FOR A NEW BASEBALL FIELD near the Camp has been located through the kindness of MR. W. D. STAVELEY, C.E., and its PURCHASE AUTHORIZED.' THREE THINGS THIS PROJECT DID NOT HAVE. (1) THE BRANCH BREAKDOWN. 68 + 54 + 53 = 175, reconciling exactly with the camper count already held, and it is the earliest by-branch split of a Kanawana season here -- Central supplying more campers than Westmount and North but not a majority. (2) A CORRECTION TO THE SEASON'S END. meta/attendance-series.md gives 1916 as '24 June - 12 August', cited to a KAMP KANAWANA ADVERTISEMENT in The High School Magazine (1916). The advertisement is a PLAN printed before the season; the annual report is the association's account of what happened, and it says the camp ran six days longer, to 18 August. Both dates are real and they are not the same kind of thing -- which is a caution for every advertised season date in this project. (3) A LAND PURCHASE FOR A BASEBALL FIELD, authorised on a site located by W. D. Staveley, C.E. Staveley appears nowhere else here, and whether the field was ever built is not established by this report.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1917"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana",
+        "J. G. MacKinnon",
+        "W. D. Staveley",
+        "baseball field"
+      ],
+      "date_ref": "1916 season / report year ending 30 April 1917",
+      "conflicts_with": [],
+      "added_version": "11.57",
       "added_by": "ralph_loop"
     }
   ]

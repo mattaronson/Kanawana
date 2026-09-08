@@ -8826,3 +8826,36 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   STILL OPEN: 243 records association-wide carry an asserted basis, and the
   pre-1990 volumes are unread on zones 1 and 2.
   KB 11.55/5750 -> 11.56/5751.
+
+[2026-09-08T03:28:33Z] NEW INSTRUMENT + p_441: scripts/reread/skimmed_triage.py
+  Generalises the French triage to every skimmed source, which is what p_441
+  itself prescribes by hand: "pick strings DISTINCTIVE to that document and grep
+  those against kb/facts.json." 394 skimmed records, 388 with a cache on disk.
+  ITS FIRST VERSION FAILED CALIBRATION AND THE FAILURE IS KEPT IN THE DOCSTRING.
+  Ranking on total absent tokens returned a list led by 200KB Canadian Camping
+  issues -- a corpus already read word for word, 164 of 164. It was measuring
+  DOCUMENT LENGTH: a periodical about camps across Canada carries hundreds of
+  names absent from this project because they have nothing to do with Kanawana.
+  char_count wearing a hat, and the fourth time a reading list here has been
+  ranked on size by accident. Now scored on absent tokens WITHIN A WINDOW OF A
+  CAMP MENTION, with the mention count printed beside the score.
+  NOISE FLOOR MEASURED, not assumed: src_history_1935, verified thoroughly read
+  on 2026-09-07, scores 9 absent of 29 -- and all nine are OCR corruption ("GREW
+  TRIANGLE", "Seniob Director", "Lakes Kanawena"). Expect about a third of the
+  tokens in scanned text to be absent through damage alone. Read the ratio
+  against that floor, not against zero.
+  Also indexed the haystack instead of substring-scanning it: 3.4s for 388
+  sources against minutes.
+  READ_STATE REPAIRED: 38 records measured today carried an updated
+  read_state_basis and a stale read_state of skimmed or unread. Now partial.
+  f_5790  From the first item the ranked list sent me to. The 1917 report gives
+          the 1916 season BY BRANCH -- Central 68, Westmount 54, North 53, summing
+          exactly to the 175 already held, the earliest such split here. It also
+          says the camp ran to 18 AUGUST, where the table had 12 August from a
+          KAMP KANAWANA ADVERTISEMENT printed before the season. One is a plan and
+          the other an outcome, and every advertised season date in this project
+          should now be read as the first kind. And a baseball-field site located
+          by W. D. Staveley, C.E., its purchase authorised -- a man who appears
+          nowhere else here, and a field nothing says was built.
+  ARTICLES: attendance-series.md (src 55), the-kanawana-site.md (src 76).
+  KB 11.56/5751 -> 11.57/5752.

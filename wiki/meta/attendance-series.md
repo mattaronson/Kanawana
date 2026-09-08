@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 54*
-*Last Updated: 2026-09-08 (occupancy 2007-08; camper figures for 2016 and 2017)*
+*Status: draft | Sources: 55*
+*Last Updated: 2026-09-08 (1916 by branch, and an advertised season against a real one)*
 
 ## Overview
 
@@ -43,7 +43,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1912 | 187 | — | "Last summer **123 men and 187 boys** secured a most delightful vacation in these helpful surroundings" — the 123 is the men's camp at Lac St. Joseph the same summer, and the two must not be added^31 |
 | 1913 | 162 | — | **In charge of the season: D. J. Evans, Harold Cross and H. A. Lordly, "for successive portions."** Open July and August. The staff names sit in the same sentence as this figure and had gone into [[people/directors-index|the directors index]] without ever being carried across to this row; Cross would direct the camp a decade later^36 |
 | 1915 | 167 | — | 26 June – 25 Aug |
-| 1916 | 175 | — | Season 24 June – 12 August; $5.00 a week^11 |
+| 1916 | 175 | — | **Central Branch 68, Westmount 54, North 53** — the earliest by-branch split of a season here, and it sums exactly.^55 Season **24 June – 18 August** per the annual report; the *advertised* season was 24 June – 12 August, at $5.00 a week^11 — see the note below. [f_5790] |
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |
 | 1918 | 223 | avg daily 66 | Season **26 June – 24 August**; the report calls it "a record season"; camp closed the year $302 to the good^27 |
 | **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90. Season **advertised** 28 June – 30 August, the longest to that point — a plan, not a record of what ran^27 |
@@ -138,6 +138,13 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
+
+**An advertised season and a season are not the same thing.** This table gave 1916 as "24 June – 12 August"
+from a **Kamp Kanawana advertisement** in *The High School Magazine*, printed before the summer. The
+association's own report for the year says the camp "opened on June 24th, **continuing until August 18th**" —
+six days longer.^55 Neither source is wrong; one is a plan and the other an outcome. *Every advertised season
+date in this project should be read as the first of those two,* which is a caution the table did not carry
+before 2026-09-08.
 
 **The 99.2% is not a camper-week count, and it may not be 1988.** The figure comes from the
 association's annual report **for the year ended 31 May 1988**: "Kamp Kanawana ... completed its 94th
@@ -771,6 +778,7 @@ own, one of those three is its source.
 52. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Foundation section on the Kanawana development. Read 2026-09-08 under p_487. See [f_5760].
 53. YMCA of Montreal / The YMCAs of Québec, annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section headed "Camp YMCA Kanawana: Objectives all but met". Read 2026-09-08 under p_487. See [f_5782].
 54. The YMCAs of Québec, community reports for **2016** and **2017**, English and French editions [src_ymf_sgw_ymca_community_report_2016, src_ymf_sgw_ymca_community_report_2016_fr, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2017_fr], the headline infographics. Read 2026-09-08 under p_487, reached through the French editions' absent-token triage. **The number precedes its label** in both years and both languages; the 2017 English prints "5,700" and "700" close enough to read as a pair, and the scale settles the assignment. See [f_5783].
+55. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5790].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.
