@@ -1316,7 +1316,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 16694,
+      "word_count": 16933,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -11510,9 +11510,10 @@
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
         "src_ia_kanawana_report_1987",
-        "src_oral_aronson_sanctum_suez_raku"
+        "src_oral_aronson_sanctum_suez_raku",
+        "src_ia_kanawana_report_1978"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "traditions/traditions-and-culture",
         "traditions/camp-songs-cheers",
@@ -11521,7 +11522,7 @@
         "site/the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1712
+      "word_count": 2123
     },
     {
       "article_id": "julien-tasse",

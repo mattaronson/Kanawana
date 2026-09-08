@@ -1,7 +1,7 @@
 # What the Plaques Say Besides Names
 
-*Status: R3-verified | Sources: 3*
-*Last Updated: 2026-09-02*
+*Status: R3-verified | Sources: 4*
+*Last Updated: 2026-09-08 (Kanawoodstock in 1978)*
 
 ## Overview
 
@@ -45,6 +45,12 @@ Three objects, widely separated, establish a recurring music festival the wiki d
 
 Each generation reached for the music of its own moment to name the same event — and the 2009 object is not a plaque at all but a piece of the festival's equipment, kept.
 
+**The run is much longer than the objects.** The camp's own director's report for **1978** lists Kanawoodstock
+among that season's special programmes, beside the Kanawana Kountry Fair, Klondyke Day, a Santa Claus Parade
+and a Star Wars Day.^4 With the 1987 sighting already recorded below, the festival is documented across
+**1978, 1987, 1993 or 1995, 2000 and 2009** — at least thirty-one years. The three objects are a sample of
+that, not the extent of it. [f_5798]
+
 ## Themed days and all-camp games
 
 Four boards record a competition format the wiki has not named as a tradition:^1
@@ -53,6 +59,25 @@ Four boards record a competition format the wiki has not named as a tradition:^1
 - **Viking Day, 1972** — an arrow-shaped board with a longship, reading **"Sweden"** in heavy black across the middle. A *national* assignment implies the camp was divided into country teams, not simply staging a Viking pageant.
 - **Wizard of Oz Day** — a deeply carved board, badly weathered, reading approximately "Wizard of Oz Day / Kamp Kanawana / Winning Team / of 19[?]0." The year and team are not recoverable.
 - An **Arthurian all-camp day**, "Sir Kay, or Arthur's Lost Knight," ran in 1987 and is separately documented in the camp's own director's report, which rated it "slightly less than mediocre."
+
+**The 1978 season names forty-one of them at once, and the boards are the survivors of a much denser
+programme.** Derek Walsh's director's report for that year lists what the camp ran beside the daily
+schedule: the Kanabec Winter Carnival, a Canada Day Pageant, the **Kanawana Kountry Fair**, nightly Kabarets,
+**Postcard Suppers**, **Klondyke Day** and a **Klondyke Chuck Wagon Rally**, The Energetic Company (skits on
+energy conservation), Astronomy, **Pyjama Breakfasts**, a **Viking Day and Funeral**, Rumbles, Carnival Day,
+**Shave, Shower and Shampoo Day**, a **Utensil Meal**, a **Santa Claus Parade**, Halloween, **Star Wars Day**,
+Xmas Day, a Fishermen's Lunch, **World Record Day**, Kanawoodstock, a **Green Triangle Banquet**, Douce the
+Fire, **Greaser Day**, Sideline Bucket Basketball, Casino Night, **Capture the Lantern**, Mission Impossible,
+movie nights, a **Monks Meal**, a Réveillon, **Canoe Hockey**, a Craft Shop Quiz, Frisbee Golf, a Fishing
+Derby, the **Lumbermen–Voyageurs** contest ("Lumbermen won… again"), and **Kanawana Day at Olympic Stadium on
+10 September** with an Expos ballgame.^4
+
+*Three of those land on things this article already holds.* **Viking Day** is on a 1972 board above and
+running again six years later. **Pyjama Breakfasts** answer the "pyjama parade" of the 1935 season chronicle,
+forty-three years apart. And **Star Wars Day** is a year after the film, which is the same
+reach-for-the-moment the Kanawoodstock objects show across three decades. The credit goes to "the four Section
+Directors and **Eric Sandmark**," with special thanks to **Kerry Finucan**, who had built a programme resource
+file over the preceding winter. [f_5798]
 
 Alongside these the **all-camp game** was named and commemorated each session: a ship-shaped board for *"Treasure Island KK — 1st Session All Kamp 1996,"* and a bone-shaped board for the third session of 1995.
 
@@ -83,7 +108,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 ## Open Questions
 
 1. [Nice-to-have, answered 2026-08-28] ~~Who was Raku?~~ Director Joanna A.A. Hoad's dog.^2 Whether there were other camp animals is still open — he is the only one on record.
-2. [Important, advanced 2026-09-03] Was Kanawoodstock an annual event with three surviving objects, or an occasional one? **It was running in 1987**, six years before the earliest object — the Director's Report for that year lists it among the special events that "went exceptionally well," beside Glissade d'Eau, Secret Friends, the Green Triangle, The Legend of the Tipi, Kabarets and the Chicago Coffee House.^3 So the objects are a sample of a longer run, not the run itself. The gaps between 1987, 1993/95, 2000 and 2009 are gaps in what survived.
+2. ~~[Important] Was Kanawoodstock an annual event with three surviving objects, or an occasional one?~~ **[Advanced again 2026-09-08]** It was running in **1978**, in the camp's own director's report for that season^4 — nine years before the 1987 sighting below and fifteen before the earliest object. Documented across 1978, 1987, 1993/95, 2000 and 2009. Whether it ran in every intervening year is still open, but "occasional" is no longer a live reading. *[Previous state:]* **It was running in 1987**, six years before the earliest object — the Director's Report for that year lists it among the special events that "went exceptionally well," beside Glissade d'Eau, Secret Friends, the Green Triangle, The Legend of the Tipi, Kabarets and the Chicago Coffee House.^3 So the objects are a sample of a longer run, not the run itself. The gaps between 1987, 1993/95, 2000 and 2009 are gaps in what survived.
 3. [Important] What did the camp's use of Indigenous-derived imagery look like over time, and did it change? Three dated objects exist; nothing in the knowledge base discusses them.
 4. [Nice-to-have] The Wizard of Oz board's year and winning team could not be read even after contrast enhancement. Does anyone recall a Wizard of Oz Day?
 5. [Nice-to-have] How were cabins normally named? The Zodiac board suggests campers did it themselves, in a recorded act.
@@ -100,6 +125,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 1. Kanawana Flickr "Plaque" album, all 151 images transcribed in the p_291 audit [src_flickr_kanawana_plaque_album]. Per-image records in `kb/plaque-audit/audit.jsonl`; the 1987 Arthurian day is separately from *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
 2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_sanctum_suez_raku]. See [f_2353].
 3. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Programs — Mini Programs". See [f_2457].
+4. *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its list of the season's special programmes. Read 2026-09-08 under p_441. See [f_5798].
 
 ## Research Notes
 

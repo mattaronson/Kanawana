@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-08 (nineteen groups using the site in 1978; Chris Thurber and the homesickness advice)*
+*Last Updated: 2026-09-08 (the cords, the Mile Swim, and nineteen groups using the site in 1978)*
 
 ## Overview
 
@@ -610,6 +610,22 @@ Any swimming award named in a Kanawana staff list, plaque or camper's memory bel
 The change is in his first sentence: "**First of all, the YMCA lifesaving program was revamped, and in its place the RLSS program (Bronze Medallion and upwards) has been adopted.**"^dd76 So by January 1976 the YMCA no longer ran a lifesaving scheme of its own; a YMCA camp's swimmers were graded on YMCA **Star** levels for swimming and then handed to the Royal Life Saving Society for lifesaving. In the same reorganisation the RLSS dropped its own Elementary and Intermediate levels and replaced them with **Life Saving I, II and III**.
 
 Dent's three-column chart is what makes an award datable. Pre-Beginner and Beginner are common to the YMCA and Red Cross; **Star I** stands level with Red Cross **Junior** and RLSS **Life Saving I**; **Star III** with **Intermediate** and **Life Saving II**; **Star V** with **Senior** and **Life Saving III**; then Star VI, Masters, Bronze Medallion, Bronze Cross, Assistant Instructor or Leaders, and the **Award of Merit** at the top. Star II covers synchronised swimming and Star IV diving. The age floors are fixed: Senior Red Cross at 12, Bronze Medallion and Bronze Cross at 14, and Red Cross Leaders, YMCA Assistant Instructor and the Award of Merit at 15.^dd76 An award named without a date can therefore be placed on a scale, and a **Star** level dates a swimmer to the YMCA scheme while a **Life Saving I, II or III** dates them after the RLSS renumbering.
+
+**And the camp had a scheme of its own underneath all three, graded on cords.** Derek Walsh's 1978
+director's report treats it as the camp's own standard and says it had been let go: "I believe some attention
+must be given to our **swimming standards (cords)**. At present, I think that a number of kampers who got
+their **white cords** should have continued with swimming instruction. (**Swimming lessons for white cords
+have not been compulsory for 8 or 9 years**.) Also, the **Swimming Director should be the only one doing the
+'testing'**."^kk78 That dates the end of compulsory instruction for the lowest cord to about **1969–70**, and
+it is the only place this project records that change. It also implies testing had been spread across staff
+rather than held by one person. The **double black cord** a camper swam two miles for in 1970, recorded
+earlier in this article, is the top of the same ladder.
+
+*The same paragraph counts a mass event nobody here had heard of.* "Large numbers of kampers did take lessons
+and successfully attained the various YMCA swimming awards. **230 miles was swum during the Mile Swim at
+kamp**." Measured in aggregate miles rather than in swimmers, so the **Mile Swim** was an event the camp ran
+rather than an award it gave; at a mile apiece that is 230 completions in a season of 442 campers. It appears
+nowhere else in this project. [f_5797]
 
 One thing about Kanawana itself is worth setting beside this. The camp's own top water award of 1923, the **KLS — Kanawana Life Saver — was keyed to the RLSS Award of Merit**, as recorded above. That is half a century before the YMCA nationally handed its lifesaving over to the same society. It does not show that Kanawana was ahead of its parent body, and nothing here says what the camp taught in the intervening decades; what it does show is that the Royal Life Saving Society was the standard a Montreal YMCA camp reached for when it wanted its own award to mean something, long before 1976 made that the YMCA's official answer.
 

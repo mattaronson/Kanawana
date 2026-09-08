@@ -1,8 +1,8 @@
 {
-  "version": "11.61",
-  "kb_version": "11.61",
+  "version": "11.63",
+  "kb_version": "11.63",
   "migrated_from": "3.3",
-  "fact_count": 5758,
+  "fact_count": 5760,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103950,6 +103950,46 @@
       "date_ref": "1978",
       "conflicts_with": [],
       "added_version": "11.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5797",
+      "claim": "THE CAMP'S OWN SWIM-LEVEL SYSTEM, ITS LAPSE DATED, AND A MILE SWIM MEASURED IN MILES. Derek Walsh's 1978 director's report, on the waterfront: 'I believe some attention must be given to our SWIMMING STANDARDS (CORDS). At present, I think that a number of kampers who got their white cords should have continued with swimming instruction. (SWIMMING LESSONS FOR WHITE CORDS HAVE NOT BEEN COMPULSORY FOR 8 OR 9 YEARS). Also, THE SWIMMING DIRECTOR SHOULD BE THE ONLY ONE DOING THE TESTING. Nevertheless, large numbers of kampers did take lessons and successfully attained the various YMCA swimming awards. 230 MILES WAS SWUM DURING THE MILE SWIM AT KAMP.' FOUR THINGS. (1) The camp graded swimmers on CORDS of its own, alongside the national YMCA awards -- programs-activities.md holds a 1970 sighting of a camper who 'swam two miles for his double black' cord, and this dates and describes the bottom of the same ladder. (2) COMPULSORY INSTRUCTION FOR WHITE CORDS ENDED ABOUT 1969-70, which the director says plainly and disapproves of; that is a dated policy change nothing else here records. (3) He wants testing centralised on the Swimming Director, which implies it was not. (4) THE MILE SWIM IS MEASURED IN AGGREGATE MILES, 230 of them, so it was a mass event rather than an individual award -- the first mention of a Mile Swim anywhere in this project. At a mile each that is 230 completions in one season, against 442 campers.",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "swimming cords",
+        "Mile Swim",
+        "Derek Walsh",
+        "waterfront"
+      ],
+      "date_ref": "1978, on a change c. 1969-70",
+      "conflicts_with": [],
+      "added_version": "11.62",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5798",
+      "claim": "FORTY-ONE NAMED SPECIAL PROGRAMMES FROM ONE SEASON, 1978, AND KANAWOODSTOCK MOVES BACK NINE YEARS. Derek Walsh's 1978 director's report: 'There were numerous special programs for kamp and the sections. Some of these included:' -- then a list. KANABEC WINTER CARNIVAL; Canada Day Pageant; OPENING CEREMONY FOR KATIMIVIK; Kanawana Kountry Fair; Nightly Kamp Kanawana KABARETS; POSTCARD SUPPERS; KLONDYKE DAY and KLONDYKE CHUCK WAGON RALLY; THE ENERGETIC COMPANY (skits on energy conservation); Astronomy; PYJAMA BREAKFASTS; VIKING DAY & FUNERAL; Rumbles; Carnival Day; SHAVE, SHOWER & SHAMPOO DAY; UTENSIL MEAL; SANTA CLAUS PARADE; Halloween; STAR WARS DAY; Xmas Day; FISHERMEN'S LUNCH; WORLD RECORD DAY; KANAWOODSTOCK; GREEN TRIANGLE BANQUET; DOUCE THE FIRE; GREASER DAY; Sideline Bucket Basketball; CASINO NIGHT; CAPTURE THE LANTERN; MISSION IMPOSSIBLE; Movie Nights; MONKS MEAL; REVEILLON; CANOE HOCKEY; Craft Shop Quiz; Frisbee Golf; Fishing Derby; LUMBERMEN-VOYAGEURS ('Lumbermen won ... again'); KANAWANA DAY AT OLYMPIC STADIUM (SEPTEMBER 10); and an Expos ballgame. Credited to 'the four Section Directors and ERIC SANDMARK', with 'Special thanks to KERRY FINUCAN', who had 'developed a program resource file' over the preceding winter. WHAT IT SETTLES. KANAWOODSTOCK RAN IN 1978. plaque-culture.md's Open Question 2 asks whether it was annual or occasional and had pushed it back to 1987 from three surviving objects of 1993/95, 2000 and 2009; 1978 is nine years earlier again, so the objects sample a run of at least thirty-one years. THE OPENING CEREMONY FOR KATIMIVIK is the camp's gymnasium, which places-and-locations.md already dates to the 1978 season with a letter from the Prime Minister -- independent corroboration from the camp's own pen. STAR WARS DAY is a year after the film. PYJAMA BREAKFASTS answer to the 'pyjama parade' of the 1935 season chronicle, forty-three years apart. And KANAWANA DAY AT OLYMPIC STADIUM on 10 SEPTEMBER is an off-season, off-site event nothing else in this project records.",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kanawoodstock",
+        "Klondyke Day",
+        "Katimavik",
+        "Kanawana Day",
+        "Eric Sandmark",
+        "Kerry Finucan"
+      ],
+      "date_ref": "1978",
+      "conflicts_with": [],
+      "added_version": "11.63",
       "added_by": "ralph_loop"
     }
   ]
