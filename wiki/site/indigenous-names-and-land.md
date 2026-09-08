@@ -1,7 +1,7 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 17*
-*Last Updated: 2026-09-07 (the programming section spun out; this page is about the names and the land again)*
+*Status: R3-verified | Sources: 18*
+*Last Updated: 2026-09-08 (a 1976 trip destination named as an Indigenous community)*
 
 ## Overview
 
@@ -124,6 +124,22 @@ The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major
 
 The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian highlands. The area was settled by French-Canadian pioneers in the 1830s-1850s, with Jean-Baptiste Desjardins and Magloire Pagé among the first settlers of côte Saint-Elmire (c. 1837).^7 The YMCA purchased the property from the Pagé family circa 1910, and additional land (the "Pagé farm") in 1960.^8
 
+
+## A trip destination on an Indigenous community's land, 1976
+
+Everything above concerns the *names* the camp used and the land it sits on. One line in the camp's own 1976
+director's report concerns somewhere it went. Listing that season's canoe trips, it names "**Papineau-Labelle
+Park, Manewan Indian Reservation, Kempt Lake, 31 Mile Lake**."^18
+
+**"Manewan" is almost certainly Manawan**, the Atikamekw community in Lanaudière, about 200 km north of the
+camp. If that reading is right — and the spelling is the report's, not this article's — it is **the only trip
+destination in this project on an Indigenous community's land**, which is worth setting beside the "Indian
+Lore" programming the camp ran in the same decades and which is treated at
+[[connections/institutional-lineage/indian-lore-programming|its own article]]. *The report says nothing about
+permission, hosts, or what the campers did there*, and this wiki should not supply any of it. Recorded as a
+destination named once, with the identification flagged as probable. [f_5806]
+
+
 ## Open Questions
 
 1. [Critical] What is the actual linguistic origin of "Kanawana"? Is it a genuine Indigenous word, a corruption, or a fabrication? Resolution may require consultation with Mohawk or Algonquin language specialists. **Narrowed 2026-09-06:** the Commission de toponymie classes the name as Algonquin in origin but states on the fiche that its origin and meaning "n'ont pu être déterminées," and it is absent from the province's register of traditional Indigenous names. So the question is open in the provincial record too, and the Commission has a standing invitation for information — which this project could answer in part, since it holds the 1951 history's account of the renaming from Lake St. Louis.
@@ -161,6 +177,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 15. Commission de toponymie du Québec, official fiches for **Lac Kanawana** (no_seq 31996), the lieu-dit **Kanawana** (31995), **Lac Wilson** (67247) and **Camp Kanawana** (144200), each stamped "dernière mise à jour: 7 octobre 2020" [src_ct_fiches_kanawana_2026]. Fetched and read 2026-09-06 (p_264); cached at `sources/cache/toponymie/`. The fiche pages answer a direct GET on `no_seq`; the Commission's search form is an ASP.NET postback and returned no results to a scripted POST, so the fiches were located through the open dataset at note 34. See [f_4874], [f_4875].
 16. The 1951 Kamp Kanawana history, on both renamings [src_ia_kanawana_history_1951]. See [f_2371] (Lac Desjardins to Lake Wilson, for J. W. McConnell's son), [f_2372] (Lake St. Louis to Lake Kanawana). The oral-history version of the Desjardins renaming is [f_1206].
 17. Données Québec open datasets published by the Commission de toponymie: *Toponymes officiels* (131,634 rows), *Toponymes désofficialisés* (13,951 rows) and *Noms traditionnels autochtones* (2,675 rows) [src_donneesquebec_bnlq_2026]. Downloaded and queried 2026-09-06; not cached in the repo (27 MB), with every row that matters quoted in [f_4874], [f_4876], [f_4877], [f_4878].
+18. *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976], its Hike & Trip section. Read 2026-09-08 under p_441. See [f_5806].
 
 ## Research Notes
 

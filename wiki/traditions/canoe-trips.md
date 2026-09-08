@@ -209,6 +209,25 @@ Two related national facts of the same year belong beside it. The **Canadian Rec
 
 Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip leader) role distinct from the section directors who ran the camp-based program. Rob Shackell appears as Tripper across at least four documented trips between 2001 and 2010 — the 2001 Voyageurs 4th-session portage, the 2005 Swazi trip, the 2008 Missinaibi River 21-day Voyageurs Ultimate expedition, and the 2010 Ashuapmushuan River trip — the longest documented tripping tenure of any named individual in the plaque archive. Steve Wesley co-led the 2010 Voyageurs 3rd-session and Ashuapmushuan trips alongside Shackell. Other named trip leaders include Lorna McNeish, credited "Capitaine" of the 2000 Voyageurs cohort, and Mark Chamandy-Cook, Tripper on a 2009 Talahassee trip through the Papineau-Labelle wildlife reserve.^10
 
+**The year before it, and the trips left the watershed.** The 1976 report, under Hike & Trip: "What a summer
+it was! After over **14,000 miles on the Kamp van in 7 weeks, over 85 trips** were sent out. These included the
+local trips on kamp property to extensive canoe trips in such areas as **Papineau-Labelle Park, Manewan Indian
+Reservation, Kempt Lake, 31 Mile Lake**, back packing trips to **Mont Marcy in Vermont** and **war canoe trips
+from Mont Laurier to Ottawa and then Ottawa to Montreal**."^36 The programme gained "several more canoes as
+well as various equipment from **Wilderness Survival Camp**," and was directed "again this year" by **Dick
+Mischook**, a name new to this project.
+
+*The war canoe route is a journey rather than an outing.* Mont Laurier to Ottawa is roughly two hundred
+kilometres down the Lièvre and the Ottawa; Ottawa to Montreal is another two hundred down the Ottawa and into
+the St Lawrence. In war canoes, in one season. Neither leg appears anywhere else here.
+
+*Two of the destinations need a note.* **"Mont Marcy in Vermont"** is probably **Mount Marcy**, which is the
+high point of the Adirondacks and in **New York**; the report's geography is left as it stands, because the
+camp may equally have meant a Vermont summit the scan has mangled. And **"Manewan Indian Reservation"** is
+almost certainly **Manawan**, the Atikamekw community in Lanaudière — which would make it the only trip
+destination in this project on an Indigenous community's land. **85 trips in 1976 against 75 in 1977**: two
+consecutive whole-season counts, and the later year is the smaller. [f_5806]
+
 **A whole tripping season counted, 1977, and canoes are a quarter of it.** The director's report for that
 year gives "Hike & Trip statistics" in six lines: **backpacking trips (Vermont) 6; extended canoe trips 19;
 local hikes and overnights 38; sneakouts 12; total number of out-trips 75; total number of people nights
@@ -331,4 +350,4 @@ mother, and the unit she measures the trip in is a school year. See
 33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].
 34. Camp YMCA Kanawana, the registration package published at ymcaquebec.org [src_ymcaq_kanawana_jobs_intl_leadership_2026], its emergency and inherent-risk clauses. Read 2026-09-08 under p_441. See [f_5791].
 35. *Camp Kanawana Parent Guide 2026*, English and French editions [src_kk_prep_guide_2026, src_kk_prep_guide_2026_fr], the Hike and Trip programme page. Read 2026-09-08 under p_441. The English guide is cited elsewhere in this wiki as ^pg26 and this list was not taken from it. See [f_5792].
-36. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its Hike & Trip statistics and special-programme list. Read 2026-09-08 under p_441. See [f_5804] and [f_5805].
+36. *Kamp Kanawana Director's Report* for **1976** and **1977** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977], their Hike & Trip sections and the 1977 special-programme list. Read 2026-09-08 under p_441. See [f_5804], [f_5805] and [f_5806].

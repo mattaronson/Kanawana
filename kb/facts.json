@@ -1,8 +1,8 @@
 {
-  "version": "11.68",
-  "kb_version": "11.68",
+  "version": "11.69",
+  "kb_version": "11.69",
   "migrated_from": "3.3",
-  "fact_count": 5767,
+  "fact_count": 5768,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104126,6 +104126,26 @@
       "date_ref": "1977",
       "conflicts_with": [],
       "added_version": "11.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5806",
+      "claim": "THE 1976 TRIPPING SEASON, AND WAR CANOES FROM MONT LAURIER TO MONTREAL. The 1976 director's report, under Hike & Trip: 'What a summer it was! After over 14,000 MILES ON THE KAMP VAN IN 7 WEEKS, OVER 85 TRIPS were sent out. These included the local trips on kamp property to extensive canoe trips in such areas as PAPINEAU-LABELLE PARK, MANEWAN INDIAN RESERVATION, KEMPT LAKE, 31 MILE LAKE, back packing trips to MONT MARCY IN VERMONT and WAR CANOE TRIPS FROM MONT LAURIER TO OTTAWA AND THEN OTTAWA TO MONTREAL. The program was boosted with the addition of several more canoes as well as various equipment from WILDERNESS SURVIVAL CAMP. The direction of the Hike and Trip program came again this year from DICK MISCHOOK.' FIVE THINGS. (1) 85 TRIPS IN 1976 AGAINST 75 IN 1977 -- two consecutive whole-season counts, and the later year is the smaller. (2) THE WAR CANOE ROUTE IS A JOURNEY, NOT AN OUTING: Mont Laurier to Ottawa is roughly 200 km down the Lievre and the Ottawa; Ottawa to Montreal is another 200 down the Ottawa and into the St Lawrence. In war canoes. Nothing in this project records either leg. (3) MONT MARCY 'IN VERMONT' IS PROBABLY MOUNT MARCY, which is the high point of the Adirondacks IN NEW YORK, not Vermont; the report's geography is recorded as it stands with the discrepancy noted, since the camp may equally have meant a Vermont summit whose name the scan has mangled. (4) MANEWAN INDIAN RESERVATION is almost certainly MANAWAN, the Atikamekw community in Lanaudiere, which would make it the only trip destination in this project on an Indigenous community's land. (5) DICK MISCHOOK, Hike and Trip director for at least 1975 and 1976 ('came AGAIN this year'), is a name new to this project, as is the equipment supplier WILDERNESS SURVIVAL CAMP.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Dick Mischook",
+        "war canoe",
+        "Manawan",
+        "Mont Laurier",
+        "Wilderness Survival Camp"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "11.69",
       "added_by": "ralph_loop"
     }
   ]
