@@ -1,8 +1,8 @@
 {
-  "version": "11.32",
-  "kb_version": "11.32",
+  "version": "11.34",
+  "kb_version": "11.34",
   "migrated_from": "3.3",
-  "fact_count": 5719,
+  "fact_count": 5721,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103150,6 +103150,44 @@
       "conflicts_with": [],
       "added_version": "11.32",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5758",
+      "claim": "THE 2004-05 KANAWANA ADVISORY COMMITTEE, AND THE DIRECTOR GAP CONFIRMED FROM A FULL ROSTER. Ranking the 223 records marked 'full-text-cached-and-keyword-swept-not-read-closely' by camp mentions against stripped text put the FRENCH editions of the association's modern annual and community reports at the top -- the English scans of these years separate numbers from their labels, which is why an earlier pass turned to the French ones for the Social Audit table. The French 2004-2005 annual report carries fourteen mentions of the camp and had produced no facts. WHAT IS NEW IN IT: the camp's local volunteer advisory committee, named in full -- 'Camp YMCA Kanawana: BOYER, ARLEEN; LOZOFF, RICK; MORRISS, MARLEY; WEIL, JUDY (PRESIDENTE)'. Arleen Boyer directed the camp 1995-2000 and the FY2003-2004 report already had her on this committee, so she served at least two consecutive years on it; Lozoff, Morriss and Weil occur nowhere else in this project, and Judy Weil chaired it. AND IT SETTLES A GAP ENTRY MORE FIRMLY THAN BEFORE: people/directors-index.md records that 'the 2003-04 and 2004-05 Senior Management lists carry no Kanawana director'. The French edition prints that roster in full -- eighteen posts, nine of them branch directorships, and no camp among them -- while GARY WHITE appears in it as 'Directeur, YMCA Westmount', the branch he moved to after directing Kanawana in 2000-2002. So the camp kept a volunteer committee and no director in the senior structure, which is a different thing and now documented rather than inferred from an absence. WHAT WAS ALREADY HELD, AND CHECKED BEFORE WRITING: the report's 'quelque 800 jeunes' is the same round figure meta/attendance-series.md already carries from the English edition, and the Ayunda Dube profile is already in traditions/traditions-and-culture.md from that edition, read 2026-09-06. Two destination checks, two duplications avoided.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2004_2005_fr"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Arleen Boyer",
+        "Judy Weil",
+        "Rick Lozoff",
+        "Marley Morriss",
+        "Gary White"
+      ],
+      "date_ref": "2004-2005",
+      "conflicts_with": [],
+      "added_version": "11.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5759",
+      "claim": "THE 2010 SOCIAL AUDIT SPLITS THE CAMP IN TWO, AND I CHECKED A DESTINATION IN THE WRONG LANGUAGE. The French community report for 2010 was the top-ranked record in p_487's unread population -- twenty-four camp mentions against no facts -- and its Bilan social table gives TWO Kanawana rows where the 2008 and 2009 English tables gave one: 'Camp residentiel - Camp Y Kanawana 780' and 'CLASSES NATURE - Camp Y Kanawana 1 450'. The residential figure is DOWN 39% on 2009's 1,281 in a single year, which no document here explains, and the split shows the school-season nature programme carrying nearly twice the residential count -- which the earlier rows, labelled 'Residential camp' alone, may or may not have excluded. Both rows added to meta/attendance-series.md with that caveat. ALSO NEW: two 'pavillons ecologiques educatifs' planned, of which at least one was to be built, and private support for accessibility making the camp eligible for government grants. THE MISTAKE IS THE USEFUL PART. Before writing, I grepped the wiki for '12 cabines', 'pavillons ecologiques' and 'Classes nature' and found nothing, and took that for a clean destination. THE WIKI HOLDS THIS MATERIAL IN ENGLISH: history/modern-era.md already carries the twelve three-season cabins, the 28 June opening and the $340,000 campaign from the ENGLISH edition of the same report. I HAD CHECKED THE DESTINATION IN THE SOURCE'S LANGUAGE RATHER THAN THE WIKI'S. Worse, it cost a false finding: I wrote that 780 + 1,450 = 2,230 'checks' the report's 'plus de 2 000 jeunes', when modern-era.md had ALREADY ESTABLISHED that figure as a standing capacity claim the association repeats annually and explicitly said it does not belong in the attendance series. Withdrawn within the hour and the withdrawal kept in the row. TWO NUMBERS AGREEING DOES NOT MAKE EITHER A MEASUREMENT OF THE OTHER. THE RULE: when a source is in one language and the wiki writes in another, grep the destination in BOTH -- a bilingual corpus defeats a monolingual destination check. AND ONE THING FOUND BY THE SAME MISTAKE: modern-era.md's own sentence 'The twelve cabins are at Environmental Education and Stewardship' pointed at an article that does not carry them and never did. Repointed to the building chronology where they now are.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2010_fr"
+      ],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_487",
+        "attendance-series",
+        "modern-era"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "11.34",
+      "added_by": "ralph_loop"
     }
   ]
 }

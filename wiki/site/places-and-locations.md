@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 32*
+*Status: E1-reviewed | Sources: 33*
 *Last Updated: 2026-09-07 (the section age bands flagged as a superseded reading of the camp's own website)*
 
 ## Overview
@@ -513,6 +513,8 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | **1925** | **Trimingham memorial beacon light unveiled, 23 August** | ^25 |
 | 1960 | Millen Memorial Craft Shop dedicated | [f_1788] |
 | 1980-2001 | Site map shows Katimavik, Chief's, Lodge, Bunkhouse, Farm House, Block House, and more | [f_1791] |
+| **2010** | **Twelve three-season cabins**, in place for the season opening 28 June — see [[history/modern-era|The Modern Era]] for the fundraising year they belong to | ^33 |
+| **2010** | **Two "pavillons écologiques éducatifs" planned**, of which the report says at least one will be built | ^33 |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
 | 2023 | Superintendent's house destroyed by fire (May 16) | [src_journal_acces_fire_2023] |
 | c. 1979 | Longhouse demolished by controlled fire (irrepairable condition) | [src_oral_aronson] |
@@ -601,3 +603,5 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 30. YMCA of Montreal annual report for the year ending 31 March **1934** [src_cache_sgw_ymca_annual_report_1934], on the **1933** season: the chapel rebuilt by **15** boys, the **two hundred** at the dedication, the **$1,386.33** deficit and **W. H. Spearman** again in charge. At [f_5646], which also carries the **1926** hike list naming **Becsis** among eight destinations [src_ymf_sgw_ymca_annual_report_1927].
 31. YMCA of Montreal annual report for the year ending 31 March **1937** [src_cache_sgw_ymca_annual_report_1937], on the **1936** season: "at Camp Kanawana, sleeping cabins were erected for the junior section, at a cost of **$1,250.00**; at Camp Otoreke, two sleeping cabins and a new wharf, etc., were built, costing **$750.00**." The three names this one build carries across three documents, and why the **1937** report's "junior" sits badly against the **1936** CFCF script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], are at [f_5647].
 32. Kamp Kanawana director's report for **1977** [src_ia_kanawana_report_1977], acknowledgements section: "The Drug Companies who so generously donated medications and supplies for our infirmary — Burroughs Wellcome, Cooper Laboratories, Connaught, Parke-Davis, A. H. Robins, Schering Corporation, Sterling Drug, Syntex, Upjohn Company, Winthrop Laboratories." At [f_5649], with the rest of that season's named donors.
+
+33. **Les YMCA du Québec, rapport communautaire 2010** [src_ymf_sgw_ymca_community_report_2010_fr]. The June chronology entry — the season opening on 28 June "embelli de 12 cabines 3 saisons" — and the Foundation section, where private support for accessibility at the camp "le rend désormais admissible à des subventions gouvernementales" and "au moins un des deux pavillons écologiques éducatifs verra" the light of day. Read 2026-09-08 under p_487. See [f_5759].

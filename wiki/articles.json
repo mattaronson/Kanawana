@@ -1882,7 +1882,8 @@
         "src_ymf_sgw_ymca_annual_report_1924",
         "src_ymf_sgw_ymca_annual_report_1929",
         "src_cache_sgw_ymca_annual_report_1930",
-        "src_ymf_sgw_ymca_annual_report_1968"
+        "src_ymf_sgw_ymca_annual_report_1968",
+        "src_ymf_sgw_ymca_annual_report_2004_2005_fr"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1925,7 +1926,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 29213,
+      "word_count": 29400,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -5109,7 +5110,8 @@
         "src_cache_sgw_ymca_annual_report_1934",
         "src_ymf_sgw_ymca_annual_report_1927",
         "src_cache_sgw_ymca_annual_report_1937",
-        "src_ia_kanawana_report_1977"
+        "src_ia_kanawana_report_1977",
+        "src_ymf_sgw_ymca_community_report_2010_fr"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -5124,7 +5126,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 10232,
+      "word_count": 10350,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
       "tags": {
         "era": [
@@ -10044,7 +10046,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 6446,
+      "word_count": 6509,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -11054,7 +11056,8 @@
         "src_ymf_sgw_ymca_annual_report_2007_fr",
         "src_ymf_sgw_ymca_annual_report_2008_fr",
         "src_ymf_sgw_ymca_annual_report_2009_fr",
-        "src_concordia_mirror_12b07"
+        "src_concordia_mirror_12b07",
+        "src_ymf_sgw_ymca_community_report_2010_fr"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -11069,7 +11072,7 @@
         "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 16055,
+      "word_count": 16280,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {

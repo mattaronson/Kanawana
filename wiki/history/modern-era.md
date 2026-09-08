@@ -70,8 +70,12 @@ The report also dates the season — "**06/28** — Start of the summer season f
 three-season cabins" — and gives the camp's standing capacity as "more than **2,000 youth aged 6 to 17 years
 each year."^21 *That figure is a recurring annual statement rather than a count for 2010*, so it belongs
 with the camp's capacity claims and not in [[meta/attendance-series|the attendance series]], whose gap runs
-across most of 2010–2019. The twelve cabins are at
-[[traditions/environmental-history|Environmental Education and Stewardship]]. The association served over
+across most of 2010–2019. The twelve cabins are in the building chronology at
+[[site/places-and-locations|Places and Locations]]. *This sentence pointed at
+[[traditions/environmental-history|Environmental Education and Stewardship]] until 2026-09-08, which does
+not carry them and never did.* The same 2010 report also records that private support for accessibility
+at the camp had made it eligible for government grants, and that **at least one of two planned "pavillons
+écologiques éducatifs"** would be built — neither of which this project had.^21 The association served over
 115,000 people at 30 points of service that year, and calls the camp **"Camp Y Kanawana"** throughout its
 own English text.^21
 

@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 50*
+*Status: draft | Sources: 51*
 *Last Updated: 2026-09-07 (four more Social Audit years, out of the French editions)*
 
 ## Overview
@@ -132,6 +132,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2005–06** *and* **2007** | **1,020**, printed identically in both | — | *Persons, not campers*, French editions again.^49 **Recorded as one printing appearing twice rather than two data points**: every other row moves substantially between the two volumes — day camps 3,404 then 1,842, swimming 8,890 then 5,361 — and the only other unchanged row is a round 3,000. A figure that does not move where everything else does is more likely carried forward than measured |
 | **2008** | **1,091** | — | *Persons, not campers.* The association's "Social Audit" table, headed PROGRAMS / PERSONS, gives "Residential camp - YMCA Kanawana **1,091**" for the year ended 31 December 2008 — a programme participation count on the same footing as "Swimming lessons 5,449", so it is not a season registration and should not be compared with one^24 |
 | **2009** | **1,281** | — | *Same table, same caveat*: "Residential camp - Y Kanawana **1,281**", year ended 31 December 2009^24 |
+| **2010** | **780** *residential*; **1,450** *nature classes* | — | **The same table, and in 2010 it splits the camp in two**: "Camp résidentiel - Camp Y Kanawana **780**" and "**Classes nature** - Camp Y Kanawana **1 450**", from the French community report.^51 *Two things follow.* The residential figure is **down 39% on 2009** in one year, which no document here explains; and the split shows the camp's school-season nature programme carrying nearly twice the residential count, which the 2008 and 2009 rows — labelled "Residential camp" alone — may or may not have excluded. *A cross-check written here on 2026-09-08 was withdrawn the same hour*: the report's "plus de 2 000 jeunes de 6 à 17 ans" looked like a total the two rows sum toward, and 780 + 1,450 is 2,230 — but [[history/modern-era|the modern era article]] had already established that figure as **a standing capacity claim the association repeats every year**, not a count for 2010. Two numbers agreeing does not make either a measurement of the other |
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
@@ -764,6 +765,7 @@ own, one of those three is its source.
 49. The **French editions** of the association's annual reports for **2002-2003**, **2005-2006**, **2007**, **2008** and **2009** [src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2005_2006_fr, src_ymf_sgw_ymca_annual_report_2007_fr, src_ymf_sgw_ymca_annual_report_2008_fr, src_ymf_sgw_ymca_annual_report_2009_fr], their PROGRAMMES / PERSONNES tables. Read 2026-09-07 under `p_259`, on the premise that the OCR damage falls differently — which is what note 24 above says defeated the English scans for these years. **Controlled**: the French 2008 and 2009 tables give 1 091 and 1 281, exactly the English figures at note 24. See [f_5718].
 
 50. Concordia University Archives, YMCA of Montreal fonds, sub-sub-series **P145/12B07 — Kamp Kanawana, Program** (finding aid) [src_concordia_mirror_12b07]. Box HA2315's item list: the 1957 Rangers log book, the 1958 Lumbermen-Voyageurs week, the 1971 horseback riding programme. Re-read 2026-09-08 under p_487, which was auditing records that assert a full read; this one had been read and its entries never used. See [f_5757].
+51. **Les YMCA du Québec, rapport communautaire 2010, French edition** [src_ymf_sgw_ymca_community_report_2010_fr], the *Bilan social* table and the June entry of the year's chronology. Read 2026-09-08 under p_487: the record was marked "full-text-cached-and-keyword-swept-not-read-closely" and carries twenty-four mentions of the camp against no facts, the most of any record in that population. See [f_5759].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.
