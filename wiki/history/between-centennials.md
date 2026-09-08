@@ -1,7 +1,7 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 27*
-*Last Updated: 2026-09-07 (1971: the director proposed making the camp smaller)*
+*Status: draft | Sources: 28*
+*Last Updated: 2026-09-08 (the camp inside the 1990 five-year strategic plan)*
 
 ## Overview
 
@@ -202,6 +202,17 @@ the programme. See [[traditions/canoe-trips|Canoe Trips at Kanawana]].
 
 The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade in Kanawana's directorial record. Twynam's tenure is last confirmed in **April 1981**, by two *Ka-News* letters he wrote as director that spring — an improvement of one year on the 1980 this article previously gave.^23 Peter Gilling Goddard (1953–2016) is understood to have served as director for some or all of the 1981–1985 span. His connection was for a long time confirmed only by an obituary condolence mentioning "Kamp Kanawana," but two documents now place him there: he signs a Kanawana newsletter of **15 November 1982** "Peter G. Goddard, Director," and the Canadian Camping Association's Publicity and Public Relations report for **1982-83** thanks "**Peter Goddard and the staff of Kamp Kanawana in Montreal** for accepting the tremendous task of mailing to every camp" the 6,500 posters for the first National Camping Day of 14 April 1983 — work completed before that date, and the only known instance of Kanawana acting on behalf of the national camping association. That second item does not state his title, so it attests presence and responsibility in early 1983 rather than the office; the 1982 signature supplies the office. A third document places him at the turn of 1983-84: the association's President's Perspective for Winter 1984 lists its International Year of Youth Task Force as "Ian Fowler (N.B.), John Latimer (Ont.), **Peter Goddard (Qué.)** and Sylvia Haynes (B.C.)" — by province, not by camp, and again without a title. (Those pages are printed upside down in the scan and were machine-decoded; the name was checked glyph by glyph.) A fourth document, in clean type, closes the far end: in the spring of 1985 the president thanked her International Youth Year committee — "Sylvia Haynes, Vancouver, **Peter Goddard, Montreal**, John Latimer, Toronto and Ian Fowler, Moncton" — for work done "over many months," and the same issue's colophon lists "**Peter Goddard (Quebec)**" among the task force. **Five fixed points now span November 1982 to FY1986 with no year uncovered.** What they document is continuous presence in Montreal camping, at national level, across the whole period. The office of director is stated at both ends — the November 1982 signature and the FY1986 roster — and at neither of the points in between, and is not claimed here for those years.^7 ^16 ^17 ^18 Jay Netherwood directed the camp in 1986 and 1987, succeeded in 1988 by his brother Bruce Netherwood, whose own directorship would carry through to the camp's 1994 Centennial.^8 **And Netherwood is the one Kanawana director of this whole period documented from outside the YMCA of Montreal's own files.** In the Winter 1988 issue of *Canadian Camping Magazine* — the last the magazine ever published — he wrote a bilingual article on acid rain in the Laurentians, "L'Étranger / The Stranger," bylined "by Jay Netherwood, Camp Kanawana," calling on Quebec's camp directors to organise as the maple syrup producers had in 1978: "**Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer experience, it must also include that we are guardians of our fragile environment.**"^19 It is the only article by a Kanawana person in the magazine's entire 1949-1988 run, and it is set out in full at [[traditions/environmental-history|Environmental and Ecological History]]. Concordia's archives record "Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale" from 1980, suggesting the three camps were being assessed together as a portfolio around this time — a rare institutional record from an otherwise sparse decade.^1 See [[people/directors-index|Directors and Staff of Camp Kanawana]] and [[people/bruce-netherwood|Bruce Netherwood]] for full detail on this transition.
 
+
+**And at the end of the period the camp is one of three buildings the association is planning around.** The
+1990 annual report's opening message describes a strategic-planning process running over **five years**, and
+names what it is waiting on: "given the length of time required to put the finishing touches to the strategies
+so far developed for the buildings of both the **Downtown YMCA and Kamp Kanawana**, as well as for the **Du
+Parc YMCA**, the available financial resources for the new activities recommended in the study will constantly
+be reevaluated."^28 Three buildings in an association of nine or ten branches, and the camp is one of them.
+That sits alongside the five-year, $250,000 "rejuvenation" of the camp the 1989 report records, and against
+the thinness of everything else this section has for the decade: the physical plant is the one thing the
+association is documenting about Kanawana in these years. [f_5779]
+
 ## Open Questions
 
 1. [Important] Who directed Kanawana between 1976 and 1978, between Derek Walsh/Stuart McLean's departure and Dave Twynam's 1979 arrival?
@@ -251,6 +262,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 25. *Kamp Kanawana Director's Report 1971* [src_ia_kanawana_report_1971], cached at `sources/cache/ymca-montreal-fonds/1971-kamp-kanawana-directors-report.txt`. Read whole 2026-09-07 under `p_491`. The restructuring argument is at [f_5673]; the report's conditions -- no doctor in residence, the wringer washing machine, the boulder-strewn ball fields, the Preston-Simon pre-camp trip -- are at [f_2423], which had been in the KB since before this article existed and was cited by no article at all.
 26. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its OUTSIDE GROUPS section. Cached at `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_491`. See [f_2411], which had been in the KB since long before this article and was cited by no article at all.
 27. Kamp Kanawana's own directors' reports for **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979], on the children sponsored into camp each year. See [f_2452], also uncited by any article until now, and [f_4849].
+28. YMCA of Montreal annual report **1990** [src_cache_sgw_ymca_annual_report_1990], the opening message and the *Branch Boards of Management* page. Read 2026-09-08 under p_487. See [f_5779].
 
 ## Research Notes
 

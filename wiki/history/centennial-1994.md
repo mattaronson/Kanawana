@@ -73,7 +73,11 @@ the association's Director of Operations — so the staff presence on a branch b
 
 **The intervening volumes carry the whole body, and it has a chair.** The committee is older than 1990 —
 [[people/maureen-mcbride|Maureen McBride]]'s article tracks her own membership of it back to the **1988-89**
-volume — and the four-name 1990 list above is what that report prints rather than the whole roster. The 1991 volume gives the roster in full under the heading **KAMP KANAWANA
+volume. *The four-name 1990 list above is the whole roster, not a truncation:* the English edition of that
+report prints the same four and no others, so against ten in 1989 and ten again in 1991 the board really did
+contract to four for a year and back. What 1990 loses is everyone who is not Caddell, Delhaes, Snabl or
+McBride — including all three staff members, the "(YMCA)" marker vanishing from the camp's board entirely and
+returning in 1991 with Bruce Netherwood alone.^17 [f_5779] The 1991 volume gives the roster in full under the heading **KAMP KANAWANA
 COMMITTEE** — **Chris Adam, Andrew Caddell, Danielle Delhaes, Harvey Eldinger, Susan Khan,
 [[people/maureen-mcbride|Maureen McBride]], Bruce Netherwood (YMCA), Tom Snabl, Gordon Wallace** and
 **Maureen Wallace**. 1992 is the same ten less Eldinger. By 1994 it is the **Kamp Kanawana Advisory Board**:
@@ -131,4 +135,4 @@ telephone at Saint-Sauveur as 1-227-2414.
 14. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5428].
 15. YMCA of Montreal annual report **1990**, French edition [src_ymf_sgw_ymca_annual_report_1990_fr], and the annual report **1986**, French edition [src_ymf_sgw_ymca_annual_report_1986_fr]. Cached under `sources/cache/ymca-montreal-fonds/`; the Kanawana entries read word for word 2026-09-07 under p_482, the volumes not read.
 16. YMCA of Montreal annual reports for **1991**, **1992**, **1994**, **1995** and **1996** [src_cache_sgw_ymca_annual_report_1991, src_ymf_sgw_ymca_annual_report_1992, src_cache_sgw_ymca_annual_report_1994, src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996], the branch committee pages, and the 1995 volume's Kamp Kanawana page for Bruce Netherwood's 1989-1994 span. Read 2026-09-08 under p_487. See [f_5771] and [f_5772].
-17. YMCA of Montreal annual reports for **1985**, **1986**, **1987**, **1988** and **1989** [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988, src_ymf_annual_report_1989_202301], the *Branch Boards of Management* pages. Read 2026-09-08 under p_487. The camp is absent from the first four lists and heads its own board in the fifth. See [f_5777].
+17. YMCA of Montreal annual reports for **1985**, **1986**, **1987**, **1988**, **1989** and **1990** [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988, src_ymf_annual_report_1989_202301, src_cache_sgw_ymca_annual_report_1990], the *Branch Boards of Management* pages. Read 2026-09-08 under p_487. The camp is absent from the first four lists, heads its own board of ten in the fifth, and is down to four in the sixth. See [f_5779] for the 1990 contraction, confirmed against the French edition already cited above. See [f_5777].

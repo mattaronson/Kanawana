@@ -1,8 +1,8 @@
 {
-  "version": "11.49",
-  "kb_version": "11.49",
+  "version": "11.50",
+  "kb_version": "11.50",
   "migrated_from": "3.3",
-  "fact_count": 5740,
+  "fact_count": 5741,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103598,6 +103598,27 @@
       "date_ref": "1988",
       "conflicts_with": [],
       "added_version": "11.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5779",
+      "claim": "THE 1990 BOARD REALLY DID SHRINK FROM TEN TO FOUR, CONFIRMED FROM THE OTHER EDITION. centennial-1994.md takes the 1990 Kamp Kanawana board from the FRENCH edition and prints four names -- Andrew Caddell, Danielle Delhaes, Tom Snabl, Maureen McBride -- describing that as what the report prints rather than as the whole roster. The ENGLISH edition of the same report prints the same four under KAMP KANAWANA and no others. So against the 1989 board of ten (f_5777) and the 1991 committee of ten (f_5771), 1990 is a real contraction to four and back, not a scan truncation or a one-edition artefact. All four of the four are on both the 1989 and 1991 lists, so what 1990 loses is the six who are not: Andre Herard, Keith Farquharson, Paul Cappelli, Derek Walsh, and both Netherwoods with Bill Pigott as the staff members -- the (YMCA) marker disappears from the camp's board entirely in 1990 and returns in 1991 with Bruce Netherwood alone. SEPARATELY, the same volume's opening message puts the camp inside a FIVE-YEAR STRATEGIC PLANNING PROCESS: 'given the length of time required to put the finishing touches to the strategies so far developed for the buildings of both the DOWNTOWN YMCA and KAMP KANAWANA, as well as for the DU PARC YMCA, the available financial resources for the new activities recommended in the study will constantly be reevaluated.' Three buildings named in the association's plan and the camp is one of them, in the same years as the five-year $250,000 rejuvenation the 1989 report records.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1990",
+        "src_ymf_sgw_ymca_annual_report_1990_fr"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Kamp Kanawana Board of Management",
+        "Andrew Caddell",
+        "Danielle Delhaes",
+        "Tom Snabl",
+        "Maureen McBride"
+      ],
+      "date_ref": "1990",
+      "conflicts_with": [],
+      "added_version": "11.50",
       "added_by": "ralph_loop"
     }
   ]
