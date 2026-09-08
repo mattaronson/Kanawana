@@ -1,8 +1,8 @@
 {
-  "version": "11.16",
-  "kb_version": "11.16",
+  "version": "11.17",
+  "kb_version": "11.17",
   "migrated_from": "3.3",
-  "fact_count": 5694,
+  "fact_count": 5695,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102684,6 +102684,23 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.16",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5733",
+      "claim": "POPULATION A IS NOT THE INTRACTABLE EDITORIAL PROJECT THE DIAGNOSIS TOOK IT FOR, AT LEAST IN THE SHORT ARTICLES. p_484's 2026-09-07 diagnosis (f_5564) split the uncited-entry backlog in two and said of Population A that fixing it 'means reading each claim against the listed sources, and a WRONG marker is worse than none because it asserts a provenance the source may not carry. That is an editorial project, not a cleanup.' Three of its five articles were worked on 2026-09-08 and the count went 71 to 57. THE DIAGNOSIS WAS RIGHT ABOUT THE METHOD AND WRONG ABOUT THE COST. people/da-budge.md was the article the diagnosis VERIFIED as the hard case -- 'its entire body carries two markers and its biography carries none; its Sources list is a BIBLIOGRAPHY.' At 1,043 words the mapping turned out to be unambiguous on a single read: the McGill archival catalogue is the only source in the list that carries birth, death and tenure; the World YMCA and Naismith Foundation pages are the only two that carry the Naismith story, which the article's own last sentence names; Concordia sub-series 1B holds the document the Historical Writings section describes by its sub-series number; and 12L holds the John Roy letters the article names by their sub-series. Five entries, five sentences, no inference beyond what each entry's own description states. WHY THE ENTRIES ARE EASIER THAN FEARED: in these articles a source entry does not just cite a document, it DESCRIBES WHAT THE DOCUMENT SAYS -- 'Confirms Pine Crest Games since 1940', 'States: 1947, Creation of the Lumbermen and Voyageur Games', 'Lists Council Ring as facility and Council of Tribes as tradition' -- so the claim-to-source mapping is largely written down already, in the entries, and the reading is a matching exercise rather than a re-verification. ONE MAPPING IN THE THREE RESTED ON INFERENCE AND IS FLAGGED AS SUCH: council-ring entry 3 is 'Season Reports 1922, 1927' and the two unmarked claims are the 1922 build and the 1927 totem pole and teepee; the year match is strong but the entry does not say what the reports contain, so ^2, McMorris chapter 2, is cited beside it rather than instead of it. FOUR MORE ENTRIES WERE KEPT DELIBERATELY UNCITED: council-ring 4 and da-budge 7 are archival pointers, lv-games 8 is the camp's PRESENT-DAY Voyageurs canoe-tripping page, listed as a caution so a reader meeting the word on the camp's site does not read it back into the Games. WHAT IS LEFT is places-and-locations 19 and myths-and-legends 16, which are the two long ones and are the real test of whether this holds at length.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "da-budge",
+        "council-ring",
+        "lv-games"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.17",
       "added_by": "manual"
     }
   ]
