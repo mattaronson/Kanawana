@@ -162,14 +162,26 @@ post-season questionnaire:^56
 | Excellent | 28% | 29% | 30% | **39.42%** | **39.26%** |
 | Very Good | 60 | 56 | 53 | 54.02 | 54.81 |
 | Good | 12 | 14 | 13 | 6.57 | 5.93 |
-| Fair | 0 | *2.5?* | 4 | 0 | 0 |
-| Poor | 0 | *2.5?* | 0 | 0 | 0 |
+| Fair | 0 | **5** | 4 | 0 | 0 |
+| Poor | 0 | **5** | 0 | 0 | 0 |
 
 *Two cautions.* The 1974–76 columns are whole numbers and the 1977–78 columns carry two decimals, which is
 **the camp changing how it counted** rather than the parents changing how they answered: the later two are
-computed from a denominator and the earlier three rounded. And the 1975 Fair and Poor entries are the only
-non-zero values in either row across five years; the scan reads them as "235" and "25", and 2.5 in each is the
-reading that makes the column sum to 100. They are given with that stated rather than silently repaired.
+computed from a denominator and the earlier three rounded.
+
+*And the 1975 Fair and Poor values were corrected within the day.* The 1978 report's scan reads them as "235"
+and "25"; this table first gave 2.5 in each, **on the reasoning that the column must sum to 100**. The **1976**
+report prints the same series independently and gives **5% and 5%**.^56 My values were wrong, and the premise
+behind them was worse: 29 + 56 + 14 + 5 + 5 = **109**, so the 1975 column does not sum to 100 in the
+association's own printing and never could have. The 1974 and 1976 columns do sum to 100, which is exactly what
+made the assumption feel safe. **A repair that looks arithmetically forced is still a guess when the arithmetic
+is assumed.** [f_5803]
+
+**And the 1976 report supplies the denominators the 1978 one omits**: 153 responses on the food question, 153
+on whether parents visited, **133 on the appraisal**, and 76 on how a new camper's family heard of the camp.
+So the appraisal series rests on about 133 families. The same page gives a **visiting rate** — "Did you visit
+Kamp? 1976: **Yes 42%, No 58%**" — against the 1979 report's 117 yes and 71 no out of 188, which is **62%**. A
+twenty-point rise in three years that neither report remarks on.
 Excellent-plus-Very-Good runs **88, 85, 83, 93.44, 94.07** — whatever the change in method was, the rise sits
 entirely in the last two years. [f_5795]
 
@@ -813,7 +825,7 @@ own, one of those three is its source.
 53. YMCA of Montreal / The YMCAs of Québec, annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section headed "Camp YMCA Kanawana: Objectives all but met". Read 2026-09-08 under p_487. See [f_5782].
 54. The YMCAs of Québec, community reports for **2016** and **2017**, English and French editions [src_ymf_sgw_ymca_community_report_2016, src_ymf_sgw_ymca_community_report_2016_fr, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2017_fr], the headline infographics. Read 2026-09-08 under p_487, reached through the French editions' absent-token triage. **The number precedes its label** in both years and both languages; the 2017 English prints "5,700" and "700" close enough to read as a pair, and the scale settles the assignment. See [f_5783].
 55. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5790].
-56. *Kamp Kanawana Director's Annual Report* for **1978** and **1979** [src_ia_kanawana_report_1978, src_ia_kanawana_report_1979], their conclusions and questionnaire tables. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py` run over the **extracted** population. See [f_5795].
+56. *Kamp Kanawana Director's Annual Report* for **1976**, **1978** and **1979** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979], their conclusions and questionnaire tables. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py` run over the **extracted** population. See [f_5795].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.

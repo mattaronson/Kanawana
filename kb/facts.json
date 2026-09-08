@@ -1,8 +1,8 @@
 {
-  "version": "11.66",
-  "kb_version": "11.66",
+  "version": "11.67",
+  "kb_version": "11.67",
   "migrated_from": "3.3",
-  "fact_count": 5764,
+  "fact_count": 5765,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103917,7 +103917,7 @@
     },
     {
       "fact_id": "f_5795",
-      "claim": "A FIVE-YEAR PARENT SATISFACTION SERIES, 1974-1978, FROM THE CAMP'S OWN POST-SEASON QUESTIONNAIRE. Derek Walsh's 1978 director's report: 'In our POST-KAMP QUESTIONNAIRE, the parents were asked of their appraisal of Kanawana. Here is their answer' -- then a table across 1974, 1975, 1976, 1977 and 1978. EXCELLENT: 28%, 29%, 30%, 39.42%, 39.26%. VERY GOOD: 60, 56, 53, 54.02, 54.81. GOOD: 12, 14, 13, 6.57, 5.93. FAIR: 0, [2.5 -- the scan reads '235' and the column must sum to 100], 4, 0, 0. POOR: 0, [2.5 -- scan reads '25'], 0, 0, 0. THE 1974-1976 COLUMNS ARE WHOLE NUMBERS AND THE 1977-1978 COLUMNS CARRY TWO DECIMALS, which is the camp changing how it counted rather than a change in the parents: the later two are computed from a denominator, the earlier three rounded. Excellent-plus-Very-Good runs 88, 85, 83, 93.44, 94.07 -- a rise concentrated entirely in the last two years. NOTHING IN THIS PROJECT ELSE MEASURES WHAT PARENTS THOUGHT, in any year. The 1975 Fair and Poor figures are the only non-zero entries in either row across five years and their exact values are a reading of a damaged scan, so they are given here with that stated.",
+      "claim": "A FIVE-YEAR PARENT SATISFACTION SERIES, 1974-1978, FROM THE CAMP'S OWN POST-SEASON QUESTIONNAIRE. Derek Walsh's 1978 director's report: 'In our POST-KAMP QUESTIONNAIRE, the parents were asked of their appraisal of Kanawana. Here is their answer' -- then a table across 1974, 1975, 1976, 1977 and 1978. EXCELLENT: 28%, 29%, 30%, 39.42%, 39.26%. VERY GOOD: 60, 56, 53, 54.02, 54.81. GOOD: 12, 14, 13, 6.57, 5.93. FAIR: 0, [see correction], 4, 0, 0. POOR: 0, [see correction], 0, 0, 0. || CORRECTED THE SAME DAY BY f_5803. I read the damaged 1975 cells as 2.5 and 2.5 on the reasoning that the column must sum to 100. THE 1976 REPORT PRINTS THE SAME SERIES INDEPENDENTLY and gives 1975 FAIR 5% and POOR 5%. My repair was an invention, and worse, the premise behind it was false: the 1975 column sums to 109 in the 1976 printing and does not reach 100 in any reading, so 'the column must sum to 100' was never a fact about this table. THE 1974-1976 COLUMNS ARE WHOLE NUMBERS AND THE 1977-1978 COLUMNS CARRY TWO DECIMALS, which is the camp changing how it counted rather than a change in the parents: the later two are computed from a denominator, the earlier three rounded. Excellent-plus-Very-Good runs 88, 85, 83, 93.44, 94.07 -- a rise concentrated entirely in the last two years. NOTHING IN THIS PROJECT ELSE MEASURES WHAT PARENTS THOUGHT, in any year. The 1975 Fair and Poor figures are the only non-zero entries in either row across five years and their exact values are a reading of a damaged scan, so they are given here with that stated.",
       "sources": [
         "src_ia_kanawana_report_1978"
       ],
@@ -104068,6 +104068,26 @@
       "date_ref": "1970-1979",
       "conflicts_with": [],
       "added_version": "11.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5803",
+      "claim": "A REPAIR I INVENTED, DISPROVED BY THE NEXT DOCUMENT, AND THE REASONING BEHIND IT WAS THE REAL ERROR. Reading the 1978 director's report earlier today I met two damaged cells in the parent-appraisal table -- the 1975 Fair and Poor rows, scanned as '235' and '25' -- and wrote them into f_5795 and into meta/attendance-series.md as 2.5 and 2.5, on the stated reasoning that the column must sum to 100. THE 1976 DIRECTOR'S REPORT PRINTS THE SAME SERIES, from the same questionnaires, three years closer to the event: 'What is your appraisal of Kanawana? (133 responses). 1974: Excellent 28%, Very Good 60%, Good 12%, Fair 0, Poor 0. 1975, 1976: 29% 30% / 56% 53% / 14% 13% / 5% 4% / 5% 0.' SO 1975 IS FAIR 5% AND POOR 5%. Two things follow and the second matters more. My values were wrong. AND THE PREMISE WAS WRONG: 29 + 56 + 14 + 5 + 5 = 109, so the 1975 column does not sum to 100 in the association's own printing and never could have. 'The column must sum to 100' was an assumption about how a table ought to behave, applied to a table that does not behave that way -- the 1974 and 1976 columns do sum to 100, which is exactly what made the assumption feel safe. A REPAIR THAT LOOKS ARITHMETICALLY FORCED IS STILL A GUESS IF THE ARITHMETIC IS ASSUMED. THE 1976 REPORT ALSO SUPPLIES WHAT THE 1978 ONE OMITS: response counts. 153 responses on the food question, 153 on whether parents visited, 133 on the appraisal, 76 on how a new camper's family heard of the camp -- so the percentages have denominators, and the appraisal series rests on about 133 families in 1976. AND A VISITING RATE: 'Did you visit Kamp? (153 responses) 1976: Yes 42%, No 58%', against the 1979 report's 117 yes and 71 no out of 188, which is 62% -- a twenty-point rise in three years that neither report comments on.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "post-kamp questionnaire",
+        "parent appraisal",
+        "visiting rate"
+      ],
+      "date_ref": "1974-1979",
+      "conflicts_with": [],
+      "added_version": "11.67",
       "added_by": "ralph_loop"
     }
   ]
