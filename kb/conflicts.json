@@ -1111,6 +1111,17 @@
       "flagged_at": "2026-09-07T19:20:13Z",
       "status": "open",
       "notes": "Raised 2026-09-07 under p_499. Both figures are shown at each affected row of the attendance-series table. HUMAN DECISION POINT under CLAUDE.md: documented against documented. Worth noting that 1962 now carries THREE documented values (590, 550, 548), which makes it the worst-attested season in the 1960s despite being one of the best-documented."
+    },
+    {
+      "conflict_id": "c_072",
+      "entity": "Ronald H. Hanagan, date of transfer from Toronto to Montreal Central Branch",
+      "description": "TWO DOCUMENTED SOURCES DATE THE SAME MOVE ABOUT TWO YEARS APART. The YMCA Year Book and Official Rosters put R. H. Hanagan at TORONTO Central's boys' post in the volumes for 1936, 1937, 1938, 1939 and 1940, and at MONTREAL Central's in the volumes for 1941 and 1943, in both the branch directory and the alphabetical list of employed officers -- which dates the move to about 1940-41 and is the evidence people/rh-hanagan.md was built on. The YMCA of Montreal's own annual report for the year ending 31 MARCH 1943 says: 'Additions during the year included: Ronald H. Hanagan, to Boys' Work Secretary of Central Branch, transferred from Toronto.' An addition 'during the year' cannot be 1940-41. Both are institutional documents; the roster is a continental compilation of what associations reported, the report is the Montreal association writing about its own staff. NOT RESOLVED. The Montreal reports for the years ending 31 March 1941 and 31 March 1942 are cached here and name him nowhere, which does not settle it either way -- the war-year staff paragraphs are short and do not list everyone. A possible reconciliation nobody has evidence for: the roster's Montreal 'Boys' line and the report's 'Boys' Work Secretary' may not be the same desk, the 1943 report appointing 'A. T. Dodds, formerly of Toronto' as ASSISTANT Boys' Work Secretary in the same paragraph.",
+      "facts": [
+        "f_5745"
+      ],
+      "flagged_at": "2026-09-08T01:20:00Z",
+      "status": "open",
+      "notes": "Raised 2026-09-08 under p_490. HUMAN DECISION POINT under CLAUDE.md: documented against documented. Both readings are shown in people/rh-hanagan.md rather than one being chosen. Bears on the Harold Potter lead in the same paragraph (f_5746): if Potter held Central's boys' desk until 1942-43, the roster's 1941 Hanagan line needs an explanation."
     }
   ]
 }

@@ -1,7 +1,7 @@
 # R.H. Hanagan (Ronald Hanagan)
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-09-07 (the whole career: Galt, Toronto Central, Montreal Central, Eastern Community)*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-09-08 (the association's own words for the transfer, and the 1948 resignation)*
 
 ## Overview
 
@@ -45,6 +45,35 @@ The YMCA of Montreal's *News Bulletin* for May 1936 names the executive of the *
 
 That last move matters for how this article's own account reads. **The polio season of 1946 was run by a man whose YMCA post was no longer the Central Branch boys' job.** He was directing camp from a different chair — which fits the archival evidence, already noted below, that his portfolio covered the Montreal system's camps rather than one branch's boys. The Eastern Community Branch carries the same street address as Central Branch, 1441 Drummond, so it was not a separate building; what kind of unit it was is not established here.
 
+### The association's own words for the transfer, and a date that does not fit
+
+**The Montreal association announced him in its annual report for the year ending 31 March 1943**, in the
+staff paragraph: "**Additions during the year included: Ronald H. Hanagan, to Boys' Work Secretary of
+Central Branch, transferred from Toronto**."^11 That is the association's own statement of the move this
+article proved from the rosters, with his given name in full, his middle initial, and the origin — and it
+was found by reading the report's staff-changes section, several pages from the camps section that had been
+read.
+
+**And it does not agree with the rosters on when.** The *Year Book* volumes for **1941 and 1943** both put
+him at Montreal Central; the Toronto Central run ends with the 1940 volume. So the rosters date the move to
+about 1940-41 and the Montreal report calls it an addition of the year ending **31 March 1943**. Both are
+documented sources and neither is preferred here: recorded as conflict **c_072**. The Montreal reports for
+1941 and 1942 are cached and **name him nowhere**, which is a fact about those reports rather than about
+him — the staff paragraphs of the war years are short and do not list everyone.
+
+**The same paragraph names the man he replaced, and it is a lead rather than a fact.** Among that year's
+resignations: "**Harold Potter as Boys' Work Secretary of Central Branch**."^11 Whether that is
+[[people/notable-alumni/harold-potter|Harold H. Potter]], the sociologist who was a Central Branch member
+from the age of fourteen and a Kanawana counsellor as a student, is **not settled**; his article carries the
+lead and the difficulty. If it is, the desk passed from Potter to Hanagan.
+
+**And the end of his Montreal service is now dated.** The report for the year ending 31 March 1948: "**R. H.
+Hanagan, Executive Secretary of Eastern Communities Branch, resigned. He was succeeded by Roy D. Locke,
+Boys' Work Secretary of Notre Dame de Grace Branch.**"^12 That answers Open Question 6's real subject —
+whether he was still active after 1946 — from the association's own record: he was, in the branch chair he
+had moved to, until the year ending March 1948. *And it puts [[people/roy-locke|Roy Locke]] into the
+Eastern Communities executive secretaryship six years before the 1954 move this project already had.*
+
 **He was also on the National Council.** The 1939 and 1940 volumes print the members of the National Council of YMCAs of Canada by city, and **R. H. Hanagan** is under Toronto in both, in a list that also holds **Taylor Statten**, **Harry Ballantyne**, W. J. Hastie, Geo. S. Patterson and John A. Tory. It is a broad body rather than an executive, drawn from every city with an association — but it is the national council, and he sat on it while running Toronto Central's boys' work. Three years later the 1942 volume's conference programme index has him speaking: "**Hanagan, R. H. — Co-operation with Other Agencies, with Special Reference to Schools and Churches — Central, Montreal.**"^9
 
 **And then he stops, in the record if not in life.** The 1946 volume is his last appearance in the series, which goes on listing Canadian associations into the 1980s. Against that stands the Concordia fonds, which holds a Boys' Camping Committee Survey Committee report of his from **1950**. The *Year Book* lists **employed officers**; a man can leave that list without leaving the association's committee work. Which of those happened is not established.
@@ -81,3 +110,6 @@ That last move matters for how this article's own account reads. **The polio sea
 8. *YMCA Year Book and Official Rosters*, the volumes for **1929-30**, **1941** and **1943** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). The 1941 and 1943 volumes print the same post twice — spelled out in the Montreal branch directory, abbreviated in the alphabetical list of employed officers — which is what settles the given name. See [f_5310].
 9. *YMCA Year Book and Official Rosters*, the volumes for **1929-30, 1931, 1936, 1937, 1938, 1939, 1940, 1941, 1942, 1943, 1944, 1945 and 1946** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). Branch directories and the alphabetical list of employed officers, plus the National Council membership list of 1939-40 and the conference programme index of 1942. The nulls of 1932-35 and post-1946 were controlled against a search on J. J. Halcrow, which returns hits in every one of those volumes. See [f_5340], [f_5341], [f_5342], [f_5344].
 10. *The Canadian Almanac and Directory for 1951* [src_canadian_almanac_1917_1918], University of Toronto School of Social Work staff list. One name in a long roll of field supervisors, found by a quoted "Ronald Hanagan" sweep of the Internet Archive book corpus that returned exactly one other hit, a novel. See [f_5343].
+
+11. YMCA of Montreal annual report for the year ending **31 March 1943** [src_ymf_sgw_ymca_annual_report_1943], the staff paragraph: Hanagan's arrival as Boys' Work Secretary of Central Branch "transferred from Toronto", and Harold Potter's resignation from that post. Read 2026-09-08 under p_490. See [f_5745], [f_5746].
+12. YMCA of Montreal annual report for the year ending **31 March 1948** [src_ymf_sgw_ymca_annual_report_1948], the secretarial-staff paragraph: Hanagan's resignation from the Eastern Communities executive secretaryship and Roy D. Locke's succession. Read 2026-09-08 under p_490. See [f_5745].

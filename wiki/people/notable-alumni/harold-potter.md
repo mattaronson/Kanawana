@@ -1,7 +1,7 @@
 # Harold H. Potter
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-09-07 (what he did at camp: the 1935 musicale and the 1936 piano recitals)*
+*Status: E1-reviewed | Sources: 11*
+*Last Updated: 2026-09-08 (a 1943 resignation from a paid YMCA post, recorded as a lead)*
 
 ## Overview
 
@@ -78,6 +78,29 @@ Potter maintained he had never experienced discrimination at Sir George Williams
 
 Potter's engagement with the YMCA spanned his entire adult life. From age 14 he was active at the Drummond Street YMCA; as an undergraduate he worked summers at Kamp Kanawana; in 1949 he spoke at an Ottawa YMCA event arguing that "racial superiority causes war"; his 1953 Camp Laquemac publication shows continued camp and adult education involvement; and he hired Jonassohn through YMCA connections in 1961.^1 ^2 ^3
 
+### A paid post, or another Harold Potter — a lead, 2026-09-08
+
+**The Montreal association's annual report for the year ending 31 March 1943 records the resignation of a
+Harold Potter from a full-time YMCA job.** In its staff paragraph, among the year's departures: "Other
+resignations which took place included Murray G. Brooks as Programme Secretary, **Harold Potter as Boys'
+Work Secretary of Central Branch** and C. B. Banks as Boys' Secretary of North Branch."^11
+
+*If that is this Harold Potter, it changes the shape of the YMCA connection above*, which reads as a
+boyhood membership and a run of student summers. A Boys' Work Secretaryship of Central Branch is a paid
+professional post at the association's flagship branch — **Drummond Street, the branch he had been a
+member of since he was fourteen** — held by a man who would have been twenty-eight. It would also give the
+1961 line about hiring Kurt Jonassohn, whom he "knew from the Y," a working relationship behind it rather
+than a membership.
+
+**It is not asserted here.** The surname is not rare, the report gives no initial or address, and there is
+a documented difficulty: the *YMCA Year Book and Official Rosters* prints Montreal Central's boys' post in
+the volumes for **1941 and 1943** as **Ronald Hanagan**'s, not Potter's — see [[people/rh-hanagan|R. H.
+Hanagan]], whose article establishes that from the rosters, and whose transfer from Toronto the same 1943
+report announces as an addition of that year. A branch could carry a Boys' Work Secretary and an assistant
+at once — the same paragraph appoints "A. T. Dodds, formerly of Toronto … Assistant Boys' Work Secretary" —
+but which line the roster prints, and therefore who held which desk when, is not settled by anything read
+here. *Recorded as a lead with its own difficulty attached, rather than as a fact.* See Open Question 5.
+
 ## Personal Life
 
 Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son, Evan Harold Potter, was born in 1964.^1 After Potter's death in 2004, Jean-Philippe Warren (professor in Concordia's Department of Sociology and Anthropology) obtained Potter's papers from Evan and donated them to Concordia University Archives in 2005.^6
@@ -88,6 +111,15 @@ Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son
 2. ~~[Important] What is the full text of the Camp Laquemac publication (1953)? Was this a YMCA camp with a Kanawana connection?~~ [Resolved 2026-07-10] Camp Laquemac was Université Laval's own adult-education camp (1947-1957), unconnected to the YMCA or Kanawana institutionally — see Publications above.
 3. [Nice-to-have, advanced 2026-07-10] Are there photographs of Potter at Kanawana in the Concordia Archives? The Harold Potter fonds itself (per repeated, consistent search-engine-indexed descriptions) contains no photographs — only teaching materials and equity/Georgian-related clippings. The broader P0145 YMCA fonds holds Kanawana photographs generally, but not indexed by counsellor name, so a targeted Potter photo can't be located without an in-person box search.
 4. [Nice-to-have] Does the SGW 1973 Yearbook contain a faculty photograph of Potter? The yearbook is confirmed to exist and is publicly hosted on Issuu (issuu.com/concordiayearbooks), but its content could not be extracted by automated fetch tools (JavaScript-rendered viewer) — this is an access gap, not a confirmed absence. A human browsing the Issuu flipbook directly to the Sociology/Arts faculty section is the concrete next step.
+5. [Important, new 2026-09-08] **Was Harold H. Potter a paid Boys' Work Secretary of the Montreal
+   YMCA's Central Branch before 1943?** The association's report for the year ending 31 March 1943
+   records "Harold Potter" resigning that post; this article has him as a member from age fourteen at
+   the same branch and a Kanawana counsellor as a student, with nothing documented between his
+   graduation and the 1947 SGW lectureship. What would settle it: the *Year Book*'s Montreal alphabetical
+   list of employed officers for the volumes of 1939-1943, searched on the surname; the Montreal
+   annual reports for the years his appointment would fall in, which do not name him and are cached
+   here; or the Harold Potter fonds at Concordia. See the section above for why the rosters make it
+   harder rather than easier.
 
 ## Related Articles
 
@@ -109,3 +141,4 @@ Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son
 8. Wikipedia, "Harold H. Potter" footnotes citing three Montreal Gazette items: "Camp group named" (May 15, 1935); "Named to camp staff" (May 13, 1936); "'Y' campers stage reunion meeting" (May 9, 1938).
 9. Chapin, Miriam. *Quebec Now*, Chapter 6 ("The Cleric and the Layman"), 1955; McLean, Scott. "No 'haughty and inaccessible ivory tower': Laval University and Adult Education, 1930–1965." *Canadian Journal of Education/Revue canadienne de l'éducation* 46:2 (2023), pp. 442-465. Camp Laquémac institutional history.
 10. *The Green Triangle*, **17 August 1935** and **30 March 1937** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5590], [f_5594].
+11. YMCA of Montreal annual report for the year ending **31 March 1943** [src_ymf_sgw_ymca_annual_report_1943], the staff paragraph. The resignation of "Harold Potter as Boys' Work Secretary of Central Branch," read 2026-09-08 under p_490. The identification with this article's subject is **not** made; see the section above. See [f_5746].

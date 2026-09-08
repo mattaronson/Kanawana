@@ -1,7 +1,7 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 15*
-*Last Updated: 2026-09-07 (his own recruitment advertisements, 1948 and 1949)*
+*Status: draft | Sources: 16*
+*Last Updated: 2026-09-08 (the branch chair between the camp and the metropolitan portfolio)*
 
 ## Overview
 
@@ -41,6 +41,17 @@ the national movement, and they run earlier and longer than this article previou
 | April 1952 | "**Roy D. Locke** director of Y.M.C. Kamp Kanawana **is president of the Quebec Camping Association**"^4 |
 | April 1954 | "Quebec **Past President** — Mr. Roy Locke, **Boys' Work Secretary, Metropolitan YMCA Montreal**"^9 |
 | June 1954 | "Mr. Roy Locke, **Past President of the Q.C.A.**, gave an impressive speech"^10 |
+
+**And there is a branch chair between the camp and the metropolitan portfolio.** The Montreal
+association's annual report for the year ending **31 March 1948** records, among that year's secretarial
+changes: "**R. H. Hanagan, Executive Secretary of Eastern Communities Branch, resigned. He was succeeded by
+Roy D. Locke, Boys' Work Secretary of Notre Dame de Grace Branch.**"^16 Two things follow. His post before
+that was **Notre Dame de Grace's boys' work**, which this article did not have; and by the year ending
+March 1948 he was running a branch — the **Eastern Communities Branch**, the chair
+[[people/rh-hanagan|R. H. Hanagan]] was leaving, and the chair Hanagan had been directing camp from in
+1946. So Locke took Kanawana in 1947 and the branch in 1947-48, and the metropolitan Boys' Work and Camping
+secretaryship came later. *The camp chieftaincy was not a post he held instead of a branch job; it sat on
+top of one.*
 
 He also appears in February 1951 in a national committee meeting alongside Mary Edgar — founder of
 [[connections/related-camps/camp-oolahwan|Camp Oolahwan]] — Agnes Mutchler of the
@@ -174,6 +185,7 @@ That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report 
 14. Robert M. Stamp (ed.), *The Canadian Obituary Record* (Toronto: Dundurn Press), entry "LOCKE, ROY", Internet Archive scan leaf 266 [src_stamp_canadian_obituary_record]. **One entry only**, reconstructed 2026-09-06 from about a dozen overlapping Open Library search-inside queries, with one internal gap not recovered; the volume is lending-restricted and has not been read, and the printed page number is unknown. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-stamp-obituary-roy-locke.txt`. See [f_4935], [f_4933].
 15. Kamp Kanawana counsellor recruitment advertisements, *The McGill Daily*, Vol. 37 No. 100, 20 May 1948 [src_mcgill_daily_1948_05_20] and Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]. Both transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5413], [f_5414].
 
+16. YMCA of Montreal annual report for the year ending **31 March 1948** [src_ymf_sgw_ymca_annual_report_1948], the secretarial-staff paragraph: Locke's move from the Notre Dame de Grace boys' work secretaryship to the Eastern Communities executive secretaryship, succeeding R. H. Hanagan. Read 2026-09-08 under p_490. See [f_5745].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_250) from facts established by the director-gap research campaign of the same day (f_2079, f_2084, f_2120). No new research was conducted for this spawn.

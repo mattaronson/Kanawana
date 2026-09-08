@@ -1,8 +1,8 @@
 {
-  "version": "11.21",
-  "kb_version": "11.21",
+  "version": "11.22",
+  "kb_version": "11.22",
   "migrated_from": "3.3",
-  "fact_count": 5706,
+  "fact_count": 5708,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102890,6 +102890,44 @@
       "date_ref": "1926",
       "conflicts_with": [],
       "added_version": "11.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5745",
+      "claim": "R. H. HANAGAN'S MONTREAL SERVICE, IN THE ASSOCIATION'S OWN WORDS, AND A DATE THAT DOES NOT FIT. The Montreal annual report for the year ending 31 March 1943, staff paragraph: 'Additions during the year included: Ronald H. Hanagan, to Boys' Work Secretary of Central Branch, transferred from Toronto.' That is the association stating the move people/rh-hanagan.md proved from the Year Book rosters, with the given name in full, the middle initial and the origin. IT DISAGREES WITH THE ROSTERS ON WHEN: the Year Book has him at Toronto Central through the 1940 volume and at Montreal Central in the 1941 and 1943 volumes, which dates the move to about 1940-41, while the report calls it an addition of the year ending 31 March 1943. Recorded as conflict c_072, not resolved; the Montreal reports for 1941 and 1942 are cached and name him nowhere, which settles nothing since the war-year staff paragraphs are short. AND THE END IS NOW DATED: the report for the year ending 31 March 1948 says 'R. H. Hanagan, Executive Secretary of Eastern Communities Branch, resigned. He was succeeded by Roy D. Locke, Boys' Work Secretary of Notre Dame de Grace Branch.' That answers what rh-hanagan.md's Open Question 6 was really asking -- whether he was active after 1946 -- and it puts ROY LOCKE in the Eastern Communities executive secretaryship SIX YEARS BEFORE the 1954 move this project already had.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1948"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ronald H. Hanagan",
+        "Roy D. Locke"
+      ],
+      "date_ref": "1943/1948",
+      "conflicts_with": [
+        "c_072"
+      ],
+      "added_version": "11.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5746",
+      "claim": "A HAROLD POTTER RESIGNED A PAID MONTREAL YMCA POST IN 1942-43, AND WHETHER IT IS THE SOCIOLOGIST IS NOT SETTLED. The report for the year ending 31 March 1943: 'Other resignations which took place included Murray G. Brooks as Programme Secretary, HAROLD POTTER AS BOYS' WORK SECRETARY OF CENTRAL BRANCH and C. B. Banks as Boys' Secretary of North Branch.' IF that is Harold H. Potter (1914-2004), it changes the shape of his YMCA connection, which this wiki reads as a boyhood membership and student summers: a Boys' Work Secretaryship of Central Branch is a paid professional post at the Drummond Street branch he had belonged to since he was fourteen, held at about twenty-eight, and it would put a working relationship behind the 1961 line about hiring Kurt Jonassohn, whom he 'knew from the Y'. IT IS NOT ASSERTED. The surname is not rare, the report gives no initial, and there is a documented difficulty: the Year Book prints Montreal Central's boys' post in the 1941 and 1943 volumes as RONALD HANAGAN's, and the same 1943 report announces Hanagan as an addition of that year (c_072). A branch could carry a secretary and an assistant at once -- the same paragraph appoints 'A. T. Dodds, formerly of Toronto' as Assistant Boys' Work Secretary -- but which desk the roster prints is not settled by anything read here. Written into people/notable-alumni/harold-potter.md as a lead with its difficulty attached and as its Open Question 5, not as a fact. WHAT WOULD SETTLE IT: the Year Book's Montreal alphabetical list of employed officers for 1939-1943 searched on the surname; or the Harold Potter fonds at Concordia. ALSO IN THAT PARAGRAPH: Murray G. Brooks resigned the Programme Secretaryship, which the Year Book shows only as the post passing to Alfred J. Davis by the 1943 volume, and which sits two years before the roster's retirement date of 11 March 1945 for him.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1943"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Murray G. Brooks",
+        "A. T. Dodds"
+      ],
+      "date_ref": "1943",
+      "conflicts_with": [],
+      "added_version": "11.22",
       "added_by": "ralph_loop"
     }
   ]

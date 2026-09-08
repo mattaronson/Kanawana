@@ -8238,3 +8238,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
     w-j-holliday.md and absent from camp-otoreke.md, which cites the same report for the same season
     and left its own 1916 "Mr. Holliday" candidacy unimproved. A phrase grep returned zero because
     the article breaks the phrase across a line and a bold marker.
+2026-09-08T01:19:40Z
+  p_490 third pass -- the 1943 and 1948 staff paragraphs. f_5745, f_5746, c_072. KB 11.21 -> 11.22.
+  R. H. HANAGAN: the 1943 report gives the association's own words for the Toronto transfer --
+    "Ronald H. Hanagan, to Boys' Work Secretary of Central Branch, transferred from Toronto" -- and
+    DISAGREES WITH THE ROSTERS ON WHEN. Year Book has him at Montreal Central from the 1941 volume.
+    Raised as c_072, documented against documented, NOT RESOLVED. The 1948 report ends his Montreal
+    service and answers rh-hanagan's Open Question 6.
+  ROY LOCKE gains a branch chair: Eastern Communities Executive Secretary in the year ending March
+    1948, succeeding Hanagan, from the Notre Dame de Grace boys' work secretaryship. Six years before
+    the 1954 metropolitan move the project had, and a post it did not have at all.
+  THE LEAD: the same 1943 paragraph has "Harold Potter as Boys' Work Secretary of Central Branch"
+    resigning. If that is Harold H. Potter the sociologist, his YMCA connection was a paid career and
+    not a membership. NOT ASSERTED -- the Year Book gives Central's boys' post to Hanagan in 1941 and
+    1943. Written into harold-potter.md as a lead with its difficulty and as Open Question 5.
+  MECHANICAL: a grep for "Potter" across the cached reports returned one hit and MISSED THIS ONE --
+    the OCR breaks the name as "Harold Pot- ter". OCR hyphenation at line ends defeats surname greps.
+    Third whitespace-or-markup false negative this session.
+  Murray Shantz's "Murray G." slip was already handled in his own article; nothing to do.
+  prose_dupes: the new rh-hanagan/roy-locke 26-word overlap is the shared quotation of the 1948
+    passage both articles need. Citation graph working, per f_5119.
