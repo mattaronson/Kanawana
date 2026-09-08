@@ -1,7 +1,7 @@
 # Bruce Netherwood
 
 *Status: draft | Sources: 12*
-*Last Updated: 2026-09-07 (South Shore YMCA, Sandwich, Massachusetts — 1996 to 2002)*
+*Last Updated: 2026-09-08 (the 1995 Montreal report's own account of where he went)*
 
 ## Overview
 
@@ -23,10 +23,25 @@ When Netherwood left the Camp Director role at the end of 1994, the YMCA restruc
 
 Netherwood went on to a long career in YMCA camping, most recently as Vice President of Camping & Social Responsibility at the South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward and day camps at the Hale, Emilson, and Science Center branches; he was previously Executive Director at Camp Burgess & Hayward.^8 He received the Pip Alumni Award in 2011.^9
 
+**The first step of that career is dated to the year he took it, and the source was already in this article's
+citation list.** The Montreal YMCA's 1995 report, in the paragraph that announces Joanna Hoad's appointment:
+"Bruce Netherwood, who served as **Kamp Director from 1989 to 1994**, moved to Cape Cod where he is the
+**Director of Camping Services of the South Shore YMCA in Quincy, Massachusetts**. We thank Bruce for his
+valuable contribution and wish him well with his new responsibilities."^12 That is the association stating the
+1989–1994 span itself rather than this wiki reconstructing it from staff rosters, and it puts him in the job
+immediately rather than by 1996. The title differs from the one the *YMCA Directory* gives from 1996 —
+Director of Camping Services, not Executive Director of the Resident Camping Division — which reads as a
+promotion or a reorganisation rather than a discrepancy.
+
+*One oddity, left as one.* The sentence says Cape Cod and then names **Quincy**, which is south of Boston and
+not on the Cape; **Sandwich**, where the directory later places him and where Camp Burgess sits, is. Quincy is
+the South Shore YMCA's own head office, so the likeliest reading is a head-office address paired with a loose
+description of where the camping ran. [f_5769]
+
 ## Open Questions
 
 1. [Important] What biographical information exists for Jay Netherwood beyond his **1986–1989** directorship and 1989–90 supervisory role?^12 No source found beyond an undiscoverable Facebook profile.
-2. [Nice-to-have] What prompted Bruce Netherwood's move to Massachusetts YMCA camping after leaving Kanawana in 1994? **The destination and its span are now documented, though not the reason.** The published *YMCA Directory* lists him as **Executive Director of the Resident Camping Division of the South Shore YMCA**, Sandwich, Massachusetts, in **1996, 2000, 2001 and 2002**^11 — so he was running a resident camping operation there within two years of leaving Kanawana and was still doing so eight years later. What prompted the move is still unanswered.
+2. [Nice-to-have] What prompted Bruce Netherwood's move to Massachusetts YMCA camping after leaving Kanawana in 1994? **The destination and its span are now documented, though not the reason — and the move is now dated to 1994–95 rather than 1996, from the 1995 Montreal report (see above).** The published *YMCA Directory* lists him as **Executive Director of the Resident Camping Division of the South Shore YMCA**, Sandwich, Massachusetts, in **1996, 2000, 2001 and 2002**^11 — so he was running a resident camping operation there within two years of leaving Kanawana and was still doing so eight years later. What prompted the move is still unanswered.
 3. [Nice-to-have] The Pip Award citation describes Netherwood as "YMCA leader and author" — what did he author? No published work has been located via web search; it may refer to internal YMCA materials or reports.
 
 ## Related Articles

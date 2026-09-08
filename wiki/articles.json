@@ -8901,7 +8901,7 @@
         "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 1388,
+      "word_count": 1624,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md AND from directors-index.md Camp Directors table (Bruce Netherwood was already a fully-documented Director 1988-1994, richer than the plan's Pip-Award-only framing suggested). Jay Netherwood folded in as a section rather than a separate stub given near-total absence of independent biographical material. Corrected a dangling source_id reference (src_concordia_p0145_12b04_finding_aid -> src_concordia_atom_12B04, also affecting f_1066) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [

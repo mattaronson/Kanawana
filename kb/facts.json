@@ -1,8 +1,8 @@
 {
-  "version": "11.41",
-  "kb_version": "11.41",
+  "version": "11.42",
+  "kb_version": "11.42",
   "migrated_from": "3.3",
-  "fact_count": 5730,
+  "fact_count": 5731,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103395,6 +103395,24 @@
       "date_ref": "1995-2003",
       "conflicts_with": [],
       "added_version": "11.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5769",
+      "claim": "BRUCE NETHERWOOD'S DESTINATION, IN THE YEAR HE LEFT, FROM A REPORT HIS OWN ARTICLE ALREADY CITES. bruce-netherwood.md's Open Question 2 asks what prompted the move to Massachusetts and says the destination is documented from a published YMCA Directory listing him at Sandwich, Massachusetts in 1996. The Montreal YMCA's 1995 report gets there a year earlier and from the Montreal end: 'Bruce Netherwood, who served as KAMP DIRECTOR FROM 1989 TO 1994, moved to CAPE COD where he is the DIRECTOR OF CAMPING SERVICES of the SOUTH SHORE YMCA in QUINCY, Massachusetts. We thank Bruce for his valuable contribution and wish him well with his new responsibilities.' THREE THINGS IT ADDS: the 1989-1994 span stated by the association itself rather than reconstructed from staff rosters; a FIRST TITLE, Director of Camping Services, distinct from the Executive Director of the Resident Camping Division the directory gives from 1996; and an immediate move, closing the 1994-1996 gap. ONE ODDITY IN THE SENTENCE: it says Cape Cod and then names Quincy, which is south of Boston and not on the Cape; Sandwich, where the directory later places him and where Camp Burgess sits, is on the Cape. Quincy is the South Shore YMCA's own headquarters, so the likeliest reading is that the report gave the association's head office address and described the camping operation's location loosely. This volume is already source 12 of bruce-netherwood.md, cited for the same paragraph's Joanna Hoad appointment; the sentence next door was not taken.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1995"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Bruce Netherwood",
+        "South Shore YMCA",
+        "Quincy Massachusetts"
+      ],
+      "date_ref": "1995 (on 1994)",
+      "conflicts_with": [],
+      "added_version": "11.42",
       "added_by": "ralph_loop"
     }
   ]
