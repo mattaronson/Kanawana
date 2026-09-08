@@ -231,7 +231,7 @@ one. [f_5715]
 
 **A second Kanawana name comes out of the same report's Health and Safety section.** Dr. Kelso of Sainte-Anne-de-Bellevue attended the camp unpaid — "again gave unstintingly of his skill and professional services" — and when he went on holiday he handed his camp duty to his locum along with his practice: "Dr. Lougheed, his successor, continued the interest in our camp and **we were agreeably surprised to learn that Dr. Lougheed had formerly been on the staff of Kamp Kanawana**."^22 Neither physician appears anywhere else in this project. The passage gives a named member of Kanawana's medical staff, a category almost empty here, with no first name and no year for that service. [f_5433]
 
-A real institutional link is documented, however: the 1954 Camp Perrot Annual Report states "with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out" — direct equipment-sharing between the two camps.^5 A. Ross Seaman (Kanawana director 1959-1967) is thanked in Perrot's 1952 report as "Past Director of Camp Perrot," and per the 1959 Cochrane memo personally planted trees at Perrot "about 1950" — a previously undocumented staff overlap. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.^5 ^6
+A real institutional link is documented, however: the 1954 Camp Perrot Annual Report states "with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out" — direct equipment-sharing between the two camps.^5 A. Ross Seaman (Kanawana director 1959-1967) is thanked in Perrot's 1952 report as "Past Director of Camp Perrot," and per the 1959 Cochrane memo personally planted trees at Perrot "about 1950" — a previously undocumented staff overlap. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.^5 ^6 *None of those three overlaps is stated by a Perrot document*: the reports give the names and the roles, and the join to Kanawana is made here, against this project's own people index.^9
 
 **What the association said it needed, the year Perrot opened.** The 1944 annual report, reporting
 on a second summer of the association's island experiment in the rivière des Mille Îles: "Camp
@@ -408,7 +408,7 @@ clearest single instance of it.
 ## Sources
 
 1. Concordia University Archives: YMCA of Montreal fonds P0145/12A — Comparison documents (1945–46, 1953–54), camping committee records.
-2. Concordia University Archives: YMCA of Montreal fonds — Camp Perrot references (see note on cataloguing below; "12G" is not a described sub-series in the master finding aid).
+2. **Superseded 2026-09-08 by note 8 and retained to show what it said.** Concordia University Archives, YMCA of Montreal fonds — Camp Perrot references, with the "12G" caveat. Note 8 is the direct read of the 125-page master finding aid that settles the question, and it is the note "A Note on Archival Cataloguing" cites.
 3. Concordia University Archives AtoM finding aid.
 4. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Canoe trip destinations including Île Perrot.
 5. YMCA of Montreal fonds (Internet Archive): Camp Perrot annual reports and brochures, 1945-1969 [src_ia_camp_perrot_collection]. Verified genuine via archive.org metadata API, 2026-07-10.

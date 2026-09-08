@@ -8112,3 +8112,17 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
     unworked McGill Daily run; stays uncited by design.
   uncited_sources.py BASELINE lowered 124 -> 120.
   Full verify suite clean.
+2026-09-08T00:37:01Z
+  p_484 fifth pass -- uncited entries 120 -> 110, 22 articles -> 18. f_5728, KB 11.11 -> 11.12.
+  camp-otoreke entry 50 held two findings the article never carried: Kairos at Otoreke 29 Aug -
+    2 Sep 1967 on technology and automation (United Church Board of Evangelism and Social Service),
+    and Otoreke's own summer post office, closed and cross-referenced to St-Adolphe-de-Howard.
+    Both written into the article; both flagged as search highlights with no volume read.
+  canadian-camping-movement 15: the Hay Finlay pointer paragraph made three claims with no marker.
+  hedley-dimock 18, 19: the 2022-2026 ACA Dimock Award recipients were in an open question, not the
+    article. Now a paragraph in the award section; 2019-2021 gap stated.
+  Also cleared: harold-potter 9, edgar-smee 7, centennial-1967 18 and 19, camp-perrot 9,
+    camp-otoreke 8. Marked deliberately uncited: harold-potter 7, edgar-smee 8, camp-perrot 2,
+    sgw-concordia-connection 9.
+  uncited_sources.py BASELINE 120 -> 110. Remainder is almost all Population A.
+  Full verify suite clean; prose_dupes shows only the pre-existing 25-word shared quotation.

@@ -1,8 +1,8 @@
 {
-  "version": "11.11",
-  "kb_version": "11.11",
+  "version": "11.12",
+  "kb_version": "11.12",
   "migrated_from": "3.3",
-  "fact_count": 5689,
+  "fact_count": 5690,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102600,6 +102600,24 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5728",
+      "claim": "p_484 FIFTH PASS: 120 UNCITED ENTRIES TO 110, AND THE BEST CATCH WAS TWO REAL FINDINGS NOBODY COULD READ. site/camp-otoreke.md entry 50 recorded an Open Library search-inside sweep on 'Otoreke' that produced two substantive results -- neither of which was ever written into the article, so 'Kairos' and 'post office' both returned nothing when grepped against a 22,000-word page that owned the evidence. (1) The United Church of Canada's Board of Evangelism and Social Service reported for 1967 that a meeting was held with the summer event of KAIROS at Camp Otoreke, 29 AUGUST TO 2 SEPTEMBER, on a theology relevant to technology and automation, with a joint consultation with the Kairos executive. That is a second 1967 conference at the camp five weeks after the So-Ed Youth Cultural Exchange the article already had, and it is two years EARLIER than the Kairos group among Kanawana's outside users in the 1969 director's report -- so outside-group use of both YMCA sites predates the green-shift framing this wiki puts it under. (2) The McGraw-Hill postal directories carry 'OTOREKE, PQ (S), see St-Adolphe-de-Howard', the closed-and-renamed cross-reference form, with the Canadian Almanac and a road-atlas gazetteer corroborating; Otoreke had a summer post office in Argenteuil county served through Sainte-Agathe, which is the pattern already established for Kanawana. Both are now in the article, with the caution that every word of it is search highlights and none of the volumes has been read, so the dates are not established. THAT IS CASE 2 OF THE FIVE -- an entry added for a passage never written -- and it is the case that loses the most, because the research was done and the result was invisible. Also this pass: canadian-camping-movement 15 (the McGill You Knew passage went with the Hay Finlay spinout and the pointer paragraph left behind made three factual claims with NO marker at all -- cited rather than deleted, which fixes both faults); hedley-dimock 18 and 19 (the 2022-2026 ACA Dimock Award recipients had been fetched year by year and left sitting in an open question -- now a paragraph in the award section, with the 2019-2021 gap stated); harold-potter 9, edgar-smee 7 (an inference the article makes and neither source states, now carrying its own note), centennial-1967 18 and 19, camp-perrot 9, camp-otoreke 8. FOUR MORE MARKED AS DELIBERATELY UNCITED rather than forced: harold-potter 7 (the Ontario Archives Hill letter, unread behind a Radware CAPTCHA per f_2242), edgar-smee 8, camp-perrot 2 (superseded by note 8) and sgw-concordia-connection 9. BASELINE NOW 110 ACROSS 18.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "camp-otoreke",
+        "hedley-dimock",
+        "canadian-camping-movement",
+        "Kairos"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.12",
       "added_by": "manual"
     }
   ]

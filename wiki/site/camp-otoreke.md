@@ -1191,6 +1191,28 @@ it.
 
 **So-Ed** is the YMCA's Social-Educational programme, and neither it nor "Youth Cultural Exchange" occurs anywhere else in this project. *A calendar announces rather than reports*, so who came, from where, and whether it happened at all are unknown here. The timing is the part worth holding on to: Kanawana's own [[history/centennial-1967|Voyageurs de la Vérendrye centenary journey]] ran that same summer, so the association was mounting two differently framed youth events at its two camps in the same weeks.
 
+**And a national church board met at Otoreke five weeks later, on automation.** The United Church of
+Canada's Board of Evangelism and Social Service reported for 1967 that a meeting "was held in
+conjunction with the *summer event* of **Kairos** at Camp Otoreke in the Laurentians, **August 29th to
+September 2nd**", on a "theology relevant to technology and automation", and that "at Otoreke we held a
+joint consultation with the Kairos executive."^50 That is a second conference at the camp in the same
+summer, on named dates and a named subject, and it is the earlier of two Kairos traces in this project:
+Kanawana's own director's report has a Kairos group among its outside users in **1969**. *The two are
+different events at different camps two years apart*, and together they put the same body at both YMCA
+sites in the late 1960s — outside-group use of the association's camps predating by decades the framing
+this wiki elsewhere dates to the green shift.
+
+**Otoreke had its own post office, and it closed the way Kanawana's did.** The McGraw-Hill postal
+directory series — the same series that gave this project Kanawana's post office — carries "OTOREKE, PQ
+(S), see … St-Adolphe-de-Howard", the closed-and-renamed cross-reference form, with "Otoreke, PQ (S) M"
+and "Otoreke, PQ (S) \*" in its railway postal lines tables; the *Canadian Almanac* has "Otoreke …
+Argenteuil … Ste. Agathe"; and a road-atlas gazetteer lists "Otoreke, UP (Que.)", *UP* for
+unincorporated place.^50 A summer post office in the camp's name, in Argenteuil county, served through
+Sainte-Agathe, later closed and cross-referenced to the surrounding municipality — which is the pattern
+already established for Kanawana. **The dates are not established.** None of these volumes has been read
+here; all of it comes from search highlights, and when it opened or closed is exactly what the
+highlights do not say.
+
 ## Two figures and a lodge count, from reports this article was not citing
 
 **Christieville was counted as a camp, not as an outbuilding.** The annual reports for 1953 and 1954 list
@@ -1331,7 +1353,7 @@ centre. It is the same kind of use, twenty years earlier, that
 3. [Important] What happened to the three islands after 1982? Are they still identifiable? A low-confidence, uncorroborated blog lead suggests informal private ownership and derelict buildings as of 2005-2008 (see Closure section) — not yet independently verified.
 4. [Important] How many campers/families used Otoreke annually during its later decades? Confirmed genuine dead end for online sources (2026-07-09) — likely only recoverable from Concordia sub-sub-series 12C06 (Campers).
 5. [Important] What was discussed in the 1967 Planning and Development reports? Were there expansion plans? Confirmed genuine dead end online — only bare archival titles found, no content descriptions (see the two-catalog-entries ambiguity above).
-6. [Nice-to-have] What can be learned from the 1944 QAHN photograph about camp facilities?
+6. [Nice-to-have] What can be learned from the 1944 QAHN photograph about camp facilities?^8 The image is online and has not been examined here.
 7. [Nice-to-have] Is the postcard of the camp landing datable? It would show the physical infrastructure. Re-checked 2026-07-09: the actual eBay dealer listing (item 333130004877) gives no date estimate or postmark, only the "RPPC" (real photo postcard) format designation, which loosely implies pre-1950s. Confirmed dead end for precise dating.
 8. [Important] What does W.E. Cushing's 1943 "Historical sketches—Lake St. Joseph" (Concordia Archives P0145/12A) reveal about the original Camp Jubilee/Otoreke site? See the title-discrepancy note above ("Early Days at Lake St. Joseph" vs. "Historical sketches") — confirmed no secondary source anywhere quotes or summarizes this manuscript; a physical archive visit is required.
 9. [Important] Do the six earlier reports in this series survive — the first through sixth Current Camp Committee reports, 1894 through 1899 — and the replies to the circular letter of 20 October 1900? Two of the series are digitized, both from 1900. Concordia holds Permanent Camp Committee minutes for 1895-96 and correspondence for 1899-1901 (Box HA2307 area, sub-series 12A); that is where to ask. Added to the standing Concordia letter (p_282).
