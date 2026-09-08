@@ -1,8 +1,8 @@
 {
-  "version": "11.10",
-  "kb_version": "11.10",
+  "version": "11.11",
+  "kb_version": "11.11",
   "migrated_from": "3.3",
-  "fact_count": 5688,
+  "fact_count": 5689,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102582,6 +102582,24 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5727",
+      "claim": "p_484 FOURTH PASS: 123 UNCITED ENTRIES TO 120, AND THE SECOND MIS-AIMED MARKER THE CHECK HAS CAUGHT WAS POINTING A CORRECTION AT THE SOURCE OF THE ERROR IT CORRECTS. Working the singletons, which is Population B smallest-first. (1) people/page-family.md entry 13 is the raw-HTML re-read of the municipality's pioneer-families page that in July 2026 corrected a conflation: the rue de la Gare grocer is TELESPHORE LEONARD, Leonie Page's son and a Page descendant through the female line, not a second Telesphore PAGE. The paragraph stating the correction carried ^10 -- the local historical society entry from which the WRONG identification was first taken, and whose own text still described the withdrawn claim as current. Marker re-aimed to ^13; entry 10 now says which half of it was superseded and is still cited for the Jean-Baptiste Desjardins settlement. This is the sixth-case shadow (f_5567) in its worst form: verify_harness saw a resolving marker, citation_aim saw a source entry that mentions the grocer, and both were satisfied by a citation that credited the error. (2) people/notable-alumni/stuart-mclean.md entry 11, the Canadian Encyclopedia, was the second reference-work biography behind the article and was cited nowhere; the Ryerson professorship, the Order of Canada and the Leacock medals all carried Wikipedia alone. Marked, and the encyclopedia's disagreement with Wikipedia over his mother's given name -- PATRICIA Godkin against MARGARET Godkin, neither a primary record -- is now in the body carrying both rather than sitting unread in the KB as f_0491 against f_1013. (3) site/indigenous-names-and-land.md entry 14, Seton's Book of Woodcraft, was orphaned by the Indian-lore spinout: the pointer section left behind still says the Council of Tribes chant is an Omaha prayer, which is the Seton finding, and cited nothing. Marked. (4) connections/institutional-lineage/sgw-concordia-connection.md entry 9 is NOT a defect and stays uncited: its Georgian half was superseded by entry 10's 292-issue sweep, and its McGill Daily half is an unworked lead of 9,868 issues raised as p_479. Rewritten to say so, which is category 5. THE BASELINE IS NOW 120 ACROSS 22 ARTICLES. Three of the four were real; the ratio across four passes is holding at roughly two real defects per three entries read.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "page-family",
+        "stuart-mclean",
+        "indigenous-names-and-land",
+        "sgw-concordia-connection"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.11",
       "added_by": "manual"
     }
   ]

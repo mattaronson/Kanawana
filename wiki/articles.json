@@ -4112,7 +4112,7 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 3129,
+      "word_count": 3223,
       "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7293,7 +7293,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2324,
+      "word_count": 2427,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header (already had the new standardized header alongside it), moved the embedded 'Correction (2026-07-09)' paragraph into a new visible Revision History section, rewrote surrounding prose to state current understanding only. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7977,7 +7977,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 2416,
+      "word_count": 2488,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8228,7 +8228,7 @@
         "indian-lore-programming"
       ],
       "file_id": null,
-      "word_count": 2645,
+      "word_count": 2669,
       "tags": {
         "era": [],
         "region": "not-applicable",

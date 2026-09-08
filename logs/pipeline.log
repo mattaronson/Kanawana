@@ -8100,3 +8100,15 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   renumber_sources.py reported nothing to renumber after an 83-line block moved to the top of the
   file, so it does not enforce first-occurrence marker ordering. Recorded for the next mover.
   Full verify suite clean. directors-index 28,104 -> 28,150 words.
+2026-09-08T00:32:15Z
+  p_484 fourth pass -- uncited source entries 123 -> 120, 25 articles -> 22. f_5727, KB 11.10 -> 11.11.
+  page-family: ^10 on the paragraph correcting the Telesphore Page / Telesphore Leonard conflation
+    pointed at the source of the error. Re-aimed to ^13; entry 10 annotated as half-superseded.
+  stuart-mclean: entry 11 (Canadian Encyclopedia) cited nowhere though it backs the Ryerson post,
+    the Order of Canada and the Leacock medals. Marked; its Patricia/Margaret Godkin disagreement
+    with Wikipedia written into the body.
+  indigenous-names-and-land: entry 14 (Seton) orphaned by the Indian-lore spinout. Marked.
+  sgw-concordia-connection entry 9: not a defect. Rewritten as an explicit pointer to p_479's
+    unworked McGill Daily run; stays uncited by design.
+  uncited_sources.py BASELINE lowered 124 -> 120.
+  Full verify suite clean.

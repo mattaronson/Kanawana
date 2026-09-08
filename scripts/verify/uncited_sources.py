@@ -59,7 +59,8 @@ ADVISORY, ON THE PRECEDENT section_headings.py SET. The first whole-wiki run
 found 136 uncited entries across 34 articles -- places-and-locations.md alone
 has 28 entries and cites 9 of them. That is a backlog, and a blocking check
 against a backlog trains everyone to ignore the output. Queued as p_484; make
-this blocking when it clears. The first passes took it to 124 across 25.
+this blocking when it clears. The first passes took it to 124 across 25, and the
+2026-09-08 pass to 120 across 22.
 
 WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
 something.
@@ -75,7 +76,7 @@ import os
 import re
 import sys
 
-BASELINE = 124          # whole-wiki count after the first p_484 passes, 2026-09-07
+BASELINE = 120          # whole-wiki count after the 2026-09-08 p_484 pass
 #                         (was 136 when this check was written, the same day)
 
 

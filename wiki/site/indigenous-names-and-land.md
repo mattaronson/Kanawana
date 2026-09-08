@@ -108,7 +108,8 @@ devotion.
 **What belongs here is the short version.** Under Harold Cross's directorship, about 1925 to 1928,
 Kanawana added a totem pole to its Council Ring (1927) and built a teepee out of old canvas, and its
 "Council of Tribes" ceremony closed on a chant that turns out to be an Omaha prayer with five hands
-between the people whose prayer it was and the boys singing it. **The camp itself left no statement
+between the people whose prayer it was and the boys singing it — Seton printed it in *The Book of
+Woodcraft and Indian Lore* in 1912, crediting Alice Fletcher, who had it from the Omaha themselves.^14 **The camp itself left no statement
 about any of it** — a systematic sweep of every cached document in this project returns nothing, in
 any decade — so its practice can only be read against the shape of the surrounding movement.
 

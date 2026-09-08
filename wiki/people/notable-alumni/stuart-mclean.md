@@ -11,7 +11,7 @@ After his death in 2017, his family established the Stuart McLean Camp YMCA Kana
 
 ## Early Life and Education
 
-McLean was born in Montreal West, the eldest of three children.^7 He attended Lower Canada College, where by his own account he was "an utter academic, athletic and social failure" who repeated Grade 11.^8 He graduated from Sir George Williams University (now Concordia University) with a BA in applied social science in 1971.^8 ^9
+McLean was born in Montreal West on **19 April 1948**, the eldest of three children of Australian immigrant parents.^7 ^11 *The two reference works this article rests on disagree on his mother's given name* — the Canadian Encyclopedia has **Patricia Godkin**, Wikipedia **Margaret Godkin** — and neither is a primary record, so the article carries both rather than choosing.^7 ^11 He attended Lower Canada College, where by his own account he was "an utter academic, athletic and social failure" who repeated Grade 11.^8 He graduated from Sir George Williams University (now Concordia University) with a BA in applied social science in 1971.^8 ^9
 
 ## Camp Kanawana Years (1969–1975)
 
@@ -75,14 +75,14 @@ After graduating in 1971, McLean worked at Dawson College Student Services and e
 
 At CBC, McLean served as a researcher for *Cross Country Checkup* (1974), a documentarian for *Sunday Morning* (winning an ACTRA Award in 1979 for his Jonestown massacre documentary), and executive producer of *Sunday Morning* (1982–1984).^7 He was a regular contributor and occasional host on *Morningside* with Peter Gzowski through the 1980s.^7
 
-McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 to 2004, later named professor emeritus.^7
+McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 to 2004, later named professor emeritus.^7 ^11
 
 *The Vinyl Cafe* was created in 1994 as a summer replacement show on CBC Radio. By autumn 1997 it became a weekly Sunday broadcast. The show toured nationally from 1998, attracting over one million listeners per episode at its peak and syndication to approximately 80 US public radio stations.^7
 
 ## Honours and Awards
 
-- **Order of Canada**: Officer, December 2011.^7
-- **Stephen Leacock Memorial Medal for Humour**: 1999, 2001, 2007 (three-time recipient).^7
+- **Order of Canada**: Officer, December 2011.^7 ^11
+- **Stephen Leacock Memorial Medal for Humour**: 1999, 2001, 2007 (three-time recipient).^7 ^11
 - **ACTRA Award**: 1979 (Jonestown documentary).^7
 - **Canadian Authors Association**: Best non-fiction 1993 (*Welcome Home*); Jubilee Award 2004.^7
 - **Pip Alumni Award**: 2009, Camp YMCA Kanawana.^6
@@ -155,7 +155,7 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 8. The Montrealer, "Stuart McLean: From Montreal West to the Vinyl Cafe" (2008). URL: https://themontrealeronline.com/2008/01/stuart-mclean-from-montreal-west-to-the-vinyl-cafe/
 9. Concordia University, "Stuart McLean: Canada's Storyteller" (2017). URL: https://www.concordia.ca/cunews/offices/vpaer/aar/2017/02/16/stuart-mclean-canadas-storyteller.html
 10. Westmount Magazine, "A fond farewell to Stuart McLean" (comments section). URL: https://www.westmountmag.ca/stuart-mclean/
-11. The Canadian Encyclopedia, "Stuart McLean." URL: https://www.thecanadianencyclopedia.ca/en/article/stuart-mclean
+11. The Canadian Encyclopedia, "Stuart McLean" [src_canadian_encyclopedia_mclean]. URL: https://www.thecanadianencyclopedia.ca/en/article/stuart-mclean. Not cached; read 2026-02-19. The second reference-work biography behind this article, and the source of the Ryerson professorship, the Order of Canada, the Leacock medals and the honorary degrees, all of which Wikipedia also carries. See [f_0490], [f_0502], [f_0505], [f_0506], [f_1013].
 12. CBC News, "Stuart McLean, host of CBC Radio's Vinyl Cafe, dead at 68" (2017). URL: https://www.cbc.ca/news/entertainment/stuart-mclean-dead-obit-1.3984826
 13. McMaster University, "Stuart McLean fonds." URL: https://archives.mcmaster.ca/index.php/stuart-mclean-fonds
 14. Stuart McLean, "A Letter from Camp," *The Vinyl Cafe: Up & Away* 4-CD collection, Disc Three (2016). Spotify: https://open.spotify.com/track/5Zg6psuVWQQbZb2p4Ij0JC
