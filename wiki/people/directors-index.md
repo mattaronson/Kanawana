@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 66*
-*Last Updated: 2026-09-08 (the whole 1977 establishment, 67 names against 67 jobs)*
+*Status: E1-reviewed | Sources: 67*
+*Last Updated: 2026-09-15 (the Pip roll completed from the award's own plaque)*
 
 ## Overview
 
@@ -568,13 +568,14 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | [[people/bruce-netherwood\|Bruce Netherwood]] | late 1980s-1990s | VP Camping Services, South Shore YMCA; YMCA leader and author | 2011 |
 | John Cleghorn | ~1950s | Former CEO Royal Bank of Canada | 2012 |
 | Sam Lazarus (posthumous) | camper + staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser at Kanawana (17+ years). | 2013 |
-| Jeniene Phillips Birks | unknown | Former broadcaster, community volunteer | 2014 |
+| Jeniene Phillips-Birks | unknown | Former broadcaster, community volunteer | 2014 |
 | Terry "Aislin" Mosher | 1952-1953 | Montreal Gazette editorial cartoonist | 2015 |
 | Carol Skinner | 1990-1995 | ALS advocate | 2016 |
 | Chris Adam | unknown | Environmentalist, teacher | 2017 |
 | Marina Sharpe | unknown | Refugee advocate | 2018 |
 | Dr. Amy Ornstein | staff, years unestablished | Professor of Pediatrics, Dalhousie; Medical Director, IWK START team | 2019 |
-| Dr. Karl Cernovich | unknown | "A leader in emergency medicine" | 2020-2023, exact year unestablished |
+| Karl Cernovitch | unknown | "A leader in emergency medicine" | **2022**^67 |
+| [[people/sean-day\|Sean Day]] | Camper and counsellor; Director of Camp YMCA Kanawana and Regional Director of Camps, 2005 - April 2023 | Named on the award plaque; no other citation found | **2023**^67 |
 | Dr. James Orbinski | 1980s-1990s | Humanitarian physician, MSF president | 2024 |
 | Alexandra Olshefsky | camper through 2002; Ranger and Knight of Kanawana, 2002 | Public defender, community volunteer | 2025 |
 | [[people/jared-macsween\|Jared MacSween]] | camper 1982-86, staff 1987-91 | General Manager, YMCA Cedar Glen Outdoor Centre; Manager of Training, YMCA Ontario Regional Development Centre 2012-24 | 2026 |
@@ -790,6 +791,7 @@ channels join up; where it does not, the column is the whole of the citation.
 64. YMCA of Montreal annual reports for the years ending **30 April 1902**, **30 April 1910**, and **31 March** of **1924, 1926, 1927, 1929, 1930** and **1932** [src_cache_sgw_ymca_annual_report_1902, src_cache_sgw_ymca_annual_report_1910, src_ymf_sgw_ymca_annual_report_1924, src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1929, src_cache_sgw_ymca_annual_report_1930, src_ymf_sgw_ymca_annual_report_1932]. The 1902 volume's *The Staff* section for W. H. Ball's move to the Prospect Park Branch of the Brooklyn Association; the 1910 volume for "Mrs. Ralph Dawson" among the Ladies' Auxiliary governors; the 1924 through 1930 volumes for R. H. Dawson named as chairman of the camp committee; the 1932 volume for his resignation after nineteen years. Read 2026-09-08 under p_490, using the hyphenation-tolerant search at `scripts/reread/name_search.py`. See [f_5749], [f_5750]. **And the 117th annual report, fiscal year ended 31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], whose personnel table records the transfers of G. Anderson to the Kanawana directorship and G. Turley to the assistant camp directorship. Its two columns are reflowed into one stream by the OCR, so entries can be read against their headings only by position; the Turley row is confirmed independently by his appearance under West Island in the same report's NEW APPOINTMENTS list. See [f_5753].
 65. YMCA of Greater Montreal, annual report **2004-2005, French edition** [src_ymf_sgw_ymca_annual_report_2004_2005_fr], the local advisory committee list and the 2004-2005 *Cadres supérieurs* roster. Read 2026-09-08 under p_487, which was ranking the 223 records marked "full-text-cached-and-keyword-swept-not-read-closely": this one carries fourteen mentions of the camp and had produced no facts. The English edition of the same report was read on 2026-09-06 for its Ayunda Dube profile. See [f_5758].
 66. YMCA of Montreal, annual reports for **FY2002-2003**, **FY2003-2004** and **FY2004-2005** in both editions where cached, and the report for **2009** [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2003_2004, src_ymf_sgw_ymca_annual_report_2003_2004_fr, src_ymf_sgw_ymca_annual_report_2004_2005, src_ymf_sgw_ymca_annual_report_2004_2005_fr, src_ymf_sgw_ymca_annual_report_2009]: the *Local Advisory Councils* pages for the three committee rosters, and the 2009 volume's Heritage Club dinner report for the Massé Award to Judy and Michael Weil. Read 2026-09-08 under p_487. See [f_5763] and [f_5764].
+67. **The Pip Award plaque at Camp Kanawana**, photographed and supplied by the operator, 15 September 2026 [src_photo_pip_award_plaque_2026]; image at `assets/images/plaques/pip-award-2026.jpg`. Seventeen engraved year strips, 2007-2026. It names the 2023 recipient this project did not have, dates Karl Cernovitch to 2022, and shows no entry for 2010, 2020 or 2021. Its spelling of Cernovitch and of Phillips-Birks disagrees with the YMCA release followed here until now; both are documented sources and the disagreement is open at `c_073`. See [[traditions/pip-alumni-award|The Pip Alumni Award]] for the full board, and [f_5830] through [f_5833].
 ## Research Notes
 
 ### Revision History

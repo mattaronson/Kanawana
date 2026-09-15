@@ -1898,7 +1898,8 @@
         "src_ymf_sgw_ymca_annual_report_1929",
         "src_cache_sgw_ymca_annual_report_1930",
         "src_ymf_sgw_ymca_annual_report_1968",
-        "src_ymf_sgw_ymca_annual_report_2004_2005_fr"
+        "src_ymf_sgw_ymca_annual_report_2004_2005_fr",
+        "src_photo_pip_award_plaque_2026"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1941,7 +1942,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 30997,
+      "word_count": 31116,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -4309,7 +4310,8 @@
         "src_ymca_quebec_pip_macsween_2026",
         "src_mcgill_news_caddell",
         "src_ymca_pip_mosher",
-        "src_ymca_quebec_pip_orbinski_2024"
+        "src_ymca_quebec_pip_orbinski_2024",
+        "src_photo_pip_award_plaque_2026"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -4321,7 +4323,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 4548,
+      "word_count": 5306,
       "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md.",
       "tags": {
         "era": [
@@ -10686,7 +10688,8 @@
         "src_ia_canadian_camping_collection",
         "src_whos_who_in_canada_owens",
         "src_financial_post_directory_of_directors_1947",
-        "src_art_index_vol_1"
+        "src_art_index_vol_1",
+        "src_photo_pip_award_plaque_2026"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -10696,7 +10699,7 @@
         "people/sean-day"
       ],
       "file_id": null,
-      "word_count": 3942,
+      "word_count": 4036,
       "tags": [
         "awards",
         "canoe-tripping",

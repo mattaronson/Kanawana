@@ -1,7 +1,7 @@
 # The Order of Owens
 
-*Status: draft | Sources: 11*
-*Last Updated: 2026-09-06 (a second Owens, a Kanawana directorship in 1965, and a son called Norrey)*
+*Status: draft | Sources: 12*
+*Last Updated: 2026-09-15 (a second camp award record skipping the same two pandemic seasons)*
 
 ## Overview
 
@@ -160,7 +160,7 @@ No Kanawana response to this argument is documented, and none is inferred here; 
 
 ## The 2020–2021 Gap
 
-The award was not presented in 2020 or 2021. This independently corroborates the camp's documented pandemic closures from a separate, camp-internal source: [[people/sean-day|Sean Day]] announced that YMCA Quebec would keep Kanawana's overnight camp closed for the 2021 season — a *second consecutive* closed summer — pivoting instead to 10 day camps, up from 3 the previous year.^1 The Order of Owens roster shows the same two-season interruption, from the camp's own award record rather than from press coverage.
+The award was not presented in 2020 or 2021, and **a second camp award record now shows the same two seasons missing**: the [[traditions/pip-alumni-award|Pip Alumni Award]] plaque, photographed at camp in September 2026, runs 2007 to 2026 with no strip for 2020 or 2021. [f_5831] One roll is for campers and the other for alumni, neither is press coverage, and they agree. This independently corroborates the camp's documented pandemic closures from a separate, camp-internal source: [[people/sean-day|Sean Day]] announced that YMCA Quebec would keep Kanawana's overnight camp closed for the 2021 season — a *second consecutive* closed summer — pivoting instead to 10 day camps, up from 3 the previous year.^1 The Order of Owens roster shows the same two-season interruption, from the camp's own award record rather than from press coverage.
 
 Notably, the camp's other great annual honour did **not** lapse for both years. [[traditions/lv-games|The L&V Games]] were contested in 2020, played remotely by volunteer alumni and campers in socially-distanced "bubbles," and only 2021 was lost.^3 The divergence is telling rather than contradictory: the L&V Games are a competition that could be abstracted into individual and online challenges, whereas the Order of Owens recognises the leadership and bearing of a canoe tripper — something that cannot be earned without a canoe, a trip, or a camp to do it at. When Kanawana went remote, the contest survived and the canoe-tripping honour could not.
 
@@ -228,6 +228,7 @@ not the summer directorship.)*
 9. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
 10. *Who's Who in Canada* (Toronto: International Press), the entry for Owen Ernest Owens, Ph.D., Internet Archive scan leaf 1546, printed page 790 [src_whos_who_in_canada_owens]. **Not lending-restricted**: the complete djvu text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in the volume, in this entry. The Internet Archive dates the item 1911, which is the series start; the entry's own latest datum is February 1976. Cached with the entry in full, and with what it does and does not establish, at `sources/cache/biographical/whos-who-in-canada-owen-ernest-owens.txt`. See [f_4971].
 11. Financial Post, *Directory of Directors* (Toronto, 1947) [src_financial_post_directory_of_directors_1947], his own index entry and the company entry, reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; and the *Art Index*, vol. 1 [src_art_index_vol_1], one author heading. Both books are lending-restricted and neither was read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-owens-day-job.txt`. See [f_5204].
+12. **The Pip Award plaque at Camp Kanawana**, photographed and supplied by the operator, 15 September 2026 [src_photo_pip_award_plaque_2026]; image at `assets/images/plaques/pip-award-2026.jpg`. Cited here only for the two seasons its engraved year strips skip, 2020 and 2021. See [f_5831] and [[traditions/pip-alumni-award|The Pip Alumni Award]].
 
 ## Research Notes
 

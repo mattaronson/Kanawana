@@ -1,8 +1,8 @@
 {
-  "version": "11.79",
-  "kb_version": "11.79",
+  "version": "11.80",
+  "kb_version": "11.80",
   "migrated_from": "3.3",
-  "fact_count": 5791,
+  "fact_count": 5795,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104609,6 +104609,85 @@
       "conflicts_with": [],
       "added_version": "11.79",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5830",
+      "claim": "THE AWARD'S OWN BOARD GIVES THE COMPLETE RECIPIENT ROLL, AND IT CLOSES THE ONE GAP THE ARTICLE COULD NOT. Photographed at camp and supplied by the operator on 2026-09-15. Seventeen engraved year strips in two columns under a bilingual header. IN COLUMN ORDER: 2007 Richard 'Itche' Kerr; 2008 Richard Patten; 2009 Stuart McLean; 2011 Bruce Netherwood; 2012 John Cleghorn; 2013 SAM LAZARUS & THE LAZARUS FAMILY; 2014 JENIENE PHILLIPS-BIRKS; 2015 Terry 'Aislin' Mosher; 2016 Carol Skinner; 2017 Chris Adam; 2018 Marina Sharpe; 2019 Amy Ornstein; 2022 KARL CERNOVITCH; 2023 SEAN DAY; 2024 Dr. James Orbinski; 2025 Alexandra Olshefsky; 2026 Jared MacSween. THE FOURTEENTH RECIPIENT IS SEAN DAY, 2023. pip-alumni-award.md has carried, since 2026-09-05, the statement that fourteen people preceded Orbinski, that the article could name only thirteen, and that the missing one was 'either a 2010 recipient or a second award somewhere in 2020-2023' (f_4809). It is the second of those: a 2023 award, to Sean Day. AND THE COUNT NOW RECONCILES TO THE DIGIT AGAINST ALL THREE PUBLISHED ORDINALS. Counting the board through 2015 gives eight, and the 2015 release calls Mosher 'the eighth person to receive the award'. Counting the strips before Orbinski gives fourteen, and YMCA Quebec calls Orbinski the fifteenth. Olshefsky is then sixteenth and MacSween seventeenth, and the 2026 release calls MacSween the seventeenth. THREE INDEPENDENT ORDINALS, THREE MATCHES, WITH NO SLACK LEFT FOR AN UNRECORDED RECIPIENT. The roll is complete.",
+      "sources": [
+        "src_photo_pip_award_plaque_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Pip Alumni Award",
+        "Sean Day",
+        "Karl Cernovitch",
+        "Jared MacSween",
+        "James Orbinski",
+        "Alexandra Olshefsky"
+      ],
+      "date_ref": "2007-2026",
+      "conflicts_with": [],
+      "added_version": "11.80",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5831",
+      "claim": "NO PIP AWARD IN 2010, 2020 OR 2021, FROM THE BOARD ITSELF. The plaque runs 2007 to 2026 with a strip for every year except THREE: 2010, 2020 and 2021. THE 2010 BLANK WAS ALREADY INFERRED and is now attested. pip-alumni-award.md derived it on 2026-09-07 by arithmetic -- counting to Mosher's published ordinal of eighth works only if 2010 had no award -- and recorded it as 'corroborated from outside the table rather than inferred from a gap in the newsroom'. THIS IS THE AWARD'S OWN RECORD SAYING SO, which is a third and better standing for it. THE 2020 AND 2021 ABSENCE IS NEW HERE, and it lands beside something the project already holds. traditions/order-of-owens.md records that the ORDER OF OWENS was likewise not presented in 2020 or 2021, and reads that as corroborating the camp's pandemic closures from a camp-internal source -- Sean Day's own announcement that YMCA Quebec would keep the overnight camp closed for the 2021 season, a second consecutive closed summer, pivoting to ten day camps. TWO SEPARATE AWARD RECORDS NOW SHOW THE SAME TWO-SEASON INTERRUPTION, one for campers and one for alumni, neither of them press coverage. THE THREE GAPS ARE NOT THE SAME KIND OF THING and should not be written as one: 2020 and 2021 have a documented cause, and 2010 has none -- no source in this project says why that year is blank.",
+      "sources": [
+        "src_photo_pip_award_plaque_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Pip Alumni Award",
+        "Order of Owens",
+        "COVID-19 closure",
+        "Sean Day"
+      ],
+      "date_ref": "2010, 2020-2021",
+      "conflicts_with": [],
+      "added_version": "11.80",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5832",
+      "claim": "THE PLAQUE SPELLS THE 2022 RECIPIENT 'CERNOVITCH' AND THE SPONSOR'S RELEASE SPELLS HIM 'CERNOVICH'. The engraved strip reads KARL CERNOVITCH, with a T. The YMCA release this project took the name from, and which pip-alumni-award.md and people/directors-index.md both follow, reads Cernovich. BOTH ARE DOCUMENTED SOURCES, so the standing directive that oral history yields to documented evidence does not reach this: it is a documented-against-documented disagreement and therefore a human decision point. Recorded as c_073 and NOT resolved here. WHAT CAN BE SAID FOR EACH. The plaque is the award's own permanent record, engraved at the camp, and is the artefact a recipient's name is actually inscribed on. The release is a communications document produced by the sponsoring organisation, of the kind this project has repeatedly found to carry name errors -- 'Hammerman' for Hamerman in the 2011 committee roster is the same shape of thing. Against that, an engraver can mis-set a name as easily as a communications officer can, and a plaque error is the harder of the two to correct afterwards, so age and permanence are not by themselves an argument for accuracy. THE SAME BOARD ALSO HYPHENATES JENIENE PHILLIPS-BIRKS, where both articles print it open as Phillips Birks. That one is a smaller disagreement of the same class and is carried into c_073 with it.",
+      "sources": [
+        "src_photo_pip_award_plaque_2026"
+      ],
+      "confidence": "disputed",
+      "category": "traditions",
+      "entities": [
+        "Karl Cernovitch",
+        "Jeniene Phillips-Birks",
+        "Pip Alumni Award",
+        "c_073"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "11.80",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5833",
+      "claim": "THE BOARD'S OWN WORDING, IN BOTH LANGUAGES, AND THE FRENCH DEMONYM ON THE CAMP'S WALL. The header plate carries the award's name as 'PRIX « PIP » AWARD' -- one bilingual title rather than two -- over parallel dedications. FRENCH: 'À la mémoire de Philip \"Pip\" Caddell (Kanawana '28) et James Caddell (Kanawana '83-'91). Présenté aux KANAWANIEN(NE)S qui représentent les valeurs Non Nobis Solum dans le monde au-delà du camp.' ENGLISH: 'In memory of Philip \"Pip\" Caddell (Kanawana '28) & James Caddell (Kanawana '83-'91). Presented to Kanawanians who represent the values of Non Nobis Solum in the world beyond camp.' THREE THINGS. (1) THE CAMP YEARS ON THE PLATE CORROBORATE THE ARTICLE RATHER THAN ADDING TO IT: pip-alumni-award.md already has Pip Caddell as a camper in 1928 and James Caddell at camp 'as a camper and counsellor from 1983 to 1991'. The board agrees with both, in the camp's own shorthand. (2) THE FRENCH DEMONYM IS 'KANAWANIEN(NE)S', gender-inclusive, ENGRAVED ON A PLAQUE AT THE CAMP. That is the same word that made src_ymf_ka_news_1978_03_29's Ka-News issue invisible to keyword triage -- a document classified as never naming the camp because it writes only 'Kanawaniens'. The form is not a one-off in a French newsletter; it is the camp's own French usage, still in use on a board carrying entries to 2026. Any pattern that searches this corpus for the camp's name must cover it. (3) THE DEDICATION NAMES TWO PEOPLE, grandfather and grandson, which the article has but people/directors-index.md's Pip table does not -- that table names only Philip 'Pip' Caddell.",
+      "sources": [
+        "src_photo_pip_award_plaque_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Pip Alumni Award",
+        "Philip Caddell",
+        "James Caddell",
+        "Non Nobis Solum",
+        "Kanawaniens"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "11.80",
+      "added_by": "manual"
     }
   ]
 }

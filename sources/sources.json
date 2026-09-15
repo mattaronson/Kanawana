@@ -29603,6 +29603,24 @@
       "extraction_version": "10.87",
       "reliability": "primary",
       "notes": "Not an external source. A measurement run against this repo: fact-id citation coverage across all wiki articles, plus a 30-fact probe sample testing whether uncited content is present under a numbered source note. Method and caveats are in f_5693 and in logs/pipeline.log."
+    },
+    {
+      "source_id": "src_photo_pip_award_plaque_2026",
+      "type": "artifact_photograph",
+      "title": "Prix « PIP » Award plaque, Camp YMCA Kanawana, photographed 2026",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": "assets/images/plaques/pip-award-2026.jpg",
+      "char_count": 0,
+      "ingested_at": "2026-09-15T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v11.80",
+      "reliability": "primary",
+      "notes": "The award's own board, photographed at camp and supplied by the operator on 2026-09-15. Bilingual header plate over two columns of engraved year strips, seventeen of them, 2007 through 2026. The camp's own record of its alumni award, and the only complete recipient list this project holds.",
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-15: the photograph was read in full -- both header plates transcribed and all seventeen year strips transcribed in column order. Nothing on the board is left unread. It settles p-level questions the Pip article had open: Sean Day at 2023 (the fourteenth recipient, previously unaccounted for), Karl Cernovitch at 2022, and the absence of any entry for 2010, 2020 and 2021."
     }
   ],
   "source_count": 1758

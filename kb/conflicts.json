@@ -1122,6 +1122,19 @@
       "flagged_at": "2026-09-08T01:20:00Z",
       "status": "open",
       "notes": "Raised 2026-09-08 under p_490. HUMAN DECISION POINT under CLAUDE.md: documented against documented. Both readings are shown in people/rh-hanagan.md rather than one being chosen. Bears on the Harold Potter lead in the same paragraph (f_5746): if Potter held Central's boys' desk until 1942-43, the roster's 1941 Hanagan line needs an explanation."
+    },
+    {
+      "conflict_id": "c_073",
+      "entity": "Karl Cernovitch / Cernovich, 2022 Pip Alumni Award recipient -- spelling of surname (and, secondarily, Jeniene Phillips-Birks)",
+      "description": "TWO DOCUMENTED SOURCES SPELL THE SAME RECIPIENT'S NAME DIFFERENTLY. The Pip Award plaque at Camp Kanawana, photographed 2026-09-15 [src_photo_pip_award_plaque_2026], engraves the 2022 strip as KARL CERNOVITCH. The YMCA news release this project took the name from [src_ymca_quebec_pip_macsween_2026] spells it CERNOVICH, and both wiki/traditions/pip-alumni-award.md and wiki/people/directors-index.md follow the release. Neither source is oral history, so the standing directive of 2026-07-07 does not reach this and it remains a human decision point. FOR THE PLAQUE: it is the award's own permanent record, engraved at the camp, and it is the object a recipient's name is actually inscribed on. FOR THE RELEASE: it is the sponsoring organisation's own communication about its own award. AGAINST BOTH: an engraver can mis-set a name as readily as a communications officer can mistype one, and neither medium is self-correcting, so permanence is not an argument for accuracy. NOT RESOLVED. Both readings are preserved and the articles carry the disagreement rather than choosing. THE SAME BOARD ALSO HYPHENATES 'JENIENE PHILLIPS-BIRKS' (2014) where both articles print 'Phillips Birks' open; that is the same class of disagreement between the same two sources and is carried here rather than raised separately. WHAT WOULD SETTLE EITHER: the recipient's own published name -- a professional listing, a medical college register for Cernovitch, a broadcast credit for Phillips-Birks -- which is a third and independent documented source and outranks a guess between the two held here.",
+      "facts": [
+        "f_5832"
+      ],
+      "status": "open",
+      "raised": "2026-09-15",
+      "raised_by": "manual",
+      "resolution": null,
+      "resolved_at": null
     }
   ]
 }

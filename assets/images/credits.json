@@ -5147,6 +5147,33 @@
       "source_url": null,
       "rights": "Crown copyright, Government of Canada, 1978. Photograph of the framed original supplied by the operator. Reproduced here as a documentary record; not cleared for redistribution.",
       "notes": "THE AUTHORITATIVE IMAGE of this document: the complete sheet including the dateline \"Ottawa, 1978.\" at the foot, which the earlier photograph cropped away. See f_4828, f_4834."
+    },
+    {
+      "id": "img_pip_award_plaque_2026",
+      "title": "Prix « PIP » Award plaque",
+      "caption_on_original": "Prix \"PIP\" Award / À la mémoire de Philip \"Pip\" Caddell (Kanawana '28) et James Caddell (Kanawana '83-'91)",
+      "date": "2026",
+      "date_precision": "year",
+      "source": "Photographed at Camp Kanawana and supplied by the operator, 2026-09-15",
+      "source_ref": "src_photo_pip_award_plaque_2026",
+      "source_url": null,
+      "rights": "Operator's own photograph of a plaque on camp property; supplied for this project.",
+      "linked_facts": [
+        "f_5830",
+        "f_5831",
+        "f_5832",
+        "f_5833"
+      ],
+      "suggested_articles": [
+        "pip-alumni-award",
+        "directors-index",
+        "order-of-owens"
+      ],
+      "target_filename": "pip-award-2026.jpg",
+      "filename": "pip-award-2026.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "The complete recipient roll 2007-2026 in seventeen engraved strips, two columns. No strip for 2010, 2020 or 2021."
     }
   ],
   "moving_images": [

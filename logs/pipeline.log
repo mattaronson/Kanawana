@@ -9282,3 +9282,16 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   people/derek-walsh.md (+1 src), history/between-centennials.md (stale caveat on Walsh withdrawn).
   f_5828 records a source record listing APPRECIATION as unread when it had been extracted five days earlier.
   All eleven verify checks pass.
+
+[2026-09-15T15:00:16Z] Pip Award plaque photographed at camp, supplied by the operator; read in full and written in.
+  New source src_photo_pip_award_plaque_2026, image committed at assets/images/plaques/pip-award-2026.jpg,
+  credits.json entry img_pip_award_plaque_2026.
+  KB 11.79 -> 11.80, 5,791 -> 5,795 facts (f_5830-f_5833). New conflict c_073 (Cernovitch/Cernovich spelling,
+  documented against documented, left open).
+  Seventeen engraved year strips, 2007-2026, all transcribed. SEAN DAY, 2023 is the fourteenth recipient the
+  article had flagged as unaccounted for; KARL CERNOVITCH dated to 2022; no strip for 2010, 2020 or 2021.
+  All three published ordinals (Mosher 8th, Orbinski 15th, MacSween 17th) now reconcile exactly.
+  Articles: traditions/pip-alumni-award.md (+1 src, new plaque section, table rebuilt, gap paragraph closed),
+  people/directors-index.md (+1 src, Pip table, both Caddells named), traditions/order-of-owens.md (+1 src,
+  the 2020-2021 interruption now attested in two separate camp award records).
+  All eleven verify checks pass.
