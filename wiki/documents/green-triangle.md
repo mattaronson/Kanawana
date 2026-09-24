@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 19*
-*Last Updated: 2026-09-08 (six issues between the 1976 and 1977 seasons, closing the 1977 gap)*
+*Status: draft | Sources: 20*
+*Last Updated: 2026-09-24 (which way up the triangle goes, and nineteen sources that never said)*
 
 ## Overview
 
@@ -166,6 +166,28 @@ editors made the shortfall visible on the page and let each section answer for i
 
 Separately from the newsletter, "the Green Triangle" was also a coveted camper achievement award, given to a camper who accomplished a series of feats.^7 Charles "Smillie" Buckland, who attended Kanawana from 1944 to 1951, described being its first recipient, circa 1944–1948; he also held the camp's lake swim record.^7 ^8
 
+## Which way up
+
+**The point goes down.** The triangle is drawn inverted, resting on its point with the wide edge
+uppermost.^20 This article ran to nineteen sources without recording the fact, which is a real gap rather
+than a small one: anyone reproducing the device from this wiki, on a badge, a banner or a letterhead, had
+nothing to go on and would have had to guess. [f_5834]
+
+**The orientation is the parent body's.** The YMCA's historic emblem is an inverted triangle, most familiar
+in the red triangle of the First World War era, carrying spirit, mind and body along its three sides. Drawn
+that way, Kanawana's Green Triangle is the association's own device rendered in the camp's colour rather
+than a shape the camp invented, which makes it a firmer statement of YMCA identity than a green triangle of
+no particular orientation would be. It sits alongside the camp's "four-fold" development philosophy
+(physical, intellectual, social, spiritual), which adds a fourth term to the YMCA's three and is treated at
+[[history/founding-1894|the founding article]].
+
+**This is oral history and it has not been checked against a picture.**^20 No photographed badge, masthead or
+painted device has been examined for it. The check is cheap and has simply not been run: **38 digitized
+issues of the paper are cached in this project**, and the masthead of any one of them would settle it, as
+would the felt Kanawana Outing Club badge and the dining-hall boards. Recorded here as Open Question 4.
+Under this project's standing rule oral history yields to documents where the two conflict; here no document
+has been consulted at all, so there is nothing yet for it to yield to.
+
 ## Symbolic Identity
 
 Beyond the publication and the award, "Green Triangle" functioned more broadly as a symbolic identity marker for the camp. It appears in the coda of the Kanawana marching cheer as performed in the 2000s ("What's the matter with the Green Triangle?"), and the camp historian [[people/matt-aronson|Matt Aronson]] has theorized — without yet elaborating publicly — that the Kanawana Marching Song itself arrived via "the tradition of Green Triangle."^9
@@ -308,6 +330,7 @@ directing the Senior Section from an armchair on the Lookout veranda in the issu
 1. [Important] What did the Green Triangle award's "series of feats" actually consist of, beyond Buckland's single anecdotal account? No source itemizes the specific requirements.
 2. ~~[Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the six issues read in full so far (1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27) — would likely surface further camp history not yet captured in this KB.~~ **[Resolved 2026-09-07 under p_482: the run has now been read issue by issue.** It produced, among other things, a third camp motto, the Fire of Friendship three years earlier than recorded, Cuckoo Day, the Kanawana Circus, the annual reunion, the *Gas Bag* succession, Marois Day's mixed programme, and people including Macdiarmid, Langille and Ross Seaman turning up years before their recorded dates. The one issue that resisted is **27 August 1932**, whose scan is too degraded to read; it needs page images.] **[Corrected the same day: "read issue by issue" was not yet true when it was written.** The campaign read the issues that were *not* on the six-issue list above, and passed over the ones that were — but four of those six had only ever been keyword-swept, and their source records still said so. 1935-08-17, 1937-03-30, 1939-07-22 and 1940-06-27 were read word for word on 2026-09-07 and produced the section above; the sentence now holds.]^16
 3. [Nice-to-have] What prompted the newsletter's 1976 and 1978–1982 revivals, and why did each end?
+4. **[Important, raised 2026-09-24]** Confirm the triangle's orientation against a picture. The operator states the point is always down and this article now follows that,^20 but no image has been checked. Look at the mastheads of the 38 digitized issues held in this project, the felt Kanawana Outing Club badge, and any dining-hall board or painted device carrying the triangle. One legible masthead closes it. If any image shows it point-up, that is a documented source against an oral one and the article changes.
 
 ## Related Articles
 
@@ -338,6 +361,7 @@ directing the Senior Section from an armchair on the Lookout veranda in the issu
 17. YMCA of Montreal annual report for **1938**, the staff-changes and fellowships section [src_ymf_sgw_ymca_annual_report_1938]. Held at read_state *partial* — its camps section had been read and its staff section had not; read 2026-09-07. See [f_5620].
 18. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its PROMOTION section. Read 2026-09-08 under p_441. See [f_5815].
 19. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its PROMOTION section. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under p_441, working the document's own heading list. See [f_5825].
+20. Oral history, the operator, **24 September 2026** [src_oral_aronson_green_triangle_orientation]: "The point of the triangle must always be down." Given while briefing an emblem for the Kamp Kanawana Alumni Association, correcting a draft that had drawn it point-up. **Uncorroborated by any image so far** — see Open Question 4. See [f_5834].
 
 ## Research Notes
 

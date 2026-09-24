@@ -1,8 +1,8 @@
 {
-  "version": "11.80",
-  "kb_version": "11.80",
+  "version": "11.81",
+  "kb_version": "11.81",
   "migrated_from": "3.3",
-  "fact_count": 5795,
+  "fact_count": 5796,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104687,6 +104687,24 @@
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "11.80",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5834",
+      "claim": "THE GREEN TRIANGLE POINTS DOWN, AND NOTHING IN THIS PROJECT HAD RECORDED WHICH WAY IT FACED. Operator, 2026-09-24, correcting a draft emblem brief that had drawn it point-up: 'The point of the triangle must always be down.' THE ORIENTATION MATTERS AND THE ARTICLE WAS SILENT ON IT. documents/green-triangle.md runs to nineteen sources and treats the device as a newsletter title, an award and a symbolic marker appearing in the marching cheer, and never says which way up it is drawn. A reader building anything from this wiki -- a reproduction, a badge, an emblem -- would have had to guess, and the guess made in this session was wrong. THE ORIENTATION IS ALSO THE YMCA'S OWN. The association's historic emblem is an INVERTED triangle, most familiar from the red triangle of the First World War era, carrying spirit, mind and body on its three sides. So Kanawana's green triangle is the parent body's device in the camp's own colour, which is a stronger claim about the camp's YMCA identity than 'a green triangle' on its own would be. WHAT THIS IS AND IS NOT. It is oral history from a source who was staff and has handled the camp's material culture, and it is recorded as such. NO PHOTOGRAPHED BADGE, MASTHEAD OR PAINTED DEVICE HAS BEEN CHECKED AGAINST IT. The 38 digitized Green Triangle issues are cached in this project and their mastheads would settle it in one look, as would the felt Kanawana Outing Club badge and the dining-hall boards. That check has not been run and is raised as an open question rather than assumed. Under the standing directive oral history yields to documents where the two conflict; here no document has been consulted at all, so there is nothing yet to yield to.",
+      "sources": [
+        "src_oral_aronson_green_triangle_orientation"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Green Triangle",
+        "YMCA red triangle",
+        "camp insignia"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "11.81",
       "added_by": "manual"
     }
   ]

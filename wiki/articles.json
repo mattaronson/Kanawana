@@ -9629,9 +9629,10 @@
         "src_ymf_the_green_triangle_1940_06_27",
         "src_ymf_sgw_ymca_annual_report_1938",
         "src_ia_kanawana_report_1975",
-        "src_ia_kanawana_report_1977"
+        "src_ia_kanawana_report_1977",
+        "src_oral_aronson_green_triangle_orientation"
       ],
-      "open_questions": 2,
+      "open_questions": 3,
       "cross_links": [
         "camp-songs-cheers",
         "directors-index",
@@ -9640,7 +9641,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5761,
+      "word_count": 6176,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_camp_shapes_lives; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [

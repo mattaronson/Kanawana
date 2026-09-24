@@ -29621,6 +29621,24 @@
       "notes": "The award's own board, photographed at camp and supplied by the operator on 2026-09-15. Bilingual header plate over two columns of engraved year strips, seventeen of them, 2007 through 2026. The camp's own record of its alumni award, and the only complete recipient list this project holds.",
       "read_state": "extracted",
       "read_state_basis": "2026-09-15: the photograph was read in full -- both header plates transcribed and all seventeen year strips transcribed in column order. Nothing on the board is left unread. It settles p-level questions the Pip article had open: Sean Day at 2023 (the fourteenth recipient, previously unaccounted for), Karl Cernovitch at 2022, and the absence of any entry for 2010, 2020 and 2021."
+    },
+    {
+      "source_id": "src_oral_aronson_green_triangle_orientation",
+      "type": "oral_history",
+      "title": "Operator statement on the orientation of Kanawana's Green Triangle device",
+      "date": "2026-09-24",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-24T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v11.81",
+      "reliability": "secondary",
+      "notes": "Given in the course of briefing an alumni-association emblem: 'The point of the triangle must always be down.' A correction to a draft that had drawn it point-up. Not yet corroborated by any photographed badge, masthead or painted device.",
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-24: a single statement, recorded in full. See f_5834."
     }
   ],
   "source_count": 1758
