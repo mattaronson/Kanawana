@@ -29639,7 +29639,43 @@
       "notes": "Given in the course of briefing an alumni-association emblem: 'The point of the triangle must always be down.' A correction to a draft that had drawn it point-up. Not yet corroborated by any photographed badge, masthead or painted device.",
       "read_state": "extracted",
       "read_state_basis": "2026-09-24: a single statement, recorded in full. See f_5834."
+    },
+    {
+      "source_id": "src_photo_charlton_lodge_nd",
+      "type": "web",
+      "title": "Photograph: \"Charlton Lodge\" - Kamp Kanawana / \"Seniors' Log Club-House\"",
+      "date": "1920s",
+      "date_precision": "decade",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-24T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "11.82",
+      "reliability": "primary",
+      "notes": "Sepia print on card mount, captioned in white ink in two places along the lower edge. Supplied by the operator 2026-09-24. Image filed at assets/images/historical/charlton-lodge-seniors-log-club-house.jpg. The only attestation of the name \"Charlton Lodge\" in the corpus. Date estimated from the mount, the ink captioning and the clothing; not documented.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_lookout_2026",
+      "type": "oral_history",
+      "title": "Matt Aronson - Oral History: the Lookout (2026-09-24)",
+      "date": "2026-09-24",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-24T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "11.82",
+      "reliability": "primary",
+      "notes": "The Lookout's location above the swimming beach in the Pathfinders section; its standing at camp as the oldest building on the property; the tradition that it is the farmhouse of the 1910 storm and that the committee looked out of it the next morning to see the lake; the Lodge (1927) and the lower pavilion/Longhouse as separate buildings; the Pagé family as the vendors of the 1910 property.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
-  "source_count": 1758
+  "source_count": 1760
 }

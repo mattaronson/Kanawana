@@ -235,9 +235,11 @@ A large **2- or 3-story pavilion/boathouse** on the Boating Waterfront (due sout
 
 That supersedes the "c. 1979, controlled fire" account below, at least as to date. This article previously said the Longhouse was demolished by **controlled fire** around 1979 because it was in an irreparable condition.^15 The demolition falls within the Dave Twynam directorship era. A "Long House" also appears, numbered, on the 1962 camp map [f_1812] — plausibly the same building at an earlier point in its history, though this hasn't been explicitly confirmed by any single source connecting the two.
 
-### The Lookout (Pre-1894)
+### The Lookout
 
-A structure that pre-existed the camp's founding — it was on the site before Kanawana was established, making it the oldest structure on the property.^15 Its original purpose and builder are unknown. Whether it survives today is undocumented.
+Oral history holds that the Lookout pre-existed the camp's arrival on the land, making it the oldest structure on the property [f_1201], and camp tradition makes it the farmhouse in which the 1910 search committee sheltered from a storm and from which it first saw the lake the next morning [f_5842]. The building survives: it stands on the slope above the swimming beach in what is today the Pathfinders section, and the 2025 facilities list carries it as F18, restricted access [f_5842]. Its construction date is not established, and no document this project holds describes it being built or converted [f_5844].
+
+The name is documented continuously from 1932, when a hiking party took its course from the Lookout [f_5837], through the Senior Section's clubhouse years, when it had a veranda, armchairs and a band of its own [f_5838]. A photograph supplied in 2026 gives it two names it carries nowhere else: "Charlton Lodge" and the "Seniors' Log Club-House" [f_5835]. See [[site/the-lookout|The Lookout]] for the full treatment, including the correlation of the building across five maps between 1928 and 2025 [f_5841].
 
 ### "The Cave" (Hike and Trip Equipment Room)
 
@@ -473,7 +475,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 
 | Year | Event | Source |
 |------|-------|--------|
-| pre-1894 | The Lookout — pre-existing structure on site before camp founded | [src_oral_aronson] |
+| before 1928, date unestablished | The Lookout. Oral history makes it a farmhouse predating the camp's 1910 arrival; the documented record has an unnamed building on its site by 1928 and the name in use by 1932. Neither reading is settled. | [src_oral_aronson], [src_ymf_1928_kamp_kanawana_map] |
 | 1910 | YMCA purchases the Saint-Sauveur site from the Page family | [src_kanawana_facts] |
 | 1911 | Dining Hall built | [src_oral_aronson] |
 | pre-1922 | Tents with wood floors as primary accommodation | [src_brochure_1921] |
@@ -558,6 +560,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 ## Related Articles
 
 - [[site/the-kanawana-site|The Kanawana Site]]
+- [[site/the-lookout|The Lookout]] — the building above the beach, and the camp's oldest
 - [[site/council-ring|The Council Ring]]
 - [[site/lake-wilson|Lake Wilson]]
 - [[site/camp-otoreke|Camp Otoreke]]

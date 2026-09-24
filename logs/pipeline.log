@@ -9312,3 +9312,27 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the object (the wiki records only a red backing), and close green-triangle.md Open Question 4
   by checking the triangle's orientation against a masthead.
   All eleven verify checks pass.
+
+[2026-09-24] THE LOOKOUT -- new article, ten facts, two source records, and an extended memo
+  Raised from an operator request for a research report on the camp's oldest building, prompted
+  by a supplied photograph captioned "CHARLTON LODGE" -- KAMP KANAWANA / "SENIORS' LOG
+  CLUB-HOUSE". Neither name occurs anywhere else in the 1,020 cached source texts.
+  Written: wiki/site/the-lookout.md (draft, 19 numbered sources, 6 open questions) and
+  project-docs/memos/the-lookout-memo.docx, an extended memo with six figures, 62 footnotes
+  carrying archive locations, and a "where to look next" section of eight leads.
+  Sources: src_photo_charlton_lodge_nd, src_oral_aronson_lookout_2026. sources.json 1758 -> 1760.
+  Facts: f_5835 to f_5844. kb/facts.json v11.81 -> v11.82, 5796 -> 5806.
+  Two orphan facts given homes: f_2167 (Charlton "hopes to complete arrangements for a Senior
+  Log Cabin", 1923) and f_2373 (the 1910 site search, the storm, the farmhouse). Neither had
+  been cited by any article.
+  Correction on the record: this project had reported that no source uses "Lookout" as a
+  building name before the 1962 map. False. The name is in The Green Triangle in 1932 and 1940
+  and in the association's own annual report in 1952. The error came from reading a grep piped
+  through head -20, which cut the Kanawana hits below the fold.
+  The construction date is NOT established and is not claimed. Two readings survive every
+  document held: built or converted 1923-1928, or a Page farmhouse standing since before 1910
+  and converted in the 1920s. Recorded as f_5844.
+  places-and-locations.md: the Lookout section rewritten, the "Pre-1894" heading and chronology
+  row retired (the camp only reached Saint-Sauveur in 1910), the article cross-linked.
+  Image filed: assets/images/historical/charlton-lodge-seniors-log-club-house.jpg, credited.
+  All eleven verify checks pass.

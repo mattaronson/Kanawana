@@ -1,8 +1,8 @@
 {
-  "version": "11.81",
-  "kb_version": "11.81",
+  "version": "11.82",
+  "kb_version": "11.82",
   "migrated_from": "3.3",
-  "fact_count": 5796,
+  "fact_count": 5806,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104706,6 +104706,191 @@
       "conflicts_with": [],
       "added_version": "11.81",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5835",
+      "claim": "THE PHOTOGRAPH THAT GIVES THE LOOKOUT TWO LOST NAMES. An undated sepia print on a card mount, captioned in white ink along the lower edge in two places: '\"CHARLTON LODGE\" - KAMP KANAWANA' at left and '\"SENIORS' LOG CLUB-HOUSE\"' at right. The building shown is the one at Kamp Kanawana known since at least 1932 as the Lookout. \"Charlton Lodge\" occurs nowhere else in the 1,020 cached source texts held by this project.",
+      "sources": [
+        "src_photo_charlton_lodge_nd"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Charlton Lodge",
+        "R. L. Charlton",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1920s",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5836",
+      "claim": "THE LOOKOUT AS PHOTOGRAPHED. A two-storey log building on a slope, gable end toward the camera, with a deep verandah running the length of one side beneath an overhanging roof and a flight of steps climbing to it at the right. Roughly twenty people are arranged in front, standing and seated on the ground: young men in shirtsleeves, several women or girls, and one figure at the right in breeches and high boots. Notices are pinned to the wall behind the verandah rail. Mature trees rise through the frame on either side.",
+      "sources": [
+        "src_photo_charlton_lodge_nd"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Charlton Lodge"
+      ],
+      "date_ref": "1920s",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5837",
+      "claim": "THE EARLIEST DOCUMENTED USE OF THE NAME 'THE LOOKOUT', AND IT IS NAVIGATIONAL. The Green Triangle of 20 August 1932: 'After determining and getting the course from the Lookout, ten valiant braves wandered their way past the ball field'. A hiking party takes its course from the Lookout, which is what a vantage point is for. This is thirty years earlier than the 1962 map this project had treated as the first use of the name.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_08_20"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1932-08-20",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5838",
+      "claim": "THE LOOKOUT AS THE SENIOR SECTION'S CLUBHOUSE IN 1940, THREE MENTIONS IN ONE ISSUE. The Green Triangle of 27 June 1940 refers to 'the veranda rail of the Lookout at Senior Camp', to 'armchairs on the Lookout veranda', and to an invitation in which 'the Senior Section invites the whole camp to the Lookout for fun, games and stuff' along with 'the Lookout band'. The veranda described here is the porch visible in the Charlton Lodge photograph.",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_06_27"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Senior Camp",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1940-06-27",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5839",
+      "claim": "THE 1962 MAP TREATS THE LOOK OUT AS A PLACE AND NOT AS A BUILDING. The 1962 Kamp Kanawana map letters 'LOOK OUT' on a signboard beside a building east of the Woodsmen cluster and above Sandy Beach. Its numbered legend of nine buildings (1 Craftshop, 2 Lodge, 3 Long House, 4 Dining Hall, 5 Business Office, 6 Chief's Cabin, 7 Pump House, 8 Windward Ho!, 9 Sanctam) does not include the Look Out. It is signposted instead, in the style the map reserves for Farewell Rock, Parliament Rock, Frog Bay, Lost Cabin and Sandy Beach.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Sandy Beach",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5840",
+      "claim": "AN UNNAMED BUILDING STANDS WHERE THE LOOKOUT STANDS, ON THE 1928 MAP. The 1928 Kamp Kanawana map shows a substantial gabled building with windows drawn on two faces at the east end of the Senior Camp cluster, above the waterfront, east of the senior tent row, with open ground running east toward Snowshoe Lake. It is the easternmost structure of the camp proper and the only building in that cluster drawn as architecture rather than as a tent. It carries no name, although the same map letters 'Craftshop' beside its icon a few hundred feet west. The 1941 map is the same plate reissued.",
+      "sources": [
+        "src_ymf_1928_kamp_kanawana_map"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Senior Camp",
+        "Snowshoe Lake",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5841",
+      "claim": "THE SAME BUILDING, CORRELATED ACROSS FIVE MAPS AND NINETY-SEVEN YEARS. Anchoring the pictorial maps on two features that appear in the same relation on every sheet, Snowshoe Lake off the northeast corner and the northeast shore of Lake Kanawana, puts one structure in one position on the 1928 map (unnamed), the 1941 reissue, the 1962 map ('LOOK OUT' signboard), the 1974 orienteering map ('Lookout'), the 1980-2001 site map ('LOOKOUT', above the Beach and Swimming Waterfront) and the 2025 facilities list (F18, Lookout, restricted access). The correlation is topological, not metric: these are pictorial maps and support no measurement.",
+      "sources": [
+        "src_ymf_1928_kamp_kanawana_map"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Snowshoe Lake",
+        "Lake Kanawana",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1928-2025",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5842",
+      "claim": "THE LOOKOUT AS CAMP TELLS IT, 2026. The Lookout stands on the slope above the swimming beach, fifteen to twenty metres up from the water and just above the lower road, in what is today the Pathfinders section for senior girls. It is held at camp to be the oldest building on the property. Camp tradition makes it the farmhouse in which the 1910 search committee sheltered from a storm and from which they 'looked out' the next morning to see the lake for the first time. The Lodge is a separate building in the middle of camp; the lower pavilion on the waterfront is the building later called the Longhouse. The YMCA bought the property from the Pagé family around 1910.",
+      "sources": [
+        "src_oral_aronson_lookout_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Pathfinders",
+        "the Lodge",
+        "the Longhouse",
+        "Pagé family",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5843",
+      "claim": "THE CAMP RESERVED THE NAME 'PAGÉ FARMHOUSE' FOR THE 1960 FARM OUTSIDE THE GATE, NOT FOR THE LOOKOUT. The Kamp Kanawana Annual Report 1969 recommends work on 'the unfinished playing field out by the Pagé farmhouse', referring to the farm the camp bought in 1960 just outside the camp gate. This is a caution against reading the oral tradition that the Lookout is a Pagé farmhouse: if it is, the camp acquired two Pagé buildings fifty years apart and reserved the family name for the later one.",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Pagé farmhouse",
+        "the Lookout",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5844",
+      "claim": "NOTHING IN THE CORPUS DATES THE LOOKOUT, AND TWO READINGS SURVIVE EVERY DOCUMENT. Reading one, built or converted between 1923 and 1928: the 1913 annual report wants a club house and has none, the 1922 and 1923 brochures list two pavilions and no senior club, the 1923 Pictorial Review shows the seniors under canvas at a 'Senior Tent-site', Charlton arranges a Senior Log Cabin in 1923, and a building stands there by 1928. Reading two, a Pagé farmhouse standing since before 1910 and converted in the 1920s: a building already on the land would appear in none of those documents, because each lists what the camp provided or built, and Charlton's 1923 word is 'arrangements', not construction. No source read by this project describes the building's construction, conversion, cost or age.",
+      "sources": [
+        "src_ymf_the_gas_bag_extra_vol_13_no_1"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "R. L. Charlton",
+        "Pagé family",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1910-1928",
+      "conflicts_with": [],
+      "added_version": "11.82",
+      "added_by": "ralph_loop"
     }
   ]
 }

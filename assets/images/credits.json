@@ -1,7 +1,7 @@
 {
   "_comment": "Provenance manifest for the Camp Kanawana visual archive. Every identified pre-2016 image gets an entry here BEFORE the image file lands, so provenance and rights are recorded. When an image is added to this directory, set status='acquired' and fill 'filename'. Canadian copyright note: photographs created before 1949 are generally public domain in Canada (and most pre-1972 published works), so the early archival images below are safely displayable. Photo-integration batch 'photodownloads-2026-06-29' added 2026-07-02: 234 images filed from three delivered archives (Concordia historical album, dining-hall plaque album, physical-artifact/art scans). See project-docs/research-log.md.",
   "version": "1.0",
-  "updated": "2026-09-06",
+  "updated": "2026-09-24",
   "images": [
     {
       "id": "img_kanawana_from_the_water_1923",
@@ -5174,6 +5174,31 @@
       "status": "acquired",
       "priority": 1,
       "notes": "The complete recipient roll 2007-2026 in seventeen engraved strips, two columns. No strip for 2010, 2020 or 2021."
+    },
+    {
+      "id": "img_charlton_lodge_nd",
+      "title": "\"Charlton Lodge\" - Kamp Kanawana, the Seniors' Log Club-House",
+      "caption_on_original": "\"CHARLTON LODGE\" - KAMP KANAWANA.   \"SENIORS' LOG CLUB-HOUSE.\"",
+      "date": "1920s",
+      "date_precision": "decade",
+      "source": "Private collection of the operator; supplied 2026-09-24",
+      "source_ref": "src_photo_charlton_lodge_nd",
+      "source_url": null,
+      "rights": "Operator's own print. Almost certainly public domain in Canada on age (photographs created before 1949), but the date is estimated from the mount, the ink captioning and the clothing, not documented.",
+      "linked_facts": [
+        "f_5835",
+        "f_5836"
+      ],
+      "suggested_articles": [
+        "the-lookout",
+        "rl-charlton",
+        "places-and-locations"
+      ],
+      "target_filename": "historical/charlton-lodge-seniors-log-club-house.jpg",
+      "filename": "historical/charlton-lodge-seniors-log-club-house.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "The only attestation of the name \"Charlton Lodge\" in the corpus. Sepia print on card mount, 2189x1739 as scanned. Shows the deep verandah described in The Green Triangle, 27 June 1940, as \"the veranda rail of the Lookout at Senior Camp\"."
     }
   ],
   "moving_images": [

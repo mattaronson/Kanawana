@@ -7143,3 +7143,35 @@ instead of by checking its headings against the facts already citing it. Three o
 correctly excluded that way, and the difference was that those facts were hours old and in mind while
 APPRECIATION's were five days old and were not. Proximity in time did the work a written record is
 supposed to do. The fix costs one grep and is now written into f_5828.
+
+## 2026-09-24 -- The Lookout
+
+**Topic:** The oldest building at Camp Kanawana: its names, its position, and its age.
+
+**Prompt:** An operator request for a research report, with a supplied photograph captioned
+"CHARLTON LODGE" -- KAMP KANAWANA / "SENIORS' LOG CLUB-HOUSE".
+
+**Surfaces searched:** the 1,020 cached source texts (full-text grep, several query shapes);
+the 1928, 1941, 1962, 1974, 1980-2001 and 2025 camp maps, read visually at 4x to 8x
+magnification; the McMorris thesis; the Concordia P145 finding aid entries already held;
+the CCA Ross & Macdonald catalogue entries already held.
+
+**Queries with results:** "Look Out" / "Lookout" across all cached texts (26 fact hits, nine
+document attestations, earliest 1932); "Senior Log Cabin"; "Senior Camp"; "Charlton" +
+cabin/lodge/club; "farmhouse"; "Page" / "Pagé" + farm.
+
+**Queries with null results, logged so the ground is not re-covered:**
+"Charlton Lodge" (no instance outside the photograph caption); "Pathfinder" within sixty
+characters of cabin, lodge, house or club (no matches); "Log Club House" (two matches, both
+the 1898 building at Lake St. Joseph, a different camp); McMorris thesis for lookout,
+Charlton, or farmhouse (no matches).
+
+**Result:** the name traced from 1932 to 2025 in nine documents, four of them earlier than the
+1962 map previously treated as its first use; the building correlated topologically across five
+maps and ninety-seven years; two names recovered from a single photographic caption. The
+construction date remains unestablished, with two readings that the corpus cannot separate.
+
+**Dead ends requiring physical archive access:** the 1915 hand-drawn property sketches
+(Concordia P145/12B03) and the Ross & Macdonald "YMCA Boy's Camp buildings" drawings of
+1913-1914 (CCA AP013.S1.D37) would each settle the question outright. Neither has been examined.
+Charlton's own 1943 manuscript (Concordia P145/12A, Box HA1881) is unread.
