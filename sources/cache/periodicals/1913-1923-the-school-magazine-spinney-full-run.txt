@@ -1,0 +1,210 @@
+SOURCE EXTRACT — read from the full djvu texts of ten volumes, 2026-09-06 (p_432)
+=================================================================================
+THE SCHOOL: A MAGAZINE DEVOTED TO ELEMENTARY AND SECONDARY EDUCATION
+Toronto: University of Toronto / Ontario College of Education
+
+This is the continuation of `1912-13-the-school-magazine-fh-spinney.txt`, which read volume 1
+and ended with the note that "LATER VOLUMES OF THE SCHOOL, which ran to 1935 and are on the
+Internet Archive, are UNSEARCHED — and the run covers every year of his known Kanawana service."
+They are now searched.
+
+WHAT WAS ENUMERATED AND WHAT WAS READ
+-------------------------------------
+The series was enumerated on the Internet Archive scrape API against the identifier stem
+`schoolmagazinede*`. Eleven items exist: schoolmagazinede01univuoft through 11univuoft, with
+VOLUME 3 MISSING FROM THE ARCHIVE, plus schoolmagazinede10ontauoft (a separate scan, 1935).
+None is lending-restricted. Ten complete djvu texts were downloaded and searched in full
+(volume 1 previously, volumes 2 and 4 through 11 in this pass).
+
+Volume years are taken from each volume's own title page, NOT from the Internet Archive
+metadata, which gives only the series span "1912-35" for every item:
+
+  vol 1  Sept 1912 – June 1913      vol 7   Sept 1918 – June 1919
+  vol 2  Sept 1913 – June 1914      vol 8   Sept 1919 – June 1920
+  vol 3  Sept 1914 – June 1915      vol 9   Sept 1920 – June 1921
+         NOT ON THE ARCHIVE — UNREAD
+  vol 4  Sept 1915 – June 1916      vol 10  Sept 1921 – June 1922
+  vol 5  Sept 1916 – June 1917      vol 11  Sept 1922 – June 1923
+  vol 6  Sept 1917 – June 1918
+
+EVERY ONE OF THESE YEARS IS READ OFF THE VOLUME'S OWN TITLE PAGE, which prints the span in the
+form "VOLUME IV. / September, 1915 to June, 1916." — none is inferred from the series. Volume 3's
+span is the only one stated here without a title page behind it, since the volume could not be
+obtained; it is the gap between the dated volumes on either side of it.
+`schoolmagazinede10ontauoft` (1935) was NOT read.
+
+"KANAWANA" OCCURS ZERO TIMES IN ANY OF THE TEN VOLUMES
+------------------------------------------------------
+A clean null across 1912–1923, the whole of the camp's early and interwar era up to volume 11.
+The magazine is a professional journal for teachers, not a general-interest one, so this is not
+surprising; it is recorded so nobody searches it again.
+
+
+I. HIS FIRST NAME IS FREDERICK
+==============================
+Volume 1 gave him only as "F. H. Spinney", and the cache file for it, this project's KB and
+`wiki/people/directors-index.md` all recorded that his first name was not in any source found.
+
+It is in volumes 2, 4 and 5, fourteen times, set in full capitals in the by-line:
+
+    Letter Writing
+    FREDERICK  H.  SPINNEY
+    Principal,  Alexandra  Public  School,  Montreal
+                                              — vol 2 (1913-14), scan line 12532
+
+    In  the  Classroom
+    FREDERICK  H.  SPINNEY
+    Principal,  Alexandra  Public  School,  Montreal
+                                              — vol 5 (1916-17), scan line 1333
+
+A NOTE ON WHY IT WAS MISSED THE FIRST TIME, because it will happen again. The scan's OCR
+double-spaces between words. A grep for `FREDERICK H. SPINNEY` with single spaces returns ZERO
+in all ten volumes; `FREDERICK  H.  SPINNEY` returns fourteen. The name was in the corpus the
+whole time and the query was wrong. Search these texts with `[[:space:]]\+` or a
+case-insensitive substring, never with literal single spaces.
+
+The volume-5 index and the vol-2 Round Table also print the initials-only form, so both forms
+run concurrently; the full form is not a later correction of the short one.
+
+
+II. HIS ADDRESS, AND HIS SCHOOL'S
+=================================
+Volume 2's Round Table prints his correspondence address (scan line 28774):
+
+    [Extract from a letter re International Correspondence Scheme received from F. H. Spinney,
+    160 Sanguinet Street, Montreal, Que.]
+
+Volume 4 gives the same number as the school's (see III below): "the Alexandra School, 160
+Sanguinet Street". So 160 Sanguinet is ALEXANDRA SCHOOL ITSELF, not his home — he was taking
+his correspondence at his desk. This is a school address and should not be recorded as a
+residence.
+
+Sanguinet Street runs through what was then Montreal's Jewish immigrant quarter east of the
+Main; volume 4 says the school's children "are nearly all of Jewish origin". That is the
+magazine's characterisation of the pupils, printed in 1915, and it is quoted rather than
+paraphrased.
+
+
+III. THE FIND THAT MATTERS: HE TAUGHT BASKETRY
+===============================================
+The identification of the magazine's F. H. Spinney with Kamp Kanawana's Educational Director
+previously rested on name, city and calling — a real but circumstantial join, and it was
+written that way. Volume 4 supplies a fourth term that is not circumstantial, because it is
+specific and odd.
+
+This project's fact f_0058 records, from the 1922 camp brochure, that Kanawana's Educational
+Director F.H. Spinney was TEACHING BASKETRY.
+
+Volume 4 (Sept 1915 – June 1916), quoting the Montreal Daily Star of December 18th [1915],
+scan line 30605:
+
+    Over $125 was realized yesterday afternoon for the Canadian Red Cross Society at the sale
+    of baskets held at the Alexandra School, 160 Sanguinet Street. The baskets were made by
+    the pupils and teachers in the "after school" class which meets twice a week, from 3.30 to
+    5 p.m. The idea originated with F. H. Spinney, the head master, who wished to see how the
+    children would get on at hand work. About a year ago the class was started and now some
+    fifteen teachers and fifty pupils work together making all sorts of baskets from little
+    flower pots to big waste-paper baskets. The classrooms were beautifully decorated yesterday
+    with all sorts of Christmas decorations made chiefly by the children, who are nearly all of
+    Jewish origin. Three little girls and five boys gave a demonstration of the work in one of
+    the rooms, and tea was served in another in which Miss White, one of the kindergarten
+    mistresses, presided. Cake was contributed by the cooking centres. — Montreal Daily Star,
+    of Dec. 18th.
+
+The same uncommon surname, the same two initials, the same city, the same profession — and now
+the same unusual specific activity, basketry taught to children out of school hours, six years
+before the camp brochure records him teaching it at Kanawana, and started on his own initiative.
+
+This is still an identification rather than a document naming both roles in one line. No source
+found says "F. H. Spinney of Alexandra School is the Kanawana Educational Director". But the
+join has moved from "plausible by name and calling" to "four independent points of agreement,
+one of them a distinctive practice he personally introduced." It should be described that way
+and not as proven.
+
+It also dates the basketry to Montreal and to about the autumn of 1914 — he brought it TO the
+camp, he did not pick it up there.
+
+
+IV. THE FULL RUN OF HIS CONTRIBUTIONS, AND WHERE IT STOPS
+=========================================================
+By-lines, with the heading each sits under, read from the scans:
+
+VOLUME 1 (1912-13) — "In the Little Red Schoolhouse", at least eight numbered instalments
+  on the practice of the one-room rural school. The editors announce a second series.
+  (Read previously; see the volume-1 cache file.)
+
+VOLUME 2 (1913-14) — 11 by-lines:
+  "Little Journeys to Rural Schools" ×8 (lines 1730, 4849, 8208, 11623, 16060, 20216, 28341,
+      31167). THE SECOND SERIES ANNOUNCED IN VOLUME 1 WAS IN FACT WRITTEN. The volume-1 cache
+      file lists "whether the second series was ever written" as not established; it is now.
+  "Letter Writing" ×1 (12532) — the first appearance of the full first name.
+  "The Use of our Holidays" ×1 (34563).
+  A signed Round Table letter (28788) soliciting pupils' letters nationally.
+
+VOLUME 3 (1914-15) — NOT ON THE INTERNET ARCHIVE. UNREAD. This is a real hole, not a null.
+
+VOLUME 4 (1915-16) — 10 by-lines:
+  "In the Classroom" ×4 (2488, 6394, 12426, 36911)
+  "Letter Writing" ×6 (2910, 16179, 16797, 26746, 31732, 45368) — his International
+      Correspondence Scheme, exchanging pupils' letters "from all over Canada, from every State
+      in the American Union, and from many parts of England".
+  Plus the Montreal Daily Star basketry item quoted in III, which is ABOUT him rather than by him.
+
+VOLUME 5 (1916-17) — 8 by-lines, all "In the Classroom", a lesson-by-lesson series largely on
+  teaching Fractions to a Fifth Grade divided into three ability groups.
+
+VOLUME 6 (1917-18)  — "Spinney" occurs ZERO times.
+VOLUME 7 (1918-19)  — ZERO.
+VOLUME 8 (1919-20)  — ZERO.
+VOLUME 11 (1922-23) — ZERO.
+
+VOLUMES 9 (1920-21) AND 10 (1921-22) CONTAIN "SPINNEY" AND IT IS NOT HIM. Both are Nova
+Scotians and neither is a Montreal schoolmaster:
+  vol 9, lines 1781 and 40152: "Hon. E. K. Spinney, member for Yarmouth and Clare, N.S.",
+      listed as a Minister without Portfolio — Edgar Keith Spinney, in the Meighen ministry.
+  vol 10, line 9873: the same man, in a later cabinet list.
+  vol 10, line 8144: "Miss Catherine Spinney has transferred herself from Truro to Halifax."
+These are recorded because a future search on the bare surname will hit them, and a careless
+reading of volume 9 or 10 could put Kanawana's Educational Director in the federal cabinet.
+
+SO: HIS CONTRIBUTIONS RUN FROM VOLUME 1 TO VOLUME 5 AND STOP DEAD IN JUNE 1917.
+He published in the magazine continuously for five years and then never again in the six
+volumes that follow, through June 1923.
+
+The 1921 camp brochure documents him at Kanawana IN HIS FIFTH YEAR, which puts his first camp
+season in 1917. His last piece for The School and his first summer at Kanawana fall in the same
+year.
+
+WHAT THAT IS AND IS NOT. It is a coincidence in date between two independently documented
+series, and it is recorded as one. It is NOT evidence that the camp caused him to stop writing,
+and the magazine gives no reason for his disappearance from it — no valedictory note, no
+"Mr. Spinney has resigned", nothing. Volumes 6 through 11 also carry no successor at Alexandra
+School, Montreal: every post-volume-5 "Alexandra School" in the run is a different school
+elsewhere (Edmonton, Calgary, Moose Jaw, Lindsay), so the magazine simply stops covering the
+Montreal one. The correct statement is that THE MAGAZINE STOPS MENTIONING HIM AFTER JUNE 1917,
+not that he left the school.
+
+
+V. WHAT IS STILL NOT ESTABLISHED
+================================
+- His surname initial H. still stands for nothing found.
+- His birth and death dates, and any record of him outside this magazine and the camp brochures.
+- Whether he stayed at Alexandra School after 1917. The magazine's silence is not his departure.
+- When he left Kanawana, beyond the 1922 brochure being the last to name him.
+- Volume 3 (1914-15) is not on the Internet Archive and has not been read anywhere.
+- Volumes 12 onward (1923-1935) exist as a run but only the 1935 scan
+  (`schoolmagazinede10ontauoft`) was found on the Archive; it was not read. By 1923 he has been
+  absent from the magazine for six years, so the expected yield is low, but it is not zero and
+  it has not been checked.
+
+QUERIES RUN AGAINST THE TEN TEXTS: case-insensitive `kanawana` (0 in all ten); `spinney`
+(counts by volume: 17, 12, —, 11, 8, 0, 0, 0, 3, 2, 0); `frederick` within three lines of
+`spinney`; `alexandra +school`; `little +journeys`; `in +the +classroom`; `letter +writing`;
+and title-page scans for the volume years.
+
+`basket` was run against the four volumes that carry Spinney at all (10, 5, 20 and 26 hits in
+volumes 1, 2, 4 and 5) and cross-filtered for Alexandra, Sanguinet, Spinney and Montreal. THE
+DECEMBER 1915 STAR ITEM IS THE ONLY BASKETRY PASSAGE CONNECTED TO HIM in the run; the other
+hits are wastepaper baskets, basket-work in other provinces' schools, and the like. So the
+basketry join rests on one printed paragraph, not on a pattern of them, and III should be read
+with that in mind.

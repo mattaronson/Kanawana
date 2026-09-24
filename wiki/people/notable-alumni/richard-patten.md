@@ -1,7 +1,7 @@
 # Richard Patten
 
-*Status: draft | Sources: 8*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 9*
+*Last Updated: 2026-09-07 (a 1965 camp publication spelling the name Patten, and a staff career that fits)*
 
 ## Overview
 
@@ -18,6 +18,24 @@ Patten's YMCA career before politics was extensive: he trained YMCA staff in Guy
 ## Political and Later Career
 
 Patten served as a Liberal MPP for Ottawa Centre (1987–1990, 1995–2007), holding the portfolios of Minister of Government Services and Minister of Correctional Services in the Peterson government.^1 After leaving politics he served as CEO of the CHEO Foundation and President of the Canadian Council for International Cooperation.^1 ^5 The Richard Patten Aboriginal Bursary Fund was created at Algonquin College in his honour.^7
+
+**A 1965 camp publication spells the name Patten, and describes a staff career that fits.** *The
+Chestnut*, the Pathfinder section's summary for 1965, profiles "**Ric**" among the section's leaders:
+"Ric is **22 years of age** and has **seven years on camp staff**. His jobs have included being a
+counsellor for three years and **SPC** for two years and a **section director** for one. He also was
+**admiral** for one year. Ric doubts he will be back next year because of the forthcoming happy event
+in his life."^9 The profile page renders the surname "Petten," but the same issue's joke
+advertisements page has it correctly: "**FOR ARA & GEAR AND LOTS OF CHEER — see Ric Patten**." The OCR
+of this document confuses *a* and *e* throughout.
+
+**What it does and does not settle.** Seven years on staff by 1965 means starting about 1958–59, which
+would put a "Rick Patten" on the Advance Guard plaque of **1963** in the middle of that run — so the
+document is real support for open question 1 below. But it does not close it, and one particular is
+off: Richard Patten was born **13 May 1942**, so at camp in the summer of 1965 he was **23**, not 22.
+A year's slip in a section newsletter compiled by teenagers is unremarkable, and so is a second Ric
+Patten. The identification is stronger than it was and is still not made here. The profile also
+answers question 2 only in part: it establishes seven years **on staff**, and says nothing about years
+as a camper.
 
 ## Open Questions
 
@@ -42,6 +60,7 @@ Patten served as a Liberal MPP for Ottawa Centre (1987–1990, 1995–2007), hol
 6. Wikipedia, "Richard Patten"; obituary (HP McGarry), international YMCA career [src_wikipedia_richard_patten].
 7. Wikipedia, "Richard Patten"; obituary (HP McGarry), Algonquin College bursary [src_wikipedia_richard_patten].
 8. YMCA of Montreal Annual Reports 1977-78 and 1978-79 (Internet Archive) — the "Branch Chairmen and Executive Directors" listing places Patten at the Centre-ville/Downtown branch, separately from the association's General Secretary and CEO [src_ia_ymca_annual_report_1977_78, src_ia_ymca_annual_report_1978_79].
+9. *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482. Its staff-profile pages put the same question to nearly every member of staff, which is why it can be read as a poll.
 
 ## Research Notes
 

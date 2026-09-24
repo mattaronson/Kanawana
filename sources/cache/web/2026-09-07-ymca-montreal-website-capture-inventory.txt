@@ -1,0 +1,72 @@
+THE YMCA OF MONTREAL'S OWN WEBSITE, 1999-2012, IN THE INTERNET ARCHIVE
+Inventory built 2026-09-07 with archive.org's availability API, which works
+here while web.archive.org does not (f_5361). NOTHING BELOW HAS BEEN READ.
+
+=====================================================================
+WHY THIS IS WORTH SOMEBODY'S AFTERNOON
+=====================================================================
+
+This project's coverage of Kanawana in the 2000s is among its thinnest, and
+the association published its own camp pages every spring in exactly those
+years. A camp's website in JUNE carries that summer's session dates, age
+bands, fees, programme names and often its director -- the things the wiki has
+had to reconstruct from brochures, alumni recollection and the occasional
+annual report.
+
+AND THE CAPTURES SIT ALMOST EXACTLY ON JUNE, YEAR AFTER YEAR.
+
+=====================================================================
+THE RUN: ymcamontreal.qc.ca, front page, closest capture to 1 June
+=====================================================================
+
+  1999-10-13   2000-06-20   2001-05-16   2002-05-30   2003-05-29
+  2004-06-06   2005-06-02   2006-06-13   2007-06-12   2008-06-07
+  2009-06-01   2010-06-12   2011-07-06   2012-06-11
+
+All HTTP 200. Fourteen consecutive years, thirteen of them within three weeks
+of the start of the camp season. A separate capture of /index.html exists for
+2004-12-07, and 2003-02-04 and 2008-01-18 captures exist off-June.
+
+THE SUCCESSOR DOMAIN, ymcaquebec.org, is archived from 2009-08-10. Its
+/en/camps path has a capture at 2025-11-08. The two together should cover the
+rebrand.
+
+=====================================================================
+WHAT COULD NOT BE DONE FROM HERE, AND WHY
+=====================================================================
+
+THE INTERIOR CAMP PAGES CANNOT BE LOCATED BY GUESSING. Every one of these
+returned NO CAPTURE at all:
+
+  /camps · /en/camps · /kanawana · /camp_kanawana · /en/kanawana ·
+  /camps/kanawana · /en
+
+That is evidence about the guesses and NOT about whether camp pages were
+captured -- the same trap that the Carol Skinner inventory hit an hour
+earlier. A site's menu labels rarely match its URLs, and this one was
+bilingual, which doubles the ways a path can differ from an English guess.
+
+THE REAL PATHS ARE IN THE NAVIGATION OF THE CAPTURES THEMSELVES, and reading a
+capture needs web.archive.org, which is blocked here at both ports and cannot
+be reached with a headless browser either (f_5362). SO THIS IS AN OPERATOR
+TASK, and its first step is one click: open the 2003 or 2004 front page and
+read the menu.
+
+=====================================================================
+WHAT TO LOOK FOR, IN ROUGH ORDER OF VALUE
+=====================================================================
+
+1. SESSION STRUCTURE AND DATES, year by year. The wiki's account of how
+   Kanawana's sessions were shaped in the 2000s is thin and largely inferred.
+2. FEES. This project has almost no price series after the 1970s.
+3. THE DIRECTOR'S NAME in each season -- directors-index.md has gaps here.
+4. AGE BANDS AND SECTION NAMES, which is how programme changes show up.
+5. THE FRENCH PAGES. Kanawana ran a French section, and a bilingual site will
+   often say more about it in French than in English.
+6. CAMP OTOREKE AND ANY DAY CAMPS, for the same years.
+7. The 2009-2012 stretch spans the move to ymcaquebec.org; the two domains
+   side by side may date the rebrand precisely.
+
+A NOTE ON WHAT NOT TO TRUST. A camp page captured in June advertises the
+season about to happen, not the one that happened. Read the tense, exactly as
+the 1904 Men of Montreal issue had to be read.

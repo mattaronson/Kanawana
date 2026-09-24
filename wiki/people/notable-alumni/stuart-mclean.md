@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-09-08 (his director's own account of him, 1975)*
 
 ## Overview
 
@@ -11,30 +11,78 @@ After his death in 2017, his family established the Stuart McLean Camp YMCA Kana
 
 ## Early Life and Education
 
-McLean was born in Montreal West, the eldest of three children.^7 He attended Lower Canada College, where by his own account he was "an utter academic, athletic and social failure" who repeated Grade 11.^8 He graduated from Sir George Williams University (now Concordia University) with a BA in applied social science in 1971.^8 ^9
+McLean was born in Montreal West on **19 April 1948**, the eldest of three children of Australian immigrant parents.^7 ^11 *The two reference works this article rests on disagree on his mother's given name* — the Canadian Encyclopedia has **Patricia Godkin**, Wikipedia **Margaret Godkin** — and neither is a primary record, so the article carries both rather than choosing.^7 ^11 He attended Lower Canada College, where by his own account he was "an utter academic, athletic and social failure" who repeated Grade 11.^8 He graduated from Sir George Williams University (now Concordia University) with a BA in applied social science in 1971.^8 ^9
 
 ## Camp Kanawana Years (1969–1975)
 
-McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10
+McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 He was a section director by the summer of 1971 — the camp's own 1974 director's report says so in passing ("He was a Section Director in 71 and had been on staff for several years before that"), and the *Dictionary of Literary Biography* arrives at the same year independently.^10 ^17 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10 ^17 **The camp's own 1975 report confirms the second of those years and says what his director thought of him**: "Stuart McLean was the **Assistant Kamp Director for his second year**. He has made an outstanding contribution to Kanawana. His warm outgoing personality together with his genuine interest and ability to help people has **endeared him to all who have had the opportunity of working with him**. He has done much to contribute to the growth of many Kanawanians and kamp itself."^19 The dates were already held from three secondary sources; this is the camp's own paper, and the only in-period assessment of him at Kanawana in this project. [f_5807]
 
 McLean spoke repeatedly about the camp's formative impact: "When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence."^2 ^5 In a 2008 interview, he said: "I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences."^8 A Globe and Mail arts profile (c. 2003) described his time as a counsellor at Kanawana in his 20s as "at once magical and developmentally critical."^15 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), he described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 
 His first opportunity to mentor children and stage a variety show — skills that would define his broadcasting career — came at Camp Kanawana.^2 A frequently-quoted line — "It was the first place, as a young person, that I felt I could contribute to the greater good" — was originally said in a CBC Montreal Radio Noon interview, per OurKids.net's own framing ("in an interview with CBC Montreal's Radio Noon two years ago"), adding provenance to a quote already documented from the OurKids piece itself.^2
 
+### In his own book, and in his own sentences
+
+Every quotation above is McLean talking — an interview, a speech excerpt, a profile, somebody else's
+transcription of him. **He also wrote it down himself.** *The Vinyl Cafe Notebooks* (Viking Canada,
+2010) carries this:^16
+
+> "[Kanawana is] where it all began for me. In the summer of 1969, [I] got a job at Kamp Kanawana on
+> the shores of Lake Kanawana in the Laurentian Mountains. **Kanawana is where I found my sea legs,
+> where I was able to leave the shaky and uncertain turbulence of my adolescence behind** and find the
+> road, or, more to the point, find the where[with]al…"
+
+It says what the interviews say and it says it as a writer: not "I found my confidence" to a reporter,
+but *sea legs* and *shaky and uncertain turbulence*, forty-one years afterwards, in a book he chose to
+put it in. It also confirms **1969** from his own hand, where this article had the date from a profile.
+
+*This bears on Open Question 2 below*, which asks whether any *Vinyl Cafe* material references camp.
+This is not a Dave and Morley story — it is an essay in the *Notebooks* — but it is Vinyl Cafe material
+that names Kanawana, and it was found only because a search paired the camp's name with Sir George
+Williams University, which McLean writes about on the same page.
+
+### What he told an interviewer in 2010, at length
+
+The line most often quoted about McLean and the camp — "It was the first place, as a young person,
+that I felt I could contribute to the greater good" — is one sentence, said to CBC Montreal's Radio
+Noon. He said the same thing at length to somebody else. The *Dictionary of Literary Biography*'s
+entry on him, written by David C. Greer for volume 362, *Canadian Literary Humorists* (Gale, 2011),
+quotes "an unpublished 19 May 2010 interview":^17
+
+> "For the first time in my life, I realized I had found a place where I could be good at
+> something … or as good as everyone else anyway … a place where I could fit in and be competent and
+> contribute to the greater good. Which is a very important thing for a young person's growth and
+> development."
+
+The ellipses are the book's. The hedge in the middle — *or as good as everyone else anyway* — is the
+part the one-sentence version loses, and it is the part that sounds like the boy who repeated Grade 11
+at Lower Canada College rather than the broadcaster remembering him.
+
+**And the interview itself is a lead.** It was conducted for the volume, nine months before it went to
+press, and it has never been published. Greer, who also wrote the volume's W. P. Kinsella entry,
+presumably still holds it. Nothing else in this project is an interview with McLean about the camp
+conducted by someone who then wrote 3,000 words about him.
+
 ## Career in Broadcasting and Writing
 
-After graduating in 1971, McLean worked at Dawson College Student Services and edited the college newspaper *The Dawson Forum*.^8 He managed Nick Auf der Maur's first successful Montreal city council campaign, and through Auf der Maur's journalism connections entered CBC Radio.^7 ^8
+After graduating in 1971, McLean worked at Dawson College Student Services and edited the college newspaper *The Dawson Forum*.
+
+**Both of those put him in A. Ross Seaman's orbit, and he said so twenty-six years later.** Concordia's *Thursday Report* of 27 March 1997, covering the tenth anniversary of the A. Ross Seaman Cup: "**The keynote speaker was Stuart McLean, who graduated from Concordia's Applied Social Sciences program when Seaman taught here.** He was a student advisor at Dawson… McLean talked about his memories of Seaman, and **donated copies of his national bestsellers for auction**. Altogether, the auction raised more than $2,000 for the Awards fund."^18 [[people/a-ross-seaman|Seaman]] was part-time faculty in Applied Social Science from 1963 and the man who built Dawson's Community Recreation and Leadership Training programme — so McLean was taught in his department while he taught in it, worked at his college, and came back a quarter of a century later to speak about him and auction his own books for the fund.
+
+*One line in that report is not adopted here.* It calls McLean "**a camper** at the Y's Kamp Kanawana." This article documents him visiting a friend at the camp in the summer of 1969 and being hired on the spot as a counsellor, then working five summers; nothing has him as a camper. A university paper's one-line summary of a keynote speaker's biography is a weaker witness than the detailed account above, and the discrepancy is recorded rather than resolved.
+
+**And he paired the camp with the classroom, from a Concordia podium in 2004.** At an alumni luncheon on 30 September that year, McLean — by then "a tenured professor at Ryerson University" — "told the audience how much his years at Sir George Williams University meant to him, **particularly his courses in Applied Human Science and summers working at Camp Kanawana**."^18 (The department had been renamed between the two reports; it is Applied Social Sciences in 1997 and Applied Human Science in 2004.)^8 He managed Nick Auf der Maur's first successful Montreal city council campaign, and through Auf der Maur's journalism connections entered CBC Radio.^7 ^8
 
 At CBC, McLean served as a researcher for *Cross Country Checkup* (1974), a documentarian for *Sunday Morning* (winning an ACTRA Award in 1979 for his Jonestown massacre documentary), and executive producer of *Sunday Morning* (1982–1984).^7 He was a regular contributor and occasional host on *Morningside* with Peter Gzowski through the 1980s.^7
 
-McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 to 2004, later named professor emeritus.^7
+McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 to 2004, later named professor emeritus.^7 ^11
 
 *The Vinyl Cafe* was created in 1994 as a summer replacement show on CBC Radio. By autumn 1997 it became a weekly Sunday broadcast. The show toured nationally from 1998, attracting over one million listeners per episode at its peak and syndication to approximately 80 US public radio stations.^7
 
 ## Honours and Awards
 
-- **Order of Canada**: Officer, December 2011.^7
-- **Stephen Leacock Memorial Medal for Humour**: 1999, 2001, 2007 (three-time recipient).^7
+- **Order of Canada**: Officer, December 2011.^7 ^11
+- **Stephen Leacock Memorial Medal for Humour**: 1999, 2001, 2007 (three-time recipient).^7 ^11
 - **ACTRA Award**: 1979 (Jonestown documentary).^7
 - **Canadian Authors Association**: Best non-fiction 1993 (*Welcome Home*); Jubilee Award 2004.^7
 - **Pip Alumni Award**: 2009, Camp YMCA Kanawana.^6
@@ -43,7 +91,7 @@ McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 
 
 ## The 2005 Return Visit
 
-In 2005, McLean returned to Camp Kanawana for a week and hosted one of his *Vinyl Cafe* shows at the camp. [[people/sean-day|Sean Day]], then Regional Director of Camps, was present for the visit.^1 ^4
+In 2005, McLean returned to Camp Kanawana for a week and hosted one of his *Vinyl Cafe* shows at the camp. [[people/sean-day|Sean Day]], then Regional Director of Camps, was present for the visit.^1 ^4 The *Dictionary of Literary Biography* dates the recording to **July 2005**, which is the only month this project has for it.^17
 
 ## The Stuart McLean Fund
 
@@ -81,6 +129,12 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 3. [Nice-to-have, advanced 2026-07-09] What is the date and venue of McLean's speech to YMCA camp directors? The John Island Alumni Newsletter (Spring 2012) excerpted it but did not date the original speech. A candidate source file, Box 76/F.5 "YMCA Speech, n.d." in the McMaster fonds, was found but not confirmed as a match — would require an in-person/archival-request follow-up.
 4. ~~[Nice-to-have] Does the McMaster fonds contain camp-related materials?~~ [Resolved, expanded 2026-07-09] Yes — well beyond the three files previously known. The full finding aid (983 lines, retrieved directly) surfaces address lists (1971-1975), dried flowers and decals (1970s), a 1969 YMCA membership card, 1976 correspondence, a 2008 NAYDO conference keynote-speaker file, and a probable canoeing-instructor-course connection (1974) — see "Death and Legacy" above. The photo series (Box 97) was confirmed to contain no camp photos.
 5. [Nice-to-have] What is the cumulative total raised by the Stuart McLean Fund since 2017?
+6. [Important, new 2026-09-06] Where is David C. Greer's unpublished 19 May 2010 interview with
+   McLean? It was conducted for *Dictionary of Literary Biography* volume 362 and only three
+   sentences of it are printed.^17 A published fragment implies a transcript or a recording, and this
+   would be the only extended interview about the camp conducted by someone writing a full
+   biographical entry. Greer is identifiable from the volume's own contents list; nothing further
+   about him has been looked for yet.
 
 ## Related Articles
 
@@ -101,11 +155,16 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 8. The Montrealer, "Stuart McLean: From Montreal West to the Vinyl Cafe" (2008). URL: https://themontrealeronline.com/2008/01/stuart-mclean-from-montreal-west-to-the-vinyl-cafe/
 9. Concordia University, "Stuart McLean: Canada's Storyteller" (2017). URL: https://www.concordia.ca/cunews/offices/vpaer/aar/2017/02/16/stuart-mclean-canadas-storyteller.html
 10. Westmount Magazine, "A fond farewell to Stuart McLean" (comments section). URL: https://www.westmountmag.ca/stuart-mclean/
-11. The Canadian Encyclopedia, "Stuart McLean." URL: https://www.thecanadianencyclopedia.ca/en/article/stuart-mclean
+11. The Canadian Encyclopedia, "Stuart McLean" [src_canadian_encyclopedia_mclean]. URL: https://www.thecanadianencyclopedia.ca/en/article/stuart-mclean. Not cached; read 2026-02-19. The second reference-work biography behind this article, and the source of the Ryerson professorship, the Order of Canada, the Leacock medals and the honorary degrees, all of which Wikipedia also carries. See [f_0490], [f_0502], [f_0505], [f_0506], [f_1013].
 12. CBC News, "Stuart McLean, host of CBC Radio's Vinyl Cafe, dead at 68" (2017). URL: https://www.cbc.ca/news/entertainment/stuart-mclean-dead-obit-1.3984826
 13. McMaster University, "Stuart McLean fonds." URL: https://archives.mcmaster.ca/index.php/stuart-mclean-fonds
 14. Stuart McLean, "A Letter from Camp," *The Vinyl Cafe: Up & Away* 4-CD collection, Disc Three (2016). Spotify: https://open.spotify.com/track/5Zg6psuVWQQbZb2p4Ij0JC
 15. Globe and Mail, "Stuart McLean's bent vision" (c. 2003). URL: https://www.theglobeandmail.com/arts/stuart-mcleans-bent-vision/article1047308/
+16. Stuart McLean, *The Vinyl Cafe Notebooks* (Toronto: Viking Canada, 2010), Internet Archive scan leaf 378 [src_mclean_vinyl_cafe_notebooks_2010]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, so what precedes and follows the passage is unknown, and the bracketed words are supplied. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt`. See [f_4941].
+
+17. *Dictionary of Literary Biography*, Volume 362: *Canadian Literary Humorists* (Detroit: Gale Cengage Learning, 2011), the Stuart McLean entry by David C. Greer, Internet Archive scan leaf 456 [src_dlb_362_canadian_literary_humorists_2011]. **One passage only**, reconstructed 2026-09-06 from thirty-five overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the volume is lending-restricted, page images return HTTP 403, and it has not been read. The quotation above is given as the search index returns it, with the OCR's line-break hyphens and irregular ellipsis spacing normalised. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4949].
+18. Concordia's Thursday Report, Vol. 21 No. 13, 27 March 1997 [src_concordia_thursday_report_1997_03_27], and Vol. 29 No. 3, 7 October 2004 [src_concordia_thursday_report_2004_10_07]. Transcribed at `sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt`. See [f_5457].
+19. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its Staff section. Read 2026-09-08 under p_441. See [f_5807].
 
 ## Research Notes
 

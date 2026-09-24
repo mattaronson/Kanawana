@@ -1,7 +1,7 @@
 # The 1994 Centennial
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-08 (the camp's first board of management, 1989, and the committee to 1996)*
 
 ## Overview
 
@@ -11,7 +11,9 @@ Camp Kanawana's centennial was observed in 1994, marking 100 years since Billy B
 
 A commemorative poster titled "Kanawana: 100 years of spirit and leadership" was produced in 1994. It is held in the Concordia University Archives (YMCA of Montreal fonds, sub-sub-series P0145/12B04, Communications).^1 ^2
 
-An alumni newsletter called *The Look Out* was published in 1994 (Vol. 1, No. 3), likely launched in connection with the centennial. The "Vol. 1, No. 3" designation suggests the newsletter was started no earlier than 1993. It is held in Concordia Archives P0145/12B04, Box HA1874, alongside a newly-identified "Kanawana calendar 1993/94" item in the same box.^2 ^12
+An alumni newsletter called *The Lookout* — Vol. 1, No. 3 — was published by the Kanawana Alumni Committee **in the autumn of 1993**, and it is a centennial document: it opens "As Kanawana enters its 100th year the work of the Alumni Committee will become more visible," and it advertises a coffee house at the Block House for Saturday 20 November 1993.^13 [SUPERSEDED 2026-09-06: this paragraph read "was published in 1994 (Vol. 1, No. 3), likely launched in connection with the centennial. The 'Vol. 1, No. 3' designation suggests the newsletter was started no earlier than 1993." The issue itself is dated by its own contents to autumn 1993 — it carries Bruce Netherwood's report on "Kanawana's 99th summer" — and the connection to the centennial is not a suggestion but its own first sentence.] It is held in Concordia Archives P0145/12B04, Box HA1874, alongside a "Kanawana calendar 1993/94" item in the same box.^2 ^12
+
+**The camp had celebrated a different anniversary eleven years earlier.** The association's annual report covering the summer of 1983 records that "Kamp Kanawana celebrated its **75th year of service**," and the following year's report says the camp has been running "for the past 75 years."^13 A 75th year in 1983 counts from **1909** — the Saint-Sauveur site and the Kanawana name — and the camp's own brochures had been counting that way since at least 1929. Somewhere between 1985 and the autumn of 1993 the institution changed its birthday to Billy Ball's 1894 trip and mounted this centennial on it. See [[history/oldest-camp-question|Was Kanawana the First?]].
 
 Tear sheets from local newspapers with advertisements for Kamp Kanawana from 1993–1994 are also held in the same archival sub-series, indicating promotional activity around the centennial period.^1
 
@@ -29,6 +31,8 @@ The YMCA of Montreal's 1993 annual report (Board Chairman Marcel Coté; Presiden
 
 In 1993, one year before the centennial, a documentary titled *Kamp Kanawana: The Experience that Lasts a Lifetime* was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves. The 9-minute colour VHS (released 1996) features the song "On My Way to Kanawana" by Richard "Itch" Kerr and describes the camp as the oldest in Quebec and second oldest in Canada. An access copy exists on YouTube.^3
 
+**The title was the camp's own advertising line before it was a film.** "The experience that lasts a Lifetime!" closes Kamp Kanawana's counsellor recruitment advertisement in *The McGill Daily* of **20 February 1989**, set as a tagline under the address and telephone number — four years before the documentary.^14 So Laurentien Productions took the camp's slogan for a title rather than giving the camp a phrase, and Grace McMorris's thesis title reaches back past the film to the camp's own marketing language.
+
 ## Context
 
 The centennial was the camp's first major milestone celebration to be documented in surviving materials. The 95th anniversary reunion on April 7, 1989 (with "95 years of sharing" promotional materials) preceded it. Later milestone events include the 120th anniversary reunion at Victoria Hall, Westmount on September 5, 2014 (announced via YMCA Quebec newsroom August 11, 2014), and the 125th anniversary "Family, Alumni, and Friends Weekend" at camp in summer 2019.^1 ^4 ^5 The anniversary formats varied: the 95th and 120th were off-site urban venues, the 100th (per the newly-found annual-report evidence above) was an on-site Labor Day weekend reunion, and the 125th was also on-site at camp.
@@ -39,7 +43,75 @@ The same 1989 report documents a five-year, $250,000 facility "rajeunissement" (
 
 Camp Nakanawa (Tennessee), a comparable American camp, held its own 100th anniversary (Jul 19-21) drawing 750+ alumni, families, and friends for a multi-day on-site celebration — suggesting a possible model for what Kanawana may have done.^10
 
-Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the centennial fell during his tenure; he had succeeded his brother Jay Netherwood, who directed the camp in 1986–1987.^6 ^7 Netherwood later received the [[traditions/pip-alumni-award|Pip Alumni Award]] in 2011 and went on to become Vice President of Camping & Social Responsibility at South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward.^8
+Bruce Netherwood was Director of Camp Kanawana **from 1989 to 1994**, meaning the centennial fell during his tenure; he had succeeded his brother **Jay Netherwood, who held the role from 1986 to 1989**.^6 ^7 ^16 *[Corrected 2026-09-08. This sentence read "from 1988 to 1994" and "1986–1987" until today. [[people/bruce-netherwood|His own article]] corrected both on 2026-09-07 from the metropolitan staff rosters and marked the old reading superseded in its own text; the correction was not carried here, so the wiki printed two spans for the same man in two articles for a day. The 1995 annual report settles it in the association's own words: "Bruce Netherwood, who served as Kamp Director from 1989 to 1994." No check in the suite compares a date in one article against the same date in another.]* [f_5772] Netherwood later received the [[traditions/pip-alumni-award|Pip Alumni Award]] in 2011 and went on to become Vice President of Camping & Social Responsibility at South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward.^8
+
+**The committee did not assemble itself for the occasion.** The Montreal YMCA's annual report for
+**1990**, four years before the Centennial, lists four names under the heading **KAMP KANAWANA**:
+**Andrew Caddell, Danielle Delhaes, Tom Snabl, Maureen McBride**.^15 Two of them — **Caddell**, who
+chaired the Centennial committee, and **Snabl** — were therefore already in Kanawana roles in the
+association's own annual report **four years before** the anniversary they organised. Bruce Netherwood
+appears separately in the same volume as a director.
+
+So the Centennial committee of 1994 looks less like a body raised for an anniversary and more like a
+standing camp committee that took one on. **Danielle Delhaes** is a name this project holds nowhere else.
+
+**The camp's own board appears in the branch list in 1989, after four years' absence.** *This paragraph said
+"the body has a first year, and it is 1989" until later the same day; that was wrong and the correction is
+below it.* The association's *Branch Boards of Management* lists for **1985, 1986, 1987 and 1988** carry eight
+or nine branches each — Centre-ville, Guy-Favreau, Hochelaga-Maisonneuve, International, Notre-Dame-de-Grâce,
+Pointe-Saint-Charles, Saint-Laurent, West Island, Westmount — **and no camp**. The 1989 volume adds one, headed
+**KAMP KANAWANA**: André Hérard,
+**Chris Adam**, Keith Farquharson, Paul Cappelli, **[[people/derek-walsh|Derek Walsh]]**, Tom Snabl, Bruce
+Netherwood (YMCA), **[[people/maureen-mcbride|Maureen McBride]]**, Jay Netherwood (YMCA) and Bill Pigott
+(YMCA).^17 [f_5777]
+
+*What 1989 changed was the camp's appearance in that list, not the existence of a governing body.*
+[[people/directors-index|The directors index]] has recorded all along that Kanawana appears **as a branch, with
+its own chairman**, in the association's *Branches / Chairmen / Executive Secretary* table from the **1966-67**
+report through 1979, and on the association's printed letterhead from **1964**. And the camp's own directors'
+reports name the body it answered to in the 1970s: 1976 thanks "**the Camping Branch Board of Management** for
+their hundreds" of hours, and 1977 and 1978 thank "our Board of Management and **Chairman Phil Davey**."^18
+Davey is a name new to this project, and he chaired that board across at least two seasons. So: branch standing
+from at least 1964–66, a chairman in the association's table to 1979, governance through the **Camping
+Branch's** board in the 1970s, absence from the branch-board lists 1985–88, and a board of the camp's own in
+1989. [f_5794]
+
+Three things sit in the 1989 roster. **Derek Walsh directed the camp from 1974 to 1979 and is on its first
+board a decade later** — the earliest instance in this project of the pattern later seen with Morgan Carter,
+Arleen Boyer, Roxanne Martel and Matt Hamerman. **Three of the ten are marked "(YMCA)"**: Bruce Netherwood in
+his first year as director, his brother Jay in the supervisory role he moved to that year, and Bill Pigott,
+the association's Director of Operations — so the staff presence on a branch board could run to three. And
+**Paul Cappelli** appears two years before the association board lists that print him as "Capelli, Paul
+(Dawson College)."
+
+**The intervening volumes carry the whole body, and it has a chair.** The committee is older than 1990 —
+[[people/maureen-mcbride|Maureen McBride]]'s article tracks her own membership of it back to the **1988-89**
+volume. *The four-name 1990 list above is the whole roster, not a truncation:* the English edition of that
+report prints the same four and no others, so against ten in 1989 and ten again in 1991 the board really did
+contract to four for a year and back. What 1990 loses is everyone who is not Caddell, Delhaes, Snabl or
+McBride — including all three staff members, the "(YMCA)" marker vanishing from the camp's board entirely and
+returning in 1991 with Bruce Netherwood alone.^17 [f_5779] The 1991 volume gives the roster in full under the heading **KAMP KANAWANA
+COMMITTEE** — **Chris Adam, Andrew Caddell, Danielle Delhaes, Harvey Eldinger, Susan Khan,
+[[people/maureen-mcbride|Maureen McBride]], Bruce Netherwood (YMCA), Tom Snabl, Gordon Wallace** and
+**Maureen Wallace** — ten names, confirmed name for name against the French edition of the same report,
+which heads the list *Comité du Kamp Kanawana*.^16 1992 is the same ten less Eldinger. By 1994 it is the **Kamp Kanawana Advisory Board**:
+Andrew Caddell, Tom Castle, Tim Clark, Barbara Drury, Cheryl Gamberg, **Sue Khan (Chairperson)**, Bob
+Lewandowski, Bruce Netherwood (YMCA), Tom Snabl and Wendy Watt. In 1995 it is a **Local Board** of fourteen
+with Khan still in the chair, and in 1996 seven with Barbara Drury in it.^16 [f_5771]
+
+**So Sue Khan chaired the camp's committee through the Centennial year**, which is a role this project did
+not have, and **Caddell and Snabl are on every list from 1990 to 1994** — the two the paragraph above already
+identified, now with the rest of their committee around them. Five of the names are new here: Harvey
+Eldinger, Gordon Wallace, Maureen Wallace, Bob Lewandowski and Cheryl Gamberg.
+
+*The body is renamed three times in six years* — Committee, Advisory Board, Local Board — and then vanishes
+from the association's branch lists for six years before returning in 2002–03 as a Local Advisory Council. The
+lapse and the return are at [[history/modern-era|The Modern Era]].
+
+**And the 1986 report names the director in French.** The same series for 1986 lists "**Goddard, P.
+(directeur du Kamp Kanawana)**," which is an independent confirmation of Peter Goddard in post that
+year from a source [[people/directors-index|the directors index]] had not used, and it gives the camp's
+telephone at Saint-Sauveur as 1-227-2414.
 
 ## Open Questions
 
@@ -73,3 +145,9 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 10. Camp Nakanawa (Tennessee) centennial as comparator. Research campaign 2026-06-22.
 11. YMCA of Montreal Annual Report 1993 (Internet Archive, item sgw-ymca-annual-report-1993); retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1993].
 12. YMCA of Montreal Annual Reports, 1989 (French), 1990, 1994 (English and French) [src_ia_ymca_annual_1989_fr, src_ia_ymca_annual_1990, src_ia_ymca_annual_1994, src_ia_ymca_annual_1994_fr].
+13. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993) [src_ia_the_lookout_1993], and the YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985], whose camping seasons are the summers of 1983 and 1984. See [f_5008] and [f_5047]. **[Corrected 2026-09-06:** this note read "for the years ending March 1984 and March 1985." The 1984 report's title page says "for the year ended May 31, 1984." The seasons are unchanged — a June-to-May year contains the earlier summer — but the association used a 31 March year-end only through 1950. See [f_5081].**]**
+14. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5428].
+15. YMCA of Montreal annual report **1990**, French edition [src_ymf_sgw_ymca_annual_report_1990_fr], and the annual report **1986**, French edition [src_ymf_sgw_ymca_annual_report_1986_fr]. Cached under `sources/cache/ymca-montreal-fonds/`; the Kanawana entries read word for word 2026-09-07 under p_482, the volumes not read.
+16. YMCA of Montreal annual reports for **1991**, **1992**, **1994**, **1995** and **1996** [src_cache_sgw_ymca_annual_report_1991, src_ymf_sgw_ymca_annual_report_1992, src_cache_sgw_ymca_annual_report_1994, src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996], the branch committee pages, and the 1995 volume's Kamp Kanawana page for Bruce Netherwood's 1989-1994 span. The **French edition of the 1991 report** [src_ymf_sgw_ymca_annual_report_1991_fr] was read alongside and gives the same ten names under the heading *Comité du Kamp Kanawana*. Read 2026-09-08 under p_487. See [f_5771] and [f_5772].
+17. YMCA of Montreal annual reports for **1985**, **1986**, **1987**, **1988**, **1989** and **1990** [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988, src_ymf_annual_report_1989_202301, src_cache_sgw_ymca_annual_report_1990], the *Branch Boards of Management* pages. Read 2026-09-08 under p_487. The camp is absent from the first four lists, heads its own board of ten in the fifth, and is down to four in the sixth. See [f_5779] for the 1990 contraction, confirmed against the French edition already cited above. See [f_5777].
+18. *Kamp Kanawana Director's Annual Report* for **1976**, **1977** and **1978** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977, src_ia_kanawana_report_1978], their closing acknowledgements. Read 2026-09-08 under p_441. See [f_5794].

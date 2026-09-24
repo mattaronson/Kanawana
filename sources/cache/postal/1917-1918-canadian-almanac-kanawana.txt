@@ -1,0 +1,70 @@
+SOURCE: The Canadian Almanac and Directory, 1917 and 1918 editions,
+        table 'POST OFFICES AND RAILROAD STATIONS IN CANADA'.
+        Internet Archive items canadianalmanacd0000unse_y6g6 (1917) and _x3a0 (1918).
+        Edition years read from the running headers ('1917]' and '1918]'), because the Archive's
+        metadata gives 1848, the series start date, for both.
+        Full djvu text downloaded and searched 2026-09-06; only these lines were read out.
+
+=== 1917 edition, line 121242 ===
+Kanauaskis . 
+
+Kanata . 
+
+Kanawana . 
+
+Kandahar . 
+
+Kannon  . 
+
+=== 1918 edition, line 123122 ===
+Kananaskis . 
+
+Kanata . 
+
+Kanawana . 
+
+Kandahar . 
+
+Kannon  . 
+
+NOT RECORDED: the columns beside the name -- the railroad on which located, or the nearest
+railway station. The OCR breaks this table into separate column runs and the rows cannot be
+aligned to their values with any confidence. The 1915 Post Office report's mail-route line
+'Kanawana -- St. Sauveur des Mont[s]' is the reliable statement of the connection.
+
+================================================================================
+ADDED 2026-09-06, LATER THE SAME DAY: THREE MORE EDITIONS, AND A LONGER RUN.
+
+A second pass found Kanawana in three further editions of the same table, which extends the
+office's documented life by nearly forty years.
+
+=== 1943 edition (item canadianalmanacd0000unse_y9h2, line 50198) ===
+tdkananaskis..... Calgary W....Alta/535-225 
+Kanasuta........ Ponbiag...)..<0%0% Q/699 7 
+Kanawana,...... Terrebonne...... Q|St. Sauveur 529 or 
+Piedmont 535 
+*Kandahar ...97|Humboldt.. .Sask/535-156 
+
+This edition's columns are legible where the 1917 and 1918 ones were not. Reading across:
+post-office name; electoral district or county; province; and "RAILROAD ON WHICH LOCATED, OR
+NEAREST R.R. STATION". So Kanawana is in TERREBONNE county, Quebec, with St. Sauveur (line 529)
+or Piedmont (line 535) as its railway station. The name carries no population figure, which in
+this table marks an unincorporated place.
+
+=== an edition of the early 1950s (item canadianalmanacd0000unse_h4a6, line 120443) ===
+t  Kanasuta . 
+
+Kanawana . 
+
+=== an edition of the mid-1950s (item canadianalmanacd0000unse_o8e8, line 98271) ===
+tKanasuta . 
+
+Kanawana . 
+
+ON THE TWO EDITION YEARS: the Internet Archive metadata gives 1848 for every volume in this
+series, and neither of these two carries a legible year on the pages recovered. h4a6 prints
+calendars for 1951 and 1952 and a "1951, Gregorian Calendar" line; o8e8 prints calendars for
+1954 and 1955 and a "1954, Gregorian Calendar" line. That places them in the early and the
+mid 1950s respectively and no closer. They are NOT dated more precisely here.
+
+WHAT THIS CHANGES: the office is documented from at least 1915 to the mid-1950s, not to 1918.

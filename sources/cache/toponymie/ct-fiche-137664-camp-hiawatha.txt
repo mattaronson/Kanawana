@@ -1,0 +1,52 @@
+Commission de toponymie du Quebec -- fiche no_seq=137664 (camp-hiawatha)
+https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=137664
+Fetched 2026-09-06 (p_423). Text extracted from the served HTML.
+------------------------------------------------------------
+Camp Hiawatha - Sainte-Agathe-des-Monts (Ville)
+Passer au contenu
+Commission de toponymie
+Accueil
+Nous joindre
+Plan du site
+Retour aux résultats
+Version imprimable
+Camp Hiawatha
+Origine et signification
+L'origine de ce nom et, le cas échéant, sa signification n’ont pu être déterminées jusqu’à maintenant.
+La Commission de toponymie invite toute personne détenant une information sur l'un ou l'autre de ces aspects à lui en
+faire part
+.
+Date d'officialisation
+1984-09-06
+Spécifique
+Hiawatha
+Générique (avec ou sans particules de liaison)
+Camp
+Type d'entité
+Camp
+Région administrative
+Laurentides
+Municipalité régionale de comté (MRC)
+Les Laurentides
+Municipalité
+Sainte-Agathe-des-Monts (Ville)
+Code géographique de la municipalité
+78032
+Latitude               Longitude (coord. sexagésimales)
+46° 05' 02"
+-74° 14' 48"
+Latitude               Longitude (coord. décimales)
+46.08389
+-74.24667
+Carte topographique 1/50 000
+31J01
+Carte topographique 1/20 000
+31J01 -0102
+Nouvelle recherche
+Date de la dernière mise à jour : 7 octobre 2020
+-->
+Déclaration de services aux citoyens
+Accès à l’information
+Politique de confidentialité
+Accessibilité
+© Gouvernement du Québec, 2024

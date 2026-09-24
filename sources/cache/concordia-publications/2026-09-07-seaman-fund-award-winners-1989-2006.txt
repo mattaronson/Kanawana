@@ -1,0 +1,136 @@
+CONCORDIA UNIVERSITY, "A HISTORY OF BURSARY AWARD WINNERS 1989-2006"
+The A. Ross Seaman Leadership Development Fund, published 23 May 2007
+
+Internet Archive identifier: 2007-05-23-a-ross-seaman-memorial-a-history-of-award-winners
+Collection: rma-concordia-publications | 66,443 characters of OCR
+Found 2026-09-07 by the accounted whole-corpus sweep of that collection under
+p_479. Not previously in sources.json.
+
+WHAT IT IS. A commemorative booklet Concordia printed eighteen months short of
+the fund's twentieth year, reprinting the fund's memorial statement and then a
+citation for every bursary winner from 1989 to 2006, most with a photograph.
+
+-------------------------------------------------------------------------------
+THE MEMORIAL STATEMENT, AS PRINTED HERE
+-------------------------------------------------------------------------------
+
+  "We lost a community leader; educational innovator; consummate teacher and
+  mentor with the passing of A. Ross Seaman on October 23, 1987. His death is a
+  loss to countless people from the many places where he expended his energies
+  and warmth to help others become the best they could be. Those who knew Ross
+  best remember him for being on the leading edge of bringing the best possible
+  resources to bear on the issues that engaged his energy; camping and
+  leadership training, recreation leadership and community organization,
+  particularly when it related to adolescent life, and latterly, when it related
+  to an aging population. One colleague referred to him as A CHEERLEADER FOR THE
+  HUMAN RACE and this special quality which he possessed and shared so
+  generously, warrants remembrance on our part.
+
+  One of Ross's philosophies was to 'PASS IT ON' whenever he was on the
+  receiving end of something meaningful and important to him. The A. Ross Seaman
+  Leadership Development Fund will enable students in a variety of leadership
+  areas to pursue studies and/or experiences that will further their own
+  leadership potential and skills. In this way Ross will remain with us, and his
+  impact on our own growth and development will continue to be felt by those who
+  follow in his footsteps."
+
+THIS IS A THIRD WITNESS TO A TEXT THE WIKI HOLDS FROM ONE SOURCE. Canadian
+Camping Magazine's fund notice of Winter 1988 and Concordia's Applied Human
+Sciences department both carry versions of it, and wiki/people/a-ross-seaman.md
+quotes them. Three small textual variants are worth recording rather than
+smoothing:
+
+  - "a cheerleader FOR the human race" here; the wiki has "a cheerleader OF the
+    human race" from the Canadian Camping notice.
+  - "consummate teacher AND MENTOR" here; "consummate teacher" alone in the
+    Concordia University Magazine obituary of January 1988.
+  - The fund is "the A. Ross Seaman Leadership Development Fund" here and in the
+    magazine; the wiki's article and Concordia's own scholarship listing call it
+    the A. Ross Seaman MEMORIAL Leadership Development Fund. Both names are in
+    use by the university itself.
+
+-------------------------------------------------------------------------------
+WHAT THE CITATIONS SHOW, AND WHY IT MATTERS TO THIS WIKI
+-------------------------------------------------------------------------------
+
+"Kanawana" occurs TWENTY-SEVEN times in the booklet, across the citations of
+1989 to 2006. The camp is by a wide margin the most frequently named single
+institution in the winners' backgrounds after Concordia itself and the YMCA
+generally. The roles named in those citations include camper,
+counsellor-in-training, junior counsellor, senior counsellor, nature specialist,
+senior camp programme lead, and off-season volunteer.
+
+THE INSTITUTIONAL FINDING IS THAT KANAWANA WAS A STANDING FEEDER COMMUNITY FOR
+THE FUND ACROSS NEARLY TWO DECADES. A memorial fund set up in Montreal in
+November 1987 by representatives of Concordia, Dawson College, the YMCA and Camp
+Kanawana went on, year after year, to award its bursary to people whose
+leadership had been formed at that camp. The circuit Seaman himself ran -- camp
+into college into the profession -- was still running twenty years after his
+death, under his name.
+
+Two particular things:
+
+1. A DIRECT TESTIMONY ABOUT SEAMAN AS A MENTOR, from a winner of the Applied
+   Human Sciences Human Relations Award: she "caught the 'leadership bug' early
+   in her professional career AS A CAMP NURSE, UNDER THE MENTORSHIP OF ROSS
+   SEAMAN." This project holds a great deal about what Seaman did and very
+   little from anyone he taught. It also puts a camp nurse in his orbit, a role
+   the wiki has almost nothing on.
+
+2. A DATED INSTANCE OF THE CAPITAINE ROLE. One citation records a man who came
+   to Kanawana in the summer of 1992 as a camper and rose through
+   counsellor-in-training and junior counsellor to senior counsellor, and was
+   "selected as the 'CAPITAINE' of the Voyageurs for the annual summer-ending
+   Lumbermen and Voyageurs games." wiki/traditions/lv-games.md has a section on
+   the Capitaine role; this is an outside document attesting it, with a named
+   holder and a decade.
+
+-------------------------------------------------------------------------------
+WHAT IS DELIBERATELY NOT WRITTEN INTO THE WIKI, AND WHY -- READ THIS BEFORE
+CONCLUDING THE SOURCE IS THIN
+-------------------------------------------------------------------------------
+
+The booklet names every winner, 1989 through 2006, and describes each one's
+character, career and camp service in a paragraph. Those people are living
+private individuals, most of them students at the time, the youngest of them
+awarded within twenty years of this reading. CLAUDE.md's standing instruction is
+to extract institutional facts, historical information and information about
+public figures, and not personal information about living private individuals.
+
+SO THE ROSTER IS NOT REPRODUCED IN THE WIKI, AND THIS RECORD EXISTS SO THAT A
+LATER PASS CAN TELL THE DIFFERENCE BETWEEN A SOURCE THAT SAYS NOTHING AND A
+DECISION NOT TO WRITE SOMETHING DOWN. The names are in the booklet at the
+Internet Archive identifier above; the Kanawana-connected citations are at OCR
+lines 69-72, 175, 415, 545, 664, 949-955, 1037, 1067-1072, 1107-1111, 1122-1125
+and 1191-1199. Registered as r_0006 in kb/restricted/register.jsonl. Nothing is
+being protected from disclosure that the university has not itself published;
+what is being avoided is this wiki assembling a searchable biography of a
+private person out of an honour roll.
+
+The two individual details written up above -- the camp nurse's testimony about
+Seaman, and the Capitaine selection -- are kept because their subject is Seaman
+and a camp tradition respectively, and both are written without the person's
+name.
+
+-------------------------------------------------------------------------------
+NULL RESULTS
+-------------------------------------------------------------------------------
+"Otoreke" 0, "Perrot" 0, "Voyageurs de la" 0 (the one Voyageurs occurrence is
+the L&V games team).
+
+"VANKLEEK" IS NOT 0. It occurs once, and the first draft of this cache said
+zero -- written from expectation rather than from the grep, and caught by
+running the counts before saving. The occurrence is a winner's citation: "Good
+student, good marks, leading basketball scorer in VANKLEEK HILL COLLEGIATE.
+Volunteered as a coach in minor hockey, basketball & soccer in his community."
+
+That is worth having on its own. wiki/people/a-ross-seaman.md records that five
+organizations honour Seaman through scholarships -- Dawson, Concordia, Kamp
+Kanawana, the YMCA and Vankleek Hill Collegiate -- which reads as five separate
+awards. Here the CONCORDIA fund is itself awarding its bursary to a boy from
+Seaman's home-town high school, some hundred kilometres away in eastern Ontario.
+The Vankleek Hill connection is not only a separate memorial in his home town;
+it runs through the Montreal fund as well.
+
+It does NOT bear on the outstanding question of Seaman's birth record. Nothing
+here gives a date, a family name, or a parish.

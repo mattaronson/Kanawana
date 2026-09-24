@@ -1,0 +1,30 @@
+RECOVERED PASSAGE — Open Library search-inside, 2026-09-06
+==========================================================
+FLÂNERIES LAURENTIENNES — Ugo Monticone, Monique Pariseau, Lyne Rouillé, Pauline Vincent.
+
+NOT A SCAN. The book has not been read. The sentence below was assembled from three
+overlapping search-inside queries and is continuous; nothing either side of it is held.
+
+FOUND while chasing the 1923 dam Bill (f_5160), by the exact phrase "îles du lac
+Saint-Joseph" — a phrasing chosen to force the RIGHT lake, after "barrage lac Saint-Joseph"
+kept returning the Portneuf one (f_5162).
+
+QUERIES RUN, in order:
+  "îles du lac Saint-Joseph"                        (1 book)
+  "une des îles du lac Saint-Joseph"                (1)
+  "colonies de vacances au Québec sur une des"      (1)
+  "l'activité touristique de Saint-Adolphe"         (1)
+  "a établi une des premières colonies de vacances" (1)
+
+RECOVERED SENTENCE
+------------------
+
+    "Vers 1893, lorsque le YMCA a établi une des premières colonies de vacances au Québec
+    sur une des îles du lac Saint-Joseph, l'activité touristique de Saint-Adolphe-d'Howard
+    a pris son envol."
+
+    ("Around 1893, when the YMCA established one of the first vacation colonies in Quebec
+    on one of the islands of Lac Saint-Joseph, the tourist activity of
+    Saint-Adolphe-d'Howard took off.")
+
+NOTHING ABOUT THE DAM. The book was fetched for that and is null for it.

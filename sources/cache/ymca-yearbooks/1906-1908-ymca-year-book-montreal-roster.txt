@@ -1,0 +1,103 @@
+SOURCE EXTRACT — read from the full djvu texts, 2026-09-06
+=========================================================
+YEAR BOOK AND OFFICIAL ROSTER OF THE YMCAs OF NORTH AMERICA — the volumes for 1906, 1907 and 1908
+Internet Archive: ymcayearbookof1906younuoft / ...1907... / ...1908...
+
+NONE IS LENDING-RESTRICTED. All three djvu texts were downloaded whole (1.17 MB, 1.15 MB, 1.11 MB)
+and searched. "Kanawana" occurs ZERO times in any of them — expected, since the present site opens
+in 1910 and this series rosters STAFF, not programmes.
+
+CAUTION ON THE DATE. The Internet Archive gives 1890 as the year for every University of Toronto
+scan in this series. The year here is taken from the identifier. See p_433.
+
+WHY THESE THREE. p_433 named 1906-1908 as the volumes to take next, because they sit either side of
+W. H. Ball Jr.'s departure (1901/02) and just before the camp's move to Saint-Sauveur (1910).
+
+
+THE YMCA OF MONTREAL'S LOCAL ROSTER, THREE YEARS
+------------------------------------------------
+
+1906:  Montreal — Pres., JOHN W. ROSS
+                  Gen. Secy., D. A. Budge
+                  Asst., C. K. Calhoun
+                  Asst., Percy V. Gahan
+                  ASST., W. J. HOLLIDAY
+                  Asst. (Membership), P. A. Doig
+                  Ed. Dir., J. S. Jamieson
+                  Phys. Dir., J. E. MERRITT
+                  Asst. Phys. Dir., William Sovereign
+
+1907:  Montreal — Pres., JOHN W. ROSS
+                  Gen. Secy., D. A. Budge
+                  Central Dept. Ch., C. C. Holland
+                  Secy., C. K. Calhoun
+                  Asst., F. J. McKellar
+                  Asst., Clarence E. Reid
+                  BOYS' WORK DIR., W. J. HOLLIDAY
+                  Ed. Dir., W. H. Henderson
+                  Phys. Dir., J. E. Merritt
+
+1908:  Montreal — Pres., JOHN W. ROSS
+                  Gen. Secy., D. A. Budge
+                  Central Dept. Ch., C. C. Holland
+                  Secy., C. K. Calhoun
+                  Asst., Harold Smeal
+                  Asst., Clarence E. Reid
+                  BOYS' WORK DIR., W. J. HOLLIDAY
+                  Ed. Dir., W. H. Henderson
+                  Phys. Dir., J. E. Merritt
+                  ASST. PHYS. DIR., W. S. MAGUIRE
+
+And from the alphabetical list of employed officers, whose figures are years of entry into
+Association work:
+
+    Holliday, W. J., Montreal, Que., Asst., 06        (1906 volume)
+    Holliday, W. J., Montreal, Que., Boys, 06         (1907 and 1908 volumes)
+    Budge, D. A., Montreal, Que., Sec., 74            (all three)
+
+
+WHAT FOLLOWS
+------------
+
+**W. J. HOLLIDAY WAS THE ASSOCIATION'S BOYS' WORK SECRETARY, AND HE STARTED IN 1906.** He is the man
+the association's own 1931 report calls "W. J. HOLLIDAY, THE FIRST CAMP DIRECTOR", and whose charge
+of the new Saint-Sauveur site the 1910 annual report announces in the forward tense. This project's
+directors index has him as "1908, 1910-1912?". He enters Association work in 1906 as an Assistant
+Secretary and is BOYS' WORK DIRECTOR from the 1907 volume — so when he ran the Junior Camp at Lac
+St. Joseph in 1908 and opened Kanawana in 1910, he was doing it as the association's boys' work
+secretary and not as a seasonal appointment.
+
+**JOHN W. ROSS WAS PRESIDENT OF THE YMCA OF MONTREAL** in all three years. This project has him as
+chairman of the 1894 Summer Camp committee, as volunteer chairman of a mid-1890s Junior Department
+camp committee, on the 1899 Permanent Camp Committee (f_4908), and on the YMCA International
+Committee in 1921 with a term expiring in 1922 (f_4964). The presidency joins those into one
+forty-year public life, and it bears on billy-ball.md's open question 8 — whether "John W. Ross" and
+"John Roy", the 1901 Camp Jubilee director, are one man or two.
+
+**W. H. BALL, JR. IS GONE.** Physical Director in every volume 1893-97, absent from all three of
+these, where the post is J. E. Merritt's. Consistent with the 1901/1902 departure this project has
+from the annual reports, and the first outside confirmation of it.
+
+**W. S. MAGUIRE, and a thread not pulled.** He is Montreal's Assistant Physical Director in the 1908
+volume. The 1921 volume has "Physical, W. S. Maguire" at VICTORIA, B.C., on the same four-line
+roster as "Boys, Harold C. Cross" (f_4965). A Montreal physical director and a Montreal boys' work
+man in the same small western association thirteen years later. NO CLAIM IS MADE that one brought
+the other; it is a documented co-occurrence, and the sort of thing that would explain how Cross got
+to Victoria and back if anyone can date Maguire's move.
+
+**J. E. MERRITT**, Physical Director in all three, turns up again in 1912 on the "Programme des
+Amusements" committee of Montreal's first child-welfare exhibition, alongside C. B. Powter and
+D. J. Evans (f_4961).
+
+
+AND A METHOD NOTE THAT COST SOMETHING
+-------------------------------------
+The p_430 name sweep ran "W.J. Holliday" against the Open Library full-text index on 2026-09-06,
+got 243 hits about an Indianapolis art collector and an Indianapolis steel company, and logged him
+in the sweep file as "do not re-run bare". He was in a reference series ALREADY SITTING IN THIS
+REPO'S CACHE, under his own name, with his job title and his start year.
+
+That is rule 21 for the second time in an hour — a source marked READ is read FOR SOMETHING — and
+this time it is aimed at the name sweep's own method. **Before running a name against a corpus of
+millions of books, grep the cache.** It takes one command and it is where this project's own
+reading already is.

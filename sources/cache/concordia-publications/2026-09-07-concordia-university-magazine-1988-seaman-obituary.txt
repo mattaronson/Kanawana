@@ -1,0 +1,154 @@
+CONCORDIA UNIVERSITY MAGAZINE, January 1988 (Vol. 11, No. 1), p. 28
+"In Memoriam: Ross Seaman 1921-1987"
+
+Internet Archive identifier: concordia-university-magazine-1988-jan
+Collection: rma-concordia-publications
+Text file: Concordia_University_Magazine_1988_Jan_djvu.txt (107,758 bytes)
+Retrieved 2026-09-07 by the download-and-grep sweep of rma-concordia-publications
+(priority p_479). The item's contents page, line 254, lists it as
+"28  Obituary: A. Ross Seaman".
+
+HOW IT WAS FOUND. The sweep enumerates the collection through
+services/search/v1/scrape, calls archive.org/metadata/<id> for each item, takes
+the file ending _djvu.txt, downloads it, greps for "Kanawana", writes a context
+window for each hit and deletes the file. Note that the /download/ URL returned
+zero bytes for this item; the text came from the direct server path built out of
+the metadata's `server` and `dir` fields
+(https://ia601907.us.archive.org/29/items/concordia-university-magazine-1988-jan/...).
+This is a second failure mode for the download step, distinct from the
+title-vs-identifier naming trap already recorded: here the file name was right
+and the /download/ host still gave nothing.
+
+-------------------------------------------------------------------------------
+THE OBITUARY, TRANSCRIBED IN FULL (OCR, line breaks as printed in the column;
+the accents and the "Collége" for "Collège" are the OCR's, not the magazine's)
+-------------------------------------------------------------------------------
+
+IN MEMORIAM
+
+ROSS SEAMAN
+1921-1987
+
+ONCORDIA UNIVERSITY, THE YMCA, and Dawson College lost a community leader,
+education innovator, and consummate teacher with the passing October 23 of
+A. Ross Seaman at age 66.
+
+At the time of his death, he was in his third year as a full-time Concordia
+faculty member in Leisure Studies, where he served as Acting Chair in 1986-87.
+He came to Concordia after retiring from Dawson College, where he developed the
+very successful program in Community Recreation Leadership Training.
+
+While at Concordia, Ross and his wife Margaret played central roles in the
+development of Elderhostel on Loyola campus, acting as host and hostess of the
+program over the past three summers.
+
+Ross's history at Concordia goes back to the 1940s when he attended Sir George
+as a YMCA Fellowship Secretary.
+
+His first career was with the YMCA, where his contribution focused on community
+work and camping. He was director of Camp Kanawana for many years, and a primary
+organizer of the Quebec Camping Association and founder of the wilderness
+program Les Voyageurs de la Verendrye. During this period, he introduced camping
+courses to the Sir George curriculum.
+
+Ross had been a part-time faculty member in Applied Social Science since the
+department was formed in 1963, and was also active in the program and research
+of the Centre for Human Relations and Community Studies.
+
+As a consultant, he played a major role in the development of techniques of
+specialized education, active retirement, and volunteer training at Collége
+Marie-Victorin.
+
+THE A. ROSS SEAMAN LEADERSHIP DEVELOPMENT FUND
+
+Representatives from Concordia, Dawson College, the YMCA and Camp Kanawana met
+on November 10 to set up a fund to provide scholarships for students in
+leadership development programs. Inquiries or cheques should be directed to:
+
+The A. Ross Seaman Leadership Development Fund,
+Concordia University,
+Financial Aid Office,
+Loyola Campus, AD-130-4,
+7141 Sherbrooke St. West,
+Montreal, Quebec
+H4B 1R6
+
+28 CONCORDIA UNIVERSITY MAGAZINE - JANUARY 1988
+
+-------------------------------------------------------------------------------
+WHAT IS NEW HERE, CHECKED AGAINST wiki/people/a-ross-seaman.md BEFORE WRITING
+-------------------------------------------------------------------------------
+
+1. BIRTH YEAR. The headline reads "ROSS SEAMAN 1921-1987" and the text says he
+   died "at age 66". This answers the first half of the article's open question
+   1, which read "What are Seaman's full biographical details -- birth year,
+   full name, education beyond SGW?" and which a previous pass had marked
+   "partly answered" because only the death date was exact. Born 1921; died
+   23 October 1987 aged 66. The two are consistent only if his birthday fell on
+   or before 23 October, which is a constraint on any later record, not a
+   finding in itself.
+
+2. THE DEATH DATE IS INDEPENDENTLY CONFIRMED. The wiki had 23 October 1987 from
+   one source, the fund notice in Canadian Camping Magazine (Winter 1988). This
+   is a second, separately produced document giving the same date.
+
+3. "IN HIS THIRD YEAR AS A FULL-TIME CONCORDIA FACULTY MEMBER IN LEISURE
+   STUDIES." The wiki knew only the acting chairmanship of 1986-87. Third year
+   at October 1987 puts the start of the full-time appointment in 1985, which
+   sits correctly against the Dawson chairmanship the wiki dates 1974-1984.
+
+4. ELDERHOSTEL, "OVER THE PAST THREE SUMMERS." The wiki placed the Seamans'
+   Elderhostel work in the 1986-87 academic year. From a January 1988 issue,
+   three summers back is 1985, 1986 and 1987 -- two summers earlier than the
+   wiki had it, and it was Ross and Margaret together as host and hostess.
+
+5. "THE 1940s WHEN HE ATTENDED SIR GEORGE AS A YMCA FELLOWSHIP SECRETARY."
+   Entirely new. The wiki called him "a Sir George Williams University
+   graduate" with no date and no account of how he came to be there. A
+   Fellowship Secretary was a YMCA staff post; the sentence says he was
+   employed by the Association and studying at the same time, which makes the
+   YMCA the earlier of the two attachments and Sir George an extension of it.
+
+6. "A PRIMARY ORGANIZER OF THE QUEBEC CAMPING ASSOCIATION." A second source for
+   an attribution the wiki has been careful about. The article records that the
+   Montreal YMCA's press release of 28 November 1969 called Seaman "ancien
+   President de l'Association des Campeurs du Quebec" and expressly does not
+   adopt it, the masthead evidence showing him as Secretary rather than
+   President. This obituary says "organizer", not "president" -- which is not
+   the contested claim, and is compatible with the secretaryship. It should be
+   used to support founding involvement, not to reopen the presidency.
+
+7. "FOUNDER OF THE WILDERNESS PROGRAM LES VOYAGEURS DE LA VERENDRYE." The wiki
+   credits Seaman's directorship with the launch of the La Verendrye canoe trip
+   program and quotes a Y release naming "Les Voyageurs" as a site. This gives
+   the programme's full name in one phrase and names Seaman its founder.
+
+8. "HE INTRODUCED CAMPING COURSES TO THE SIR GEORGE CURRICULUM." New, and it
+   belongs as much to wiki/connections/institutional-lineage/
+   sgw-concordia-connection.md as to the biography: it is a specific channel by
+   which camp practice entered a university curriculum.
+
+9. "SINCE THE DEPARTMENT WAS FORMED IN 1963." The wiki dates Seaman's part-time
+   Applied Social Science appointment to 1963 already. What is new is the
+   clause: 1963 is the year the department itself was formed, which is a second
+   source for the founding date that the Georgian sweep touched from the other
+   side when it found H. G. Dimock in an association post in February 1962, the
+   year before he founded the department.
+
+10. COLLEGE MARIE-VICTORIN. New. Consulting on specialized education, active
+    retirement and volunteer training. "Active retirement" is the same interest
+    as Elderhostel, in a second institution.
+
+11. THE FUND MEETING IS DATED AND ITS PARTIES NAMED. The wiki has the Canadian
+    Camping notice saying "a group of family, friends, and colleagues met in
+    early November". This says representatives of Concordia, Dawson College,
+    the YMCA and Camp Kanawana met on 10 November. Same meeting, near
+    certainly; this gives the day and says the four institutions sent people.
+    Camp Kanawana sending a representative to a Montreal meeting three weeks
+    after his death, twenty years after his directorship ended, is the fact
+    worth keeping.
+
+NULL RESULTS IN THIS ITEM. "Kanawana" occurs twice in the whole 107,758-character
+issue, both on page 28, both inside this obituary. "Vankleek" does not occur;
+neither does "Otoreke", "Weredale" or "Perrot". The magazine carries no other
+camp material in this issue.

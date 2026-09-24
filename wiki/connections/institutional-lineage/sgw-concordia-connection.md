@@ -1,7 +1,7 @@
 # Sir George Williams / Concordia University and Camp Kanawana
 
-*Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-07 (the Training Fellowship from both ends, and the alumni class notes as a staffing roster)*
 
 ## Overview
 
@@ -30,6 +30,57 @@ Potter attended SGW College (B.A. 1935--1939) while working summers as a camp co
 
 In 1963, both Dimock and Seaman moved simultaneously from YMCA/camp roles into SGW -- Dimock as the first Chairman of the Department of Applied Social Science and Director of the Centre for Human Relations and Community Studies (CHRCS), Seaman as part-time faculty.^2 ^3 The CHRCS was described as growing "directly out of Sir George Williams University's roots in the community, specifically through the YMCA of Montreal."^3 The Department of Applied Social Science itself evolved from 1940s-era YMCA/SGW courses in counselling, group work, organization development, and supervision.^3
 
+**The traffic ran the other way as well, and Seaman is the named case.** Concordia's obituary of him, January 1988, says of his YMCA years — the years he was directing Kanawana — that "he **introduced camping courses to the Sir George curriculum**."^11 That is a specific channel with a name on it: not a university extending method to a camp, but a camp director putting his own subject into a university calendar. The obituary also dates the department rather than just his appointment to it — he had been a part-time member "**since the department was formed in 1963**"^11 — which is a second source for the founding year, and it adds how he had come to be at Sir George in the first place: "Ross's history at Concordia goes back to the **1940s** when he attended Sir George as a **YMCA Fellowship Secretary**."^11 He was on the Association's staff while he was its student, which is the personal shape of the institutional relationship this article describes. See [[people/a-ross-seaman|A. Ross Seaman]].
+
+### The Training Fellowship: the machinery, not the metaphor
+
+**The college and the association shared a staffing scheme, and it has a name.** Sir George's own
+yearbooks describe the "Fellowship students" as a standing body of the college, and one of them says
+in the first person what the arrangement was. MacArthur Pat. Gordon, Arts 1943:^12
+
+> "**Y.M.C.A. Secretary in training**, developed interest in Y. work in Kingston, Ontario in 1938
+> while preparing for a Science Course, Acting Boys Work Secretary at the Kgn. Y.M.C.A. before coming
+> to Mtl. in 1941. **Have been Mtl. Fellowship Secretary for 2 years**, with Central Branch doing
+> Hi-Y & Gra-Y club work and in Rosemont Community doing Community Boys Work."
+
+A paid apprenticeship in the secretaryship, worked in the branches, with attendance at the college as
+its academic half. That is what A. Ross Seaman's obituary means when it says he "attended Sir George
+as a YMCA Fellowship Secretary" in the 1940s,^11 and it is what Ron Hupfield was doing while managing
+Strathcona Hall and directing Camp Otoreke.
+
+**This wiki already held the other end of it without the join.**
+[[people/murray-shantz|Murray B. Shantz]] quotes the Montreal YMCA's 1943 annual report: "Murray
+Shantz, George Barker, Gordon Patrick and Lloyd Welton complete their **Training Fellowships**" — the
+association's scheme for "young men looking to the Assn. secretaryship as a career." **Three of those
+four names are in the 1943 Sir George yearbook as students of the college**: Shantz and Barker under
+their own graduating entries, and "L. Welton" beside "M. Shantz" in the Georgian basketball team's
+player list.^12 The Training Fellowship and enrolment here were the same thing described from two
+ends, by the two institutions that shared the man.
+
+**They behaved as a cohort, not a category.** The Fellowship students fielded a volleyball team
+("Mac Singleton's Fellowship men" in 1942; "the over confident Fellowship aspirants" taken "down a
+peg or two" by the faculty side in 1943), took "a six week course in class gymnastics" in which
+"each of the members of the group contributed to the instruction," waited tables at the athletic
+awards night "under the able guidance of head-waiter G. N. Barker," and elected officers of their own
+— Hupfield was "Pres. of Fellowship Men" in 1940 and 1941, Shantz "sec'y Fellowship 1942," and Barker
+sat on an "Executive Fellowship Secretaries Group" by 1943.^12
+
+**And it fed the camps directly.** Of the 1943 cohort, Shantz would direct Kamp Kanawana in the
+mid-1950s and Barker was already "Dir. Otoreke Ski Lodge '43" in his graduating year.^12 The camps
+were staffed out of a college housed on the second and third floors of the Drummond Street YMCA
+building, whose calendar reserved [[site/camp-otoreke|Camp Otoreke]] for a college week each
+September.^12
+
+**And the alumni magazine keeps the roster going after the Fellowship years.** *The Postgrad*'s class notes record where graduates went, year by year, in their own words — which for a camp staffed out of this college is a roster nobody at the camp ever wrote. October 1957 has two men at the same camp in the same season: "**George E. Clifford**, B.A. — is a student at McGill U. — faculty of Divinity — this summer he will be at **Y.M.C.A. Kamp Kanawana** in St. Sauveur des Monts, Que."; and "**David J. Carson**, B.A. — presently at the **Y.M.C.A. Kamp Kanawana** in St. Sauveur, Que. He will be working at the Bell Telephone, Traffic Dept."^13
+
+Neither is a director and neither note gives a role, which is the point. This is the pipeline at its ordinary level — two graduates of one college in one season at one camp, one going on into divinity and one into the telephone company — in a year inside [[people/murray-shantz|Murray B. Shantz]]'s Kanawana directorship. The Summer 1966 issue does the same for the other camp, naming Robert D. Sallery, the Class of '62 valedictorian, as incoming Director of [[site/camp-otoreke|Camp Otoreke]].
+
+*A name not yet settled.* The annual report's "Gordon Patrick" and the yearbook's "MacArthur Pat.
+Gordon" may be one man with the name inverted — same programme, same city, same year — but an
+inverted name plus a matching role is exactly the coincidence that produces a confident wrong
+identification, and one of the two forms may be a transcription slip in a source not re-read against
+the original. Left as a question. See [f_5403].
+
 ### Raye Kass (1972--present)
 
 Hired as Assistant Professor of Applied Human Sciences in 1972 (B.A. with Distinction from SGW, 1970; MSW, University of Toronto, 1972), Kass became Program Director of the CHRCS and presented on camp leadership at the International Camping Congress.^3 ^7 She collaborated extensively with Dimock on group development publications.
@@ -52,7 +103,7 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 1. [Important] What was the content of the April 1970 Seminar on Camp Leadership Research at SGW? Who participated, and what were the outcomes?
 2. [Important] When exactly did SGW sever its financial ties with the YMCA, and what prompted the break? Was there any effect on the camp relationship?
 3. [Nice-to-have] Did other SGW/Concordia faculty besides Dimock, Seaman, Kass, and Potter have direct Kanawana connections?
-4. [Nice-to-have, advanced 2026-07-09] Are there SGW student newspaper (*The Georgian*) articles about Camp Kanawana from the 1930s--1960s? The Georgian (200+ issues, 1936-37 and 1962-70) and the McGill Daily/Le Délit (9,868 issues, 1911-2001) are both fully digitized on Internet Archive — but a genuine methodological obstacle was found: archive.org's `advancedsearch.php` API does not perform true full-text OCR search (confirmed via a positive-control test using SGW's well-documented 1969 "Computer Riot," which also returned zero results). Properly searching either collection for "Kanawana" requires a human using the real browser-based search-inside feature, issue by issue — not yet done.
+4. ~~[Nice-to-have, advanced 2026-07-09] Are there SGW student newspaper (*The Georgian*) articles about Camp Kanawana from the 1930s--1960s?~~ **[ANSWERED 2026-09-07, and the answer is no — with two things that are better than an article.]** All **292** digitized issues were downloaded and grepped, which is the only route: no index reaches this collection's contents, so nothing short of reading it whole would ever have settled it.^10 **290 issues contain neither camp's name.** The two that do are not reporting. One is a **Kanawana staff advertisement** of **20 February 1962** — "Summer Employment … the Laurentian camp for Boys … an opportunity for working with boys through **a systematic process of planned group development**", signed by **A. Ross Seaman, M.Ed.** as Director and **Dr. H. G. Dimock** as "Co-ordinator of staff training and development, Metropolitan YMCA", with the season given as **23 June to 25 August** and a truck driver offered **$300** and board.^10 The other is a **retirement notice** of **3 October 1961** for Camp Otoreke's director "Mr. Mac" — Clarence J. McGerrigle — which dates a handover [[site/camp-otoreke|the Otoreke article]] could not.^10 ***The shape is the finding.*** The student paper's relationship to the camp was **a labour market and a social circle, not a subject of reporting** — the university supplied Kanawana's counsellors and the camp advertised for them where the students were. **And it puts Dimock inside the association a year before he founded the department this article is about**: he is co-ordinating YMCA staff training in February 1962 and first Chairman of Applied Social Science in 1963.^10 *The original question, kept:* The Georgian (200+ issues, 1936-37 and 1962-70) and the McGill Daily/Le Délit (9,868 issues, 1911-2001) are both fully digitized on Internet Archive — but a genuine methodological obstacle was found: archive.org's `advancedsearch.php` API does not perform true full-text OCR search (confirmed via a positive-control test using SGW's well-documented 1969 "Computer Riot," which also returned zero results). Properly searching either collection for "Kanawana" requires a human using the real browser-based search-inside feature, issue by issue — not yet done. *[SUPERSEDED 2026-09-07 for The Georgian, and the reasoning was half right. The obstacle was real and is now fully characterised — the archive's own full-text APIs are unreachable from the research environment and Open Library's search/inside indexes **books only**, so no index of any kind reaches these collections. But it does **not** take a human: it takes downloading. All 292 Georgian issues were fetched in full and grepped in a few minutes. **The McGill Daily and Le Délit, at 9,868 issues, are the same job about thirty-four times over** — raised as **p_479**.]*
 5. [Nice-to-have] What is the scope of the 2019--2024 YMCA-Concordia camp partnership -- does it involve Kanawana specifically, or YMCA day camps more broadly?
 
 ## Related Articles
@@ -74,4 +125,8 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 6. Wikipedia, "Harold H. Potter." URL: https://en.wikipedia.org/wiki/Harold_H._Potter
 7. Wikipedia, "Raye Kass." URL: https://en.wikipedia.org/wiki/Raye_Kass
 8. Warren, Jean-Philippe et al. "Reflections: Sociology and Anthropology at Concordia." Concordia University.
-9. Internet Archive, "The Georgian" (rma-concordia-publications collection) [src_ia_the_georgian]; "McGill Student Publications Collection" [src_ia_mcgill_daily].
+9. *A lead, not a source, and deliberately uncited.* Internet Archive, "McGill Student Publications Collection" [src_ia_mcgill_daily] — the *McGill Daily* and *Le Délit*, **9,868 issues, 1911-2001**, fully digitized and never searched for either camp's name. No index reaches the collection's contents, so the only route is the one that worked on *The Georgian* at note 10: download every issue and grep it, which is that job about thirty-four times over. Raised as **p_479**. This entry's Georgian half was withdrawn 2026-09-08, note 10 having superseded it.
+10. *The Georgian* (Sir George Williams University), **all 292 digitized issues** [src_ia_the_georgian], swept 2026-09-07 by downloading and grepping each in full; and the two that carry a camp name, Vol. 25 No. 16 of **20 February 1962** [src_ia_georgian_1962_02_20] and Vol. 25 No. 2 of **3 October 1961** [src_ia_georgian_1961_10_03]. Method and both texts at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5372], [f_5373], [f_5374].
+11. "In Memoriam: Ross Seaman 1921-1987," *Concordia University Magazine* Vol. 11 No. 1 (January 1988), p. 28 [src_concordia_magazine_1988_01]. Concordia's own obituary of A. Ross Seaman, transcribed complete in `sources/cache/concordia-publications/2026-09-07-concordia-university-magazine-1988-seaman-obituary.txt`. Found 2026-09-07 by the whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` under p_479. See [f_5380], [f_5385], [f_5386].
+12. Sir George Williams College, *The Annual Yearbook 1943* [src_sgw_yearbook_1943]; *The Annual Yearbook 1942* [src_sgw_yearbook_1942]; *Faculty of Arts, Science and Commerce Announcement 1941-1942* [src_sgw_calendar_1941_42]. Transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5396], [f_5399], [f_5400], [f_5403].
+13. *The Postgrad* (Sir George Williams University alumni magazine), Vol. 13 No. 3, Thanksgiving Issue, October 1957 [src_sgw_postgrad_1957_10]. Class notes. Transcribed at `sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt`. See [f_5443].

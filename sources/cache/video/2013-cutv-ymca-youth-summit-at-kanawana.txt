@@ -1,0 +1,39 @@
+SOURCE: CUTV Montreal, "YMCA Sommet international de l'engagement jeunesse", a 2 minute 9 second
+        news item filmed at Camp Kanawana. Internet Archive item
+        cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse, in the cutvqc, community_media and
+        newsandpublicaffairs collections; originally YouTube video vFvHCELC4zI on the CUTV Montreal
+        channel. Item date 2013-09-17. Retrieved 2026-09-07.
+
+WHAT THIS FILE IS, AND WHAT IT IS NOT
+-------------------------------------
+BOTH CAPTION TRACKS ARE MACHINE TRANSCRIPTION. The Internet Archive's own filenames say so: they are
+".en.asr.srt" and ".fr.asr.srt". The FRENCH TRACK IS A MACHINE TRANSLATION OF THE ENGLISH ASR, not an
+independent transcription of the French speech -- it garbles in exactly the same places and in the
+same order. The middle of the piece, which is an interview, is unrecoverable from either track: it
+degenerates into strings like "there's no kakera wanna serve a playful produced septum can u nyan cat".
+That is the transcriber failing, not the speaker.
+
+NO NAME IN THESE TRACKS SHOULD BE TRUSTED. The reporter's own name is rendered "mohammed ur Tala" and
+"mohammé sur une serviette". Nothing in this file establishes who anybody is.
+
+WHAT IS SECURE: the opening and closing pieces to camera, which are in clear English, and the item's
+own catalogue metadata.
+
+ITEM METADATA AS HELD BY THE INTERNET ARCHIVE
+---------------------------------------------
+title: YMCA  Sommet international de lengagement jeunesse
+creator: CUTV Montreal
+date: 2013-09-17
+duration: 129 seconds (runtime 00:02:09)
+description: CUTV goes to camp Kanawana for the  Sommet international de lengagement jeunesse put on by the YMCA participants learn though workshops vital ways to become socially engaged.
+subject: Quebec; Montreal; CUTV Montreal; Local Journalism Initiative; Community Television; Community Media; Youtube; World YWCA (Organization); Camp Kanawana; youth summit; CUTV; 2013
+youtube-id: vFvHCELC4zI ; uploader CUTV Montreal ; view count at capture: 107
+publicdate: 2023-10-08 00:35:06
+
+ENGLISH CAPTION TRACK, CLEANED (rolling-caption repeats collapsed, timing tags stripped)
+----------------------------------------------------------------------------------------
+one go we're here and we're live this is mohammed ur Tala on the lake with crumbs in his very nice canoe here today at the ymca some edition it's the second year that the VA has been doing this project and basically it's a five-day summit for people ages 16 to 25 to get involved with their society their community it's to promote social engagement so we were invited here to talk about the reappropriation of public space through media citizen media alternative media like what we do at CU TV and basically teach on the participants how to do just that there's no kakera wanna serve a playful produced septum can u nyan cat imagine the back to Quebec is almond the semi-autonomous analed language machinist we done for me yet agenda passed to Trina hunt so lame associate convey mo a sweetie anapamu pido mucho SI sia dijo que parte de la vista a la paz e silva my move o le canot an eyeshadow surgeon beaucoup sorry talaga in past episodes in satanic envisage buchla mere paas kisumu constrictive sit present sweetie from fed the on continue versions this has been mohammed on a towel for ctv news back to you ja CU TV is a campus community TV and video production studio that provides an essential service to concordia and montreal communities representing alternative to mainstream television as a viable resource we provide the space equipment and know-how a video production to student and community populations register your profile in our system and take a training session or a workshop where you can learn basic camera operation sound recording editing writing and hosting you can join the crew and pick assignments at meetings or even produce your own show so get involved donate and watch us live at CU
+
+FRENCH CAPTION TRACK, CLEANED -- a machine translation of the above, kept only to show that it is one
+-----------------------------------------------------------------------------------------------------
+d'un coup, nous sommes ici et nous sommes en direct, c'est Mohammed ur Tala sur le lac avec des miettes dans son très beau canoë ici aujourd'hui au ymca, une édition, c'est la deuxième année que le VA réalise ce projet et en gros, c'est un cinq sommet d'une journée pour les personnes âgées de 16 à 25 ans afin de s'impliquer dans leur société, leur communauté, c'est pour promouvoir l'engagement social, nous avons donc été invités ici pour parler de la réappropriation de l'espace public à travers les médias, les médias citoyens, les médias alternatifs comme ce que nous faisons à CU TV et en gros enseigner aux participants comment faire juste qu'il n'y a pas de kakera, je veux servir un septum produit de manière ludique, un chat nyan peut-il imaginer que le retour au Québec est en amande le machiniste semi-autonome du langage analysé que nous avons fait pour moi mais l'ordre du jour a été transmis à Trina Hunt, donc un associé boiteux transmet mo a chérie anapamu pido mucho SI sia dijo que parte de la vista a la paz e silva my move o le canot un chirurgien de fard à paupières beaucoup désolé talaga dans les épisodes passés de satanic envisager buchla mere paas kisumu constrictive sit present sweetie from fed the on continue versions cela a été mohammé sur une serviette pour les nouvelles de CTV, ja CU TV est un studio de production de télévision et de vidéo communautaire sur le campus qui fournit un service essentiel aux communautés de Concordia et de Montréal, représentant une alternative à la télévision grand public en tant que ressource viable. Nous fournissons l' équipement spatial et savoir-faire une production vidéo aux populations étudiantes et communautaires enregistrez votre profil dans notre système et suivez une séance de formation ou un atelier où vous pourrez apprendre le fonctionnement de base de la caméra enregistrement sonore montage rédaction et hébergement vous pouvez rejoindre l' équipe et choisir des missions lors de réunions ou même produisez votre propre émission alors impliquez-vous, faites un don et regardez-nous en direct à CU

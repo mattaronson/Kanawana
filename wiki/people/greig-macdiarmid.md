@@ -1,13 +1,13 @@
 # Greig Macdiarmid
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 15*
+*Last Updated: 2026-09-08 (the branch career the camp chieftaincy sat on top of)*
 
 ## Overview
 
 **W. J. G. "Greig" Macdiarmid** was Camp Chief of Kanawana from 1935 through 1939 — the longest and best-documented interwar directorship — and was on the camp's staff for at least two seasons before that. His tenure did not trail off into an undocumented gap, as this article previously implied: **it ended in December 1939, when he went overseas with YMCA War Services.**^7 He never returned to Montreal, spending the war as Senior YMCA Supervisor for Great Britain and resigning from the Montreal Association in 1946 to become Executive Secretary of the Toronto Central YMCA.^7
 
-He appears in the archival record under both "Greig Macdiarmid" and the initialed form "W.J.G. Macdiarmid," a variant this KB had already confirmed refers to the same person. A third form now adds a piece of the name: the Montreal YMCA's 1926 Annual Report calls him **"J. Greig Macdiarmid"** twice, in the same document that elsewhere prints "W. J. G. Macdiarmid."^1
+He appears in the archival record under both "Greig Macdiarmid" and the initialed form "W.J.G. Macdiarmid," a variant this KB had already confirmed refers to the same person. A third form now adds a piece of the name: the Montreal YMCA's 1926 Annual Report calls him **"J. Greig Macdiarmid"** twice, in the same document that elsewhere prints "W. J. G. Macdiarmid."^1 A fourth form is phonetic rather than archival: the *Green Triangle*'s Spring Issue of 30 March 1937 prints a comic letter from the camp's workman Mr. Pagé opening **"Mon Cher M. McDiarmid"** — the *Mc* spelling, in a dialect piece written by the paper's own staff, which suggests the name was heard as often as it was read.^13 That letter also places Macdiarmid as Chief through the 1936 season and still in post in March 1937, independently of the annual report; and it records something he did that survives nowhere else: **he published a book for the camp**, whose first page carried his photograph and whose second read "Camping is fun." No copy is held. See [[people/page-family|The Pagé Family of Saint-Sauveur]].
 
 ## Directorship (1935–1939)
 
@@ -30,12 +30,43 @@ Macdiarmid was at Kanawana on staff before he ran it, overlapping with [[people/
 | **15 September 1927** | Associate Secretary; appointed to succeed MacKinnon temporarily as Executive Secretary. *(Corrected from 1928. The report carrying this is the 1928 one, whose fiscal year ends **31 March 1928** — it cannot contain a September 1928 event. The September is 1927.)* |
 | 1929–1930 | Listed on the Verdun Branch staff |
 | 1933–1934 | Kanawana staff, under Camp Chief W. H. Spearman |
+| **1934-35** | Transferred from **Southwestern Branch** to the **Executive Secretaryship of the Mount Royal Avenue Branch**^14 |
 | 1935–1939 | Camp Chief, Kamp Kanawana |
-| December 1939 | Went overseas with YMCA War Services |
+| by 1939 | **Executive Secretary of the Eastern Community Branch**^15 |
+| **early September 1939** | Appointed **Military Services Secretary for Military District No. 4**^15 |
+| December 1939 | Went overseas with YMCA War Services, **as one of the six Y.M.C.A. officers with the First Division**^15 |
 | 1942–1943 | Senior YMCA Supervisor for Great Britain |
 | 1946 | Senior Secretary for War Services in the United Kingdom; resigned from the Montreal Association to become Executive Secretary, Toronto Central YMCA, effective September 1 |
-| 1946–1962 | Rose to **General Secretary of the Toronto YMCA** — the whole association, not the Central branch he joined in 1946.^10 Drove the expansion of **Camp Pine Crest**, **Camp Norval** and **Camp Wangoma**, developed **twenty-three YMCA day camps** in the Toronto area, and "set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children"^10 |
-| **21 May 1962** | **Died suddenly**, in office.^10 |
+| 1946–1962 | Rose to **General Secretary of the Toronto YMCA** — the whole association, not the Central branch he joined in 1946.^11 Drove the expansion of **Camp Pine Crest**, **Camp Norval** and **Camp Wangoma**, developed **twenty-three YMCA day camps** in the Toronto area, and "set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children"^10 |
+| **21 May 1962** | **Died suddenly**, in office.^11 |
+
+**The branch career the camp chieftaincy sat on top of.** Two annual reports found on 2026-09-08, both
+already cached and both passed over because a plain search for the surname does not match the way the OCR
+sets it, broken across a line as "Macdiar- mid," fill in what he was doing in Montreal while he ran the
+camp. The report for the year ending 31 March 1935: "Mr. **W. J. G. Macdiarmid** was transferred from
+**Southwestern Branch** to the **Executive Secretaryship of Mount Royal Avenue Branch**," in a paragraph
+that also moves Harold C. Cross to the Metropolitan Programme Secretaryship.^14 *The paragraph opens "On
+August 1st" and then runs through four transfers; whether that date governs all of them or only the first,
+G. Ernest Trueman's, the report does not say, so the year is dated here and the day is not.* So he took the
+camp in 1935 as a branch executive, not as a camping specialist — the same shape found in this wiki for
+[[people/roy-locke|Roy Locke]], [[people/rh-hanagan|R. H. Hanagan]] and G. D. Brandon.
+
+**And the war posting has a date and a district.** The report for the year ending 31 March 1940:
+"**W. J. G. Macdiarmid, Executive Secretary of the Eastern Community Branch**, was appointed **Military
+Services Secretary for Military District No. 4 early in September**. In due course he went overseas as
+**one of the six Y.M.C.A. officers with the First Division**."^15 That names the branch he was running
+when the war began, dates the military appointment to the first weeks of it, and puts the "December 1939"
+in the table above inside a specific establishment: six officers, the First Division. *Eastern Community
+Branch is also the branch [[people/rh-hanagan|Hanagan]] would run and [[people/roy-locke|Locke]] would
+take from him in 1948* — the same chair, three camp directors in a decade.
+
+**Two details from the obituary itself, which this article had been quoting at second hand.** It gives
+his wartime post as **"Senior Officer Overseas of Canadian YMCA War Services"** — a third form of the
+title, recorded here beside the two the Montreal annual reports give ("Senior Y.M.C.A. Supervisor for
+Great Britain," 1942–43, and "Senior Secretary for War Services in the United Kingdom," 1946) rather
+than collapsed into them, because three wordings across three documents is what the record actually
+says. And it ends: **"To those who knew him, he was truly 'THE CHIEF'."** That is the only epithet any
+source attaches to him, and it matches what the camp called its director in the 1930s.^11
 
 His Montreal career and Spearman's ran closely parallel — both entered the association in the 1920s, both ran Kanawana in the 1930s, both went into YMCA War Services, and both are listed together in the wartime annual reports' roll of Montreal secretaries serving overseas.^7 Spearman returned to Montreal in 1945 and stayed until 1954; Macdiarmid did not return at all.
 
@@ -45,9 +76,32 @@ The identification of "Greig Macdiarmid" with "W.J.G. Macdiarmid" is settled: th
 
 What "W. J." stood for is still unknown, and the 1926 report complicates rather than settles it: a man printed as "J. Greig Macdiarmid" appears to have gone by his middle name with a leading "J," yet the initialed form puts a "W" before that "J." Both forms are documented; no source expands either letter.
 
+**He was at Kanawana in 1933, and the paper says "again".** This article's earliest attestation is the
+*Green Triangle* of 6 July 1935. The issue of **29 July 1933** has him arriving at Junior camp and
+taking over the morning routine: "This morning when the rising bell was sounded, the get-up cry was
+changed from the usual 'You'll have to hurry, hurry, hurry' to a new call, '**Little speed boys,
+little speed**', as only **Mr. MacDiarmid** can say it. We are sure glad to have **Mr. MacDiarmid with
+us again this summer**, and hope that he will have a very enjoyable summer."^12
+
+Three things follow. His association with Kanawana runs from **at least 1933**, two years earlier than
+recorded. "Again this summer" puts him at camp in **1932** as well, which is consistent with the Fire
+of Friendship account of 6 August 1932 signed "Graig MacDermaid" and with the arrival of a "Mr.
+McDermit" among new staff that July — an identification this project had rested on a spelling alone,
+and which the 1933 issue now supports with the name spelled correctly. And in 1933 he was **staff, not
+Chief**: [[people/w-h-spearman|W. H. Spearman]] was Camp Chief through 1934, and MacDiarmid is
+described here doing the wake-up call in Junior camp. So the sequence is a leader from 1932 or 1933,
+under Spearman, who became Chief by 1935. **The directors' table is not amended**, because it records
+directorships and this is not one; what changes is the length of his association.
+
 ## Open Questions
 
-1. [Important, narrowed 2026-08-25] What do the "W." and "J." stand for? The 1962 obituary heads him "**J. G. 'Greig' Macdiarmid**", which agrees with the 1926 report's "J. Greig Macdiarmid" and puts the J first, but still expands nothing. A Toronto obituary of May 1962 is now a dated, findable target.^10 The 1926 Annual Report's "J. Greig Macdiarmid" establishes that "Greig" is a given name, but leaves the first two initials unexpanded, and the "W. J. G." / "J. Greig" orderings are not obviously reconcilable. Likely routes: Toronto Central YMCA records from 1946 onward, Ontario vital records, or a Toronto obituary.
+1. [Important, narrowed 2026-09-05] What do the "W." and "J." stand for? **The obituary this project has
+   is the one in *Canadian Camping*, Vol. 15 No. 1, December 1962, p. 18 — read in full, cited here as
+   source 11, and not to be hunted for again.** It heads him "J. G. 'Greig' Macdiarmid," which agrees
+   with the 1926 report's "J. Greig Macdiarmid" and puts the J first, but expands neither initial. What
+   is still unfound is a **Toronto newspaper** obituary of late May 1962 — the *Globe and Mail* or the
+   *Toronto Daily Star* — which is the kind of notice that prints a man's full given names, his birth
+   place and his survivors. That, not the camping-magazine notice, is the outstanding target.
 2. ~~[Nice-to-have] Did Macdiarmid's tenure begin before 1935 or extend beyond 1938?~~ **[Resolved 2026-08-14 — both halves.]** It extended to **1939** (CFCF broadcast, June 10, 1939, "Mr. Macdiarmid, the director"), and ended because he went overseas with YMCA War Services that December. It did *not* begin before 1935: W. H. Spearman was Camp Chief 1932–1934, and Macdiarmid appears in the 1933 *Green Triangle* as returning **staff**, not as Chief. This question previously read "No source before or after this four-year window has been found" — an overstatement of the absence of evidence; the sources existed and had not been looked at.
 3. ~~[Important] What did Macdiarmid do at Toronto Central YMCA, and when did he die?~~ **[ANSWERED 2026-08-25.]** His *Canadian Camping* obituary — "**J. G. 'Greig' Macdiarmid, May 21st, 1962**" — records that he rose to **General Secretary of the Toronto YMCA**, died **suddenly in May 1962**, and that "his interest and enthusiasm was a key factor in the expansion of Camp Pine Crest, Norval, Wangoma and the development of twenty-three YMCA Day Camps in the Toronto area," besides setting the stage for Camp Illahee for medically handicapped children. It also confirms his wartime role as "**Senior Officer Overseas of Canadian YMCA War Services**."^10 **Note the Pine Crest connection**: this wiki records Camp Pine Crest as the source of the Lumbermen-versus-Voyageurs competition Kanawana adopted in 1947 — and the man who expanded Pine Crest was Kanawana's own former Camp Chief. Whether he carried the idea in either direction is not documented, but the two facts now sit next to each other. See [[traditions/lv-games|The L&V Games]] and [[connections/related-camps/camp-pine-crest|Camp Pine Crest]].
 4. [Nice-to-have] How far back does his Kanawana involvement run? The 1933 newsletter's "with us **again** this summer" implies at least 1932, and possibly earlier — the same seasons Spearman was Chief.
@@ -73,7 +127,12 @@ What "W. J." stood for is still unknown, and the 1926 report complicates rather 
 8. "Kanawana Goes on the Air," November 7, 1938 — camp letterhead reading "O. N. H. OWENS, Chairman   W. J. G. MACDIARMID, Director" [src_ia_ymca_montreal_fonds_collection].
 9. Kamp Kanawana broadcast, Station CFCF, June 10, 1939 [src_ia_ymca_montreal_fonds_collection].
 10. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
+11. "In Memoriam: J. G. 'Greig' Macdiarmid, May 21st, 1962," *Canadian Camping* Vol. 15 No. 1, December 1962, p. 17–18 [src_ia_canadian_camping_1962_12]. The obituary itself, read in full. Grace McMorris was quoting this notice; the Toronto General Secretaryship, the Pine Crest, Norval and Wangoma expansions, the twenty-three day camps, the Camp Illahee sentence, the 21 May 1962 death and the "J. G. 'Greig'" heading all come from here, and are cited to it rather than to the thesis quoting it.
+12. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+13. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`; read word for word 2026-09-07. See [f_5592].
 
+14. YMCA of Montreal annual report for the year ending **31 March 1935** [src_cache_sgw_ymca_annual_report_1935], the staff-changes paragraph: the transfer from Southwestern to the Mount Royal Avenue executive secretaryship on 1 August, in the same paragraph as Harold C. Cross's move to the Metropolitan Programme Secretaryship. Read 2026-09-08 under p_490. See [f_5748].
+15. YMCA of Montreal annual report for the year ending **31 March 1940** [src_ymf_sgw_ymca_annual_report_1940], the war-services paragraph: the Eastern Community Branch executive secretaryship, the Military District No. 4 appointment early in September, and the six Y.M.C.A. officers with the First Division. Read 2026-09-08 under p_490. See [f_5748].
 ## Research Notes
 
 <!-- Substantially rewritten 2026-08-14 from the digitized YMCA of Montreal fonds (Green Triangle run, annual reports 1926-1946, the 1938 Kanawana letterhead, the 1939 CFCF broadcast transcript).

@@ -1,0 +1,63 @@
+Commission de toponymie du Quebec -- fiche no_seq=145208 (camp-olier)
+https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=145208
+Fetched 2026-09-06 (p_423). Text extracted from the served HTML.
+------------------------------------------------------------
+Camp Olier - Sainte-Anne-des-Lacs (Municipalité de paroisse)
+Passer au contenu
+Commission de toponymie
+Accueil
+Nous joindre
+Plan du site
+Retour aux résultats
+Version imprimable
+Camp Olier
+Origine et signification
+Ce camp se trouve à Sainte-Anne-des-Lacs, dans les Laurentides. Son nom rappelle le souvenir de Jean-Jacques Olier.
+Notice biographique
+Jean-Jacques Olier de Verneuil (Paris, France, 1608 –
+id
+., 1657) est un prêtre et un théologien, qui a fondé la Compagnie des prêtres de Saint-Sulpice. Il est issu de la noblesse de robe, son père occupant le poste d'intendant du Lyonnais, en France. Jean-Jacques Olier fait ses études au collège des Jésuites, puis au collège d'Harcourt et à la Sorbonne, où il obtient son diplôme en théologie. Après s'être placé sous la direction spirituelle de Vincent de Paul (1581-1660), il devient prêtre en 1633.
+Convaincu de l'importance d'une solide formation pour les prêtres, Jean-Jacques Olier fonde en 1641 un séminaire à Vaugirard – une banlieue annexée à Paris en 1860 – transféré l'année suivante près de l'église de la paroisse de Saint-Sulpice, dans la Ville lumière, dont il venait d'accepter la cure. Selon certaines sources, la véritable création du Séminaire de Saint-Sulpice date toutefois de 1645, année où un nouvel édifice est construit et dans lequel Jean-Jacques Olier cherche à former des prêtres instruits, pieux, possédant le sens de la vie réglée et du ministère pastoral. Pour lui, il ne s'agit pas de donner à l'Église de savants théologiens mais bien de véritables pasteurs, capables d'enseigner et de convaincre. Parallèlement, Jean-Jacques Olier pose les fondements de la Compagnie des prêtres de Saint-Sulpice. Il œuvre aussi à la mise sur pied d'une société dénommée « Les Messieurs et Dames de la Société de Notre-Dame de Montréal pour la conversion des sauvages de la Nouvelle-France », avec Jérôme Le Royer de La Dauversière (1597-1659) et Pierre Chevrier, baron de Fancamp (1608-1692). Il meurt le 2 avril 1657, après avoir déjà ouvert quatre séminaires diocésains en France.
+Considéré comme l'un des maîtres de l'école française de spiritualité au XVII
+e
+siècle, Jean-Jacques Olier laisse plusieurs ouvrages, dont le
+Catéchisme chrétien pour la vie intérieure
+(1656) et les
+Lettres spirituelles
+(1672). En 1674, on publie également les
+Lettres et Correspondances du Père Olier de Verneuil sur les établissements de la Foi en la Nouvelle-France
+.
+Date d'officialisation
+1985-11-07
+Spécifique
+Olier
+Générique (avec ou sans particules de liaison)
+Camp
+Type d'entité
+Camp
+Région administrative
+Laurentides
+Municipalité régionale de comté (MRC)
+Les Pays-d'en-Haut
+Municipalité
+Sainte-Anne-des-Lacs (Municipalité de paroisse)
+Code géographique de la municipalité
+77035
+Latitude               Longitude (coord. sexagésimales)
+45° 49' 42"
+-74° 09' 12"
+Latitude               Longitude (coord. décimales)
+45.82833
+-74.15334
+Carte topographique 1/50 000
+31G16
+Carte topographique 1/20 000
+31G16 -0102
+Nouvelle recherche
+Date de la dernière mise à jour : 7 octobre 2020
+-->
+Déclaration de services aux citoyens
+Accès à l’information
+Politique de confidentialité
+Accessibilité
+© Gouvernement du Québec, 2024

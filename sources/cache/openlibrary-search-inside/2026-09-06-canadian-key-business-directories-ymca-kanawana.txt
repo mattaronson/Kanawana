@@ -1,0 +1,139 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+THE CANADIAN KEY BUSINESS DIRECTORY (Dun & Bradstreet Canada) — the Y.M.C.A. de Montréal entry
+and its Kamp Kanawana division line, 1993–2001.
+
+NOT A SCAN. Every volume below is lending-restricted on the Internet Archive; none has been
+read. The text is assembled from overlapping twelve-word windows returned by
+https://openlibrary.org/search/inside.json (contract at f_4933). Page images are blocked: see
+the ACCESS FAILURE at the end.
+
+This file exists because p_430's group 2 named four of these volumes and attached a standing
+caution — that officer names visible beside the Kanawana line belong to whatever entry the page
+sets next to them, and that adjacency in a twelve-word window is not attribution. THE CAUTION
+WAS RIGHT AND IS NOW RESOLVED BY EVIDENCE RATHER THAN BY LEAVING THE NAMES ALONE. What follows
+records both the entry and the reasoning.
+
+
+1. WHICH VOLUMES NAME THE CAMP
+------------------------------
+The query "Kamp Kanawana" returns 13 items across the whole corpus. Four are Canadian Key
+Business Directories:
+
+  canadiankeybusin1994unse   leaf 1598
+  canadiankeybusin1997unse   leaf 1288
+  canadiankeybusin1999unse   leaf 1148
+  canadiankeybusin2000unse   leaf 1154
+
+A second query, "849-5331 Emp", finds the SAME association entry — same address, same telephone
+— in five more volumes that do NOT name the camp:
+
+  canadiankeybusin1993unse        leaf 1568
+  canadiankeybusin1995unse        leaf 1216
+  canadiankeybusin1998unse_j8t3   leaf 1158
+  canadiankeybusin2001unse        leaf 1164
+  canadiankeybusin0000unse_m8l5   leaf 1246   (undated in the catalogue)
+
+DO NOT READ THE ON-OFF PATTERN AS HISTORY. 1994, 1997, 1999 and 2000 carrying the division line
+while 1993, 1995, 1998 and 2001 do not is far likelier to be OCR quality or Dun & Bradstreet's
+own rotating level of detail than anything that happened at the camp. It is recorded because it
+is what the index returns, not because it means anything.
+
+
+2. THE ENTRY, WALKED FROM ITS OWN HEADING
+-----------------------------------------
+1999 volume, leaf 1148, walked forward from the D-U-N-S number that opens the entry to the
+D-U-N-S number that opens the next one:
+
+    "... D-U-N-S 20-765-0813 (HQ) Y M C A de Montreal Kamp Kanawana D[i]v Of 1441 rue Drummond.
+    Montreal. PQ H3G 1W3 Tel 5 14-849-5331 Emp Here 55 Emp Total 1,750 Sales 52,600.000 [Year]
+    Started 1857 SIC 8399 Social Services. M. Micheal Novak / Jacques Luys / Nina Caputo / Paul
+    Dunne — Pres, conseil d'admin / Vice-president / Secretaire-tresorier / Tresorier
+    D-U-N-S [next entry] ..."
+
+("Dtv Of" is the OCR; "Div Of" is what the other three volumes give in the same position.
+"52,600.000" is the OCR's decimal point for a comma. The slashes are supplied: see §4.)
+
+The 1994, 1997 and 2000 volumes give the same entry with the same D-U-N-S and telephone. The
+1994 volume prints the address as "1441 Drummond Rue"; 1997, 1999 and 2000 print "1441 rue
+Drummond". The 1998 volume's window reads "... Emp Here 55 Sales 52,600,000 SIC 8399 Social
+Services M. Micheal Novak Jacques Luys Nina Caputo Paul Dunne Emp Total 1,750 Year Started
+1 857 ...", i.e. the same four names in the same order a year earlier.
+
+FIGURES BY VOLUME, as returned:
+  1993   Emp Here 50   Emp Total 1,780   Sales 21,160,...
+  1995   Emp Here 69   Emp Total 1,750   Sales 52,600,...
+  1997   Emp Here 69   Emp Total 1,750   Sales 52,600,000
+  1998   Emp Here 55                     Sales 52,600,000
+  1999   Emp Here 55   Emp Total 1,750   Sales 52,600,000
+  2000   Emp Here 20                     Sales 36,100,000
+  2001   Emp Here 20                     Sales 36,100,000
+  m8l5   Emp Here 69                     Sales 52,600,000
+
+A sales figure repeated unchanged across 1995, 1997, 1998 and 1999 and then replaced wholesale
+is a directory's estimate being carried forward and then revised. It is not an annual series and
+must not be read as one.
+
+
+3. WHOSE FIGURES ARE THESE? — THE CONTROL
+-----------------------------------------
+The question the caution raises is whether "Emp Here 55" counts the camp's staff or the
+association's downtown office. It is settled by the D-U-N-S number rather than by the layout.
+The query "20-765-0813" returns 24 hits, in Dun & Bradstreet cross-reference sections of much
+older volumes, and every one of them reads:
+
+    D-U-N-S 20-765-0813   YOUNG MENS CHRISTIAN ASSOC MTL   1441 Rue Drummond
+    D-U-N-S 20-765-0813   YOUNG MENS CHRISTIAN ASS MTL     1441 Drummond
+    D-U-N-S 20-765-0813 HQ  YOUNG MENS CHRISTIAN ASSOC MTL 1441 ...
+
+So 20-765-0813 is the ASSOCIATION's number, not the camp's, and the camp had none of its own.
+"Emp Here", "Emp Total" and "Sales" belong to that record. They are figures for the Young Men's
+Christian Association of Montreal at 1441 Drummond, and NOT a headcount for Kanawana. Anyone
+tempted by "Emp Here 55" as a camp staff figure — it is in the right range, and David Leduc's
+own account gives 75 — should stop here.
+
+The same 24-hit query is a demonstration of the caution in the other direction. Names appearing
+immediately BEFORE the D-U-N-S line — "Michael Goldgrub Pr Emp 320", "William A Young Pr Emp
+200", "MR MAURICE NAYEY Dir", "MR JOHN YOUNG PRES", "H Kosansky Exec Di" — belong to the
+PRECEDING entry, which the line-of-business words give away ("clothing", "fd"). None of them is
+a YMCA officer on this evidence and none is recorded as one.
+
+
+4. THE FOUR NAMES, AND HOW FAR THEY CAN BE TRUSTED
+--------------------------------------------------
+M. Micheal Novak, Jacques Luys, Nina Caputo and Paul Dunne appear inside the association's own
+entry, after its SIC line and before the next D-U-N-S — walked, not adjacent. They are the
+association's officers as the 1998 and 1999 directories list them.
+
+The titles print as a separate run: "Pres, conseil d'admin / Vice-president /
+Secretaire-tresorier / Tresorier". Four names, four titles, same order, one walked entry. The
+pairing in §2 follows from that and from nothing else: the OCR does not preserve column
+alignment, the page image is blocked, and "Secretaire-tresorier" followed by "Tresorier" is odd
+enough on its own to be worth flagging. THE NAMES ARE THE FINDING; THE PAIRING IS AN INFERENCE
+FROM ORDER, and is written that way wherever it is used.
+
+("Micheal" is the directory's spelling and is left uncorrected.)
+
+
+5. YEAR STARTED 1857
+--------------------
+The entry gives "Year Started 1857" for the association. The YMCA of Montreal was founded on
+25 November 1851 and is the first YMCA in North America — a date this project holds from far
+better sources. 1857 is most likely the year of incorporation or of some later act, self-
+reported to Dun & Bradstreet at an unknown date. NO CONFLICT IS RAISED: a commercial credit
+directory's "Year Started" field is not a competing historical claim, and treating it as one
+would put a tertiary form-field against the association's own record.
+
+
+ACCESS FAILURE — page images
+----------------------------
+https://archive.org/download/canadiankeybusin1999unse/page/n1148_w1600.jpg
+with -L and Referer: https://archive.org/details/canadiankeybusin1999unse
+  -> HTTP 403, 4,868 bytes, content-type text/html.
+This is the lending restriction, not the missing-Referer trap (that one returns a 43-byte
+transparent GIF under HTTP 200). Without the image, the column alignment in §4 cannot be
+checked, and that is the only thing in this file that is not settled.
+
+ROUTES NOT TRIED: an authenticated Internet Archive borrow; a print or microform copy of the
+Canadian Key Business Directory at BAnQ or a Montreal business library; Dun & Bradstreet's own
+successor products; Google Books snippet view on the same volumes.

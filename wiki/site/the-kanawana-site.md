@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 43*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 78*
+*Last Updated: 2026-09-08 (the 1978 build in progress, and what the caretaker's crew put up in 1977)*
 
 ## Overview
 
@@ -10,6 +10,178 @@ Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mount
 ## Location and Access
 
 The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 approximately 90 km (45 minutes) north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The broader region has deep colonial roots: the neighbouring municipality of Mille-Isles was created on July 1, 1855, after detaching from the parish of Saint-Jérôme, and takes its name from the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand.^26 Early European settlement in the area dates to the 1830s.^26 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+
+### How you got there in 1941
+
+The camp's own hand-drawn map of 1941, of which the archive holds three near-identical copies, prints the
+directions on the sheet:^67
+
+> "Kanawana is situated about **five miles from the village of St. Sauveur des Monts**. Take **C.N.R. train
+> from the Tunnel Station**. **The camp truck meets all week-end trains.** By road the camp is reached by
+> **highway No. 11 to Piedmont**. Turn left up the hill, through St. Sauveur village and follow the **Kamp
+> Kanawana road signs**."
+
+Three things in that are gone. **Tunnel Station** is Montreal's Canadian National terminus under Mount
+Royal, the one the Mount Royal Tunnel opened in 1918 and which closed to intercity service decades ago.
+**Highway No. 11** is the pre-Autoroute route north; the 15 replaced it. And the **camp truck meeting all
+week-end trains** describes an arrangement, not a service — parents put a boy on a train and the camp
+collected him. The 2026 parent guide's bus from Westmount High School, with an authorised pick-up list and
+photo ID checked at the curb, is the same journey under a completely different set of assumptions about who
+is responsible for a child in transit.
+
+**And there is a middle term, found 2026-09-07.** The directors' reports for **1976, 1977 and 1978** each
+thank the **Ivanhoe Corporation** "for permitting us to use the parking lot of the **Dorval Gardens
+Shopping Centre** as the Montreal terminal for kamper transportation" — the same sentence three years
+running, so a standing arrangement rather than a favour.^73 The camp had gone from a railway station under
+Mount Royal, to a suburban shopping-centre car park, to a high-school forecourt with ID checks. The middle
+one says something the other two do not: by the late 1970s the assembly point that made sense was **on the
+West Island**, not downtown, and the same reports thank the Westmount, West Island, Downtown, N.D.G. and
+Lachine-Dorval branches for lending rooms for parents' meetings. **This project previously held no record
+of where campers gathered to travel to camp in any period.** [f_5662]
+
+The map itself labels Lake Kanawana, Lake Wilson and, tentatively, "**Lac des Beories**" — the Bec-scies
+name in another of its many spellings — with an inset captioned "Map showing Camp Property [with] Morgan's
+to Lock" and hand-lettered labels including **Junior Camp**, **Camp Cliff**, **Indian Grave** and, notably,
+a **Ski Course**.^67 A ski course drawn on a summer camp's map in 1941 belongs beside
+[[traditions/winter-programming|Winter Programming]] and the ski camp of 1945–47 the Concordia records
+document.
+
+**And a second map, forty years on.** The archive dates another site map to **1980–2001**, and its labels
+are a snapshot of the camp at its largest: Fitness Course, Ball Field, Hospital, Lookout, Archery Field,
+**Fire House**, Rock Climbing Wall, Craft Shop, "Chez Claude", Barn, Indian Council Ring, Chapel, Boating
+Waterfront, **Sauna**, a Tee Pee site, Senior and Junior parking lots, and a **Post Office**.^67 The Fitness
+Course and the Fire House appear nowhere else in this wiki.
+
+**Kanawana was a post office of the Dominion of Canada, and a summer one.** This is not in any camp
+document; it is in the federal record, and nothing in this wiki said it before 2026-09-06.^44
+
+The Post Office Department's annual report for **1914-15** lists "Kanawana" in its table of
+**Non-Accounting Post Offices — Revenue, Salaries and Allowances**, in the alphabetical run between
+Kananaskis and Kanes. A non-accounting office is the smallest class the Department kept: it sold stamps
+and handled mail but held no money-order or savings account, and its postmaster drew an allowance rather
+than a salary. The table marks every office opened or closed during the year with a letter prefix keyed
+to a footnote; **Kanawana carries none**, so it was already running and did not close that year. The
+same report, under **Mail Transportation — Montreal Division**, carries the route "**Kanawana — St.
+Sauveur des Mont[s]**" — a contracted mail service between the camp and the village.
+
+The Sessional Papers for **1919** say what kind of office it was: "**Kanawana (summer office) P.Q.**"
+The parenthesis is the Department's own, and it appears in the same list against Kahshe Lake and
+Kawartha Park, both Ontario cottage-country offices. So the office opened with the season and closed
+with it.
+
+**It opened between March 1909 and June 1912.** The Universal Postal Union's International Bureau
+published a *Dictionnaire des bureaux de poste* at Lausanne in **November 1909**, listing the post
+offices of every member country "à la date du **1er mars 1909**". **Kanawana is not in it.** The same
+volume carries a **Supplément of August 1912**, containing the changes "notifiés au Bureau international
+… depuis la publication de cet ouvrage **jusqu'au 1er juin 1912**", in three parts — offices to add,
+offices to strike, and modifications. **Kanawana is in Part I, *Bureaux à ajouter*, as "Canada,
+Québec."**^45
+
+So the office did not exist on 1 March 1909 and did exist by 1 June 1912 — and the closing end of that
+window comes in further. **Rand, McNally & Co.'s Indexed Pocket Map and Shippers' Guide of Quebec**, published at Chicago in **1911**, carries the entry "**Kanawana, Terrebonne, (Summer P. O.)**".^49 So the
+office existed **by 1911**, and it opened either just before or just after the YMCA bought this site in
+**1910**. *Canada's own directory agrees, and narrows it by a year.* The **1910** edition of the
+Canadian Almanac runs "Kamouraska | Kamsack | Kananaskis | Kanata | Kanes | Kanyengeh | Kaposvar" —
+clean, alphabetical, ungarbled, and without Kanawana — while the **1911** edition, its title page
+reading "For the Year 1911, Sixty-Fourth Year of Publication", has "Kanata … **Kanawana** … Kanes". A
+directory compiled in 1909 does not have the office; one compiled in 1910 does. *The 1912 edition is
+not evidence either way*: its name column is interleaved with the district and station columns in the
+scan and cannot be read as a run, so the string's absence there says nothing about the page.^60 That entry also puts the word "summer" on the office **eight years earlier** than the
+Sessional Papers of 1919, which was this project's first evidence of it.
+
+*What the entry does not carry is worth noticing too.* It has no map grid reference, no railway number,
+no population figure and none of the guide's reference marks — where Kamouraska, immediately above it,
+reads "E-18 * t 600": a grid square, a money-order post office, a telegraph station and six hundred
+people. Kanawana was a name in the index with a season attached and nothing else. Why it has no grid
+reference is not established, and is not guessed at here.
+
+*Two things about how that was read, because both could have gone wrong.* The Internet Archive
+catalogues the whole item as "1909"; taken at face value it would put a Kanawana post office **before**
+the YMCA arrived and unsettle the account of how the place got its name. It is in the 1912 supplement,
+which the line numbering settles. And the scan prints the names and the countries as two separate
+columns, so the alignment was checked rather than assumed: counting back from the end of both runs puts
+**Kanawyer** against "E.-U. d'Am., Cal." — Kanawyer is a real place in California — and **Kanawana**
+against "Canada, Québec." An offset of one would have put Kanawyer in Canada.
+
+**And it lasted forty years.** The *Canadian Almanac and Directory* carries Kanawana in its table of
+"Post Offices and Railroad Stations in Canada" in the **1917** and **1918** editions, again in **1943**,
+and again in two editions of the **1950s**. The 1943 row is the one whose columns survived the scan
+legibly, and it gives the whole entry: "**Kanawana … Terrebonne … Q | St. Sauveur 529 or Piedmont
+535**" — with **St. Sauveur** or **Piedmont** as its railway station, and no population figure beside the
+name, which in that table marks an unincorporated place. **Terrebonne** is the federal electoral
+district, and it is documented twenty-six years earlier: the *Guide officiel du service postal Canadien*
+for **1917** lists Kanawana in its national alphabetical list and again under TERREBONNE in "Bureaux de
+poste dans la province de Québec, arrangés suivant les districts électoraux".^46 Its neighbours there
+are Entrelac, Fourteen Island Lake, Ivry Nord, Lac Charlebois, Lac Duhamel, Lac Echo, Lac Guindon, Lac
+Manitou Sud and Lac Marois — every one a Laurentian lake or cottage place, which is the company the
+"summer office" label puts it in.
+*[SUPERSEDED 2026-09-07: the two 1950s volumes were described here as carrying "no legible year of
+their own," dated only by the calendars they print. **They state their years on their own title
+pages** — "DIRECTORY FOR 1951" and "DIRECTORY FOR 1954," with matching copyright lines and running
+heads. The earlier pass searched each volume for the place name and never read its front matter. The
+general lesson is worth more than the two dates: the Internet Archive catalogues **every** volume of
+this series as 1848, the series start, so the year has to be read out of the volume, and it sits on
+the title page within the first 45,000 bytes of the text file — a range request, not a download.
+Twenty-seven editions were dated that way in a single pass.]*^60 Later
+still, the *Atlas of Canada* (1981) indexes "Kanawana, UP (Que.)" — UP for unincorporated place.
+
+What this adds to the site's history is a matter of standing rather than detail. **A place gets a post office when enough mail moves through it to be worth a contract**, and Kanawana
+had one within a few years of the YMCA's arrival, with its own named route down to Saint-Sauveur, and
+kept it for about forty-five years, from 1910 or 1911 to 1956. The boys' letters home, which the camp's own publications treat as a
+domestic detail, were federal mail on a Dominion route — including the long ones a boy wrote from here
+in the 1950s that a Montreal memoir still remembered sixty years later (see
+[[history/postwar-gap|The Postwar Gap]]).
+
+**And then it stops.** A mid-1960s volume of the *McGraw-Hill Directory and Almanac of Canada* prints a
+list headed "**Post Offices in Canada** (Sub post offices and closed and renamed post offices appear in
+italics. The correct postal address for each closed post office appears immediately below the closed
+post office name.)", and in the run between Kanata, Ontario and Kandahar, Saskatchewan it has:
+"**Kanawana, PQ, see St-Sauveur-des-Monts, PQ**".^50 Recovering that heading was the whole job — the
+entry on its own would read as an ordinary gazetteer cross-reference, and under the heading it means
+Kanawana is in the italicised class and Saint-Sauveur is where its mail goes now. Against the 1950s
+almanacs above, *[SUPERSEDED 2026-09-07: this read "the office ended between about 1955 and the
+mid-1960s, which is the first closing bracket this project has." The bracket is now about a year
+wide.]*
+
+**The office closed between the 1956 and the 1957 edition.** The almanac's own legend does the work,
+and it had been sitting unread above the table all along: "**Places marked [dagger] are not Post
+Offices.**" A name in this list without a dagger is an operating office and the same name with one is
+not, so the question is only which editions dagger Kanawana. **None of 1951, 1954 or 1956 does. All
+of 1957, 1958, 1960, 1961, 1962 and 1968 do.** Its neighbours calibrate every scan: Kananaskis and
+Kanasuta carry the dagger in all of them, Kanata and Kandahar in none. Since an edition is compiled
+the year before it is dated, **the office closed in 1956, or in the months between the two
+compilations** — and the McGraw-Hill entry above, catalogued a decade later, is not contradicted,
+only late.^60
+
+*It nearly closed a year too early, and the reason is worth writing down.* A plain search for
+"Kanawana" returns nothing in the 1956 volume, and the Internet Archive's own search-inside returns
+nothing, and a story in which the name vanishes after 1954 would have been easy and wrong. **The OCR
+reads the w as two v's**: the line is "Kanavvana", undaggered, exactly where it belongs. It was found
+by searching for **Kanasuta**, which sits two lines above it in every edition, and reading the run
+out. This project learned the same lesson once already on "Otereke". *In a scanned alphabetical
+table, do not search for the target — search for a stable neighbour and read around it. The target is
+the rarest string on the page and therefore the likeliest to be misread.*^60
+
+**And the name outlived the office by at least twelve years.** Kanawana is still in the 1968 table,
+with "Terrebonne … Q … St. Sauveur des Mts 529 or Piedmont 535" beside it, exactly as in 1943 —
+carrying its county, its province and its railway stations, and marked only as a place that is no
+longer a post office.^60
+
+
+Two cautions, both of which the source imposes rather than this article volunteering them. The
+heading puts *three* categories into the same italics — sub post offices, closed ones and renamed
+ones. Kanawana was never renamed, so it is either closed outright or reduced to a sub-office served
+from Saint-Sauveur, and the list cannot say which. And the year is written here as **the mid-1960s**
+rather than 1966 on purpose: the Internet Archive holds four printings of this series and dates every
+one of them 1966, exactly as it dates every volume of the *Canadian Almanac* 1848 and dated the UPU
+supplement of 1912 to 1909 — a catalogue date that, taken at face value, would have put a Kanawana
+post office here before the YMCA was.
+
+Three things are still not established and should not be inferred: **the exact opening and closing
+dates**, **who the postmaster was**, and whether the office served the camp alone or a wider seasonal
+settlement around the lakes. Library and Archives Canada's Post Offices and Postmasters database is the
+authority on all three; it refused this project's requests at the network gateway (HTTP 403), which is a
+fact about the gateway. Tracked as `p_428`.
 
 The camp was administered from the YMCA Montreal's central branch downtown. Lovell's Montreal City Directory for 1976 listed "Kamp Kanawana" at 1441 Drummond Street, Montreal (H3G 1WS), telephone 849-5331 — the address of the YMCA's Drummond Street building. A second directory listing appeared under Châteauguay with telephone 692-2801.^27
 
@@ -37,11 +209,29 @@ the Kanawana site has ever been surveyed."^35
 | Stated size | Source and date |
 |---|---|
 | 150 acres | CFCF radio broadcast, 1936^36 |
+| **"3 LAKES — 600 ACRES OF WOODED PROPERTY"** | *The McGill Daily*, **25 May 1949** — a Kanawana recruitment advertisement^61 |
 | 600 acres | YMCA annual reports, 1949–1959^36 |
-| "a sixty acre site" | 1957 annual report — almost certainly a typo for 600^36 |
+| "covers sixty acres of woodland and lakes" | **1952** annual report (year ending 31 December 1952)^51 |
+| "covers 60 acres of woodland and lakes" | **1953** annual report (year ending 31 December 1953)^52 |
+| "a sixty acre site" | 1957 annual report — see the note below^36 |
+| "three lakes and a part of a fourth, covering some 600 acres" | **1958** annual report (year ending 31 December 1958)^53 |
 | ~1,000 acres | Kamp Kanawana annual report 1964; SGW YMCA annual report 1964; YMCA news release 13 May 1969; Kamp Kanawana annual reports 1969 and 1970^37 |
+| *(a purchase, size unstated)* | **112th annual report**, year ended 31 May 1964: "Additional property was purchased by Kamp Kanawana"^54 |
 | 1,200 acres "of private land and lakes" | *The Gazette*, 18 April 1974^38 |
+| **"1200 acres of land and three private lakes"** | *The McGill Daily*, **20 February 1989** — a Kanawana counsellor recruitment advertisement^62 |
 | 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
+| 1,000 acres "of wooded property" | *Summer Camps & Programs* (American camp guide), 1983^47 |
+| 500 acres | *Canadian Summer Job Directory*, 2006 edition^48 |
+| **550 acres** | **YMCA of Montreal annual report 2006** — "our exceptional 550-acre site located near Saint-Sauveur"^55 |
+| 550 acres | *Canadian Summer Job Directory*, 2008 edition^48 |
+
+**On the jump from 600 to 1,000 acres.** The table above steps from 600 acres, which the annual reports give from 1949 to 1959, to about 1,000, which everything from 1964 onward gives. The 112th annual report, covering 1 January 1963 to 31 May 1964, contains a line that would explain it: "**Additional property was purchased by Kamp Kanawana.**"^54 No acreage, no price, no vendor — four words in a property section otherwise concerned with building repairs. It is the first document this project holds that reports an acquisition at the right moment, and it is the explanation to test rather than the answer: four hundred acres is a great deal to infer from a sentence that gives no quantity. What would settle it is the deed, or the camp committee minutes for 1963-64.
+
+**And the 1,200 figure outlived the newspaper that carried it.** *The Gazette*'s 1974 report is discussed below as "the tail of a period." The camp was still advertising **1200 acres of land and three private lakes** in February 1989, in its own words, to students it hoped to hire.^62 That extends the period by fifteen years and removes the journalist from it: whatever the 1,200 figure was measuring, the camp itself was still using it at the end of the 1980s.
+
+**On the 600 figure, which is no longer inside-only.** Every entry for 600 acres above came from the association's own annual reports until 2026-09-07. The camp also stated it **in public, to strangers**, in a counsellor recruitment advertisement in *The McGill Daily* of 25 May 1949 — "CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY" — where an overstatement would have been checkable by anyone who took the job.^61 That is dated to **May 1949**, the very first year of the reports' 600-acre range, so the figure was in circulation from the start of it rather than settling in later. It does not resolve the jump to 1,000 acres and it does not settle the sixty-acre problem below; what it does is remove the possibility that 600 was an internal reporting convention nobody outside the association ever heard. One small difference to keep: the advertisement says **three lakes** flat, where the 1958 report says three and part of a fourth.
+
+**On "sixty."** The 1957 report's sixty acres was previously written off here as "almost certainly a typo for 600." It has company now: the 1952 report says the same thing in a fuller sentence — "covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal"^51 — and so does 1953, in a paragraph whose wording is nearly identical.^52 Three printings across six years is not a slip of the pen. The likeliest reading is a camp description copied forward from one year's boilerplate to the next, which would make it a fact about how the reports were compiled rather than about the property; the alternative is that sixty acres names something different from the six hundred — the developed camp proper rather than the whole holding. The same series prints 600 in 1949 and again in 1959 — and, decisively for the "different measure" reading, **in 1958, the year immediately after the sixty-acre one**, where the description is fuller than anywhere else in the run: the property "includes three lakes and a part of a fourth, covering some 600 acres."^53 Sixty and six hundred swapping places between consecutive volumes, inside the same descriptive paragraph, is not how a camp distinguishes its developed core from its whole holding. A zero carried in and out of the boilerplate now looks much likelier. This article still does not assert it, because both figures are what the association printed, but the sixty-acre entries should be read as suspect rather than as a rival measurement.
 | 550 acres | YMCA Quebec, current^1 |
 
 The large mid-century figures begin in a specific year. The Task Force chronology records that in
@@ -70,6 +260,9 @@ Kanawana site; B) The purchase of a new site."^40 The neighbouring criteria are 
 "Facilities be developed on northern shore" — and the report's costing pages budget "Land Cost
 1,000 acres." Neither the sale nor the new site happened. ([[#proposed-two-site-operation|See
 below]] for the related two-site proposal of 1977.)
+
+
+**Three of the rows above come from outside the institution, and one of them moves.** The 1983 American guide's "1,000 acres of wooded property" is the last appearance of the mid-century figure, twelve years after the camp's own literature had settled on it.^47 More useful are the two that follow: the *Canadian Summer Job Directory* prints **500 acres in its 2006 edition and 550 in its 2008**, in otherwise word-for-word identical copy.^48 These are the camp's own returns to a commercial publisher two years apart, so **the figure changed on the camp's own account between 2006 and 2008** and arrived at the 550 the YMCA uses now. That is the closest thing this article has to a date for the current number. It is still not a survey, and the 1988 planning report's finding stands: no record was found that the site had ever been surveyed.
 
 ## Camp Layout
 
@@ -106,12 +299,56 @@ The modern camp includes:^7 ^9
 - **Fire Bowls** for campfires and cookouts
 
 ### Historical Facilities
+
+**A dated construction event, and the accommodation split it belonged to.** The 1936 CFCF broadcast script
+describes the camp building by building, and one sentence in it is a date: "The boys in the Senior and
+Junior sections sleep in **tents**, each of which is pitched on **high dry wooden platforms**. The boys in
+the Juvenile section, those under twelve years of age, sleep in **cabins which are being erected new this
+year**."^64 So **the first Juvenile cabins went up in 1936**, each with "bunks for seven boys and a
+counsellor," screened doors and windows, and a view over the lake — while the two older sections stayed
+under canvas on platforms. *(That build cost **$1,250**, and the association's annual report on the same
+season calls the cabins the **junior** section's while this script puts Juniors in tents — one build
+recorded under three different section names across three documents, set out at
+[[site/places-and-locations|Places and Locations]].)* The same script gives the camp as 150 acres taking in "the complete shore-line of
+three lakes and a portion of the shore-line of a fourth," a fleet of forty boats and canoes, three swimming
+wharves (one per section), two diving boards high and low, "the long **water shute**, where boys slide from
+the top of the hill down into the water," a dispensary and hospital under a resident doctor, "the large
+**cedar log dining pavilion**," two playfields one on either side of the lake, the outdoor chapel along the
+shore, and "behind the chapel, on the hill, the Council Ring." Campfires were lit in four places: the
+Council Ring, the campus, the hill across the lake, "or on cold nights in the large open fireplaces in the
+recreation halls."
+
 Facilities documented from the 1920s through the 1970s include:^5 ^11
 
 - **The Lookout**: A pre-existing structure on the site before Kanawana was founded — the oldest structure on the property^23
 - Two pavilions (a Dining Pavilion and a lakeside Pavilion, both new as of 1922)
 - **Dining Hall** (1911) — technically **Salle Julien Tassé**, renamed after the camp's caretaker of thirty-odd years following his death c. 1992–95. The name never entered ordinary use; everyone went on calling it the dining hall.^41 It is also the room where Kanawana's plaque wall hangs: all 151 surviving boards are mounted inside it. See [[people/julien-tasse|Julien Tassé]] and [[meta/plaque-audit|The Plaque Audit]].
 - **Infirmary** (1920s?)^23
+### A dining hall extension that was drawn, and an architect who may be in another article
+
+The camp's physical archive holds a **cyanotype blueprint** titled "**Proposed Service Wing to Dining Hall,
+KAMP KANAWANA Y.M.C.A.**"^68 It is signed "**J. M. Venters, Architect, 1503 Mackay Street, Montreal**" and
+itemizes its own cost estimate — store room, tool cupboard, new building, miscellaneous — totalling
+**$5,000**, for a **workshop, office, staff room, laundry and truck-packing** addition to the dining hall.
+The sheet is undated. **Whether it was built is not established here**, and it should not be assumed: a
+proposal drawing is evidence of an intention.
+
+**And the architect was in the camping movement.** The Quebec Camping Association's report of June 1954
+lists "**John Venters**" among the leaders of its 1953 conference, beside Roy Locke, Kanawana's own
+director. That looked like a coincidence of surname until the conference programme itself was checked:
+*Canadian Camping* for June 1953 gives the workshop list as "Administration — Mr. Irwin Haladner (Food
+Cost Control) / **Mr. John Venters (Camp Architecture)**."^68 An architect leading a workshop on camp
+architecture, in Montreal, in the years Roy Locke ran this camp, whose signature is on this camp's dining
+hall drawing.
+
+No source prints both forms of the name together, so this is an identification and not a proof — but the
+workshop subject removes the coincidence. **The dining hall extension was drawn by someone inside the
+camping movement rather than an architect hired off a list**, which is the same pattern as everything else
+in this camp's staffing: the branch secretary seconded for a summer, the fellowship graduate, the cook who
+came up from Montreal High School. Kanawana drew its people from the association and the movement, and it
+drew its buildings the same way.
+
+- **The Lower Pavilion**, on the lake front, one of the earliest structures on the site — and **replaced in 1951**. The association's capital-works list for the year ending 31 December 1951 reads: "Kamp Kanawana — **new refrigeration facilities and replacement of Lower Pavilion building**."^66 The 1951 camp history has the original "built early"; this dates its end.
 - **Grand Portage**: One of the oldest cabins, built after the Lookout, Dining Hall, and Infirmary. Located just north of the Senior Parking Lot, west of the Dining Hall. Served as CIT director's cabin in the 1980s-90s. According to oral history, the end of WWII was heard on the radio here. Demolished c. 2006 for the green shift washroom buildings, which now bear its name.^23
 - **The Longhouse**: A large 2-3 story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline. Used for large group gatherings and dances; the Boating Director ("the Admiral") had living quarters in it. Demolished by controlled fire c. 1979 due to irreparable condition.^23
 - **The Sanctum**: The Senior Boys section cabin, in use from the mid-1990s until it was demolished in 2007.^42 It is the only cabin recorded for a section that otherwise sleeps in prospector tents. The 2007 Senior Boys plaque is headed "Senior Boys SANCTUM 2KK7" and carries the line "May the Sanctum R.I.P." beneath the roster — the boys commemorating the demolition of their own cabin in the season it came down.^42 Whether the green shift was the reason is unestablished; the timing matches Grand Portage's demolition c. 2006. See [[site/named-places-and-camp-vocabulary|Named Places and Camp Vocabulary]].
@@ -130,6 +367,118 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - A totem pole (added 1927 under Harold C. Cross; still visible in 1970s photos)
 - **"The Cave"**: The Hike and Trip Department's equipment room^23
 
+**The plant in 1919, a year before this list begins.** A recruiting page in the YMCA of Montreal's
+annual report for the year ending 30 April 1919 describes the camp to boys who had never been:
+"situated on the shores of a lake in the Laurentians a few miles from Piedmont on the C.P.R. The
+camp, nestling among the trees, is practically isolated from any nearby neighbors ... The equipment
+is splendid. **Large tents for sleeping quarters. An immense open air roofed dining-hall, and the
+pavilion for games.**"^56 Nine years onto the Saint-Sauveur site, sleeping was still under canvas
+and the dining hall was roofed but not walled — which is what the 1911 dining hall was, described in
+use. The page also gives the staff as three roles: "the **Director**, a **Doctor** and our
+**Educational Supervisor**." A doctor resident at camp in 1919 is earlier than anything else this
+project holds on medical provision, and it sits sixty years before the infirmary standard below.
+
+### The dining hall had no walls until 1977
+
+The 1919 advertisement above is not describing a temporary arrangement. The camp ate under a roof and
+between open posts for close to sixty years, and four independent sources cover the span.^69
+
+The Concordia photograph in the gallery below, captioned only "the dining hall, c.1920s," shows the
+inside of it: a long open-sided pavilion, rows of tables full of boys and staff eating, a hanging banner
+reading **"KAMP KANAWANA"** and a pennant on a post reading **"YMCA."** Several smaller pennants near it
+are too small to read. That banner is worth pausing on. The camp's self-branding with a K is documented
+elsewhere from brochures, a radio script, ribbons and a staff t-shirt; here it is hanging over the room
+where the whole camp ate, in the camp's own photograph, which is a different order of evidence from a
+souvenir.
+
+The *Gas-Bag Extra* of 1923 photographed the same building from outside, as "a large log building with a
+deep overhanging roof and an upper rail or gallery," and the picture is reproduced in
+[[site/places-and-locations|Places and Locations]]. And the closing-in begins in the autumn of **1977**, in a
+list of works then **under way** in the director's report: "renovation of block house and farm house —
+**enclosing and renovating the dining hall** — relocating tent platforms in the new and old sites —
+erecting a new shower building in the senior section."^69
+
+**It was not finished then, and it was not done with walls.** *(This paragraph read "the walls arrive in
+the autumn of 1977" until the 1979 report was read; the 1977 report says only that the work was under
+way, and "under way" was taken for "done.")* Two years later the director is still recommending: "The
+**plastic enclosures tested this year** for the dining hall [are a] good investment and should have an
+extended life if properly maintained. **We should purchase enough for the entire dining hall.**"^72
+Tested on part of it, in plastic, with the rest still to buy.
+
+**And the same page records what closing it in had cost the room.** "We have to spend some time
+**brightening up the dining hall. It's quite dark on even the sunniest days.**"^72 Which is what happens
+when a pavilion with a deep overhanging roof, built to take light from every side, has its sides put
+back on. The building anyone at camp from the 1980s remembers is the late form — but when it finished
+becoming that, and whether the plastic was ever replaced, are not established here.
+
+**A dining structure is recorded five times between 1913 and 1922, and the conflict record only knows
+about two of them.** Conflict `c_049` sets the 1988 facilities table's **1919** against the 1951 camp
+history's **1920** and asks whether the gap is construction start against completion. But the Camp
+Committee's 1913 description quoted below already says "a dining room, kitchen, with tents, boats, etc.,
+is now provided"; the *Gazette* of 27 July **1918** has meals "served in the dining pavilion"; and the
+**1922** brochure lists a Dining Pavilion among that year's *new* facilities.^69
+
+**A third document, found later the same day, dates the building and gives its reason.** The annual
+report for the year ending 30 April 1920, describing the 1919 season: "During the year the Junior Camp
+was operated from June 25th to August 26th with an attendance of **289 boys**… The accommodations,
+however, were **very crowded**. At one time there were **as many as 165 boys**, while the Camp **cannot
+comfortably accommodate more than 80 or 90**. The great need of extending the Camp to accomodate a
+larger number was felt by your Board… **Included in the budget of 1920 is a sum sufficient to enlarge
+the Camp to accommodate 200 boys. The Junior Camp Committee has been charged with the erection of a new
+dining pavilion and other buildings necessary. This work is well advanced at the present time and will
+be in readiness for the opening of the Camp this year.**"^70
+
+Read against Concordia's blueprints for a dining pavilion **dated 1919**, the sequence is: drawn in
+1919, budgeted in 1920, built over that winter and spring, open for the summer of 1920. **Both dates in
+`c_049` are then right about different events** — which is the explanation the conflict record itself
+proposed and had no way to test. It does not formally close `c_049`, because two documents still each
+state a bare year and that remains an operator's call; what has changed is that the reconciliation is
+now evidenced instead of merely plausible.
+
+**And it supplies the cause, which nothing else did.** The dining pavilion was not routine improvement.
+It was built because 289 boys came in 1919 and 165 were on site at once in a camp the association itself
+reckoned held eighty or ninety comfortably — roughly double — and the same sentence sets the target the
+building was sized to: "sufficient to enlarge the Camp to accommodate 200 boys." The building this wiki
+has spent several passes trying to date was an overcrowding response.
+
+That also tidies the paragraph above rather than upsetting it: the 1919 recruiting page's "immense open
+air roofed dining-hall" describes the **predecessor**, which is what the 1951 history means by "**the
+present** dining hall and kitchen unit completed 1920" set beside "the lower pavilion on the lake front
+built early." Which building the c.1920s interior photograph shows is still not decided here.
+
+One word settles most of it, and it is a word `c_049` does not quote. The 1951 history says "**the
+present** dining hall and kitchen unit completed 1920," and in the same breath names "the lower pavilion
+on the lake front built early." The document knows there was something before. On that reading the 1913
+dining room and the 1918 pavilion are the building the 1919-20 work replaced, and Concordia's blueprints
+for a dining pavilion dated 1919 are the drawings for the replacement. Which leaves `c_049` exactly where
+it was — 1919 against 1920 for the same completion — with 1913 and 1918 taken out of the count and 1922
+still unexplained.
+
+**What was actually bought, in 1913 words.** The Camp Committee's description of its two properties
+is the earliest account here of what the Saint-Sauveur holding consisted of: "one for men on Lac St.
+Joseph near Ste. Agathe, consisting of three islands, a club house, boat house, and equipment; and the
+other for boys at **Camp Kanawana, about six miles from Piedmont, consisting of two lakes and the
+shore line from one to two acres back, which gives the Association the practical control of these
+lakes**. A dining room, kitchen, with tents, boats, etc., is now provided, and the Committee is
+**endeavoring to secure a pavilion** for use as club and boat house."^58
+
+Three years into the site, the holding is a **shoreline strip**, not a block of land: two lakes plus
+one to two acres back from the water, bought for control of the lakes rather than for acreage. That is
+where the acreage series above begins, and it is why its early figures are small. The pavilion is a
+want, not a building — the two pavilions recorded elsewhere as "both new as of 1922" are nine years
+away.
+
+**Where the laundry went.** The camp's washing was not done at the camp. The annual report for the
+year ending 31 March 1933, describing the new laundry in the Central residence building on Drummond
+Street: "At the present time the laundry is doing all of the work of the Residence Building, the
+Central and Westmount Branches, **Camps Otoreke and Kanawana**, as well as the major portion of the
+residents' personal work. The monthly average was **45,860 pieces**, which it is stated represents
+more work than that being done by the Windsor and Queen's hotels combined."^57 Bedding and linen from
+a camp forty-five miles up the CPR line came back to the city to be washed, alongside Otoreke's. The
+45,860 is the whole plant's monthly average across all five users and not the camps' share, which the
+report does not break out; and since the report's year ends in March, "at the present time" is the
+off-season, so the camps are named as customers of the plant rather than as users in that month.
+
 **What was inside the infirmary — the national standard, 1978.** Kanawana's own records do not describe the contents of its infirmary, but the camping association it belonged to published a recommended list, written by **J. Harry Ebbs, M.D., F.R.C.P.**, for "a residential summer camp for children with an enrolment of about fifty to one hundred campers" — half Kanawana's size, so a floor rather than a match.^43 It is a useful measure of what a Canadian camp infirmary of this period was expected to hold, and of how much medicine a camp practised on its own.
 
 The equipment is what a small ward needed: a wash basin for each infirmary bed, solution and kidney basins, adult and child bedpans, **a folding stretcher, adjustable crutches, balance scales, an electric sterilizer, a goose-neck lamp, a small refrigerator and a locked metal cabinet**; scissors, splinter and dressing forceps, two haemostats; graduated medicine glasses, droppers, **twenty-five disposable hypodermic syringes and twenty-five needles**; gauze, crepe, flannel and triangular bandages by the dozen.
@@ -146,6 +495,10 @@ On May 16, 2023, the superintendent's house at Camp YMCA Kanawana was destroyed 
 
 ## Year-Round Use
 
+**Who used the property in 1970, named.** The rentals section of that year's annual report prints the roster, and the mix is more interesting than the practice: the Downtown YMCA Aquadyne Club; Mary Queen of Peace Cubs; St. Barnabas Cubs and Scouts; Sunnybrook Cubs; Beaconsfield High School; Outreach Services for Downtown Metro, Verdun-LaSalle and Westmount; the Westmount and N.D.G. day camps; W. H. Rhodes Canada Educational Trusts; the Boys Brigade of Montreal; the Westmount Project; the N.D.G. Community Services Project; the Integrated Media Workshop; and University Settlement.^74 Church-linked Cubs and Scouts, a high school, three branches of the association's own outreach arm, two day camps, two neighbourhood social-service projects, a settlement house and a media workshop — a camp whose summer roll was about eight hundred was carrying a second clientele drawn largely from social agencies.
+
+The report is not pleased about it. "There are some concerns about having these groups eating with the regular campers and taking part in camp activities (ie boating, swimming) especially when the campers do not have enough time for themselves." It wants a separate area with its own eating facilities, "a list of conditions for rentals," a full-time employee on site, and "a true costing of what it costs to have groups use our facilities." Two rentals that season, one early and one late, are also what the director blames for the maintenance that did not get done. [f_5704]
+
 Although primarily a summer camp, Kanawana operates as a "3-season outdoor and environmental education centre"^18 and is listed on Bonjour Québec as a "holiday centre" with a primary season of May 15 to October 15.^20 The camp has five distinct seasonal rental windows:^19
 
 - **Spring** (May 21–June 23): Full camp package for groups of 6–250 persons
@@ -157,6 +510,35 @@ Although primarily a summer camp, Kanawana operates as a "3-season outdoor and e
 The Farmhouse and Blockhouse in Front Camp are winterized facilities.^9 Lake Wilson private campsites are available year-round.^1 Corporate retreats of 3+ days are offered at $643.75 per person per night, including meeting room, Wi-Fi, projector, and custom food services.^19 Meal services for group rentals require a minimum of 75 persons.^19
 
 The Concordia Archives hold records of a winter ski camp at Kanawana from 1945 to 1947, documenting the camp's earliest known winter use.^13
+
+### What it costs, 2026
+
+A second rental page, distinct from the one behind the table above, carries the tariff.^65 All prices are
+before tax; every option runs 21 May to 23 June and 20 August to 14 October, by reservation.
+
+| | Price |
+|---|---|
+| Cabin with electricity (max 12; in the Woodsy and Pioneers sections) | **$118.45** per cabin per night |
+| Prospector tent (max 10; wood platform, canvas tarp) | **$56.65** per tent per night |
+| Nature camping on Lake Wilson (max 20 per site; prospector tent and fire pit) | **$24.21** per person per night |
+| Rose des Vents Pavilion (3 bedrooms, sleeps 6, common areas for 16, wood stove) | **$200.85** low season, **$283.25** high |
+| **Exclusive rental of the whole site** (max 160; 12 cabins, 14 tents, 3 pavilion rooms, two staff) | **$5,150.00** per night |
+| A single building — the A&C Lodge, the Beach Lodge, or the Katimavik | **$180.25** per night each |
+| Paddleboard / flatwater canoe / flatwater kayak | **$18.54** / **$23.69** / **$18.54** half day; **$28.12** / **$43.78** / **$28.12** full |
+| Meals, groups of 75+ only, three a day required | breakfast **$12.36**, lunch **$15.45**, dinner **$18.54**, snack **$2.32**, under-fives free |
+
+The exclusive-site package throws in "coordination and maintenance services (two staff members)" and access
+to every common building except the industrial kitchen, and the page offers it for "weddings, colloqiums,
+jamboreers." The Lake Wilson sites are sold on their solitude — "a certain amount of solitude compared to
+the more bustling nature of our main site" — which is the camp selling the same distinction its own
+overnight programme trades on.
+
+**One figure disagrees with the table above.** This page gives the site's maximum capacity as **160 people**;
+the Groups & Rentals page behind the seasonal windows gives the spring full-camp package as **6–250
+persons**. Both are the camp's own current pages. The 160 is attached to a specific inventory — twelve
+cabins, fourteen tents, three pavilion rooms — and the 250 is not, which is a reason to prefer it and not a
+proof. Recorded, not resolved.
+
 
 ## Environmental Character
 
@@ -174,6 +556,97 @@ Lac Kanawana is monitored by the Conseil régional de l'environnement des Lauren
 
 From 1977 to 1980, plans existed for a proposed two-site operation using Kanawana and Camp Weredale.^13 Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services.^15 A direct fetch of Batshaw Centres' own institutional history pages for Camp Weredale (2026-07-09) confirms they make zero mention of the YMCA, Kanawana, or any two-site plan at all.^32 This was not simply a proposal that went unrealized: Concordia's finding aid for sub-series 12F documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus joint files running through 1981-1982 (a day-camp proposal, a "YMCA staff cottage rental," a "Comité Weredale"; see Revision History and [[connections/related-camps/camp-weredale|Camp Weredale and Its Relationship to Kanawana]] for the full finding). Both camps operate independently today; why and when the 1979-1982 arrangement ended remains undocumented online.^34
 
+**What was actually planned had numbers and a place.** The same 1977 report's Montreal Office section:
+"During the past year, the **Branch Building Committee** has refined the plans for the new construction and
+renovation of the Kanawana property. **1978 will initiate a two site operation. The present site will have 98
+senior kampers while the new year round site, at the west end of Lake Kanawana beyond Farewell Rock, will
+house 98 juniors.**"^77 Two sites of ninety-eight each, juniors separated from seniors, and the new one
+**year-round** — sited beyond **Farewell Rock**, a landmark already on the camp's 1928 map
+([[site/places-and-locations|Places and Locations]] has it). [f_5817]
+
+**And work was already under way, priced, and staffed for.** The same report's 1978 section lists what was
+being done that autumn: renovation of the **block house and farm house**; **enclosing and renovating the
+dining hall**; relocating tent platforms on both the new and old sites; and a **new shower building in the
+senior section**, with more buildings to be "relocated or demolished" over the winter. What it was to produce
+by June 1978: "**four double self-contained living units, six tent platforms and a large multi-purpose
+dining-recreation hall**", at a cost of "approximately **$850,000**", for which "we have hired **three
+additional fulltime maintenance people**."^78 The detail worth keeping is the dining hall. Enclosing an
+open-sided summer building is the one physical change a year-round camp actually requires, and it is listed as
+work in hand rather than proposed. The design had been shopped for as well: "during the summer, a group of us
+visited **three YMCA year round camps in the U.S.**", learning "from an architectural, engineering and program
+standpoint." [f_5826]
+
+**What the caretaker's crew built that summer.** Over and above regular repairs, the 1977 maintenance section
+lists: **replacing the camp sign**; **erecting a new gate**; painting the caretaker's house; staining and
+painting the Lodge and the Business Office building; **repairing and repainting the 16 rowboats**; a new
+septic tank for the Business Office; and replacing or repairing doors, balconies and cabins. The signs were
+made in-house: "a special thanks to our Arts & Crafts Director, **Stewart Sandmark** who made the new signs
+for Kamp Kanawana **and the Outing Club**."^78 [f_5824] Three things come out of that list. **Sixteen** is a
+hard count of a boat fleet this wiki otherwise describes almost entirely in canoes, and the same report
+proposes replacing all canoes and rowboats with aluminium over five to ten years. The camp sign and gate that
+stood through the late 1970s and 1980s went up in **1977**, lettered by the arts and crafts director rather
+than bought. And the **[[traditions/programs-activities|Kanawana Outing Club]] had a sign of its own on the
+site**, made at the same time — the club appears in the same report's promotion survey as one of the ways new
+campers heard of the camp, at 2%. The crew under Julien Tasse, per the report's staff list, was five men, two
+of them Tasses.
+
+**The reconstruction was announced, then did not start, and the staff were told so.** The 1977 director's report opens with bulldozers arriving for an $850,000 two-site reconstruction and the line "this is the last year of K.K. as we've known it." Nine months later the camp's own staff newsletter reports the opposite: "At this point, we have not started construction of the new site. **So here we go again with another 'last' summer.**"^59 The "again" is the useful word. It says the staff had been told more than once that a given season would be the last on the present site, which puts the 1977 announcement in a sequence rather than at the head of one, and it dates the stall to **1 December 1977**. Nothing in the newsletter says what the new site was to be, and it should not be assumed to be the Weredale arrangement above; the two are contemporaneous and the newsletter does not join them.
+
+
+## A baseball field, authorised in 1916
+
+The association's report for the year ending 30 April 1917 records a purchase, in one sentence and then never
+again: "**A site for a new baseball field near the Camp has been located through the kindness of Mr. W. D.
+Staveley, C.E., and its purchase authorized.**"^76 The same paragraph gives the season's attendance by branch
+and its $217.18 credit balance, so this is the report speaking plainly about the year's business rather than
+announcing a plan.
+
+*What is not established is whether the field was ever built.* **W. D. Staveley** appears nowhere else in this
+project, "C.E." marks him a civil engineer, and no later report read here mentions a baseball field or the
+land. The camp's playfields are documented from other sources — the 1923 brochure and later layouts put two
+playfields on the site, one on either side of the lake — but nothing joins them to this purchase. Recorded as
+an authorisation, which is what the sentence is. [f_5790]
+
+
+## What the camp built, 1950-1958
+
+Every annual report of the postwar decade carries a short schedule of capital improvements with the
+camp's name at its head. None of the items below appears anywhere else in this wiki, and together they
+are the building history of the ten years this project otherwise crosses in a sentence.^71
+
+| Volume | At Kanawana |
+|---|---|
+| 99th, to 31 Mar 1950 | wharf replacement; replacement of truck and sewage pump |
+| 100th, Apr 1950 – Dec 1951 | new refrigeration facilities; **replacement of the Lower Pavilion building** |
+| to Dec 1952 | replacement of kitchen stove; new roof on gallery and new steps at **the Lookout**; **new roof on Dining Hall and Kitchen**; repairs to foundations of the Hospital |
+| to Dec 1953 | replacement of **Craft Shop**; dishwashing equipment, vegetable bin and washing machines |
+| to Dec 1954 | **completion of new administration building** |
+| to Dec 1955 | camp truck replaced with a beach wagon; **food storage room** built adjacent to the administration buildings; **Lodge underpinning renewed** |
+| to Dec 1956 | **accommodation of hospital enlarged** |
+| to Dec 1958 | **new cabins erected in the Bantam section** |
+
+**A dating warning, and it is not the usual one.** These are capital-works schedules tied to the
+association's *financial* year, not to a camp season, so an item belongs to the months a volume covers
+and cannot be pinned to a summer. The year-ends come from `project-docs/annual-report-year-ends.md`
+rather than from an assumed lag — which matters most for the second row, because the 100th report is the
+odd volume that spans **twenty-one months**.
+
+**And that is what settles the Lower Pavilion.** The 1951 camp history ends its building chronology with
+"a new boat house to replace the lower pavilion was **planned for September 1951**." The 100th report
+runs to 31 December 1951 and records the replacement as **done**. September 1951 sits inside that
+window, so the two agree and the work happened that autumn. On a naive one-year lag the same report
+would appear to describe 1950 — and would seem to record the replacement a year before anyone planned
+it.
+
+**Otoreke and the ski lodge are in the same schedules**, and they extend the Christieville material at
+[[site/camp-otoreke|Camp Otoreke]]: five new cabins and oil-burning equipment at the Ski Lodge in the
+1953 volume, and in 1954 water-system improvements, a new range, and an "extension to main building" at
+the lodge. Christieville was being enlarged in exactly the years its ski club was at its peak.
+
+*One figure in this run not to repeat:* the 1957 report calls Kanawana "a **sixty acre** site of
+woodland and lakes." Every other source gives hundreds of acres, and this wiki already treats the sixty
+as a mis-scan of six hundred. It is noted here so the next reader of that volume does not think it new.
+
 ## Images
 
 ![The dining hall, c.1920s](../../assets/images/historical/dining-hall-c1920s.jpg)
@@ -187,6 +660,61 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 
 ![Camp Kanawana map, 1941](../../assets/images/maps/concordia-1941-map.jpg)
 *A 1941 map of the camp property. Pre-1949 photograph — public domain in Canada.*
+
+## What the Camp Was Worth on the Books, 1920
+
+The YMCA of Montreal's annual report for 1920 carries the association's asset schedule, and Kanawana
+is on it, itemised:^63
+
+| | Land | Buildings | Equipment |
+|---|---|---|---|
+| **Camp Kanawana** | $900.00 | $1,000.00 | $600.00 |
+| **Men's Camp** | $600.00 | $600.00 | $500.00 |
+
+Alongside, under "Camp Revenue Accounts," Kanawana carries **$2,536.18** against the Men's Camp's
+$260.53.
+
+**Two things are worth taking from a balance sheet.** The first is scale. Kanawana's entire book value
+in 1920 — land, buildings and equipment together — was **$2,500**, on a schedule where the Central
+branch building alone stands at **$424,966.27** and its land at $71,377.59. Ten years after the site
+was bought, the camp was a rounding error on the association's balance sheet, and its revenue account
+was worth more than its buildings.
+
+The second is that **the Men's Camp was still a separate property with its own land** in 1920. The
+1936 CFCF broadcast describes the boys' camp as having opened "as a branch of their men's camp," and
+this shows the two still carried apart a quarter-century later, the boys' side by then the larger of
+them on every line and by tenfold on revenue.
+
+### The book value to 1958
+
+The same schedule runs for decades, and Kanawana stays on it. Figures are "land and buildings", later
+"land, buildings and furnishings", as the reports themselves label the column.^75
+
+| Report year | Kanawana on the books |
+|---|---|
+| 1920 | **$2,500** *(land $900, buildings $1,000, equipment $600)* |
+| 1925 | **$17,876.39** |
+| 1926 | $17,876.39, unchanged |
+| 1927 | **$18,026.39** |
+| 1928 | $18,026.39, unchanged |
+| 1949 | **$55,750.30** |
+| 1951 | **$70,567.80** |
+| 1956 | **$83,687.39** |
+| 1958 | **$91,850.75** |
+
+**The first interval is the steepest in the run**, sevenfold in five years, and it is the building era
+this article tracks elsewhere through the Ross and Macdonald drawings. Then almost nothing for the rest
+of the decade: $150 added between 1926 and 1928, which is a repair rather than a building.
+
+**And the last interval separates the three camps.** In 1956 Camp Otoreke stands at $75,687.65 and Camp
+Perrot at $46,335.91. In 1958 Camp Otoreke stands at $75,687.65 and Camp Perrot at $46,335.91, the same
+figures to the cent, while Kanawana rises by **$8,163.36**. In those two years the association
+capitalised nothing at its other two camps and over eight thousand dollars at this one. Camp Perrot's
+own reports for those years are asking for a wash house, a bungalow for the kitchen staff and four
+hundred tons of stone, and its committee met in July 1958 with a list of reasons to close it. A book
+value is not a decision and none is claimed here, but a flat line on one camp's assets beside a rising
+line on another's is the shape of the decision as it appears in the ledger. See
+[[site/camp-perrot|Camp Perrot]] and [[site/camp-otoreke|Camp Otoreke]]. [f_5712]
 
 ## Open Questions
 
@@ -209,6 +737,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 - [[site/places-and-locations|Places and Locations at Camp Kanawana]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[people/page-family|The Pagé Family of Saint-Sauveur]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Sources
 
@@ -255,6 +784,42 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 41. Oral history, Matt Aronson, 28 August 2026: Tassé as caretaker, his death c. 1992–95, and the dining-hall renaming [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
 42. Kanawana Flickr "Plaque" album, `senior-boys-staff-2007.jpg` [src_flickr_kanawana_plaque_album], read in the p_291 audit — see [f_1688]; and oral history, Matt Aronson, 28 August 2026: the Sanctum and the Suez Bridge [src_oral_aronson_sanctum_suez_raku], see [f_2351], [f_2352].
 43. J. Harry Ebbs, M.D., F.R.C.P., "Medical Supplies for the Camp Infirmary," *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 7 [src_ia_canadian_camping_collection]. A national recommendation for a camp of 50-100 campers, not a description of Kanawana's own infirmary. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 117).
+44. Canada, Post Office Department, *Annual Report 1914-1915* [src_po_dept_annual_report_1915]; *Sessional Papers of the Dominion of Canada*, 1919 [src_sessional_papers_1919]; *The Canadian Almanac and Directory*, 1917 and 1918 editions [src_canadian_almanac_1917_1918]. Found 2026-09-06 through a full-text sweep of the Internet Archive book corpus; the passages, with their table headings and what could not be read from them, are cached under `sources/cache/postal/`. See [f_4936].
+45. Union postale universelle, Bureau international, *Dictionnaire des bureaux de poste* (Lausanne, novembre 1909), with its *Supplément* of août 1912, Part I "Bureaux à ajouter" [src_upu_dictionnaire_bureaux_poste_1909_1912]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, the column alignment and both publications' own scope statements are cached at `sources/cache/postal/1909-1912-upu-dictionnaire-des-bureaux-de-poste-kanawana.txt`. See [f_4944].
+46. Canada, *Guide officiel du service postal Canadien, 1917* [src_guide_officiel_postal_1917]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs twice in it. Both passages are cached at `sources/cache/postal/1917-guide-officiel-du-service-postal-canadien-kanawana.txt`, with a note that the dagger and asterisk prefixes used in those lists were not decoded. See [f_4936].
+47. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA" [src_summer_camps_and_programs_1983]. **Part of one entry**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. Cached at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945].
+48. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
+49. Rand, McNally & Co.'s *Indexed Pocket Map and Shippers' Guide of Quebec* (Chicago, 1911) [src_rand_mcnally_quebec_1911]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, its neighbours and the guide's own legend are cached at `sources/cache/postal/1911-rand-mcnally-quebec-kanawana-summer-po.txt`. See [f_4936], [f_4944].
+
+50. *McGraw-Hill Directory and Almanac of Canada*, "Post Offices in Canada" [src_mcgraw_hill_directory_almanac_canada_1960s]. **The list's heading and one entry only**, reconstructed 2026-09-06 from eleven overlapping Open Library search-inside queries; the series is lending-restricted, page images return HTTP 403, and no volume has been read. The Internet Archive catalogues four separate printings of this series as 1966 and no internal year was recovered from any of them, so the date is carried as catalogued and not as verified. Cached with its queries and its dating caution at `sources/cache/postal/1960s-mcgraw-hill-directory-almanac-kanawana-closed-office.txt`. See [f_4954].
+51. YMCA of Montreal annual report for the year ending **31 December 1952** [src_ymf_sgw_ymca_annual_report_1952], the camps description: "Kamp Kanawana, for boys 8-16 years of age, covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal." Read 2026-09-06 under p_441. See [f_5082].
+52. YMCA of Montreal annual report for the year ending **31 December 1953** [src_ymf_sgw_ymca_annual_report_1953]: "Kamp Kanawana... covers 60 acres of woodland and lakes on property owned by the Association near St. Sauveur in the Laurentians, about 50 miles north of the city." Read 2026-09-06 under p_441. See [f_5083].
+53. YMCA of Montreal annual reports for the years ending **31 December 1957** and **31 December 1958** [src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. The 1957 volume calls Kanawana "a sixty acre site"; the 1958 volume says the property "includes three lakes and a part of a fourth, covering some 600 acres." Read 2026-09-06 under p_441. See [f_5086].
+54. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — property section: "Additional property was purchased by Kamp Kanawana." Read 2026-09-06 under p_441. See [f_5093].
+55. YMCA of Montreal annual report 2006 [src_ymf_sgw_ymca_annual_report_2006]: "our exceptional 550-acre site located near Saint-Sauveur". Read 2026-09-06.
+56. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
+57. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], on the Central residence building's laundry. Read 2026-09-06 under p_454. See [f_5181].
+58. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913], the Camp Committee's description of both camp properties. Read 2026-09-06 under p_454. See [f_5193].
+59. Derek V. Walsh, "Ca-News," 1 December 1977 [src_ymf_ka_news_1977_12_01], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5227].
+60. *The Canadian Almanac and Directory*, "Post Offices and Railroad Stations in Canada", read edition by edition on 2026-09-07 [src_canadian_almanac_1917_1918]: the editions for **1910, 1911, 1943, 1951, 1954, 1956, 1957, 1958, 1960, 1961, 1962 and 1968**, each dated from its own title page. The dagger that the table's legend defines as "not a post office" is what carries the argument, and it is read against Kananaskis and Kanasuta, which carry it throughout, and Kanata and Kandahar, which never do. Every run quoted out in full, with the OCR as it stands, at `sources/cache/postal/2026-09-07-canadian-almanac-edition-by-edition.txt`. See [f_5345], [f_5346], [f_5347], [f_5348].
+61. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]: "CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. See [f_5415].
+62. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989 [src_mcgill_daily_1989_02_20]: "on 1200 acres of land and three private lakes." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5429].
+63. YMCA of Montreal Annual Report **1920** [src_ymf_sgw_ymca_annual_report_1920], the association's asset schedule. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1920.txt`; the Kanawana entries read word for word 2026-09-07 under p_482, the rest of the volume not read.
+64. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1936-kamp-kanawana-broadcast-station-cfcf.txt`, 13,201 characters. The earliest surviving CFCF text; read word for word 2026-09-07 under p_487. See [f_5003] and [f_5605].
+65. Camp YMCA Kanawana, "Lodging & Equipment Rental" [src_ymcaq_kanawana_lodging_rental_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/lodging-equipment-rental, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-lodging-equipment-rental-2026.txt`. **A different page from the Groups & Rentals one at note 19**, and the one that carries prices. See [f_5615].
+66. YMCA of Montreal annual report for the year ending **31 December 1951** [src_ymf_sgw_ymca_annual_report_1951]. Held at read_state *partial*; its capital-works and camps sections read 2026-09-07 under p_490. See [f_5624].
+67. The Kanawana Flickr album of Concordia Archives historical images [src_flickr_kanawana_concordia_historical_album] — the **1941** hand-drawn camp map (three near-identical copies) at [f_1572], and a site map the archive dates to **1980–2001** at [f_1573]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+68. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the cyanotype blueprint "Proposed Service Wing to Dining Hall", signed **J. M. Venters, Architect, 1503 Mackay Street, Montreal**, at [f_1579]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep. The identification of that architect with the **John Venters** who led the **Camp Architecture** workshop at the **1953** conference is at [f_5625], from *Canadian Camping* Vol. 5 No. 3, **June 1953** [src_ia_canadian_camping_1953_06].
+69. The dining hall's open-sided span and the dates around it, assembled 2026-09-07 under p_492 at [f_5627]. The **c.1920s** interior photograph of the open-sided pavilion, with its "KAMP KANAWANA" banner and "YMCA" pennant, is [src_flickr_kanawana_concordia_historical_album] at [f_1727] — the image already sat in this article's gallery with no note and no prose. The **1923** exterior, "a large log building with a deep overhanging roof", is the "PICTORIAL REVIEW" page of *The Gas-Bag Extra* Vol. 13 No. 1 [src_ymf_the_gas_bag_extra_vol_13_no_1] at [f_4927]. The **1977** line "enclosing and renovating the dining hall" is the director's report for that year [src_ia_kanawana_report_1977], quoted from `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt` rather than from its paraphrase. The **1918** Gazette's "served in the dining pavilion" is [src_newspapers_gazette_1918b] at [f_2245]; the **1920** completion and the "lower pavilion on the lake front" are the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]; the **1922** brochure's new Dining Pavilion is [src_brochure_1922] at [f_0303]; and the **1919** blueprints are Concordia P145/12B03 [src_concordia_12B03] at [f_1787].
+70. YMCA of Montreal annual report for the year ending 30 April **1920** [src_ymf_sgw_ymca_annual_report_1920], describing the **1919** season. The **289** boys, the **165** on site at once against a stated comfortable capacity of **80 or 90**, the **200**-boy target, and the Junior Camp Committee charged with "the erection of a new dining pavilion" that "will be in readiness for the opening of the Camp this year", are all at [f_5634]. The **1919** blueprints it is set beside are Concordia P145/12B03 [src_concordia_12B03] at [f_1787], and the **1920** completion is the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]. Found 2026-09-07 under p_491, in the paragraph after the attendance figure.
+71. The YMCA of Montreal's annual-report schedules of capital improvements, read as a run 2026-09-07 under p_491: the **99th** report to 31 March 1950 [src_ymf_sgw_ymca_annual_report_1950], the **100th** covering the twenty-one months to 31 December 1951 [src_ymf_sgw_ymca_annual_report_1951], and the volumes to 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1953** [src_ymf_sgw_ymca_annual_report_1953], **1954** [src_ymf_sgw_ymca_annual_report_1954], **1955** [src_ymf_sgw_ymca_annual_report_1955], **1956** [src_ymf_sgw_ymca_annual_report_1956] and **1958** [src_ymf_sgw_ymca_annual_report_1958]. Transcribed together at [f_5640], with the year-ends taken from `project-docs/annual-report-year-ends.md`; the **Lower Pavilion**'s replacement is dated against the **1951** camp history at [f_2120].
+72. Kamp Kanawana director's report for **1979** [src_ia_kanawana_report_1979]: the **plastic enclosures** tested that year for the dining hall with the recommendation to buy enough for the rest, the room "quite dark on even the sunniest days", and Julien Tassé's season of work including the new dining-hall stairs. At [f_5650], which corrects the **1977** enclosure date given at [f_5627].
+73. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976], **1977** [src_ia_kanawana_report_1977] and **1978** [src_ia_kanawana_report_1978], in their APPRECIATION sections; cached in `sources/cache/ymca-montreal-fonds/`. Read 2026-09-07 under `p_499`. See [f_5662].
+74. *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], its RENTALS and VISITORS section; cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`. Read end to end 2026-09-07 under `p_491`. See [f_5704].
+75. YMCA of Montreal annual reports for **1925**, **1926**, **1927**, **1928**, **1949**, **1951**, **1956** and **1958** [src_ymf_sgw_ymca_annual_report_1925, src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1928, src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1958], their asset schedules of land, buildings and furnishings by unit. Cached under `sources/cache/ymca-montreal-fonds/`; swept 2026-09-07 under `p_259`, the seam the annual-report pass identified and did not attempt. See [f_5712].
+76. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441. See [f_5790].
+77. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its Montreal Office section. Read 2026-09-08 under p_441. See [f_5817].
+78. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its MAINTENANCE section and its 1978 construction section. The same document as 77, read against its own heading list 2026-09-08 under p_441 in a later pass that took the sections the first one left. See [f_5824] and [f_5826].
 
 ## Research Notes
 

@@ -1,0 +1,82 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+THE McGILL YOU KNEW: AN ANTHOLOGY OF MEMORIES, 1920-1960
+(Don Mills, Ont.: Longman Canada, 1975). Internet Archive: isbn_0774700130 — scan leaf 314.
+
+NOT A SCAN. The book is lending-restricted and has not been read. The passage was assembled from
+overlapping twelve-word windows returned by https://openlibrary.org/search/inside.json (contract at
+f_4933), walked to a chapter break. Page images return HTTP 403.
+
+FOUND BY THE NAME SWEEP. The query was `"Hay Finlay"` — one of the names in this project's own
+`directors-index.md` that had never been run against the book corpus.
+
+
+RECOVERED PASSAGE (continuous; two runs from the same leaf)
+-----------------------------------------------------------
+
+    "... Shag Shaughnessy, Bert Light, Van Wagner, George Vickerson, Frank Saxton, HAY FINLAY and
+    our chief sport administrator, Major Stuart ...
+
+    ... — which was usually in doubt till near the end. In the off season, Van and Hay Finlay, the
+    gymnastics and soccer coach, developed Camp Nominingue in County Labelle, where many students
+    worked as counsellors in the summer. Though a private venture, the camp was closely connected
+    with the university by personal associations, and was known as 'Camp McGill' to all the
+    residents of the area. CHAPTER ..."
+
+("Camp McGeell" is the OCR; the word is McGill.)
+
+
+WHY IT MATTERS, AND THE PART THAT IS THIS PROJECT'S OWN FAULT
+-------------------------------------------------------------
+
+Hay Finlay is in `wiki/people/directors-index.md` as Kamp Kanawana's SENIOR SECTION DIRECTOR IN
+1922, "ex-Central YMCA Boys' Physical Director, then at McGill Physical Education", from the camp's
+own 1922 brochure (f_0056).
+
+He is also, in this project's KNOWLEDGE BASE, the co-founder of Camp Nominingue:
+
+  f_2641 — Anne Vail's 1954 profile of F. M. Van Wagner: "He was co-founder of this Camp with HAY
+           FINLAY in 1925."
+  f_3039 — G. H. Merrill's February 1963 profile: "In the fall of 1924, Van and a McGill associate
+           of his, Hay Finlay, decided that they would operate their own camp."
+  f_2476 — the Canadian Camping Association executive of February 1949: "Secretary-Treasurer Hay
+           Finlay, 475 Pine Ave West, Montreal."
+
+Both f_2641 and f_3039 say IN THEIR OWN TEXT that the KB already holds him as Kanawana's 1922
+section director. And `canadian-camping-movement.md`'s Open Question 4 went on saying, through
+several revisions and as recently as this week, that **"no named individual confirmed on both sides
+of the connection so far"**, recording that Camp Nominingue's counsellor Marc Beique had been
+checked specifically and produced nothing.
+
+**The question was not unanswered. It was unread.** The article and the knowledge base were never
+run against each other on this point. That is the fifteenth rule in the 2026-09-06 handoff — *use
+the knowledge base as a test of the articles, not only as a source for them* — and this is its
+second demonstration in two days, after the seventh split in the plaque index.
+
+
+WHAT THIS BOOK ADDS ON TOP OF THE JOIN
+--------------------------------------
+- Finlay's actual job: **gymnastics and soccer coach** at McGill, named among the university's
+  coaching staff of the period.
+- Nominingue's character: a private camp **staffed by McGill students**, "closely connected with the
+  university by personal associations", and known locally as **"Camp McGill"**.
+- Which sharpens the Kanawana question rather than closing it: the channel between Kanawana and the
+  Laurentian private-camp world in the 1920s was PERSONAL — coaches and students moving between a
+  university department, a YMCA camp and a private camp — and not institutional.
+
+NOT ESTABLISHED: Finlay's first name (every source gives "Hay Finlay"), his dates, how long he
+stayed at Nominingue, or whether he had any further connection with Kanawana after 1922. Note also
+that this project holds a competing account of Camp Nominingue's origins from a 2016 Quebec history
+(f_4939) which gives 1911 and calls it "le premier camp francophone"; the 1924-25 founding by Van
+Wagner and Finlay is what the camping association's own magazine says twice, and the two accounts
+are not reconciled here.
+
+QUERIES RUN, in order:
+  "Hay Finlay" (19 hits; four items, two of them relevant, one a 1769 Scottish tenant farmer) ·
+  "Van and Hay Finlay, the gymnastics and soccer coach, developed Camp" · "developed Camp Nominingue
+  in County" · "till near the end. In the off season, Van" · "Camp Nominingue in County Labelle,
+  where many students worked" · "where many students worked as counsellors in the" · "in the summer.
+  Though a private venture" · "Though a private venture, the camp was closely connected" · "the camp
+  was closely connected with the university by" · "connected with the university by personal
+  associations, and" · "was known as "Camp McGeell"" · "personal associations, and was known as" ·
+  "Van Wagner, George Vickerson, Frank Saxton"

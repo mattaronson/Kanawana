@@ -1,7 +1,7 @@
 # Lake Wilson
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-09-02*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-06 (Fong's 2008 biography of McConnell, read past a dead end)*
 
 ## Overview
 
@@ -29,17 +29,54 @@ Lake Wilson serves as a destination for overnight camping excursions. Two-week c
 
 > "A short time later Mr. J. W. McConnell purchased the land around Lake Desjardins. This he presented to the Y.M.C.A., and the lake was renamed 'Lake Wilson' after Mr. McConnell's son."
 
-That is a primary in-house document, and it confirms both halves of what this article had held as unverified. The lake **was** formerly Lac Desjardins; it **was** bought and given to the YMCA by J.W. McConnell; and it **was** named for his son — Wilson Griffith McConnell (1908–1966), on the identification argued at [[people/j-w-mcconnell|J.W. McConnell]]. The oral history recorded here was right, and a document independently reached the same account.
+That is a primary in-house document, and it confirms both halves of what this article had held as unverified. The lake **was** formerly Lac Desjardins; it **was** bought and given to the YMCA by J.W. McConnell; and it **was** named for his son — Wilson Griffith McConnell (1908–1966), on the identification argued at [[people/j-w-mcconnell|J.W. McConnell]]. The oral history recorded here was right, and a document independently reached the same account.^7
 
-Two things about how this was missed are worth keeping. The source has been in the knowledge base since July 2026 marked as read; what "read" meant was that a previous pass had quoted the passages it went looking for. And this section previously named the 1933 Dawson history and the 1943 Charlton account as "the most likely sources, but confirmed archive-only" — treating the answer as out of reach while it sat in a cached document nobody had read through.^12
+Two things about how this was missed are worth keeping. The source has been in the knowledge base since July 2026 marked as read; what "read" meant was that a previous pass had quoted the passages it went looking for. And this section previously named the 1933 Dawson history and the 1943 Charlton account as "the most likely sources, but confirmed archive-only" — treating the answer as out of reach while it sat in a cached document nobody had read through.^12 Those two remain unread and remain in Concordia sub-series 12A and 12L, whose box locations are known.^10
+
+### An outside source says the same thing, and puts a year on it
+
+Everything above comes from inside the institution — the camp's own 1951 history and operator oral
+history. **There is now a source from outside it.** William Fong's biography of McConnell, published by
+McGill-Queen's University Press in 2008, contains this sentence:^13
+
+> "… 1912, in that year he also bought a site at **Lake Desjardins, near Saint-Sauveur, for a new Camp
+> Kanawana, which was renamed Lake Wilson after his first son**. [F]urther, the YMCA campaign provided
+> the model for a fundraising campaign of McGill University, also in …"
+
+Three things it settles and one it does not.
+
+**Lake Desjardins was real.** This wiki has carried conflict `c_006` since June 2026 on the ground that
+no lake of that name is documented anywhere near the site. A university-press biography naming it, in a
+sentence about the purchase, fills that absence.
+
+**The renaming is independently attested**, by an author with no stake in the camp, working from
+McConnell's own papers rather than from the camp's.
+
+**There is a date: 1912.** The 1951 history said only "a short time later" than the 1910 purchase of
+the main site.
+
+**It does not name the son.** Fong writes "his first son", and the identification of Wilson Griffith
+McConnell (1908–1966) still rests on the family record set out at [[people/j-w-mcconnell|J.W.
+McConnell]] — but "first son" and "Wilson" agree, which is one more coincidence than the identification
+had before. Nor does the passage say whether McConnell bought the lake or the whole site, or whether
+the purchase and the renaming fell in the same year.
+
+*On how it was found, because it matters more than the finding.* The book is lending-restricted on the
+Internet Archive, and this project recorded on 2026-07-09 that searching inside it was impossible — the
+Archive's own search-inside API returns 403 for every query against a print-disabled item, and the note
+concluded "only physical/operator access to the book remains." That was true of the route tried. Open
+Library's own search-inside endpoint answers the same corpus, restricted books included, and the
+passage above was assembled from seven overlapping phrase queries against it. The full method is at
+[f_4933]; what it says about this article is that a dead end recorded fourteen months ago was a fact
+about one API.
 
 ### What the alternatives were, and why they now fall away
 
 The alternatives previously canvassed here were a pre-existing settler-family name, J.W. McConnell's own middle name ("Wilson," his mother's maiden name), and an unrelated YMCA Wilson. The pattern evidence that favoured a settler origin is real and is retained below, because it explains why the *other* Quebec Lac Wilsons are named as they are — it simply does not govern this one, which has a documented naming of its own.
 
-The Commission de toponymie du Québec has no entry for this specific Lac Wilson, which is consistent with the 1951 account: a private lake renamed by its owner has no reason to enter the official register under either name. A full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" — the thesis is not a source for this question.
+The Commission de toponymie du Québec has no entry for this specific Lac Wilson, which is consistent with the 1951 account: a private lake renamed by its owner has no reason to enter the official register under either name. A full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" — the thesis is not a source for this question.^8
 
-Pattern evidence on comparable toponyms, retained: three further official Quebec "Lac Wilson" entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp there) and others — all favour settler-family origins in the general case.
+Pattern evidence on comparable toponyms, retained: three further official Quebec "Lac Wilson" entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp there) and Grenville-sur-la-Rouge (fiche 67246) — all favour settler-family origins in the general case.^9
 
 ## The Dam
 
@@ -86,6 +123,7 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 10. Concordia University Archives, YMCA of Montreal fonds sub-series 12A/12L (Dawson 1933, Charlton 1943 box locations) [src_concordia_12L].
 11. "Kamp Kanawana History," presented at a staff Training Course, 6 June 1951 [src_ia_kanawana_history_1951]. Internet Archive, `1951-kamp-kanawana-history`; full text cached 2026-09-02 at `sources/cache/src_ia_kanawana_history_1951.txt`. See [f_2371].
 12. The reading history of that document is itself recorded at [f_2376]: it carried read_state "extracted" on the strength of quoted passages, with no cached text, from July 2026 until it was read end to end on 2026-09-02.
+13. William Fong, *J.W. McConnell: Financier, Philanthropist, Patriot* (Montreal: McGill-Queen's University Press, 2008), Internet Archive scan leaf 766 [src_fong_mcconnell_2008]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. The reconstruction, with the queries that produced it, is cached at `sources/cache/openlibrary-search-inside/2026-09-06-fong-mcconnell-lake-wilson.txt`. See [f_4934], [f_4933].
 
 ## Research Notes
 

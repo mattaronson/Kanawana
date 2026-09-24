@@ -1,0 +1,81 @@
+AN "R. L. CHARLTON" AT NORTHFIELD, 1888 -- AND WHY THE JOIN CANNOT BE MADE
+T. J. Shanks, "College Students at Northfield; or, A College of Colleges,
+No. 2" (1888). Two Internet Archive scans, both fully downloadable:
+collegestudent00shan (Princeton Theological Seminary copy) and
+collegestudentsa0000unse. Read 2026-09-07.
+
+=====================================================================
+WHAT IS THERE
+=====================================================================
+
+Under "CATALOGUE OF DELEGATES. / GENERAL." -- the section for delegates not
+attached to a college delegation -- with column headers "Name. / Vocation. /
+Address.", the name run reads, in order:
+
+  V. C. Hurt · W. M. Smith · Janzo Kawamoto · F. H. Ibingfield ·
+  E. J. Steinity · F. H. Taylor · S. F. Whitehouse · T. H. Taylor ·
+  [W.] Moffett · Robert Latt[e] · Stuart L. Roussel · A. Bourquin ·
+  W. G. Mills · L. R. Montgomerie · F. H. DuVernet · Cecil C. Owen ·
+  Mr. and Mrs. Heard · Alexander Arthur · **R. L. CHARLTON** ·
+  Percy E. Judge · R. S. Boss · J. L. Sample · Stuart H. Kyle · ...
+
+and the address run, separately:
+
+  Nanking, China · Florence, Italy · Kobe, Japan · Digby, Eng. · London ·
+  " · " · North London, Eng. · New Castle, " · Edinburgh, Scot. ·
+  Geneva, Switz. · Lausanne, Switz. · **Kingston, Ont.** · " · " ·
+  **Toronto, "** · " · **P. E. I., Canada.** · **Montreal, Que.** · " · " ·
+  Dakota Territory. · Bethel, Conn. · London, " · New Haven, Conn. · ...
+
+=====================================================================
+WHY THE TWO RUNS CANNOT BE ALIGNED, WHICH IS THE WHOLE POINT
+=====================================================================
+
+The scans break the table into three separate column runs, and IN NEITHER DO
+THE RUNS HAVE EQUAL LENGTH.
+
+  collegestudent00shan   58 names against about 35 addresses in the same
+                         stretch -- roughly twenty-three addresses lost,
+                         because the OCR silently drops the repeated ditto
+                         marks that stand for "same as above".
+  collegestudentsa0000unse  keeps many of the ditto marks as their own lines,
+                         which helps, but drops at least one NAME (W. M.
+                         Smith, present in the other scan) and garbles several
+                         others past recognition.
+
+So counting forward from the top fails, and counting back from the end fails
+too, because the discrepancy is distributed through the run rather than at one
+end. THIS PROJECT'S OWN RULE FROM THE POSTAL-DIRECTORY WORK APPLIES: the
+alignment is checked, not assumed, and here it does not check out. No address
+is assigned to Charlton.
+
+=====================================================================
+WHAT IS SUGGESTIVE, AND IS NOT EVIDENCE
+=====================================================================
+
+A run of CANADIAN addresses -- Kingston, Toronto, Prince Edward Island,
+Montreal -- sits a few entries before Charlton's name in both scans. If the
+columns ran straight it would put him somewhere just past Montreal.
+
+THEY DO NOT RUN STRAIGHT. Twenty-odd unaligned entries lie in between, and the
+addresses immediately after the Canadian run are American (Dakota Territory,
+Bethel Conn., New Haven Conn.), so the same loose reasoning would put him in
+Connecticut. The suggestion is recorded because it is testable, not because it
+is believed.
+
+=====================================================================
+WHY ANYONE SHOULD CARE
+=====================================================================
+
+Kanawana's R. L. Charlton was a Montreal marine surveyor and "ardent YMCA
+worker" of the camp's founding circle, who proposed the name "Kanawana" and
+wrote one of the two 1943 manuscript histories of its earliest years. D. L.
+Moody's Northfield college conferences were the forge of the student YMCA
+movement, and 1888 is SIX YEARS BEFORE the camp. A Montreal YMCA man at
+Northfield in 1888 would place the camp's founding circle inside that current
+directly rather than by inference.
+
+IT IS ONE PAGE, AND A LEGIBLE IMAGE OF IT SETTLES THIS IN A MINUTE. Both scans
+are public; the page is the "GENERAL" table of the Catalogue of Delegates, at
+about page 294 of the 1888 edition. What is needed is the page IMAGE, not more
+OCR -- the text layer is the thing that has failed here, twice.

@@ -1,7 +1,7 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-09-07 (why the records stop in 1971)*
 
 ## Overview
 
@@ -17,11 +17,56 @@ A limerick in the *Green Triangle* (July 29, 1938) mentions a staff member Walla
 
 ## First Period: Youth Camp (1929-1936)
 
+**Boys were walking there before it was a camp.** The report on the **1926** season lists where the camp
+hiked: "Hikes were organized to **Lac Manitou, Val Morin, Sixteen Island Lake, L'Achigan, Becsis, Morin
+Heights, Otoreke and Shawbridge**, with total attendance of **240**."^16 That is three years before the
+1929 development below, and it puts Lac Becs-scie in the same list as Otoreke and Shawbridge — a place
+Kanawana boys already went on foot. **The 1929 build did not find the site; it settled on one the camp
+had been using.** Nothing in the report says the two are connected, and the hike list gives no
+indication that anything stood there.
+
+**What was built, and what it was for.** The report for the year ending 31 March 1930 — the site's
+first season — records "the building of a wharf, a new dining pavilion, four new tent floors, and
+the digging of a well," and states the purpose: "**This camp will form a valuable annex to the main
+camp for 'peak' periods and also for overnight and short term out-trips.**"^12 The same season built
+a craft shop at Kanawana "to provide additional scope to the interest displayed in last year's
+experiment in carpentry instruction," and the two together cost **$2,258.00** in capital against a
+season surplus of $201.00.
+
+**And within four years the annex had been handed to an orphanage.** The report for the summer of
+1933: "The Protestant Orphans' Home was given **the free use of our auxiliary camp equipment at Lac
+Becscies** and was greatly helped in its work by this co-operation." The same sentence returns for
+1934, and for 1935 — "**again** given free use" — when "its Board has generously expressed
+appreciation."^12
+
+So the site built in 1929 to relieve Kanawana's peak weeks was, by the depression years, being lent
+entire and free to the Orphans' Home for at least three consecutive summers. That is a standing
+arrangement rather than a courtesy, and it displaced the annex function the camp was built for.
+
+*A note for anyone searching:* these volumes spell the lake **Becscies**. A grep for "Becsies" or
+"Beescies" finds none of it.
+
+
+**The decision itself is a year earlier, and the association gave its reason.** The annual report
+for the year ending 31 March 1929 — covering the summer of **1928** — carries it under a marginal
+heading, *Enlargement of Kamp Kanawana*:
+
+> "**The greatly increased attendance at Kanawana in 1928**, combined with a growing recognition of
+> the remarkable Christian education opportunities which inhere in camping, **has resulted in the
+> decision to enlarge the enterprise by building a new camp site on the shores of Lac Beescies,
+> which is within twenty minutes' walk of the administrative centre of Kanawana.** It is expected
+> that this will take care of a large number of boys who desire to attend camp **and at the same
+> time not imperil the effectiveness of our camp service by overcrowding**."^11
+
+So Becsies was not a new venture but a relief valve, decided on because 1928 was too full and the
+association would rather build a second site than crowd the first. The distance is stated too:
+**twenty minutes' walk** from Kanawana's administrative centre.
+
 The earliest records for Camp Becsies date to 1929, documenting the development of the camping site.^2 A memo regarding "the future of Camp Becsies" survives from the 1930s, suggesting the camp's viability was questioned at some point.^3
 
 Per the YMCA of Montreal's own digitized Annual Reports (1930-1937), Camp Becsies began life explicitly as Kanawana's own overflow/annex site, not an independently run camp. The 1930 Annual Report (covering the 1929 season) describes the new equipment at "Lac Becscies" -- a wharf, a new dining pavilion, four new tent floors, a well -- as intended so "this camp will form a valuable annex to the main camp for 'peak' periods and also for overnight and short term out-trips."^8 That same season, $2,258 in capital expenditure went toward "the Becscies extension and the new craft shop" (a combined figure), and a group of Westmount Branch businessmen separately underwrote twelve Protestant Orphans' Home boys as regular Kanawana campers -- a distinct sponsorship channel from the equipment-loan arrangement that followed.^8
 
-The Protestant Orphans' Home equipment loan itself is now documented across **four consecutive seasons**, not just two: the 1934, 1935, 1936, and 1937 Annual Reports (covering the 1933, 1934, 1935, and 1936 seasons respectively) each record the Home being given free use of the Becscies equipment, with the final entry reading "again given, free of charge, the use of our property on Lake Bec-scies, for which their Board has expressed generous appreciation."^8 The 1934 report names **W.H. Spearman** as that season's Kanawana Camp Director -- its wording is "was *again* in charge of the camp," and a 2026-08-14 pass followed that "again" back to a confirmed 1932 season and forward to 1934, giving him three seasons rather than the one recorded here; see [[people/w-h-spearman|W. H. Spearman]]; the 1937 report names **W.J.G. Macdiarmid** -- independently corroborating the director already documented in [[people/directors-index|Directors and Staff of Camp Kanawana]] (Greig/W.J.G. Macdiarmid, Camp Chief 1935-1938+).^8
+The Protestant Orphans' Home equipment loan itself is now documented across **four consecutive seasons**, not just two: the 1934, 1935, 1936, and 1937 Annual Reports (covering the 1933, 1934, 1935, and 1936 seasons respectively) each record the Home being given free use of the Becscies equipment, with the final entry reading "again given, free of charge, the use of our property on Lake Bec-scies, for which their Board has expressed generous appreciation."^8 The 1934 report names **W.H. Spearman** as that season's Kanawana Camp Director -- its wording is "was *again* in charge of the camp," and a 2026-08-14 pass followed that "again" back to a confirmed 1932 season and forward to 1934, giving him three seasons rather than the one recorded here; see [[people/w-h-spearman|W. H. Spearman]]; the 1937 report names **W.J.G. Macdiarmid** -- independently corroborating the director already documented in [[people/directors-index|Directors and Staff of Camp Kanawana]] (Greig/W.J.G. Macdiarmid, Camp Chief 1935-1939).^8
 
 A systematic 2026-07-09 check of every YMCA of Montreal Annual Report from 1938 through 1962 (21+ consecutive years) found **zero further mentions** of Becscies, Becsies, Becs-Scie, or the Orphans' Home arrangement -- confirming the 1936 end-date but leaving the reason for the subsequent gap undocumented. Notably, Kanawana itself recorded its highest attendance to that point in the very next (1937-38) season -- 407 boys, 1,442 camper-weeks, "necessary to refuse registration for periods in July" -- which argues against a simple Depression-driven cost-cutting explanation, though it doesn't rule out reasons specific to the Orphans' Home side of the arrangement.^8
 
@@ -31,6 +76,55 @@ One plausible but unconfirmed contributing thread: Camp Amy Molson, founded May 
 
 Camp Becsies was repurposed for family camping in its second operational period after a 24-year gap in the archival record (1936-1960). A family camping brochure from c. 1962 and administrative records spanning 1960-1971 survive in the Concordia Archives.^3 Photographs of Camp Becsies also exist in the archives.^3
 
+**And the ground was developed on Kanawana's own property, by Kanawana's own committee.** The association's 113th annual report, covering the summer of 1964, says so directly: "Lake Becsies, a beautiful clear water lake, is the site of the **Family Camping Grounds** of the Montreal YMCA. The increased interest in Family Camping prompted **the Boys' Camping Committee** of the Montreal YMCA **to develop an area of the Kanawana property** for this purpose. The sites are **a mile and a half from the boys' camp**."^13
+
+That reframes this second period. It was not a separate camp reviving on its own account: it was Kamp Kanawana's committee opening a family campground on Kanawana land, close enough to walk.
+
+It also puts a small irony in the record. The following year the same association explained a fall in Kanawana's own attendance — 420 boys, down from 535 — partly by "an increasing popularity of **family camping**." The competing product was its own, a mile and a half away. Neither report draws the connection, and this article does not claim the two are cause and effect; the association named three causes and family camping was one of them.
+
+### Why the records stop in 1971
+
+This article has said, without explanation, that the records end in 1971. Kanawana's own reports for the
+three years running up to it say what happened, and **read as a run they reverse themselves.**
+
+**1969** lists among the camp's strategic aims "the development of our property on Lake Becsies to
+realize its full potential".^17
+
+**1970** describes who was actually turning up. Under a heading about visitors: "Our second group are
+young people (ages 16-30 years) that appear at camp — at various parts of the camp — looking for a place
+to swim, **crash**, or just get away from it! **This group frequented Becsies this Summer.** At the point
+of writing a young couple are located at [[site/lake-wilson|Wilson]]." The report's recommendation is to
+**let them**: "Today there are many young people on the move and in most cases with nowhere to go. **We
+should consider opening Becsies for use by these youth.**" The same report treats the place as rentable
+plant, wanting "a special area (ie Becsies or Pagé's) with its own eating, etc., facilities" and noting
+that "if we are going to continue to rent we need better facilities, a list of conditions for rentals,
+and a full-time employee on site".^17
+
+**1971**, twelve months later: "our Becsies property is **over-run by 'locals' and wandering youth**. It
+should become a 'hostel in the north', or better, **to sell it now** and use the proceeds to equip our
+hikes and trips." The body of the same report elaborates: "Our Becsies property has become over-run with
+the 'locals' using it for weekend picnics and old staff and Campers using it for a place to 'crash'. **It
+has become too well known.** To place a guard on the property would be poor local P.R. and only a
+gesture." And, of Kanawana itself: "The camp began, at one point, to look like a drop-in center for
+almost everyone (**Becsies had more visitors dropping in than we did however**)."^17
+
+**Three years take the same piece of land from asset to opportunity to liability**, and the 1970 report
+proposes opening it to precisely the population the 1971 report names as the problem. This is the last
+recorded institutional discussion of the property, and it is the nearest thing to a reason the record has
+for what follows. [f_5671]
+
+*(Corrected within the hour, 2026-09-07. This paragraph first ended "Neither acknowledges the other,"
+which is wrong.* **The 1971 report has the 1970 proposal in front of it**, on a different page from its
+Becsies recommendation: "Last year's report suggested usage of it for youth travelers as they travelled
+through Canada. A resource person on the site working or available to them would be one suggestion. This
+could be funded through a special resource and provide the youth with a much needed area to feel
+'welcome' at. **The other alternative is to sell the property** and use the results to purchase land
+further north."^17 *The director restated the earlier proposal fairly, costed it, and set the sale beside
+it — so this is an institution weighing whether to become a youth hostel and deciding against, not one
+that forgot what it had said. That is better evidence than the version first written here. The error came
+from reading the report's recommendation list and its Becsies paragraph without reading its hike-and-trip
+section.)*
+
 ## After the YMCA (1971–present)
 
 Following the end of Camp Becsies records in 1971, the lake was developed as a residential area. Today approximately 240 homes (mix of primary residences and vacation properties) line its shores.^5 The Association du Lac des Becs-scie was formed in January 2003 (succeeding an earlier ecological association that became inactive) and has over 100 member homes.^5 A heritage-listed chapel, Sainte-Thérèse-du-Lac-des-Becs-Scies, was built on the lake in 1950-1951 during the gap between the camp's two operational periods.^7 The lake also has early settlement history: a traditional log house built by Louis Alary was purchased in 1928 by Dr. Joseph-Octave Lapointe, who later served as mayor of Saint-Sauveur (1944-1945).^5
@@ -38,6 +132,22 @@ Following the end of Camp Becsies records in 1971, the lake was developed as a r
 ## Archival Records
 
 The camp's records are held at Concordia University Archives as sub-series P0145/12D within the YMCA of Montreal fonds. The collection comprises 3 cm of textual records spanning both operational periods (1929-1936 and 1960-1971).^2 Camp Becsies is one of several YMCA Montreal camps documented in the fonds alongside Camp Kanawana (12B), Camp Otoreke (12C), Camp Dorval (12E), Camp Weredale (12F), and Camp Perrot (12G).^2
+
+**Becsies campers attended Kanawana's chapel.** *The Green Triangle* of 27 July 1935, on that Sunday's
+service: "Last Sunday we again held a very beautiful chapel service in the even more beautiful Chapel —
+with Mr. Spearman delivering the address. **Our friends from Becis were present with us, completely
+filling the chapel.**"^14 The two camps were close enough that one walked to the other's Sunday
+service in numbers large enough to fill the building, which is a different kind of relationship from
+the canoe portages and hiking-trail references that make up most of the Becsies material here.
+
+**Becsies had a girls' section by 1935.** Kanawana's annual all-camp regatta that August "seemed to
+attract more participants and more out-of-camp spectators than ever before. **The whole girls' section
+of Camp Becsis was there**."^15 This article otherwise describes Becsies through trails, portages and
+the shared shoreline; the phrase "the whole girls' section" says something different — that Becsies
+was **organised in sections like Kanawana** and that at least one of them was for girls, and that its
+girls came over in a body to a Kanawana event. Set beside the Becsies campers who filled Kanawana's
+chapel a fortnight earlier, the traffic between the two camps in the summer of 1935 was routine and it
+went both ways across the gender line.
 
 ## Open Questions
 
@@ -54,6 +164,7 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[site/lake-wilson|Lake Wilson]]
 - [[site/camp-otoreke|Camp Otoreke]]
+- [[site/camp-dorval|Camp Dorval]]
 - [[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]]
 - [[connections/institutional-lineage/ymca-quebec-history|The YMCA of Montreal / YMCAs of Quebec]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
@@ -70,3 +181,10 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 8. YMCA of Montreal Annual Reports, 1930, 1934, 1935, 1936, 1937 (Internet Archive, "sgw-ymca-annual-report" collection) [src_ia_ymca_annual_1930, src_ia_ymca_annual_1934, src_ia_ymca_annual_1935, src_ia_ymca_annual_1936, src_ia_ymca_annual_1937].
 9. "Camp Amy Molson: a history of the Summer Camp of the Montreal Ladies' Benevolent and Protestant Orphans' Society," McGill eScholarship [src_camp_amy_molson_mcgill_paper].
 10. Batshaw Centre History (batshawcentreshistory.ca) — Montreal Protestant Orphans' Home / Ladies' Benevolent Society institutional history [src_batshaw_centre_history]. Retrieved via search-summary only; needs independent verification.
+11. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — so its camping season is the summer of **1928** (see [f_5039]). Read for its camps section 2026-09-06 under p_441. See [f_5065] and [f_5066].
+12. YMCA of Montreal annual reports for the years ending 31 March **1930, 1934, 1935 and 1936** [src_cache_sgw_ymca_annual_report_1930, src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1935, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1929, 1933, 1934 and 1935. Camps sections read 2026-09-06 under p_441. See [f_5070]. **Note the spelling**: these volumes write the lake *Becscies*, which a grep for *Becsies* does not find.
+13. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Family Camping." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
+14. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+16. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: "Hikes were organized to Lac Manitou, Val Morin, Sixteen Island Lake, L'Achigan, **Becsis**, Morin Heights, Otoreke and Shawbridge, with total attendance of **240**." At [f_5646].
+17. Kamp Kanawana's own annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970] and director's report for **1971** [src_ia_kanawana_report_1971], cached in `sources/cache/ymca-montreal-fonds/`. Read as a run 2026-09-07 under `p_491`; the 1969-to-1971 reversal over the **Becsies** property, from "full potential" to "sell it now", is at [f_5671].

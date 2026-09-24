@@ -1,13 +1,15 @@
 # Daniel Andrew Budge (1851-1933)
 
-*Status: E1-reviewed | Sources: 7*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 8*
+*Last Updated: 2026-09-06 (a probable January 1894 sighting in Toronto)*
 
-## Summary
+## Overview
 
-Daniel Andrew Budge was born April 16, 1851, in Newmarket, Ontario, and served as General Secretary of the Montreal YMCA from 1874 until 1913, a tenure of 39 years. He died February 13, 1933, in Montreal (exact date confirmed 2026-07-09 via direct fetch of the McGill Archival Collections Catalogue). He married Annie Margaret Watson (1852-1931) in 1876. In 1937, four years after his death, the Montreal Central YMCA on Drummond Street renamed its Association Hall the D. A. Budge Memorial Hall in his honour.
+Daniel Andrew Budge was born April 16, 1851, in Newmarket, Ontario, and served as General Secretary of the Montreal YMCA from 1874 until 1913, a tenure of 39 years. He died February 13, 1933, in Montreal (exact date confirmed 2026-07-09 via direct fetch of the McGill Archival Collections Catalogue).^1 He married Annie Margaret Watson (1852-1931) in 1876. In 1937, four years after his death, the Montreal Central YMCA on Drummond Street renamed its Association Hall the D. A. Budge Memorial Hall in his honour.
 
 Budge's career at the Montreal YMCA encompassed virtually every significant development of the organization's first half-century: the construction of the Dominion Square building (1892), the founding of Camp Jubilee (1894), the establishment of evening educational courses that would eventually become Sir George Williams College (later Concordia University), and the expansion of the branch system across Montreal. His influence extended internationally through YMCA war work during World War I, where he played a significant role in organizing Red Triangle activities in England and France.
+
+**A probable sighting in January 1894, in Toronto.** R. J. Colville, then general secretary of Toronto's West End Association, described a Provincial Convention held in his building that month and named who came: "John H. Elliott who was the General Secretary of Minneapolis, R. O. Morse of New York, **4. A. Budee of Montreal**, and other prominent Association workers from the United States and Canada were present."^8 That is D. A. Budge within one OCR error per character, and no other Budge of Montreal is known to the Association record — but the reading is **not certain and is not treated as certain here**. If it holds, it is the only thing this article has placing Budge anywhere specific in the first weeks of the year Camp Jubilee was founded, and it places him among the movement's international leadership rather than at his Montreal desk.
 
 ## Connection to Camp Kanawana
 
@@ -18,15 +20,15 @@ Budge's 39-year tenure as General Secretary (1874-1913) perfectly brackets the e
 - The growth of the camp through the late 1890s and 1900s
 - The acquisition of the Saint-Sauveur site from the Page family (c.1910)
 
-John Roy, the earliest identified camp director (1901), addressed letters to "Mr. Budge" preserved in Concordia sub-series 12L, confirming a direct reporting relationship between the camp director and the General Secretary.
+John Roy, the earliest identified camp director (1901), addressed letters to "Mr. Budge" preserved in Concordia sub-series 12L, confirming a direct reporting relationship between the camp director and the General Secretary.^5
 
 ## Connection to James Naismith
 
-Budge is noted in YMCA history for his influence on James Naismith. While studying at McGill University (BA 1883-1887) and the affiliated Presbyterian College (theology diploma, 1887-1890), Naismith visited the Montreal YMCA and became acquainted with Budge. Naismith explained his desire to combine spirituality with physical training for young athletes, and Budge directed him to the YMCA International Training School in Springfield, Massachusetts (now Springfield College), where Naismith enrolled and in 1891 invented basketball. Budge's role in directing Naismith toward the YMCA is acknowledged by the World YMCA.
+Budge is noted in YMCA history for his influence on James Naismith. While studying at McGill University (BA 1883-1887) and the affiliated Presbyterian College (theology diploma, 1887-1890), Naismith visited the Montreal YMCA and became acquainted with Budge. Naismith explained his desire to combine spirituality with physical training for young athletes, and Budge directed him to the YMCA International Training School in Springfield, Massachusetts (now Springfield College), where Naismith enrolled and in 1891 invented basketball. Budge's role in directing Naismith toward the YMCA is acknowledged by the World YMCA.^2 ^3
 
 ## Historical Writings
 
-Budge authored "The Early Beginning of the Young Men's Christian Association in Montreal, Canada," a document preserved in the Concordia archives (sub-series 1B) and dated to approximately the 1910s. A related letter from C. K. Calhoun to J. H. Crocker accompanies it. This makes Budge himself one of the early historians of the Montreal YMCA, predating Harold Cross's centennial history by decades.
+Budge authored "The Early Beginning of the Young Men's Christian Association in Montreal, Canada," a document preserved in the Concordia archives (sub-series 1B) and dated to approximately the 1910s. A related letter from C. K. Calhoun to J. H. Crocker accompanies it.^4 This makes Budge himself one of the early historians of the Montreal YMCA, predating Harold Cross's centennial history by decades.
 
 Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on the Canadian Pacific Railway" (1890s) and a "Study of Possible Extension of YMCAs of Grand Trunk Railway" (1896), both held in the Concordia Archives.^6 These documents reflect the Montreal YMCA's ambition to extend its influence along the railway corridors connecting Montreal to the rest of Canada during the period when the camping program was also taking shape.
 
@@ -60,7 +62,8 @@ Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on th
 4. Concordia University Archives, YMCA of Montreal fonds P145, sub-series 1B (https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-1B.html)
 5. Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L
 6. Concordia University Archives, YMCA of Montreal fonds P0145 finding aid — railway memoranda.
-7. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 13D (Joyce Oliver "Book of Remembrance and History" project, 1939-40) [src_concordia_13D_joyce_oliver].
+7. *A lead, not a source, and deliberately uncited.* Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 13D — the Joyce Oliver "Book of Remembrance and History" project of 1939-40 [src_concordia_13D_joyce_oliver], compiled six years after Budge's death by an association assembling its own memorial record. Not consulted; it is the most likely surviving place for the photograph and the burial location Open Questions above ask for.
+8. R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds [src_ymf_1920_biography_of_r_j_colville]. Cached at `sources/cache/ymca-montreal-fonds/1920-biography-of-r-j-colville.txt`. See [f_5014]. The scan reads "4. A. Budee", so a grep for the surname does not find it — worth knowing before searching this corpus for anyone else.
 
 ## Research Notes
 

@@ -15,6 +15,13 @@ need a registry: no parser can know that "distinct named individuals" means
 len(person-index.json). Adding a rule is three lines and is the price of
 letting an article state a number at all.
 
+SPAN -- a season count against the year range printed beside it: "N seasons,
+YYYY-YYYY" must satisfy N == end - start + 1. General, no registry. It exists
+because on 2026-09-05 a closure year was settled, a run was correctly re-dated
+from 1918-2019 to 1919-2019, and the count in front of it was left at "about
+102". Seasons and summers only -- "37 years (1919-1956)" is an elapsed duration
+and correct as written.
+
 TABLE -- a number in prose against the number of rows in a table in the SAME
 file. This one is general: it needs no registry, only a phrase that looks like
 a count and a table below it. Three of the four live defects p_227 found were
@@ -90,6 +97,43 @@ DERIVED = [
   r'\*\*(\d+)\*\* \|\s*\n\| Fact complete', lambda: sum(1 for r in AUDIT if r['verdict'] == 'PARTIAL'),
   'PARTIAL verdicts'),
 ]
+
+# --- SPAN rule ---------------------------------------------------------------
+# "N seasons, YYYY-YYYY" must satisfy N == end - start + 1. General, like the
+# TABLE rule, and it needs no registry.
+#
+# Why it exists: on 2026-09-05 Camp Stephens's wartime closure was settled at
+# 1918, its unbroken run was correctly re-dated from 1918-2019 to 1919-2019,
+# and the count in front of it was left at "about 102". Settling a date and
+# leaving the arithmetic alone is the exact failure this project keeps making,
+# and no check could see it -- every number was internally consistent with the
+# sentence it sat in, and wrong against the span beside it.
+#
+# SEASONS AND SUMMERS ONLY, never "years". A season count is inclusive of both
+# ends; "37 years (1919-1956)" is an elapsed duration and correct as written.
+# Both readings occur in this wiki and only the first is checkable.
+#
+# An approximation marker -- about, roughly, ~, approximately -- allows a
+# tolerance of 2, since "about 87 seasons" over a span nobody has pinned to the
+# year is an honest statement and not an arithmetic claim.
+SPAN = re.compile(
+    r'(?P<approx>about |roughly |~|approximately )?\*{0,2}(?P<n>\d{1,3})\*{0,2}\s+'
+    r'(?:consecutive\s+|unbroken\s+)?(?P<unit>seasons|summers)\b[^\n]{0,40}?\(?'
+    r'\b(?P<a>1[89]\d\d|20\d\d)\s*(?:-|\u2013|\u2014|to )\s*(?P<b>1[89]\d\d|20\d\d)\b', re.I)
+
+def check_spans(rel):
+    out = []
+    text = io.open(path(rel), encoding='utf-8').read()
+    for m in SPAN.finditer(text):
+        n, a, b = int(m.group('n')), int(m.group('a')), int(m.group('b'))
+        span = b - a + 1
+        tol = 2 if m.group('approx') else 0
+        if abs(n - span) > tol:
+            line = text[:m.start()].count('\n') + 1
+            out.append('%s:%d  "%s" -- %d %s stated, but %d to %d inclusive is %d'
+                       % (rel, line, m.group(0).replace('\n', ' ')[:70], n,
+                          m.group('unit'), a, b, span))
+    return out
 
 # --- TABLE rules ------------------------------------------------------------
 # A sentence claiming a count, immediately above or below a markdown table.
@@ -181,6 +225,7 @@ def main():
             if f.endswith('.md'):
                 rel = os.path.relpath(os.path.join(root, f), ROOT)
                 bad += check_tables(rel)
+                bad += check_spans(rel)
 
     print('=' * 70)
     print('INTERNAL CONSISTENCY -- numbers in prose against the data behind them')

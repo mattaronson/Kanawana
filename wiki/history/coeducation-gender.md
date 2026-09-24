@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-08-14*
+*Last Updated: 2026-09-07 (where it stands in 2026: a gender label on every one of sixteen programmes)*
 
 ## Overview
 
@@ -11,19 +11,65 @@ For its first 73 or 74 years of operation, Camp Kanawana enrolled only boys. The
 
 Grace McMorris's 2023 Concordia thesis, "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967," explicitly frames the camp's first seven decades as a project of masculine formation. The thesis examines how Kanawana's programming, from active Christian citizenship to "playing Indian" to the voyageur myth, worked to produce "distinctly masculine and Canadian young men." McMorris chose 1967 as her endpoint precisely because it marked the close of the boys-only era.
 
-The YMCA of Montreal operated a network of camps during this period, though the gender assignments were more complex than a simple boys'/girls' division. Camp Otoreke, which had been the original Camp Jubilee site at Lake St. Joseph, was renamed in 1909 and after 1910 served adults: men 18+, then women and men 18+, married couples, and low-income families, before closing in 1982. Camp Weredale was founded in 1934 to serve orphaned or at-risk boys. Neither was a girls' camp in the traditional sense. A report dated [1945 or 1946] in the Concordia archives compares "Kamp Kanawana and Camp Perrot" as the two boys' camps. The YWCA operated its own Camp Oolahwan on Lake Walfred, Quebec (founded by Mary Susannah Edgar in 1917), which served girls independently of the YMCA network.
+The YMCA of Montreal operated a network of camps during this period, though the gender assignments were more complex than a simple boys'/girls' division. Camp Otoreke, which had been the original Camp Jubilee site at Lake St. Joseph, was renamed in 1909 and after 1910 served adults: men 18+, then women and men 18+, married couples, and low-income families, before closing in 1982. Camp Weredale was founded in 1934 to serve orphaned or at-risk boys. Neither was a girls' camp in the traditional sense. A report dated [1945 or 1946] in the Concordia archives compares "Kamp Kanawana and Camp Perrot" as the two boys' camps. **That description is at best half right, and the annual reports say so.** Camp Perrot ran a Girls' Camp from its second documented season on: 62 girls in 1945, 90 in 1946, 73 in 1947, 89 in 1948, against 180, 166, 185 and 162 boys — between a quarter and a third of every intake.^ar4649 The sessions were sequential rather than simultaneous, a six-week boys' camp followed by a two- or three-week girls' camp at the same site, so Perrot was not coeducational in the sense Kanawana debated in 1965. But the association that owned Kanawana was enrolling girls at a camp bought by **Kanawana's own committee** from 1945 onward, and at [[site/camp-otoreke|Camp Otoreke]] it had been running genuinely mixed seasons since 1935 — 1,055 people in 1947, of whom 482 were young women and 475 young men.^ar4649 Whatever kept Kanawana boys-only until 1968, it was not that its parent body had no experience of camping girls. The YWCA operated its own Camp Oolahwan on Lake Walfred, Quebec (founded by Mary Susannah Edgar in 1917), which served girls independently of the YMCA network.
 
 The Concordia archives fonds structure (P0145, series 12) also lists [[site/camp-becsies|Camp Becsies]], Camp Dorval, Camp Thunderbird, and a Wilderness Survival Camp. A walk of Concordia's static finding-aid mirror on 2026-08-25 fetched each of their sub-series pages for the first time and gives them dates and purposes, though still not gender assignments: Becsies runs from the site's development in 1929 through family camping in 1960–1971, and took "Campers from Montreal Protestant Orphans' Home" in 1934 and 1936; Dorval yields a director's report for 1926 and a season report for 1928; Camp Thunderbird was a two-year wartime operation, its whole sub-series consisting of "brochure, correspondence, reports, publicity. - 1942-1943"; and the Wilderness Survival Camp ran 1973–1975.^cm The 1967 Concordia archives listing includes a "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal," suggesting that the question of integrating boys' and girls' programming was being formally discussed at the institutional level that year.
 
 **The Y was evaluating mixed-gender camping in 1936.** The most consequential single line surfaced by that mirror walk sits in the finding aid for P145/12C01, Camp Otoreke's general administration: a file titled **"Evaluation, recommendations re Camp Otoreke as a mixed [gender] camp. - 1936."**^cm That is twenty-nine years before the 1965 Kanawana director's report that recommended coeducation and was declined, and thirty-two years before girls were admitted here. It does not show that Otoreke *became* mixed in 1936 — Otoreke's adult and family clientele is a different case from a children's camp, and the finding aid establishes only that the evaluation existed and is dated. But it does dispose of one reading of the three-year delay documented below: the Montreal association was not encountering the idea of mixed camping for the first time in 1965. It had commissioned a formal evaluation of it, at one of its own sites, three decades earlier. **The file's contents are unread**, and reading them is the highest-value item this article now has.
 
+**And the evaluation was of a change already made.** The association's annual report for the year
+ending 31 March 1936 — covering the summer of **1935** — records the decision, its reason, and its
+result. Otoreke's attendance of young men "has steadily declined," and the camp "does not attract
+the interest and support of an adequate number of young men today." Then: "**From the young men
+members and the staff came the suggestion that the Association should experiment in running the
+camp for not only young men but also young women and married couples.** In view of the successful
+experience of several other Associations in conducting this kind of camp… it was decided to make the
+change."^ar36
+
+After that summer, "it was the unanimous conclusion of those who attended or visited the camp that
+**the experiment was a success**… **One hundred and fifteen young men and women attended** for
+periods varying from a week-end to two weeks, this being an **increase of 53% over the previous
+year**."^ar36 The camp ran under C. J. McGerrigle of North Branch, with Mrs. McGerrigle as hostess.
+
+So the 1936 file the finding aid lists is the evaluation of something that had already happened, and
+the sequence is firmer than a file title could make it: **the YMCA of Montreal ran a coeducational
+camp from the summer of 1935, thirty years before the Kanawana director's report of 1965, at the
+site Kanawana itself came from.** Two things follow. The idea was not novel to the association when
+Kanawana's turn came, and it had a precedent of its own that had been judged a success — and the
+proposal came from members and staff rather than from above, which is the same direction the 1965
+Kanawana recommendation travelled.
+
 The "boys-only" designation did not mean a total absence of females at Kanawana. In 1923, girls from the Lake Marois area visited the camp for a mixed regatta, ball game, and dance. By 1930, the camp director's wife was present at camp, described as a "refining influence." Miss M. Rayner served as camp nurse in 1939 and filled a "camp mother" role, one of the earliest documented women in a Kanawana staff position. The YWCA's Camp Oolahwan and the Junior League Camp also visited Kanawana on occasion — and in the Junior League's case the contact was sustained rather than occasional. It appears in eleven issues of *The Green Triangle* between 1932 and 1940, the two camps shared a camp doctor in 1938, and in June 1939 three carloads of Kanawana staff drove over for the christening of two new buildings. See [[connections/related-camps/camp-lighthall|Camp Lighthall]], the camp's later name. These contacts were social exceptions to the single-sex norm, not evidence of integration, but they show that the gender boundary was occasionally permeable.
+
+**And in the war years the association reported women on the staff outright.** The YMCA of Montreal's annual reports for the years ending 31 March 1944 and 31 March 1945 — covering the 1943 and 1944 seasons — describe the Kanawana staff in identical terms two years running: "an experienced staff of **24 men and women** was in charge" in 1943, and "a capable staff of **24 men and women**" in 1944.^ar4345 That is a plainer statement than anything else this article has for the boys-only era, where the presence of women has had to be assembled from a director's wife, a nurse and a "camp mother." It does **not** make the camp coeducational: the campers were boys, and remained so for another twenty-four years. Nor do the reports say how many of the twenty-four were women or what work they did — the phrase is a staffing total and a pair of nouns, nothing more. Whether wartime labour shortage pushed women onto a camp staff that would otherwise have been all male is a reasonable question and an undocumented one; the reports offer no explanation, and the seasons on either side of 1943–44 are not described in the same terms.
 
 **What the single-sex norm looked like from inside the movement.** Kanawana's boys-only era was not a local policy but the Canadian norm, and one of the men who built the norm described it plainly. Charles F. Plewman — founder of Camp Kilcoo, past president of the Ontario Camping Association, and a participant in the founding of the national association — was interviewed in August 1976 and the excerpts printed after his death in December 1981.^cp He put the lag at two decades: "**A lot of people don't realize that boys' camps were operating in 1894 and '95 but it was 20 years after that that girls even camped. That's quite a long period!**" His account of the reasoning is contemporary language, not paraphrase: "**Girls were supposed to be able to faint at the right time — they were supposed to have lily-white hands — to go out and rough it in the woods for a lady was unheard of! In my first days of camping, they wouldn't let anyone with skirts in the camp — not even the cookhouse or kitchen — it had to be a man.**"
 
 He also records how the first step toward mixed camping was received. When Taylor Statten's "chief financial supporter discovered that he was going to run a girl's camp **on the SAME lake** as the boys' camp, he nearly hit the roof. He said 'Don't do it, Taylor, don't do it — you're making a big mistake'. **This was before anything known as co-ed camping!**"^cp Two camps on one lake was the controversial proposition; what Kanawana debated in 1965 and enacted in 1968 was a further step again. Plewman's own verdict, at 86, was favourable — "camps allowed females to grow in the out-of-doors and **camps were in the forefront of this change**" — which is a claim about the movement made by one of its founders and is recorded here as his view, not as a finding.
 
 None of this is a Kanawana document and none of it names the camp. Its value is as the surrounding weather: it dates the exclusion of women even from camp kitchens to living memory, it puts the arrival of girls' camping in Canada around 1914-15, and it shows that the resistance the 1965 recommendation ran into had a long institutional history behind it.
+
+## A national commission printed the camp's view on equal pay, in 1945
+
+Kanawana's own coeducation is a 1960s story. The association's *other* camp had gone coeducational in
+1935 on its own staff's proposal — see [[site/camp-otoreke|Camp Otoreke]] — and ten years later
+something from that camp reached a national inquiry.
+
+The **Canadian Youth Commission**, the wartime body that gathered briefs from youth organisations
+across the country on what should happen to young Canadians after the war, published *Youth & Jobs in
+Canada* in 1945. Two of the recommendations in its text carry a parenthesis naming where they came
+from, and the parenthesis is this: "encourage public works (when needed) to control capital
+investments, etc. **(Camp Otoreke, Montreal, Y.M.C.A.)**", and "... that there should be **equal pay
+for equal work as between the sexes**. **(Camp Otoreke, Y.M.C.A., Montreal.)**"^cyc
+
+**What that is evidence of, and what it is not.** A group associated with the Montreal YMCA's
+coeducational camp put equal pay for equal work to a national commission in or before 1945 — two
+decades before anything else in this article, and in the same decade the camp's own reports were
+still calling Mrs. McGerrigle the "hostess." What the source does not give is **who**. The
+parenthesis names the camp, not a person or a committee, and the report is lending-restricted: these
+are two search highlights, not a reading. Whether this was the camp's staff, a young adults'
+discussion group meeting there, or a conference the camp merely hosted changes what can be claimed,
+and the book's own list of contributing groups is where that would be settled.
 
 ## The Pathfinder Connection (1965)
 
@@ -32,7 +78,7 @@ The 1965 Concordia archives listing includes "The Pathfinder program Summer Summ
 However, the name was later reassigned to the senior girls section when coeducation occurred, and today Pathfinders serves girls and non-binary campers aged 13-16. When this gender reassignment took place is not documented. It may have happened during the Co-ed Camping Pilot Project (1967-1970), or it may have been a later reorganization. The Concordia archives listing does not specify which camp the 1965 summary belongs to, so the question remains open.
 
 **An unheard recording may settle this.** Concordia's full finding aid lists a quarter-inch audio
-reel, **P0145-11-0191, titled simply "Pathfinder evaluation."**^pf It is undated; the immediately
+reel, **P0145-11-0190, titled simply "Pathfinder evaluation."**^pf The code was corrected from -0191 on 2026-09-07; see [[documents/kanawana-in-media|Kanawana in Media]] for why every reference code read off this finding aid was one out. It is undated; the immediately
 adjacent untitled item carries the dates 1969 and 1964, which places the neighbourhood but not the
 reel. If it evaluates the boys' section introduced in 1959, it settles the 1965 summary as boys'
 programming; if it evaluates a girls' programme, the timeline moves. Either way it is a more direct
@@ -60,6 +106,18 @@ The archives also list a "Boys' Camping Committee. - 1968-1969" alongside a "Cam
 
 There is a discrepancy in the available sources regarding when girls first attended Kanawana:
 
+**The decision was announced publicly, months ahead, and the director said why.** The association's annual report for 1967 carries a section headed simply "Co-ed Camping":
+
+> **Plans to accommodate girls, aged 9-11, at Kamp Kanawana were announced several months before the start of the 1968 summer season.**
+>
+> "**It is natural for boys and girls to grow up together**," commented A. Ross Seaman, Director of Camping. "In providing them with opportunities to do so, **we help prepare them for adolescence**."^ar67
+
+Three things follow. This was a planned, publicised admission rather than a quiet pilot — which is a further reason the "1968 pilot, 1969 formalization" reading below was wrong. It gives the camp's stated reason, in the director's own words, which this article did not have: a developmental argument about children growing up, not an argument about demand, revenue or the camp's survival. And it names an age band.
+
+**And 1969 doubled it, which explains the competing date.** A press release of 13 May 1969 puts the two seasons side by side in one sentence: "**In 1968 it was girls and horses. In response to enthusiastic requests from parents, capacity of the co-ed sections is being doubled.**"^nr69 The association's own annual report for the year ended 31 May 1969 says the same thing under the heading "Girls Help Kanawana Gain": "Kamp Kanawana helped mark its 75th anniversary during the summer of 1968 **by going co-educational**. Prompted by enthusiastic requests from parents, **capacity of the girls section was doubled for the 1969 season**."^ar68 **The two do not say quite the same thing.** The release doubles "the co-ed sections"; the report doubles "the girls section." Doubling a mixed intake and doubling its female half are different claims, and neither document explains itself. So the first year was small, the second was twice the size, and the association's own press office attributed the growth to parents asking for it. That is a straightforward explanation for why a source compiled a few years later might name 1969: it was the year the co-ed camp became substantial. It does not reopen the 1968 date, which the camp's own 1988 report settles.
+
+**On that band, two sources give different numbers and this article is not going to average them.** The announcement plans for girls aged **9 to 11**. McMorris's thesis says the first girls admitted were aged **10 to 12**. A plan is not an outcome and the band may well have been shifted between the announcement and the season, so these need not conflict — but they come from different kinds of source and anyone citing an age range should say which one they are using.
+
 The YMCA Quebec website's official history timeline states "1968" under the heading "Kanawana starts to welcome girl campers." McMorris's thesis confirms that the first girls admitted were aged 10 to 12, entering the youngest section of the camp.^mc The YMCA Kamp Kanawana Facts sheet, a separate institutional document, states that the camp "became coeducational" in 1969. The Concordia archives' Co-ed Camping Pilot Project records span 1967-1970. And the Pathfinder program summary from 1965 may push the timeline even earlier, depending on whether it refers to programming at Kanawana itself.
 
 **[Resolved 2026-08-14 — the date is 1968, and the Facts sheet is simply wrong.]** The camp's own 1988 report states it under Programme Highlights: "**1968 Kamp Kanawana admits female campers for the first time. 66 girls registered.**"^ia The camper-weeks statistics tables in the annual reports corroborate this independently and precisely — girl-camper figures first appear, bracketed, in the **1968** column — and the 1970 season report describes that summer as the camp's "**third year as a coeducational camp**," which counts back to 1968.^ia Three independent traces, one of them a hard enrolment figure.
@@ -74,6 +132,101 @@ only ever had one well-evidenced answer.
 
 The undated Facts sheet's "1969" is an error, not a second milestone. The phased reading previously adopted here — 1968 pilot, 1969 formalization — was a reasonable editorial judgment on the evidence then available, and it is now superseded. The 2005 John Island newsletter's "senior boys section" in 1969 is not evidence against 1968: sections remained gender-segregated for years after coeducation began, which is a fact about section structure, not about the admission date.
 
+### What the camp thought it was for, 1970
+
+That phrase — "third year as a coeducational camp" — has been used here only to settle a date, and the
+section it sits in is a statement of purpose. Part of it is quoted below under
+[What the camp said about it at the time](#what-the-camp-said-about-it-at-the-time), against the 1969
+report's anxieties; what follows is the rest of that section and the argument underneath it.^kk70
+
+*(Corrected 2026-09-07, within the hour. This paragraph first said the section "has not been read," which
+is false — the passage below has quoted its central phrase since before this section existed. The check
+that produced the error is worth naming: a grep for the exact string `coeducational experience` returns
+**zero** here, because the article writes it as `not 'coed' camping but a 'coeducational' experience`
+and the apostrophes fall inside the phrase. **An exact-phrase search fails on precisely the text most
+likely to be a quotation.** Grepping the destination is not the same as reading it, and a
+quotation-bearing phrase needs a looser pattern than the words themselves.)*
+
+"**The key to a successful operation this year was not 'coed' camping but a 'coeducational'
+experience.** Our goal was the education and development of a better understanding and acceptance of the
+opposite sex. This was done through the natural 'coming together' of both groups, **as they were ready**,
+and the positive relationships which developed between them because of this."
+
+The scare quotes are the report's own. It is drawing a line between merely having both sexes on site and
+running something educational, and it comes down on the second.
+
+What that meant in practice, with a number attached: shared campfires, meals, social evenings, hikes,
+canoe trips and "awareness sessions". "Most coed activities fell into the 13-16 year old category and
+were **about 40% of the total overall program**." The word the report keeps reaching for is *natural* —
+"the best way to describe this process and the programs is natural. Each tent group moved in its own
+direction and came together with others in a very easy, natural way."
+
+And the arrangement it describes is separation and integration at once: "**Although the two sections were
+physically separated they seemed to act and react as one section most of the time** (ie Pathfinder yell
+in the dining hall)." The director records the staff position as unanimous — "I personally feel - as do
+all the staff - that we should remain in this field in the future." [f_5677]
+
+### And the argument for it, which is about drugs and sex
+
+The section above gives the *how*. **A separate and much longer COED CAMPING appendix in the same report
+gives the why**, and it is far more socially specific than anything else this article holds.^kk70
+
+"My personal recommendation on the issue of coeducational camping is that we continue in this area. I
+feel that the concern is **not** one of looking at the problems coeducational camping can produce or on
+the other hand trying to justify why we should be in this field. **We are dealing with a society that has
+confused and frustrated our youth today.** They are still faced with **double standards and taboos** which
+are coming under heavy criticism of the youth. **Drug usage and pre-marital relations** are personal
+choices and/or decisions which youth are forced to make each day."
+
+The conclusion follows without a step in between: "If our role is to dialogue with youth about some of
+the above issues and help them come to some realistic conclusions **I see this done, as it is in the
+city, in a coed setting.**"
+
+And he dates the change institutionally rather than morally: "Many, if not all, of our teen club groups
+set out to encompass the same roles **but they no longer exist (ie Hi-Y)**. New coed groups have replaced
+them." **Coeducation at Kanawana is argued, in writing, as the camp catching up with what had already
+happened to the Y's city youth work** — not as a principle newly discovered at the lake.
+
+One phrase in it is a deliberate pun and is not tidied here. The camp reaches young people "through
+tripping — **a different type of 'trip' to turn them on** — and other programs at Kanawana." Canoe
+tripping set against the drug usage named three paragraphs earlier, in a report to a board, in 1970.
+[f_5678]
+
+### What it cost the site, and the structure he proposed instead
+
+Immediately after the erosion passage this wiki already quotes — the main areas "do not look like a camp
+but a section of St. Catherine Street" — the same appendix connects the crowding to the girls.
+
+"**With the introduction of girls to Kanawana it has brought, naturally, more tent platforms to camp.**
+These, unfortunately, were located amongst our existing platforms and thereby created a feeling of
+**overcrowding and lack of privacy**. Our support facilities (ie parliaments, staff accommodations, etc.)
+**did not increase adequately enough** to handle the changes brought about by coed camping."
+
+Coeducation was added to the site without the site being enlarged to take it. This project has held the
+erosion crisis and the coeducation decision separately and never connected them; **the report connects
+them in consecutive sentences.**
+
+**And there is a third strand: the sanitation could not take it either.** The same report's Health &
+Safety section names the cause in the same breath as the complaint. "There were also several comments
+from staff and parents about **the 'smell' at camp**. Our facilities (ie septic tanks and kitchen sewage
+disposal area) are **inadequate for the size and type (coed) of camp we operate**." Then the summary
+judgement: "Most parts of our facilities are **too small (Q.C.A. standards for tent space)**, unsafe
+(rocks in the ball field), or unhealthy."^kk70
+
+That is the camp measuring itself against **the Quebec Camping Association's own standards and recording
+that it falls short** on tent spacing, in its annual report. The ball-field rocks are corroborated by the
+1971 report, which has the fields "still very dangerous with unlevel ground and large boulders protruding
+at irregular intervals". [f_5685]
+
+His answer is structural: "That we continue to carry on with coed camping at Kanawana. I would recommend
+that we do, however, **operate four separate operations** under the heading of Kamp Kanawana. These would
+be: 1. Boys Camp — ages 9-12 years. 2. Girls Camp — ages 9-12 years. 3. Coed Camp — ages 13-16 years.
+4. Leadership (coed) Camp — ages 16-17 years."
+
+**That is coeducation kept for teenagers and withdrawn from the juniors — the reverse of how it began**,
+since the first girls admitted in 1968 were aged 10 to 12, the camp's youngest section. Whether any of it
+was adopted is not established here.^kk70 [f_5679]
+
 ### The three-year delay
 
 The more interesting finding is that coeducation was **recommended in 1965 and declined**. The 1965 director's report argues for it at length and proposes a costed pilot — in the Woodsmen section, ten- and eleven-year-olds, four boys and four girls, with the only additional expense being "an adequate wash house with showers for the girls and this would not be an expense of more than $300."^ia The report notes an earlier constituency survey conducted under **Keith Farquharson** which found "a very large and positive response," and records that the Metropolitan Board declined to act.
@@ -82,13 +235,17 @@ So the sequence is: surveyed and supported before 1965, recommended with costing
 
 ### What the camp said about it at the time
 
-The candour of the internal reports is worth recording directly, because the register changes sharply within a year. The 1969 report anticipates trouble: coeducation "creates some problems for a camp that has dealt with boys only for 3/4 of a century… Some of the specific problems that can be seen include establishing an identity, showing off, sex experimentation, loss of focus on the tent group."^ia The 1970 report, after two seasons, reverses that entirely and is genuinely thoughtful: "There were no 'mother or father' roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires." The same report frames the whole enterprise as "**not 'coed' camping but a 'coeducational' experience**."^ia
+The candour of the internal reports is worth recording directly, because the register changes sharply within a year. The 1969 report anticipates trouble: coeducation "creates some problems for a camp that has dealt with boys only for 3/4 of a century… Some of the specific problems that can be seen include establishing an identity, showing off, sex experimentation, loss of focus on the tent group."^ia The 1970 report, after two seasons, reverses that entirely and is genuinely thoughtful: "There were no 'mother or father' roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires." The same report frames the whole enterprise as "**not 'coed' camping but a 'coeducational' experience**."^ia The rest of that section, and the much longer appendix carrying the argument behind it, are at [What the camp thought it was for, 1970](#what-the-camp-thought-it-was-for-1970) and the two sections after it.
 
 The first female waterfront staff were hired in **1969**.^ia
 
 ## After Coeducation
 
 The Facts sheet records that in 1972, the first all-female Voyageur canoe trip departed. This is notable because the Voyageurs de la Verendrye programme, introduced in the 1950s, had been one of Kanawana's most demanding and symbolically masculine offerings. Extending it to all-female crews within three years of formal coeducation suggests the integration was substantive, not tokenistic.
+
+**What "co-ed" meant in numbers, 1975.** The Quebec Camping Association's directory of accredited member camps for January 1975 carries two entries under the same director, **Derek V. Walsh**, and they say different things about girls. Kanawana itself is filed under "Organizational Residential — Co-ed" at **90 boys and 90 girls, aged 8-15** — exact parity, six years after full integration. **Les Voyageurs de la Vérendrye**, accredited in its own right out of the same site, is **15 boys and 5 girls, aged 13-17**: five girls' places against fifteen boys'.^dir75
+
+The two figures sit badly together, and that is the point of putting them side by side. The imbalance in the tripping programme cannot be explained by the main camp's intake, because the main camp's intake was even. Three years after the first all-female Voyageur trip departed in 1972, the wilderness programme was still built to take three boys for every girl, while the camp feeding it took equal numbers of each. Whether the five places were a ceiling the programme set or a floor that demand set is not recorded anywhere this project holds, and the difference is the whole question: one is a policy and the other is who applied. The directory records the outcome, not the reason.
 
 The section structure that emerged from coeducation reassigned the 1959 section names along gender lines. By the early 1980s, Pathfinders and Pioneers served girls, while Coureurs des Bois and Woodsmen served boys — a structure that persists today. The camp also developed specialized programs: Voyageurs (all-gender canoe trips), Trailblazers (Leaders-in-Training, age 16), and Foresters (canoe trip leader specialization). The Mountaineer all-gender section (2022) represents a further evolution beyond the binary coeducation model.
 
@@ -120,6 +277,82 @@ The camp has also made a public institutional commitment on this front: an offic
 
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
+## A counsellor's reason for the girls-only canoe trip, c. 2004
+
+**The camp ran multi-day river expeditions for girls alone inside a coeducational camp, and one of the
+staff who ran them said why.** The association's 2007 annual report tells the story of a Pathfinders
+canoe trip of about 2004 — nine girl campers, several days on the river, a cold day that turned into a
+thunderstorm — and quotes the section's counsellor on what the format was for:^ar07fr
+
+> "En canot camping, **on apprend a se connaitre, a etre veritablement soi-meme, sans fard et a l'abri
+> du regard des garcons**. C'est un moment propice pour nouer des liens d'amitie."
+
+*In canoe camping you learn to know yourself, to be genuinely yourself, unadorned and out of the boys'
+gaze. It is a good moment for making friendships.*
+
+**That is the only statement in this wiki of a rationale for single-sex programming from someone
+delivering it.** Everything else here on the question is institutional — a 1965 staff poll, a board
+decision, a programme table. This is a counsellor in her late teens describing the point of the
+arrangement in the middle of doing it, and the reason she gives is not about supervision or logistics
+but about who a thirteen-year-old can be when there are no boys watching. Set it beside the 2026
+programme table below, where every junior and intermediate programme is still single-gender: the camp
+has held that shape for at least twenty years, and this is the nearest thing to an explanation of it in
+the camp's own published words.
+
+*The story also documents the camper-to-staff pipeline in one sentence.* Three years on, the camper was
+returning every summer and intending to become an **aspirante-monitrice** — a counsellor-in-training —
+alongside the woman who had been her section counsellor. See
+[[traditions/cit-lit-program|The CIT and LIT Programmes]].
+
+**Two names are in that report at this point and are deliberately not transcribed here.** The camper was
+**thirteen** at the expedition and almost sixteen when the report appeared; the counsellor was
+**seventeen** and twenty. Both would be in their thirties now. The standing instruction in CLAUDE.md is
+not to publish personal information about living private individuals, and a promotional profile naming a
+child does not stop being that because the institution published it. *This is recorded rather than
+silently omitted so that it is not an invisible hole*: the names are in the source at the passage cited
+below, one paragraph after the chairman's message, and anyone who needs them can reach them in one step.
+The register entry is `r_0009`.
+
+## Where it stands, 2026
+
+The camp's live programme listing, read on 7 September 2026 and already advertising the 2027 season, carries
+a **gender label on every one of its sixteen programmes**, and the pattern in them is the clearest statement
+of the camp's present arrangement anywhere in this wiki.^prog27
+
+**Every junior and intermediate programme is single-gender-plus-non-binary. Every senior and leadership
+programme is mixed.**
+
+| Programme | Ages | Gender, as the camp states it |
+|---|---|---|
+| Woodsmen, 6 and 12 day | 7–12 | boy and non-binary |
+| Pioneers, 6 and 12 day | 7–12 | girl and non-binary |
+| Explorers Woodsmen | 11–12 | boy and non-binary |
+| Explorers Pioneers | 11–12 | girl and non-binary |
+| Coureurs des Bois | 13–16 | boy and non-binary |
+| Pathfinders | 13–16 | girl and non-binary |
+| Adventurers Pathfinders | 13–16 | girl and non-binary |
+| Rangers, 24 day | 15–16 | **mixed** |
+| Voyageurs Extreme, 19 day | 14–17 | **mixed** |
+| Voyageurs Ultimate, 26 day | 15–17 | **mixed** |
+| Trailblazers counsellor-in-training, 48 day | 16–17 | **mixed** |
+| Foresters canoe-guides-in-training, 48 day | 16–17 | **mixed** |
+
+Two things follow. The camp that admitted girls in 1968 is, nearly sixty years on, **still organised by
+gender below about fourteen and mixed above it** — the line falls where tripping and leadership begin, not
+where adolescence does. And **the non-binary provision is handled by pairing rather than by a third
+stream**: each single-gender section reads "and non-binary," which puts the choice to a camper as one
+between two existing sections rather than a separate one.
+
+That is a different arrangement from the **Mountaineer program** described above. **Mountaineer does not
+appear in this listing at all.** Whether it still runs, has been folded into the "and non-binary" formula,
+or is a sleeping arrangement rather than a programme and so out of scope for a registration page, is not
+established here and should not be guessed; the 2022 launch and the 2026 listing are both recorded and the
+gap between them left open.
+
+A note on names: this page says **Woodsmen** where the 2026 parent guide's mailing instructions say
+**Woodsy**, and it adds *Explorers* and *Adventurers* as qualifiers that the guide's own section list does
+not carry. The camp uses more than one vocabulary for its own sections in the same season.
+
 ## Related Articles
 
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
@@ -140,6 +373,79 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 ![Junior Girls section plaque, 1992](../../assets/images/plaques/junior-girls-1992.jpg)
 *A Junior Girls section plaque, 1992. Copyright All rights reserved by Kanawana.*
 
+**A Junior Girls section had its own director in 1978, and the camp was recruiting one in April.** Kanawana's staff bulletin of 28 April 1978 lists four posts still unfilled six weeks before the season: Waterfront Director, Sailing Director, C.I.T. Director, and **Junior Girls Section Director**.^kn78 The wiki's next-nearest evidence for a named Junior Girls section is a plaque of 1992, fourteen years later. This is a small line in a recruiting notice, but it is the camp's own paper treating a Junior Girls section as an established part of the 1978 structure with a directorship of its own — not as an experiment, and not as girls attached to a boys' camp.
+
+## Marois Day, 1932
+
+[[traditions/traditions-and-culture|Traditions and Culture]] lists "Marois Day and Marois Regatta" as
+"events connected to the nearby Marois lake area," and the songs article notes Marois Day as the 1935
+season's most anticipated event. *The Green Triangle* of **20 August 1932** describes one, and the
+description belongs in this article rather than in either of those, because Marois Day was a **mixed
+event with a mixed programme, at a boys' camp, in 1932**.^gt32
+
+The afternoon opened with a regatta for the camp's own Juveniles and Juniors — rowing and rowing with
+cox. Then: "With the arrival of **our fair visitors** about three thirty, the second part of the
+regatta, with many fair participants." The second programme is printed as a list of events, and it is
+the detail that matters:
+
+> Double canoeing **Mixed** · Double canoeing **Ladies** · Gunwale race **Men** · Crab Race **Ladies**
+> · Hurry Scurry **Mixed**
+
+Two of five events were mixed and one was women-only. Afterwards "a general swim was then enjoyed by
+all," and at supper the visitors "sat with them and then assisted in doing the dishes after the meal."
+
+**And in 1936 the paper gave the day an entire issue.** *The Green Triangle* of 13 August 1936 is headed "**Marois Issue**" and is written from beginning to end in rhyming couplets addressed to the visitors: "For many weeks and many days… we've longed to see the girls we've raved about"; "But now we gaze upon you all in finery chic and smart / And realize just why we've had a palpitating heart."^gt32b The verse is adolescent and entirely unembarrassed — "such cheeks and hair and dancing feet and smiles like toothpaste ad" — and it makes the point about frequency better than the 1932 programme does: a camp does not write a whole issue in verse for something that happens once. Three attestations now stand across 1932, 1935 and 1936.
+
+**What this adds.** This article already has girls from the Lake Marois area visiting in **1923** for
+"a mixed regatta, ball game, and dance." The 1932 account shows the same thing nine years later, with
+a name — *Marois Day* — a printed programme of events by category, and enough routine in the telling
+("everything had previously been arranged by the leaders with the aid of numerous youthful assistants")
+to read as an annual fixture rather than an occasion. It does not make Kanawana coeducational, and
+nobody in 1932 would have said it did: the visitors arrived at half past three and the camp was a
+boys' camp again by nightfall. But the distance between "boys-only" and what the camp actually did on
+an August Tuesday is worth measuring, and here it is measured in canoe races.
+
+## The 1965 staff poll
+
+The clearest evidence that Kanawana's move to coeducation came from inside the camp is not a report
+but a section newsletter. *The Chestnut*, the Pathfinder section's "Summer Summary" for **1965**,
+carries profile pages that put the same question to nearly every member of staff, and the answers can
+be counted.^ch65 Two years before the announcement, the camp was already arguing about it in print.
+
+**The Chief was for it, and said so to the campers.** Asked what he would change, A. Ross Seaman named
+"a good staff lounge and **a co-educational camp**," and when pressed further "said **boys and girls
+should be together and it would be good for the morale**." The interview is conducted by boys, printed
+in a boys' publication, and Seaman answers as though the question were ordinary.
+
+**Seven staff are recorded in favour**, in their own profiles: Seaman; **Billy**, a nineteen-year-old
+Sir George Williams student and tent-one counsellor, who "would like to see KK coeducational **for an
+experimental year**"; **Steve Mills**, eighteen, a McGill dentistry student who had first come as a
+camper ten years earlier; **Julien Tassé**; **Arnie Achtman**, seventeen and in his tenth year at
+camp; **Gavin Turley**, a Sir George Williams student in his first year; and **Jorge Jemaltka**, the
+nature lore instructor of six years' standing, who wanted the nature programme "more child centred"
+in the same breath.
+
+**Three are recorded against**, and their reasons differ. **Bill McDonald** "dislikes T-groups and
+coeducational camps" — pairing it with the sensitivity-training method, which suggests what he thought
+the change belonged to. **Doc Swaine**, thirty-five, a Lakeshore physician who came at the Chief's
+request, was against "because he thinks it is **a good idea for boys to be together**." And **Barbara
+Jack**, the twenty-one-year-old camp nurse and the only woman recorded on the question, "doesn't want
+KK to become coeducational because she thinks **we are the wrong age to associate with girls**."
+
+Ten opinions is not a referendum and *The Chestnut* is not a ballot. But the distribution is worth
+having: the director, the youngest counsellors, the longest-serving handyman and a ten-year camper all
+for it; a physician, a counsellor and the nurse against; and nobody treating the question as
+outlandish. This article already argued, from the 1935 precedent at the site Kanawana came from, that
+"the proposal came from members and staff rather than from above." The 1965 *Chestnut* is that claim
+in individual voices, two years before the decision.
+
+**And the camp was already thinking of itself as international.** A camper's own piece in the same
+issue, "Internationality at Camp" by **Billy Wenzel**: "In most tents, there are **at least three
+languages**. I think this is good because it helps campers to get along with people from different
+countries… Canadians tease people from different countries — they forget that these people are as good
+as they are. I find that an international camp is fun and adventurous and that is my main reason for
+coming to Kamp Kanawana each summer."
+
 ## Open Questions
 
 1. What do the Co-ed Camping Pilot Project reports (1967-1970, Concordia archives sub-series 12A) actually contain? Were girls at Kanawana specifically, or was the pilot across multiple YMCA camps?
@@ -148,13 +454,19 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 4. Did coeducation affect enrollment numbers? Was there resistance from parents or alumni?
 5. What was the relationship between Kanawana's coeducation and the closure of Camp Otoreke (1982)?
 6. Are there oral histories from the first cohort of girl campers — the **66 girls who registered in 1968**?
-7. [New 2026-08-14] Who was **Keith Farquharson**, and what did the pre-1965 constituency survey on coeducation actually find beyond "a very large and positive response"? And on what grounds did the Metropolitan Board decline the 1965 recommendation? The answer would turn a three-year delay from a fact into an explanation.
 7. [Resolved as a documented non-answer, 2026-07-09] How did coeducation affect the L&V Games, which had been structured around masculine competition themes (Lumbermen and Voyageurs)? Grace McMorris's own thesis (re-mined via full-PDF extraction) explicitly declines to cover this: "A study of co-ed camps, or even of Kanawana's co-ed programming, is beyond the scope of my research," and her conclusion poses the identical question as her own unanswered future-research interest. This is a genuine, acknowledged gap in the existing academic literature, not merely unresearched by this project -- closing it would require the physical archive (Concordia P145/12B07 program-report folders, 1968-1980) or oral history.
 8. [Partially resolved 2026-07-09] What were the purposes and gender assignments of Camp Becsies (12D), Camp Dorval (12E), Camp Thunderbird (12I), and the Wilderness Survival Camp (12J) in the YMCA Montreal camp network? Direct fetches of all four Concordia finding-aid pages found no gender designation stated for any of the four. Dates were confirmed/corrected: Camp Dorval's 1926-1928 window is corroborated by specific finding-aid items (director's report 1926, season report 1928); **Camp Thunderbird is now dated to 1942-1943** (a finding-aid item titled "brochure, correspondence, reports, publicity — 1942-1943"), correcting this KB's prior "mid-1970s" inference; the Wilderness Survival Camp's window is sharpened to a precise 1973-1975 (several dated finding-aid items), well after coeducation was underway camp-wide, which at least weakly suggests (not confirms) it was not boys-only. Camp Becsies' Protestant Orphans' Home connection (see [[site/camp-becsies|Camp Becsies]]) doesn't establish a specific gender designation either, though the Home itself likely served both boys and girls.
 
+9. [New 2026-08-14] [renumbered 2026-09-05: this was written as a second "7."] Who was **Keith Farquharson**, and what did the pre-1965 constituency survey on coeducation actually find beyond "a very large and positive response"? And on what grounds did the Metropolitan Board decline the 1965 recommendation? The answer would turn a three-year delay from a fact into an explanation.
+
 ## Sources
 
-- McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+- **prog27** — Camp YMCA Kanawana, "Find a Summer Camp" programme listing [src_ymcaq_kanawana_programs_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/programs, read 2026-09-07 and advertising the 2027 season; cached at `sources/cache/web-pages/ymcaquebec-kanawana-programs-2026.txt`. See [f_5612].
+
+- **cyc** — Canadian Youth Commission, *Youth & Jobs in Canada* (Toronto: The Ryerson Press, 1945) [src_cyc_youth_and_jobs_1945]. **Two search highlights only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. Cached with the sweep at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5196].
+- **ar36** — YMCA of Montreal Annual Report for the year ending 31 March 1936 [src_cache_sgw_ymca_annual_report_1936], covering the camping season of **1935**. Read for its camps section 2026-09-06 under p_441. See [f_5071], and [f_5039] on these reports' 31 March year-end.
+- **kk70** — *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`; its COED CAMPING section. Read whole 2026-09-07 under `p_491`. See [f_5677].
+- **mc** — McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec. "The Kanawana Story." https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 - YMCA Quebec. "Summer Camp Kanawana." https://www.ymcaquebec.org/en/summer-camp-kanawana (section structure and gender assignments).
 - YMCA Kamp Kanawana Facts sheet (undated institutional document, cached in project source-documents folder). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts)
@@ -164,15 +476,26 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - ^k65: *Kamp Kanawana Annual Report 1965*, YMCA of Montreal [src_ia_kanawana_report_1965], "Co-ed Camping" section. Full text cached at `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`; read end to end 2026-09-03 under p_304. See [f_2395].
 - ^ia: Kamp Kanawana season reports for 1965, 1969 and 1970, and the 1988 report *Kanawana… A Place to Grow*, all in the Concordia-digitized YMCA of Montreal fonds on Internet Archive [src_ia_kanawana_report_1965, src_ia_kanawana_report_1969, src_ia_kanawana_report_1970, src_ia_kanawana_place_to_grow_1988]
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
-- Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
+- **mtl** — Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
 - [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12D (Camp Becsies), 12E (Camp Dorval), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp) [src_concordia_12L].
 - [gz] *The Gazette* (Montreal), summer-camp feature, 18 April 1974 [src_newspapers_gazette_1974]. See [f_2248].
 - [pf] Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, 24 November 2023, item-level audio listing [src_concordia_p0145_full_findingaid_pdf]. The reel has not been heard. See [f_2273].
 - [cp] "Interview: Charles Plewman," Jay Haddad's interview of 15 August 1976 at Plewman's Haliburton rest home, printed with the notice of his death on 28 December 1981, *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 140). Movement context, not a Kanawana document; the interview is one of the CCA/ACC oral history tapes deposited at Trent University.
+- ^ch65: *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. See [f_5487].
+- ^kn78: Derek Walsh, *Ka-News '78*, Kamp Kanawana staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07. See [f_5465].
+- ^gt32: *The Green Triangle*, 13, 20 and 27 August 1932 [src_ymf_the_green_triangle_1932_08_13, src_ymf_the_green_triangle_1932_08_20, src_ymf_the_green_triangle_1932_08_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan. See [f_5497].
+- ^gt32b: *The Green Triangle*, 13 August 1936, the "Marois Issue" [src_ymf_the_green_triangle_1936_08_13]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1936-08-13.txt`; read word for word 2026-09-07 under p_482. See [f_5527].
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 - [lw] "Camping… The Last Word!" (the A.B. Thiessen exchange with editor Jay Haddad); the bilingual editorial "segregation… It Still Exists!!!"; and Sylvia Haynes, "Camping is Fun! And it is For Everyone!", *Canadian Camping* Vol. 36 No. 1 (Spring 1984), pp. 3, 8-9, 19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 - [ty] "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). Movement context, not a Kanawana document.
+- [dir75] *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — the Quebec Camping Association's "Accredited Member Camps" table and its "Grouped Index of Accredited Member Camps" [src_ia_canadian_camping_collection]. Kanawana (90 boys / 90 girls, 8-15) and Les Voyageurs de la Vérendrye (15 boys / 5 girls, 13-17) are listed separately under Derek V. Walsh, both under "Organizational Residential — Co-ed". Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol27_no2_1975january.txt`. See [f_3816], [f_2287].
+- [ar4345] YMCA of Montreal annual reports for the years ending 31 March **1944** and 31 March **1945**, camps sections [src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945]. Under the 31 March rule (f_5039) these cover the 1943 and 1944 summer seasons. Read 2026-09-06 under p_441. See [f_5075].
+- [ar4649] YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945-1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078], [f_5079].
+- [ar67] YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], the "Co-ed Camping" section. Read 2026-09-06 under p_441. See [f_5095]. *(This volume had a second source record, `src_ia_sgw_annual_report_1967`, marked "extracted" on the strength of two facts citing it rather than on a read; the volume itself had not been read through. See p_442.)*
+- [nr69] Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer" [src_ymf_news_release_1969_05_13_202501]. Read 2026-09-06 under p_451. See [f_5100].
+- [ar07fr] **Les YMCA du Quebec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the human-interest profile immediately after the chairman's and president's message. The Pathfinders canoe expedition of about 2004, the counsellor's statement of what girls-only tripping is for, and the camper's intention to become an aspirante-monitrice. Read 2026-09-08 under p_487. **Two names in that passage are not transcribed into this article**; see the note in the section above and register entry `r_0009`. See [f_5761].
+- [ar68] YMCA of Montreal annual report for the year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the "Girls Help Kanawana Gain" item. Its season is the summer of 1968 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5109].
 
 ## Research Notes
 

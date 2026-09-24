@@ -1,0 +1,219 @@
+SIR GEORGE WILLIAMS COLLEGE, THREE PRINTED VOLUMES, 1941-1943
+Camp Otoreke in the college calendar; the YMCA Fellowship students in the yearbooks
+
+Found 2026-09-07 by the accounted whole-corpus sweep of the Internet Archive
+collection `rma-concordia-publications` (16,491 text items) under p_479. None of
+the three items appears in sources.json; the collection's Kanawana/Otoreke hits
+are otherwise the YMCA fonds material this project already holds.
+
+  A. "Faculty of Arts, Science and Commerce Announcement 1941-1942"
+     identifier 1941-1942 | 171,462 chars | the college's printed calendar
+  B. "The Annual Yearbook 1942"  identifier 1942-the-annual-yearbook | 228,830
+  C. "The Annual Yearbook 1943"  identifier 1943-the-annual-yearbook | 191,404
+
+Term counts, run rather than assumed: Otoreke A=5 B=2 C=1; KANAWANA A=0 B=0 C=0;
+Fellowship A=1 B=8 C=11; Hupfield A=0 B=1 C=2; Barker A=0 B=1 C=5.
+Kanawana itself is absent from all three. What these documents carry is Otoreke
+and the Fellowship, and the Fellowship is why they matter to Kanawana.
+
+===============================================================================
+A. THE COLLEGE CALENDAR, 1941-42: CAMP OTOREKE IS AN INDEXED ENTRY
+===============================================================================
+
+Printed in the body, immediately after the paragraph on the Canadian Officers'
+Training Corps and the 110 hours of basic military training:
+
+  "COLLEGE WEEK AT CAMP OTOREKE. During the first week of September the Y.M.C.A.
+  Camp Otoreke is reserved for former and prospective students of the College and
+  members of the faculty. This activity offers students and staff an excellent
+  opportunity for informal fellowship. Registrations for the week at Camp Otoreke
+  will be accepted at the college office during the month of August, until
+  August 22nd."
+
+And twice in the index at the back:
+
+  "Camp Otoreke; college week .... 14"
+  "Otoreke, Camp .... 14"
+
+The calendar also locates the college itself: "Sir George Williams College, which
+occupies the second and third floors of the Drummond Street Y.M.C.A. building.
+Accommodation is available for 2,500 students."
+
+WHY THIS IS MORE THAN A NOTICE. A university calendar is the document a college
+uses to state what it formally offers. Camp Otoreke is in it, indexed, with a
+registration deadline and a booking channel through the college office -- not
+the Y's. The site was reserved for the college for a named week each September,
+open to alumni, prospective students and faculty. wiki/site/camp-otoreke.md has
+off-season and conference use of the site from other angles; this is the college
+end of the same arrangement, printed by the college.
+
+===============================================================================
+B. THE 1942 YEARBOOK: RON HUPFIELD, "DIRECTOR OF 'Y' CAMP OTOREKE"
+===============================================================================
+
+His graduating entry, transcribed as printed (the OCR's stray characters for the
+apostrophe-year abbreviations are regularised to ' here; nothing else is changed):
+
+  "RON HUPFIELD  ARTS
+   Activities: Y.M.C.A. Fellowship student. 'Y' handball champion, '39 & '41;
+   Pres. of Fellowship Men, '40, '41; Chairman, Relig. Educ. Council of Que.
+   '38, '39; Sec'y. North Branch 'Y' '40-'41; Mgr. Strathcona Hall, '41 & '42;
+   DIRECTOR OF 'Y' CAMP OTOREKE; Sec'y. Y.M.C.A. Ski Club; Asst. Young Men's
+   Sec'y., Central Y.M.C.A. '39-'40.
+   Future Plans: To go into full-time Y.M.C.A. secretaryship upon graduation."
+
+THIS CONTRADICTS A SENTENCE IN wiki/site/camp-otoreke.md AND THE ARTICLE MUST BE
+CORRECTED. That article's Hupfield paragraph concludes that he "does not appear
+on the Montreal staff at all until 1947 and is never placed at Otoreke by any
+source held here," and on that basis rejects a camp blog's account of "Ron and
+Valma Huppfield" running the camp during the Second World War as chronology that
+is "not attested." The yearbook attests it. Hupfield was Director of Camp
+Otoreke by his graduation in 1942, and held Association posts continuously from
+1938: Religious Education Council of Quebec chairman '38-'39, Assistant Young
+Men's Secretary at Central '39-'40, Secretary of North Branch '40-'41, Manager
+of Strathcona Hall '41-'42.
+
+BE PRECISE ABOUT WHAT WAS WRONG. The clause "never placed at Otoreke by any
+source held here" was true of the sources held when it was written and is the
+correctly hedged half. "Does not appear on the Montreal staff at all until 1947"
+is the half that overreached: it is a statement about the annual reports, which
+list appointments to branch secretaryships, generalised into a statement about
+the man. A student holding the Strathcona Hall managership and a branch
+secretaryship while enrolled at the college would not be in those lists. The
+blog's chronology was right and the annual reports were the wrong instrument for
+testing it.
+
+Also in the 1942 yearbook, among the advertisements:
+
+  "VACATION TIME IS CALLING YOU! / CAMP OTOREKE / An ideal vacation spot in the
+  heart of the Laurentians for young men, young women and young married couples.
+  Open June 6th to Sept. 7th -- Canoeing, swimming, tennis, etc. CAMPER-PLANNED
+  RECREATION. Low Rates. INFORMATION FROM YOUR LOCAL Y.M.C.A. A HOLIDAY YOU'LL
+  NEVER FORGET."
+
+Three things in six lines: the 1942 season's exact dates; the market stated as
+young men, young women AND YOUNG MARRIED COUPLES, which is a different clientele
+from a boys' camp; and the phrase "camper-planned recreation" as a selling point
+in 1942 -- twenty-four years before A. Ross Seaman described Kanawana's
+programme to the Montreal YMCA's 1966-67 annual report as a "participatory
+democracy" with campers planning their own activities. The idea has a longer
+local pedigree than this wiki has been giving it, and it was in an advertisement,
+which means it was expected to attract rather than to puzzle.
+
+===============================================================================
+C. THE 1943 YEARBOOK: THE FELLOWSHIP, FROM THE INSIDE
+===============================================================================
+
+  "GEORGE N. BARKER  ARTS
+   Activities: President S.C.M. Group '41-'42, National Council representative
+   '43, Member Clubs Com. '42.
+   Other Activities: DIR. OTOREKE SKI LODGE '43, Executive Fellowship
+   Secretaries Group '43, Member Montreal Christian Youth Com. '42-'43.
+   Former Education: Graduate Newmarket High School, graduate International
+   Accountants Society Inc.
+   Sports: All sports especially handball, skiing, canoe tripping.
+   Hobbies: Music, photography, reading, discussions.
+   Future Plans: Y.M.C.A. war services, P. Graduate studies someday, (I hope)."
+
+  "MacARTHUR PAT. GORDON  ARTS
+   Activities: S.C.M., Debating Society, Publications Committee, Military
+   Training Corps, Interyear Basketball, Volleyball.
+   Interests: In all students problems, PRACTICE OF DEMOCRATIC METHOD IN ALL
+   STUDENT AFFAIRS, extra curricular activities that help students relate
+   themselves to problems of every day living.
+   Former Education: Graduate of Kingston C.[V].I. (Honour Matriculation), two
+   years Technical School, one year Queens University.
+   Other Information: Y.M.C.A. SECRETARY IN TRAINING, developed interest in Y.
+   work in Kingston, Ontario in 1938 while preparing for a Science Course,
+   Acting Boys Work Secretary at the Kgn. Y.M.C.A. before coming to Mtl. in
+   1941. HAVE BEEN MTL. FELLOWSHIP SECRETARY FOR 2 YEARS, with Central Branch
+   doing Hi-Y & Gra-Y club work and in Rosemont Community doing Community Boys
+   Work.
+   Hobbies: Amateur radio.
+   Future Plans: Work with Y.M.C.A. War Services overseas, Y.M.C.A. civilian
+   work as soon as war situation permits."
+
+  "MURRAY B. SHANTZ  ARTS
+   Activities: Georgian basketball team, S.C.M., FELLOWSHIP STUDENT.
+   Office: President S.C.M. 1943, SEC'Y FELLOWSHIP 1942.
+   Former Education: St. Catharines Collegiate Institute.
+   Outside Interests: Looking after ....
+   Future Plans: Rather inclined to think that the government will help me to
+   decide this."
+
+And the Fellowship as a body, from the athletics and social pages of both years:
+
+  1942: "The first volleyball game of the year was played between Dr. Norris'
+  Faculty Team and Mac Singleton's Fellowship men... The Fellowship team also
+  played Oscar Pearson's Central 'Y' Business Men and Archie Crystal's Science
+  Men."
+
+  1943: "Dr. Norris and his professorial proteges started the ball bouncing this
+  year by taking the over confident Fellowship aspirants down a peg or two."
+
+  1943: "The Fellowship students were very ambitious boys this year, taking a
+  SIX WEEK COURSE IN CLASS GYMNASTICS. Each of the members of the group
+  contributed to the instruction of the course and benefitted greatly through
+  this mutual co-operation."
+
+  1943, at the athletic awards night: "Voluntary waiters for the occasion were
+  the versatile Fellowship students under the able guidance of head-waiter
+  G. N. Barker."
+
+  1943 basketball: "Players:- L. Welton, M. Shantz, S. Armstrong, G. Wood,
+  A. Ulrich, G. Higgins, R. Jonas, M. Ram, H. Rocklin, C. Gursky, and
+  N. Fouriezos, Manager."
+
+===============================================================================
+WHAT THIS SETTLES, CHECKED AGAINST THE DESTINATION FIRST
+===============================================================================
+
+1. WHAT "YMCA FELLOWSHIP SECRETARY" MEANT. Concordia's obituary of A. Ross
+   Seaman, found earlier the same day, says "Ross's history at Concordia goes
+   back to the 1940s when he attended Sir George as a YMCA Fellowship
+   Secretary," and the note written on it could only say that he was on the
+   Association's payroll and in the classroom at once. Gordon's entry says what
+   the arrangement was, in the first person and in the same years: "Y.M.C.A.
+   Secretary in training... Have been Mtl. Fellowship Secretary for 2 years,
+   with Central Branch doing Hi-Y & Gra-Y club work and in Rosemont Community
+   doing Community Boys Work." It was a paid apprenticeship in the secretaryship,
+   worked in the branches, with the college attendance as its academic half.
+
+2. THE FELLOWS WERE A COHORT, NOT A CATEGORY. They fielded a volleyball team
+   under a captain, taught each other a six-week gymnastics course, waited
+   tables at the awards night under one of their own, elected a president and a
+   secretary of their own body ("Pres. of Fellowship Men" 1940 and 1941;
+   "sec'y Fellowship 1942"), and had an "Executive Fellowship Secretaries Group"
+   by 1943.
+
+3. IT JOINS UP WITH SOMETHING THIS WIKI ALREADY HAD. wiki/people/murray-shantz.md
+   quotes the Montreal YMCA's 1943 annual report: "Murray Shantz, George Barker,
+   Gordon Patrick and Lloyd Welton complete their Training Fellowships" -- the
+   scheme for "young men looking to the Assn. secretaryship as a career." THREE
+   OF THOSE FOUR NAMES ARE IN THIS YEARBOOK as Sir George students in 1943:
+   Shantz and Barker under their own entries, Welton on the basketball team
+   beside Shantz. So the association's Training Fellowship and enrolment at Sir
+   George Williams College were the same thing seen from two ends, and the wiki
+   held both ends without the join.
+
+   A CAUTION ON THE FOURTH NAME. The annual report's "Gordon Patrick" and the
+   yearbook's "MacArthur Pat. Gordon" may well be one man with the name
+   inverted, and the biographies fit -- both are Y secretaries in training in
+   Montreal in 1943. THIS IS NOT ASSERTED. It is a plausible identification
+   needing a third document, and it is written into the wiki as a question, not
+   a fact.
+
+4. TWO NAMED OTOREKE OFFICERS THE ARCHIVE'S FINDING AID DOES NOT NAME.
+   Hupfield as Director of the camp by 1942, and Barker as "Dir. Otoreke Ski
+   Lodge '43." wiki/site/camp-otoreke.md's Ski Lodge section is built from
+   Concordia's finding aid sub-series P145/12H, which lists files -- a
+   "Memorandum proposing ski club. - 1941," correspondence, committee wants --
+   without naming who ran the thing. Barker is a name in the gap, in a year the
+   file list covers only as paper.
+
+5. AND A LINE OF DESCENT WORTH SAYING OUT LOUD. The 1943 Fellowship cohort
+   produced Murray B. Shantz, who directed Kamp Kanawana in the mid-1950s, and
+   George N. Barker, who ran the Otoreke ski lodge the year they graduated. The
+   camps were staffed by the college and the college was inside the Y's own
+   building. This is the concrete machinery behind the institutional argument in
+   wiki/connections/institutional-lineage/sgw-concordia-connection.md.

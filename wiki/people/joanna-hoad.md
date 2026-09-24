@@ -1,7 +1,7 @@
 # Joanna A.A. Hoad
 
-*Status: R3-verified | Sources: 3*
-*Last Updated: 2026-07-09 (VERIFY pass: dates cross-checked against directors-index.md's Two-Tier Era table -- 1995-2000 Kanawana tenure and Arleen Boyer as Executive Director both consistent; all claims carry inline citations; RESEARCH on her post-LCC life confirmed exhausted for a third time, advancing from draft to R3-verified per CLAUDE.md's pipeline, since R3-verified does not require resolving remaining open questions)*
+*Status: E1-reviewed | Sources: 4*
+*Last Updated: 2026-09-07 (the appointment documented, and the first woman to run the camp)*
 
 ## Overview
 
@@ -9,13 +9,37 @@ Joanna A.A. Hoad served as the on-site Director of Camp Kanawana from 1995 to 20
 
 ## Kanawana Service (1995–2000)
 
+**The camp's own association announced her appointment, and this article said for months that nothing had.**
+Until 2026-09-07 the wiki recorded her Kanawana tenure as resting on oral history alone, "not independently
+corroborated by any source found." It is in six of the YMCA of Montreal's annual reports, all of them cached
+in this project throughout. The 1995 volume:^4
+
+> "In March 1995, **Ms. Joanna Hoad was named Kamp Director**. Joanna is the **first female director in the
+> over 100 year history of the Kamp**. Under her leadership, the Kamp had a very successful 1995 summer
+> season. Camper registration and the return rate continued to be among the highest in the country."
+
+So the appointment has a month, and **she was the first woman to run the camp** — a fact this wiki did not
+hold anywhere. The association's Senior Management rosters then carry her for five more volumes: "Hoad,
+Joanna (Director; Kamp Kanawana)" in 1996 and 1997, "(Director, Kamp Kanawana)" in 1998, and "Hoad, Joanna /
+Director / Kamp Kanawana" in 1998–99 and 1999–2000.^4 The roster for 2000–2001 gives "White, Gary /
+Director, Kamp Kanawana" in her place, which dates the other end. [f_5717]
+
+*How it was missed is worth stating, and it is worse than nobody looking.* **The 1995 report was read.**
+[[people/bruce-netherwood|Bruce Netherwood]]'s article cites it and takes his 1989–1994 span from it. The
+Netherwood sentence is the *second* paragraph of that report's Kanawana section; the announcement above is
+the first. A passage was opened for one name, the name was taken, and the paragraph above it went unread.
+Two research passes then searched nine or more surfaces for Joanna Hoad and concluded nothing corroborated
+her, while the corroboration sat one paragraph above a sentence this project had already quoted.
+
 Hoad held the on-site Director role — colloquially "Chief" at the time — for Kanawana's full three-season summer operation each year from 1995 to 2000, reporting to Executive Director Arleen Boyer in a two-tier structure that split the camp's leadership into a year-round administrative role and a summer-only operational one.^1 This account comes from operator oral history; despite a formal-RALPH research pass (2026-07-05, 13+ queries) and a further direct-fetch pass once network access was restored (2026-07-07, 18 WebSearch queries plus 12 direct fetches across 9 surfaces, including a final check under the corrected spelling), no source specific to her Kanawana tenure has been found — the camp's own surviving records for this period (YMCA Quebec's website, the Concordia University Archives finding aids for the YMCA of Montreal fonds) simply don't cover 1995-2000 staffing at that level of detail.
 
 ## Lower Canada College (2000–c. 2007-2009)
 
-Lower Canada College's website, archived by the Wayback Machine, independently confirms Hoad's identity and gives the first non-oral-history documentation of her found anywhere. A February 2001 internal staff phone list records: "Hoad, Joanna — Director of Community Programs — Administration — (514) 482-9797 Ext. 204 — jaahoad."^2 Her full staff-directory profile from the same period adds detail:
+Lower Canada College's website, archived by the Wayback Machine, independently confirms Hoad's identity and gives the first non-oral-history documentation of her found anywhere. A February 2001 internal staff phone list records: "Hoad, Joanna — Director of Community Programs — Administration — [direct extension omitted] — jaahoad."^2 Her full staff-directory profile from the same period adds detail:
 
 > Ms. Joanna Hoad, Director of Community Programs. BSc (Health) Christ Church (UK); BA (Geography) Lakehead; Hons Bac. (Outdoor Recreation), Lakehead. E-mail: jaahoad@lcc.ca. Department: Administration. Years at LCC: 1.^3
+
+*On the omission.* Both LCC records carry her direct telephone extension. It is quoted in full in this project's knowledge base, where the record belongs, and left out of the article, where it does no work: the identification rests on the `jaahoad` username, not on a phone number. She is a private individual who may well be living, the number was published on a school intranet twenty-five years ago for an entirely different purpose, and reprinting it here would serve nothing this article is for. The defunct `@lcc.ca` address is kept because it is the evidence.
 
 The "jaahoad" email prefix independently confirms the "A.A." middle initials against the oral-history name. "Years at LCC: 1" as of this April 2001 snapshot places her start at LCC in 2000 — the same year her Kanawana directorship ended, suggesting a direct transition between the two roles. A staff photograph (filename dated 2004) and a photo-gallery caption naming "JHoad" (dated 2007) place her still at LCC through at least 2007; she does not appear in LCC's 2008 or 2009 staff listings, suggesting she had left by then. Her exact departure date from LCC is not documented.
 
@@ -24,17 +48,25 @@ The "jaahoad" email prefix independently confirms the "A.A." middle initials aga
 1. [Important] What was Joanna Hoad's exact departure date from Lower Canada College? Confirmed present in 2007, absent by 2009.
 2. [Important, third exhausted pass 2026-07-09] What did she do after leaving LCC? No source of any kind — web, genealogy, obituary, LinkedIn, Facebook — has been found for her post-LCC life. A third independent research pass (21 queries across WebSearch, WebFetch, Facebook, ZoomInfo, genealogy sites, and a direct Wayback Machine CDX query) found zero new facts, confirming the two prior exhausted passes (2026-07-05, 2026-07-07). The CDX query confirms only the three already-cited Wayback captures exist anywhere on lcc.ca matching "hoad." This should now be treated as genuinely exhausted for RESEARCH purposes absent new operator-supplied oral history (the same mechanism that unlocked the original LCC lead).
 3. [Nice-to-have] Where is "Christ Church (UK)" — likely Canterbury Christ Church University or Christ Church, Oxford? Her BSc (Health) is from there, per her LCC staff profile.
-4. [Nice-to-have] Is she still living? No obituary or death record has surfaced in any search to date.
+4. [Nice-to-have] Does any public record post-dating 2009 mention her at all? None has surfaced — no
+   directory, professional listing, news item, or death record. The question is asked about the
+   *record*, and deliberately not about her: she is a private individual, and whether she is alive
+   is her business and not this wiki's. It is worth asking only because the answer governs which
+   kinds of source could exist at all.
+   *(Rephrased 2026-09-06 in the E1 pass; it previously read "Is she still living?")*
 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[people/arleen-boyer|Arleen Boyer]]
+- [[history/modern-era|Kanawana in the Modern Era]]
 
 ## Sources
 
 1. Oral history, Matt Aronson (2026-07-05, name-spelling corrected 2026-07-07).
 2. Lower Canada College internal staff phone list, archived 2001-02-21. [Wayback Machine](https://web.archive.org/web/20010221151029/http://www.lcc.ca:80/Faculty/Phonelist.asp)
 3. Lower Canada College staff directory profile for Joanna Hoad, archived 2001-04-29. [Wayback Machine](https://web.archive.org/web/20010429094053/http://www.lcc.ca:80/lccscripts/SDDisp.asp?ID=jhoad)
+4. YMCA of Montreal annual reports for **1995**, **1996**, **1997**, **1998**, **1998–99**, **1999–2000** and **2000–2001** [src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1997, src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001] — the 1995 volume's Kamp Kanawana passage and the Senior Management roster in each of the others. All cached under `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_259`. *The 1996 volume's record is prefixed `src_cache_` where its neighbours are `src_ymf_`; a duplicate registered under the expected pattern on 2026-09-07 was removed the same hour — see [f_5721].* See [f_5717].
 
 ### R1 Research Notes
 
@@ -43,3 +75,24 @@ Compiled 2026-07-07 from KB facts f_1729-f_1730 (Kanawana tenure, oral history),
 ### VERIFY Notes (2026-07-09)
 
 A third RESEARCH pass (21 queries, including a direct Wayback CDX query not available/used in the prior two passes) confirmed her post-LCC life is genuinely exhausted for online sources. A VERIFY pass cross-checked this article's claims: the 1995-2000 Kanawana tenure and Executive Director Arleen Boyer both match directors-index.md's Two-Tier Era table; every substantive claim in this article carries an inline citation; no name in this article conflicts with the people index elsewhere in this KB. Advanced from draft to R3-verified — the two remaining "Important" open questions (exact LCC departure date, post-LCC life) do not block R3-verified status per CLAUDE.md's status-progression table, since they require oral history or physical archive access rather than a verification failure.
+
+### E1 REVIEW Notes (2026-09-06, p_219)
+
+Three findings, all acted on above.
+
+**A direct telephone extension for a probably-living private individual was being reprinted twice.** The
+LCC phone list and the staff-directory profile both carry it, and this article quoted both in full. The Lower Canada College phone list of February 2001 [f_1755] and the LCC staff-directory profile of
+April 2001 [f_1756] are both preserved in full in `kb/facts.json`, extension and all — the record is
+not the problem. The article now omits it, and says so rather than doing it silently. The identification never
+depended on it.
+
+**Open Question 4 asked publicly whether a private individual is alive.** Rewritten to ask about the
+record instead, which is the thing this project can actually work on and the only reason the question
+was worth asking.
+
+**Cross-links were thin in one direction only.** `directors-index.md` links here five times; this
+article linked back to nothing else. Arleen Boyer, named in the first sentence and the subject of her own
+article, and the modern-era article that covers this period, are now both linked.
+
+Every claim was checked against its note; the 1995–2000 tenure and Arleen Boyer as Executive Director
+still match `directors-index.md`'s Two-Tier Era table. Advanced R3-verified → E1-reviewed.

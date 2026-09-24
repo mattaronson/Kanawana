@@ -1,0 +1,46 @@
+KENNETH J. HOLLINSHEAD IN THE DELTA TAU DELTA GENERAL CATALOGUE, 1917
+=====================================================================
+Retrieved 2026-09-07 under p_430 (sweep the book corpus on the camp's PEOPLE, not on its name).
+Source: "The Seventh General Catalogue of the Delta Tau Delta Fraternity" (1917), Internet Archive
+item seventhgeneralca00delt, full djvu text downloaded whole (3,038,277 characters).
+
+THE ENTRY, VERBATIM (line 7189):
+
+    KENNETH  J.   HOLLINSHEAD,    Evanston,   111.      A.B.;    born  Port
+    Clinton,  Ohio,  Sept.  5,  1886;  secretary,  Boys'  Y.M.C.A.
+
+THE CHAPTER AND CLASS, from the catalogue's own index (line 68515):
+
+    Hollinshead,  K.  J.,       Epsilon  '10
+
+and the chapter roll is headed "EPSILON  ALBION" (lines 6451, 6552), so Epsilon is the ALBION
+COLLEGE chapter and he is of the class of 1910. The class-year headings bracket him: '09 opens at
+line 7152 and '10 at line 7179, with his entry at 7189.
+
+WHAT IT GIVES THIS PROJECT
+  BORN PORT CLINTON, OHIO, 5 SEPTEMBER 1886.
+  A.B., ALBION COLLEGE, CLASS OF 1910.
+  In 1917, at EVANSTON, ILLINOIS, occupation "secretary, Boys' Y.M.C.A."
+
+HOW IT FITS THE MONTREAL RECORD, WHICH IS THE POINT
+The YMCA of Montreal's 1910 annual report: "Next month Mr. K. J. HOLLINSHEAD, OF ALBION COLLEGE,
+MICHIGAN, will take up the Boys' Secretaryship, which Mr. Murray Brooks resigned to go as
+Strathcona Hall's representative in the Foreign Work in Ceylon." HE WAS THE CLASS OF 1910 AND
+TOOK THE POST THE SAME YEAR -- straight out of college, at TWENTY-THREE. The 1913 report has him
+leaving on 1 August 1913 "to take up Community Work", and this catalogue finds him four years
+later still in boys' YMCA work, at Evanston.
+
+A SECOND BOOK, NOT YET READ: "Faith made visible: the history of Floyd Starr and his school"
+(1988), which mentions "... United States Senator, and KENNETH J. HOLLINSHEAD, NOW SECRETARY OF
+THE ALBION COLLEGE ..." -- so he returned to his own college as its secretary. The snippet comes
+from Open Library search-inside and the passage around it has NOT been read.
+
+METHOD NOTE. Found by exact-phrase search on "Kenneth J. Hollinshead" at
+openlibrary.org/search/inside.json -- three hits, all of them useful, where the same endpoint
+returned 934, 346 and 190 hits of pure noise for M. G. Brooks earlier the same day. THE BOOK
+CORPUS IS AN EXCELLENT INSTRUMENT FOR AN UNCOMMON NAME AND A USELESS ONE FOR A COMMON NAME, and
+the difference is the whole skill in using it.
+
+DOWNLOAD NOTE. archive.org/download/<id>/<id>_djvu.txt RETURNED ZERO BYTES WITHOUT -L. With
+redirects followed it returns the full 3 MB. Unlike the trap recorded on 2026-09-06, this item's
+text file IS named after its identifier.

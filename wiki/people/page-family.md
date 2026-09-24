@@ -1,7 +1,7 @@
 # The Pagé Family of Saint-Sauveur
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-07 (a Pagé working at the camp, from the 1937 Green Triangle)*
 
 ## Overview
 
@@ -35,13 +35,37 @@ The original bakery building was established in 1897 by Camille Gauvreau (not 19
 
 Télesphore, the youngest son of Magloire fils, inherited the family land and settled there with his wife Clarilda Dagenais (1901–1995; her name also appears as "Claire-Ida Dagenais" in one heading on the same source, evidently an alternate spelling of the same person — the dates match). The old Pagé farmhouse "faced the mountains" near Saint-Sauveur.^4 Télesphore's own dates are now documented: 1895–1961, per "Hommage à Télesphore Pagé," *La Mémoire de la Vallée de Saint-Sauveur*, bulletin de la SHGPH, no. 81, hiver 1999.^4 This confirms he was alive through the 1960 "Pagé farm" purchase and died the following year — consistent with, though not direct proof of, his being the seller (see Open Questions).
 
-A grocery store on rue de la Gare in Saint-Sauveur was operated by **Télesphore Léonard** (1908–1997) — son of Joseph-Vital Léonard and **Léonie Pagé** (1882–1941, Magloire Pagé fils's daughter, see above), a Pagé descendant through the female line, not a second, directly-surnamed Télesphore Pagé (see Revision History). Léonard attended école du Grand-Ruisseau, worked in logging camps, was hired by Auguste Dionne, and married Marguerite Amyot in 1935 before opening the grocery.^10
+A grocery store on rue de la Gare in Saint-Sauveur was operated by **Télesphore Léonard** (1908–1997) — son of Joseph-Vital Léonard and **Léonie Pagé** (1882–1941, Magloire Pagé fils's daughter, see above), a Pagé descendant through the female line, not a second, directly-surnamed Télesphore Pagé (see Revision History). Léonard attended école du Grand-Ruisseau, worked in logging camps, was hired by Auguste Dionne, and married Marguerite Amyot in 1935 before opening the grocery.^13 *The marker on this paragraph read ^10 until 2026-09-08, which pointed the corrected sentence at the source of the error it corrects.* Note 10 is the local historical society's account, from which the grocer was first taken as a second Télesphore **Pagé**; the correction comes from note 13, the raw-HTML re-read of the municipality's own pioneer-families page, where the two men occupy adjacent sections.
 
 ## Connection to Camp Kanawana
 
 The YMCA of Montreal purchased the Saint-Sauveur property from the Page family circa 1910, establishing Camp Kanawana at its current location.^1 The 1923 *Gas Bag* lists "Pages" as a hike destination from camp, suggesting the family still had a visible presence in the area.^7
 
 In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1 McMorris's thesis (read as a full PDF for the first time, 2026-07-09) gives a fuller account: the farm — "the building just outside the camp gate" — was bought "in order to assure Kanawana many years of camping on the site without cottage country encroaching," citing the YMCA's own 1960 Kamp Kanawana Annual Report.^12 Concordia's P145/12B03 finding aid independently corroborates a distinct archival file, "KK land purchase-Pagé farm. — 1960-1961," separate from the original 1910-1927 purchase records — narrowing the transaction to that specific two-year window, though exact acreage and terms remain undocumented. It's plausible, though not directly confirmed, that today's "Farmhouse" building at Camp Kanawana (see [[site/places-and-locations|Places and Locations at Camp Kanawana]]) is this former Pagé farmhouse.
+
+### A Pagé Working at the Camp, 1936–37
+
+Everything above connects the family to Kanawana through land. One document connects a Pagé to the camp
+through work. The *Green Triangle*'s Spring Issue of 30 March 1937 breaks off its reminiscences of the 1936
+season with "By the way, a letter has just been handed to me. The Chief is supposed to have received it just
+to-day. What? It's a letter from **Mr. Pagé**," and prints it: "Mon Cher M. McDiarmid," signed "Votre devoué
+/ Alphonse Bertrand, St. Denis / **Christophe Pagé**."^14
+
+**The letter is a caricature, not a document of Pagé's own words.** It is written in stage-French dialect by
+the newsletter's staff, and its jokes are at his expense: a camper hatched a dozen eggs in his bed and the
+chicks followed him about — "De chickens she's tink I am der mudder. She's follow me around for day's I'm
+not being able for work" — and he was chased by bees after felling a tree in Junior camp. The doubled
+signature is probably part of the joke. Read as evidence of the camp's own attitudes it is period ethnic
+humour of a familiar kind, and it is quoted here as printed rather than cleaned up.
+
+Read as evidence of who was at the camp, it still establishes something this article did not have: **a man
+named Pagé was working at Kanawana in the mid-1930s** — cutting trees in Junior camp, sleeping on site
+overnight, familiar enough to the whole readership to carry a running joke, and a correspondent of the Camp
+Chief. Which Pagé is not established. No Christophe appears in the genealogy above, and the letter offers no
+other identifying detail. But a family that sold the YMCA its land in about 1910, that the camp hiked to in
+1923, and that sold it the farm next door in 1960 was also, at least once and at least in this decade,
+*employed* by it — which changes the relationship the rest of this article describes from a property
+transaction into something closer to a neighbourhood.
 
 ## The Desjardins Connection
 
@@ -81,10 +105,11 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 7. The Gas Bag, 1923 Re-union Number, Internet Archive.
 8. Commission de toponymie du Québec, "1re rue du Domaine-Pagé." URL: https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=222702
 9. Histoires de chez nous / Community Stories, "Mont Habitant." URL: https://www.histoiresdecheznous.ca/v1/pm_v2.php?id=story_line_child&fl=0&lg=Francais&ex=00000718&sl=6641&pos=1
-10. Société d'histoire et de généalogie des Pays-d'en-Haut, Saint-Sauveur local history. Jean-Baptiste Desjardins as early settler; second Télesphore Pagé (b. April 1908, grocery on rue de la Gare).
+10. Société d'histoire et de généalogie des Pays-d'en-Haut, Saint-Sauveur local history. Jean-Baptiste Desjardins as early settler. **The second half of this entry — "second Télesphore Pagé (b. April 1908, grocery on rue de la Gare)" — was superseded 2026-07-09 and is retained only to show what was withdrawn**; the grocer is Télesphore Léonard, per note 13 and the Revision History below. Still cited for the Desjardins settlement.
 11. Musée du Ski des Laurentides / Laurentian Ski Museum, Mickey Stein biographical data; Mont-Habitant Development Ltd incorporation (July 27, 1959).
 12. Grace McMorris, "An Experience That Lasts a Lifetime," MA thesis, Concordia University, 2023, p.63-64 and p.91 (read as a full PDF, 2026-07-09) [src_mcmorris_thesis]; Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 [src_concordia_12B03].
 13. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur" — direct raw-HTML fetch, 2026-07-09, bypassing an earlier AI-summarization layer that had garbled the Télesphore Pagé/Télesphore Léonard distinction [src_vss_familles_pionnieres].
+14. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`. Read word for word 2026-09-07. See [f_5592].
 
 ## Research Notes
 

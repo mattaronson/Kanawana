@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 42*
+*Status: E1-reviewed | Sources: 43*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -13,23 +13,23 @@ For alumni who have standalone articles, see: [[people/notable-alumni/stuart-mcl
 
 ### Richard "Itche" Kerr (Pip Award 2007)
 
-Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award recipient, recognized for his volunteer work with the physically challenged.^1 He is also the composer and performer of "On My Way to Kanawana," a camp song preserved on CD in the Concordia Archives (P145/SR0001, duration 4'30").^5 The song is featured in the 1993 documentary *Kamp Kanawana: The Experience that Lasts a Lifetime* by Cathy Reeves.^5
+Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award recipient, recognized for his volunteer work with the physically challenged.^12 *That marker read ^1 until 2026-09-08, pointing a 2007 claim at the 2017 Chris Adam release; note 12 is the run of Pip announcements that actually carries it.* He is also the composer and performer of "On My Way to Kanawana," a camp song preserved on CD in the Concordia Archives (P145/SR0001, duration 4'30").^5 The song is featured in the 1993 documentary *Kamp Kanawana: The Experience that Lasts a Lifetime* by Cathy Reeves.^5
 
 ### Richard Patten (1942–2021) (Pip Award 2008)
 
-Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/notable-alumni/richard-patten|Richard Patten]] for full biography.
+Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career.^2 ^17 See [[people/notable-alumni/richard-patten|Richard Patten]] for full biography.
 
 ### Bruce Netherwood (Pip Award 2011)
 
-Directed Camp Kanawana 1988–1994, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts. See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
+Directed Camp Kanawana **1989–1994**, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts.^3 See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
 
 ### John Cleghorn (Pip Award 2012)
 
-Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camper, and lifelong canoe-tripper there with his own children. See [[people/notable-alumni/john-cleghorn|John Cleghorn]] for full biography.
+Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camper, and lifelong canoe-tripper there with his own children.^18 See [[people/notable-alumni/john-cleghorn|John Cleghorn]] for full biography.
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
-Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
+Camper and staff member who died volunteering in Ghana at 25;^8 the Sam Lazarus Fund, established by his family, continues to send children to Kanawana, and a Montreal West street-hockey jamboree has been held in his memory since.^9 ^29 ^30 See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
@@ -37,11 +37,11 @@ CBC Montreal television journalist who served as fill-in anchor on the evening n
 
 ### Carol Skinner (Pip Award 2016)
 
-Counsellor and section director at Kanawana (1990–1995); later ALS advocate. See [[people/notable-alumni/carol-skinner|Carol Skinner]] (stub — sourcing is currently thin) for what's documented so far.
+Counsellor and section director at Kanawana (1990–1995); later ALS advocate.^11 See [[people/notable-alumni/carol-skinner|Carol Skinner]] (stub — sourcing is currently thin) for what's documented so far.
 
 ### Chris Adam (Pip Award 2017)
 
-Coordinator of the Sustainability Office at Dawson College; ran Kanawana's Nature Awareness program in 1980. See [[people/notable-alumni/chris-adam|Chris Adam]] for full biography.
+Coordinator of the Sustainability Office at Dawson College; ran Kanawana's Nature Awareness program in 1980.^1 ^21 ^22 ^31 ^32 See [[people/notable-alumni/chris-adam|Chris Adam]] for full biography.
 
 ### Dr. Marina Sharpe (Pip Award 2018)
 
@@ -49,7 +49,7 @@ Former camper and Kanawana staff member.^13 Educated at McGill (BA Economics, LL
 
 ### Dr. James Orbinski (Pip Award 2024)
 
-Camper and counsellor at Kanawana in the 1980s–1990s.^15 Co-founder of MSF Canada and President of the International Council of MSF (1998–2001), he accepted the 1999 Nobel Peace Prize on the organization's behalf; he is an Officer of the Order of Canada and Principal of Massey College at the University of Toronto.^6 ^15 See [[people/notable-alumni/james-orbinski|James Orbinski]] for the full biography.
+Camper and counsellor at Kanawana in the 1980s–1990s.^15 Co-founder of MSF Canada and President of the International Council of MSF (1998–2001), he accepted the 1999 Nobel Peace Prize on the organization's behalf^24; he is an Officer of the Order of Canada and Principal of Massey College at the University of Toronto.^6 ^15 See [[people/notable-alumni/james-orbinski|James Orbinski]] for the full biography.
 
 ## Other Notable Alumni
 
@@ -63,7 +63,17 @@ Grandson of Pip. Camper and counsellor 1983–1991. McGill BA 1997, RMC War Stud
 
 ### R. L. Charlton (fl. 1917–1943)
 
-Montreal marine surveyor and "ardent YMCA worker" credited by a 1951 primary source as the person who proposed the camp's name. See [[people/rl-charlton|R.L. Charlton]] for full biography.
+Montreal marine surveyor and "ardent YMCA worker" credited by a 1951 primary source as the person who proposed the camp's name.^4 See [[people/rl-charlton|R.L. Charlton]] for full biography.
+
+### John P. Kidd (d. 1962 or 1963) and J. Roby Kidd (1915–1982)
+
+Brothers, on Kanawana's staff six years apart. **John P. Kidd** was a camp leader in **1934** and by 1950
+was Executive Director of the **Canadian Citizenship Council**, writing in *Canadian Camping* about a
+wounded soldier at Caserta who recognised him and said "Kamp Kanavana… 1934." **James Robbins "Roby" Kidd**
+appears in the camp paper's account of the circus of 25 July 1940; he was then Secretary of boys' work at
+the YMCA's North Branch, and went on to direct the Canadian Association for Adult Education, advise UNESCO,
+and become founding chairman of the **International Council for Adult Education**. Neither man's Kanawana
+years appear in anything written about them. See [[people/notable-alumni/kidd-brothers|The Kidd Brothers]].
 
 ### Harold H. Potter (1914–2004)
 
@@ -80,6 +90,21 @@ Career "seeded at" Camp Kanawana per his obituary, alongside Manor Road United C
 ### George Clouston (d. 2011)
 
 "Enthusiastic volunteer and member" of the YMCA and its Kamp Kanawana "as a young man while attending West Hill High School" in Montreal.^35
+
+**The name appears in two other roles in this wiki, and nothing joins them.** A **George Clouston** sits
+on Camp Perrot's committee in its 1954 annual report and is its **Vice-Chairman** by 1958 under Gordon
+Mackey, and sat on the association's Boys' Camping Committee beside Hedley Dimock, O. N. H. Owens and Dr.
+Preston Robb — see [[site/camp-perrot|Camp Perrot]] and [[people/murray-shantz|Murray Shantz]]. And
+Kanawana's own directors' reports thank "**the Clouston Company for the loan of a drink machine**" in
+**1977** and again in **1979**, among the season's acknowledgements.^43
+
+A Montreal business family whose principal served on the camps' committees in the 1950s and whose firm
+was still lending equipment in the 1970s is an ordinary and coherent picture, and the chronology allows
+it: a West Hill High School boy of the 1930s or 1940s would be in his thirties in 1958. **But that is a
+name pattern, not an identification**, and none of the three documents mentions any other. The one
+source that might settle it — the obituary itself, which would ordinarily give a birth year and often
+lists committee service — is on Legacy.com and **403-blocked for automated fetch**; everything held here
+from it is the single sentence above. It needs an operator's browser.
 
 ### Douglas Warren Marston (c. 1918–2011)
 
@@ -142,14 +167,14 @@ establishes: a former counsellor and section leader, and a camp parent.
 4. CBMU History (R.L. Charlton).
 5. Concordia Archives P0145 finding aids.
 6. Wikipedia: Richard Patten, John Cleghorn, James Orbinski.
-7. Oral history, Matt Aronson.
+7. *Deliberately uncited.* Oral history, Matt Aronson — the operator's own recollection, which supplied several of the names above before any document did. Where it is the sole support for a claim this article says so in the text; where a document has since been found, that document is cited instead and this entry stays as the record of where the name came from.
 8. Montreal Gazette, obituary for Samuel Karl Lazarus (January 24, 2004).
 9. My Jewish Learning, "Tikkun Olam: Doing Stuff" (2014). URL: https://www.myjewishlearning.com/2014/09/08/tikkun-olam-doing-stuff/
 10. YMCA Quebec, "Terry 'Aislin' Mosher Receives YMCA Kanawana Pip Alumni Award" (2015). URL: https://www.ymcaquebec.org/en/About-Us/Newsroom/2015-en/Terry-Aislin-Mosher-Receives-YMCA-Kanawana-Pip
 11. YMCA Quebec, "Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016). URL: https://www.ymcaquebec.org/en/news/als-advocate-carol-skinner-receives-camp-ymca-kanawana
 12. YMCA Quebec, Pip Award news releases (2007–2024).
 13. YMCA Quebec, "Marina Sharpe Receives Camp YMCA Kanawana Pip Award" (2018). URL: https://www.ymcaquebec.org/en/About-Us/Newsroom/2018/Refugee-Advocate-Marina-Sharpe-Receives-Camp-YMCA
-14. Kanawana Alumni News (1980).
+14. *A lead, not a source, and deliberately uncited.* *Kanawana Alumni News*, 1980 — the issue that carried the camp's nature-awareness programme and, on the reading at Open Question 6 below, the "Chris Adams" whose identification with Chris Adam this article treats as very likely. It is named in the source list rather than cited because no copy has been read here; note 21 and note 32 carry the Dawson-side evidence instead.
 15. YMCA Quebec, "Dr. James Orbinski Receives the Camp YMCA Kanawana Pip Award" (2024). URL: https://www.ymcaquebec.org/en/about-us/newsroom/2024/dr-james-orbinski-receives-the-camp-ymca-kanawana-pip-award
 16. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), March 4, 2026.
 17. Wikipedia, "Richard Patten"; CBC obituary, Richard Patten (2021); HP McGarry obituary.
@@ -179,6 +204,7 @@ establishes: a former counsellor and section leader, and a camp parent.
 40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993
 41. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. Names Verna as counsellor and section leader at Kanawana; makes no claim about any other career. See [f_0924].
 42. Wikipedia, "Gaëtane Verna" [src_wikipedia_gaetane_verna]; Wexner Center and OSU biographies. Held only as the comparison biography for the identification question — none of them mentions Kanawana, the YMCA, or summer camp. See [f_2257].
+43. Kamp Kanawana directors' reports for **1977** [src_ia_kanawana_report_1977] and **1979** [src_ia_kanawana_report_1979], each thanking "the Clouston Company for the loan of a drink machine"; and Camp Perrot's **1954** annual report [src_ymf_1954_camp_perrot_annual_report], which lists a **George Clouston** on its committee. The three Clouston roles, and why they are not joined here, are at [f_5648].
 
 ## Research Notes
 

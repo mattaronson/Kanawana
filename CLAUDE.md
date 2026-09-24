@@ -169,6 +169,11 @@ Create stubs for newly discovered entities matching:
 - Publication or media
 - Program or activity with structure and evolution
 
+**This threshold tests whether a subject exists, not whether it needs its own article.** A subject
+over the five-fact line that is already written into an article that fits it needs no stub —
+spawning one duplicates the material. For when a topic does get its own article, and for the
+mechanics of moving it, see `project-docs/spinout-rule.md`.
+
 ### Wiki Folder Placement — Hub and Spoke
 
 Folders encode distance from Kanawana's own core identity, not just topic. Core categories sit at the wiki root (one click from `wiki/README.md`); spoke content gets an extra folder level (two clicks), in proportion to how far it actually is from Kanawana itself:

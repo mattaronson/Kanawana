@@ -1,0 +1,117 @@
+THE MONTREAL YMCA'S LINGUISTIC POLICY IN THREE DOCUMENTS, 1975 / 1979 / 1981
+and what each of them says about the camps
+
+Read closely 2026-09-07. All three were held and all three were read_state
+"skimmed"; the 1979 review was upgraded earlier the same day and this file
+covers the two either side of it.
+
+  1975  1975-09-15-the-y-and-the-montreal-fact   src_ymf_1975_09_15_the_y_and_the_montreal_fact
+        "The Y and the Montreal Fact" — the policy itself
+        TWO text files: eng 4,092 bytes, fr 4,572. THE REPO HAD CACHED ONLY THE
+        ENGLISH. Another instance of rule 50 (f_5427), found by checking the
+        item's file list before reading rather than after.
+
+  1979  1979-the-montreal-fact-75-79            src_ymf_1979_the_montreal_fact_75_79
+        "The Montreal Fact '75-'79" — the four-year review (read earlier today)
+
+  1981  1981-06-09-la-politique-linguistique    src_ymf_1981_06_09_la_politique_linguistique
+        "La politique linguistique — Deuxième étape", "RAPPORT DU COMITÉ
+        D'ORIENTATION LINGUISTIQUE", 29,233 bytes, French only, single text file
+
+-------------------------------------------------------------------------------
+1975: THE POLICY, AND ITS OWN DEADLINE
+-------------------------------------------------------------------------------
+
+  "THE Y AND THE MONTREAL FACT / APPROVED SEPTEMBER 15, 1975 BY THE METROPOLITAN
+  BOARD OF DIRECTORS / YMCA OF MONTREAL"
+
+  "OBJECTIVES. A) TO ATTAIN A POSITION BY 1979 OR EARLIER WHEREBY THE ASSOCIATION
+  IN ITS PROGRAM DELIVERY AND ITS SOCIAL MISSION IS REFLECTIVE OF THE TWO MAJOR
+  CULTURES OF THE MONTREAL MILIEU WHILE MAINTAINING A SENSITIVITY TO THE
+  ASPIRATIONS AND NEEDS OF OTHER CULTURAL SEGMENTS. B) TO CONDUCT THE PUBLIC AND
+  INTERNAL AFFAIRS OF THE ASSOCIATION IN FRENCH AND ENGLISH."
+
+THAT EXPLAINS WHY A REVIEW EXISTS IN 1979: it is the policy's own target year,
+written into the objective. The 1979 document is not a retrospective someone
+chose to write, it is a deadline coming due.
+
+Strategy under STAFFING: bilingual ability "or the willingness to gain the
+skills" made "of significant importance for positions where bilingualism is
+designated as necessary"; attention in recruitment "to their cultural
+background as future developments will require staff indigenous to the two
+predominent cultures" [sic]; a French and English language training programme to
+proceed "immediately on a priority basis"; and — with a date on it —
+"EFFECTIVE JUNE 1976 ALL PUBLICATIONS DIRECTED TO ASSOCIATION WIDE GROUPS OF
+LAYMEN AND STAFF MUST BE PUBLISHED IN BOTH LANGUAGES."
+
+NULL RESULT, RUN IN BOTH LANGUAGES: "camp" occurs ZERO times in the English text
+and ZERO in the French. Kanawana, Otoreke and Weredale likewise. THE POLICY THAT
+GOVERNED THE CAMPS FOR THE NEXT DECADE DOES NOT MENTION CAMPS AT ALL. It is a
+staffing, governance, planning and public-image document. The camps appear only
+when the Association starts reporting on the policy, four years later.
+
+-------------------------------------------------------------------------------
+1981: THE SECOND STAGE, AND THE ONLY HARD NUMBERS ANY OF THE THREE CARRY
+-------------------------------------------------------------------------------
+
+The camp paragraph is reprinted from 1979 essentially word for word in French:
+
+  "Les camps de vacances du YMCA se veulent aussi représentatifs des milieux à
+  desservir. Ainsi, le camp Otereke [sic], à Sainte-Agathe, permet à des
+  familles francophones à faible revenu de passer de belles vacances en plein
+  air. Le camp Weredale, au lac l'Achigan, se donne une vocation précise: être
+  un camp de vacances français capable aussi de desservir les participants
+  anglophones."
+
+And the camps appear again in the report's summary of what the policy achieved:
+
+  "Le YMCA a ouvert de nouvelles succursales en milieux francophone ou bilingue.
+  a) Succursales Rive-Sud, Saint-Laurent, Hochelaga-Maisonneuve, Pointe
+  Saint-Charles. b) CAMPS DE VACANCES: WEREDALE, OTOREKE."
+
+So by 1981 the two camps are listed, beside four branches, as the Association's
+francophone and bilingual establishments. KANAWANA IS AGAIN ABSENT — "Kanawana"
+occurs ZERO times in the 29,233-character document.
+
+THE NUMBERS, which neither of the other two documents gives:
+
+  Francophone share of participants   28% (1975)  →  35% (1977)  →  50%
+  Programmes delivered in French      36%
+  Programmes delivered in English     37%
+  Programmes delivered bilingually    27%
+     stated aim: "50% en anglais, 50% en français"
+  Advertisements English-only         83% (1975)  →  12% (1979)
+  Internal notices English-only       97% (1975)  →  35% (1979)
+
+The candour is worth noting in a document of this kind. The section carrying the
+programme figures is headed "LES PROGRAMMES NE RÉPONDENT PAS COMPLÈTEMENT À NOS
+ATTENTES" — the programmes do not fully meet our expectations — and the report
+sets the gap out rather than burying it: half the participants are francophone
+and about a third of the programmes are in French.
+
+Also new since 1979: a Pointe Saint-Charles branch in the list, and
+Hochelaga-Maisonneuve now described as "une succursale ENTIÈREMENT FRANCOPHONE."
+Signage is being done "selon les règlements émis par le gouvernement (Charte de
+la langue française)" — the Charter named directly. And a consequence the
+Association is pleased with: "d'autres organismes d'expression française font
+appel à notre expertise," with invitations to government consultations alongside
+the Ville de Montréal, Centraide and the Fédération des centres communautaires.
+
+-------------------------------------------------------------------------------
+WHAT THE THREE TOGETHER SETTLE, AND WHAT THEY DO NOT
+-------------------------------------------------------------------------------
+
+SETTLED: the policy has a date (15 September 1975), a board (the Metropolitan
+Board of Directors), a deadline written into its own objective (1979), a
+publications deadline (June 1976), a measurable outcome (28% → 50% francophone
+participation), and an admitted shortfall (36% of programmes in French).
+
+NOT SETTLED, AND NOT TO BE INFERRED: why Kanawana is absent from all three.
+The 1975 policy names no camp at all, so its absence there means nothing. Its
+absence from the 1979 and 1981 achievement lists is consistent with several
+readings — that Kanawana was already anglophone and stayed so; that it was not
+thought to need changing; that its francophone work (the 1969 "Living-in-French"
+section, recorded in traditions/french-language-camping.md) predated the policy
+and was not counted as an achievement of it. NOTHING HERE CHOOSES BETWEEN THOSE.
+What the documents establish is only where the Association pointed when asked
+what it had done, and it pointed at Otoreke and Weredale.

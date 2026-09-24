@@ -1,0 +1,119 @@
+THE RELIGIOUS EDUCATION COUNCIL OF THE PROVINCE OF QUEBEC, YEAR BY YEAR
+Officers as printed in the International Council of Religious Education's
+yearbooks, read 2026-09-07 from two BOUND-RUN volumes on the Internet Archive.
+
+=====================================================================
+WHY THIS RE-READ HAPPENED, AND WHAT IT CORRECTS
+=====================================================================
+
+On 2026-09-06 this project downloaded five of these yearbooks, scanned them
+for "Harold C. Cross", read the officer block around each hit, and concluded
+that he was "in that body's leadership from at least 1933 to at least 1945" --
+"a twelve-year office" where the article had previously seen a ten-year hole.
+
+TWO OF THE ITEMS ARE NOT SINGLE YEARBOOKS. They are bound runs of six and four
+years each, and the earlier pass found the name where it occurred without
+establishing which bound year each occurrence sat in. One item's title page
+says 1933, and the Cross listing inside it was taken for 1933. IT IS NOT.
+
+  yearbook0000inte_t6c3  binds SIX yearbooks: 1933, 1934, 1935, 1936, 1937, 1938
+  yearbook0000inte_y7m7  binds FOUR:          1939, 1940, 1941, 1942
+      (this is the volume the earlier pass registered, deliberately, as
+       src_icre_yearbook_undated because it could find no year on it. Its
+       running heads carry all four.)
+
+Each Quebec block below is placed by the dated year-marks that bracket it in
+the same text, and the sequence is monotonic across all ten blocks.
+
+=====================================================================
+THE PRESIDENCY, 1933-1938  (from t6c3)
+=====================================================================
+
+1933  President--SYDNEY COMBER, 4206 Old Orchard Ave., N.D.G., Montreal
+      Vice-President--Arthur Webster, 521 Victoria Ave., Westmount
+      Secretary--James A. Reid, 5331 Queen Mary Rd., Montreal
+      Honorary Treasurer--J. P. Copland, 4307 Montrose Ave., Westmount
+
+1934  President--SYDNEY COMBER, 4206 Old Orchard Ave., N.D.G., Montreal
+      Vice-President--Arthur Webster, 521 Victoria Ave., Westmount
+      Secretary--James A. Reid, 18 Milroy Ave., Valois
+      Honorary Treasurer--J. P. Copland, 1481 Fort St., Montreal
+
+1935  President--HAROLD C. CROSS, Y. M. C. A., Drummond St., Montreal
+      Vice-President--James J. Reid, 18 Milroy Ave., Valois, P.Q.
+      Secretary--Milly Brisbane, 452 Strathcona Ave., Westmount
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+
+1936  President--HAROLD C. CROSS, 1441 Drummond St., Montreal
+      Vice-President--Rev. A. M. Hill, Ph.D., 297 Beatty Ave., Verdun, Que.
+      Secretary--James A. Reid, 19 Mt. Pleasant Ave., Valois, Que.
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+
+1937  President--DR. A. M. HILL, 297 Beatty Ave., Verdun, Que.
+      Secretary--James A. Reid, 19 Mt. Pleasant Ave., Valois, Que.
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+      General Secretary--Rev. David I. Forsyth
+
+1938  President--DR. A. M. HILL, 299 Beatty Ave., Verdun
+      Secretary--Gordon K. Hedges, 640 Moffat Ave., Verdun
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+      General Secretary--(Vacant)
+      Secretary of Girls' Work--Nina A. Yeomans
+      Secretary of Boys' Work--C. Don Burton
+
+SO THE PRESIDENCY IS 1935 AND 1936, NOT 1933 AND 1936. In 1933 and 1934 the
+president was Sydney Comber. And Cross was succeeded by his own
+vice-president: A. M. Hill sits under him in 1936 and holds the chair in 1937
+and 1938.
+
+=====================================================================
+THE GAP, 1939-1941, AND IT IS CONTROLLED  (from y7m7)
+=====================================================================
+
+1939  Quebec block present. NO CROSS.
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+      Secretary of Girls' Work--Nina A. Yeomans
+      Secretary of Boys' Work--C. Don Burton
+      Honorary Secretary of Children's Work--Janet M. Doxsey
+
+1940  Quebec block present. NO CROSS.
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+
+1941  Quebec block present. NO CROSS.
+      Honorary Treasurer--J. P. Copland, 389 St. Paul St. W., Montreal
+      General Secretary--(Vacant)
+      Secretary of Girls' Work--Nina A. Yeomans
+      Secretary of Boys' Work--C. Don Burton
+
+1942  President--Rev. E. Leslie Pidgeon, 3407 Ontario Ave., Montreal
+      Recording Secretary--Miss Jean Ferguson
+      CORRESPONDING SECRETARY--MR. HAROLD C. CROSS
+      Honorary Treasurer--Mr. J. P. Copland, 389 St. Paul St., Montreal
+      General Secretary--Vacant
+      Council address: 406-07 Coronation Bldg., Montreal
+
+THE NULL IS CONTROLLED BY J. P. COPLAND, who is Honorary Treasurer in every
+one of the ten blocks above, 1933 through 1942, at four successive addresses.
+If the Quebec block were being missed or garbled in 1939-41 he would be
+missing too. He is not. Cross is simply not among the officers in those years.
+
+=====================================================================
+WHAT THE CAREER ACTUALLY LOOKS LIKE
+=====================================================================
+
+  1935-1936   President
+  1937-1941   not an officer
+  1942-1945   Corresponding Secretary
+              (1943 and 1945 from the separate single-year items already read
+              here: under President Dr. E. Leslie Pidgeon in 1943 and Rev.
+              Roland Bodger in 1945, Cross at Central Y.M.C.A., 1441 Drummond)
+
+TWO SPELLS WITH A FIVE-YEAR GAP, not a continuous twelve-year office. The gap
+is worth something on its own: he leaves the chair in 1937, in the years the
+Year Book has him as a Montreal branch secretary, and comes back in 1942 in
+the junior post, in the years he was also Acting General Secretary of the
+association while Beaton was at the war.
+
+NO OCCURRENCE OF "KANAWANA" IN ANY OF THE TEN YEARBOOKS. Checked in all six
+bound years of t6c3, all four of y7m7, and the separate 1942, 1943 and 1945
+items. This matches what the 2026-09-06 read found for 1936 and extends it.

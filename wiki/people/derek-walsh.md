@@ -1,11 +1,11 @@
 # Derek Walsh
 
-*Status: draft | Sources: 14*
-*Last Updated: 2026-09-05*
+*Status: draft | Sources: 20*
+*Last Updated: 2026-09-08 (nineteen years of camping by 1977, and a provincial presidency doing the camp's publicity)*
 
 ## Overview
 
-**Derek V. Walsh** directed Kamp Kanawana from 1974 to February 1979.^1 He had been a Kanawana camper "many years ago," came back to the staff in 1973 as programme co-ordinator, and spent the same years holding national office in Canadian camping — Vice-President of the Canadian Camping Association from 1974 to 1981, President of the Quebec Camping Association's English section, and chairman of the CCA's Public Relations and Promotion Committee.^2 ^3
+**Derek V. Walsh** directed Kamp Kanawana from 1974 to February 1979.^1 He had been a Kanawana camper "many years ago," came back to the staff in 1973 as programme co-ordinator, left in February 1979 for the Victoria YM-YWCA, and spent the Kanawana years holding national office in Canadian camping — Vice-President of the Canadian Camping Association from 1974 to 1981, President of the Quebec Camping Association's English section, and chairman of the CCA's Public Relations and Promotion Committee.^2 ^3
 
 **A RALPH cycle was run on 5 September 2026 and came back almost entirely empty.** Searches for an obituary or biographical record under both "Derek Walsh" and "Derek V. Walsh", against Canadian Camping Association, Quebec camping and Montreal YMCA contexts, returned no obituary, no birth or death date, and nothing at all about his life before 1973 or after 1981 [f_4827]. **That is a different claim from "he cannot be found."** The surfaces tried were general web search only; obituary aggregators searched by name alone, Concordia's YMCA fonds for personnel files, the CCA's own membership records, and the camp's living alumni network are all untried.
 
@@ -25,7 +25,19 @@ The same directory lists a second camp under his name — **Les Voyageurs de la 
 
 The directory also fills a gap in the table above. The Quebec Camping Association English Section's officer list for January 1975 gives "**Mr. Derek Walsh — Publicity and Public Relations**" among its committee chairmen, under President Mrs. Val Willis.^6 So the presidency recorded here as held "by Oct 1976" followed a committee chairmanship in exactly the portfolio he would later chair nationally for the CCA — the same subject, three times over, from provincial committee to provincial presidency to national chairman, ending in the 1981 pamphlet *How to Promote Your Camp*.
 
-One other name on that list is worth noting: **A. Ross Seaman**, Kanawana's director from 1959 to 1967, sits as an Honorary Member of the same section in the same year.^6 Two Kanawana directors, a generation apart, on one provincial executive.
+One other name on that list is worth noting: **A. Ross Seaman**, Kanawana's director from 1959 to 1968, sits as an Honorary Member of the same section in the same year.^6 Two Kanawana directors, a generation apart, on one provincial executive.
+
+**And he came back to the camp, a decade after leaving it.** The Montreal YMCA's 1989 annual report gives
+Kanawana its own board in the **Branch Boards of Management** list, where the camp is absent for 1985 through
+1988, and Walsh is on that board of ten, beside Chris Adam,
+[[people/maureen-mcbride|Maureen McBride]], Tom Snabl, both Netherwoods and the association's Director of
+Operations.^19 He directed the camp from **1974 to 1979**; this is 1989. It is the earliest instance in this
+project of a former Kanawana director returning as a volunteer, a pattern later documented with Morgan Carter,
+Arleen Boyer, Roxanne Martel and Matt Hamerman. The board's run in that list, 1989 to 1996 and again from 2002, is at
+[[history/centennial-1994|The 1994 Centennial]], which also sets out what came before it: the camp held branch
+standing from at least 1964 and answered to the **Camping Branch's** Board of Management through the 1970s —
+the board Walsh himself thanked, under **Chairman Phil Davey**, in his own 1977 and 1978 season reports. So his
+1989 seat is a return to a body he had reported to as director. [f_5777] [f_5794]
 
 ## The national career
 
@@ -39,6 +51,8 @@ Almost none of this is visible from Kanawana's own records. It comes from *Canad
 | **25–27 Mar 1977** | Presides over the English section's **40th anniversary conference**, receiving telegrams "from several spots around the world"^8 |
 | **1977–79** | **Chairman, CCA Public Relations and Promotion Committee** — the earliest date the chairmanship can now be given, from the association's own lists of committee chairmen for **1977-78** and again for **1978-79**, where he is the only Quebec name among fifteen committees, projects and task forces^8 |
 | **by Oct 1978** | Succeeded as QCA president by **Dr. Ken R. Willis**, which closes the two-year term at roughly spring 1976 – spring 1978; **Miss Frances Kelly** continues as the section's secretary^8 |
+| **5 Feb 1979** | **Resigns from the Montreal YMCA.** A "Special Ka-News" to the staff that day: "this, my last letter to you as director of Kamp Kanawana. As of today's date, I have resigned from the Montreal YMCA. I will be assuming a similar post with the **Victoria YM-YWCA** in mid-March." He counts "**my six years at K.K.**", which runs from his 1973 programme-co-ordinator season^15 |
+| **May 1979** | Confirmed in place at the far end: the camp's own newsletter reports that **Dave Paltiel left for Victoria, B.C. to work for Derek at Camp Thunderbird as Waterfront Director**^16 |
 | **25 May 1979** | Installed as **CCA Vice-President** under President Clifford Labbett, at the association's annual meeting at **Acadia University, Wolfville, Nova Scotia**, for the 1979-81 term; the same meeting heard Dr Ken Willis, his successor as QCA president, invite the association to hold its next annual meeting **in Quebec in the spring of 1980**^2 ^9 |
 | **1980** | CCA committees: Legislation; Public Relations and Promotion^2 |
 | **Dec 1980** | Agrees "to stay on as the representative of Quebec and Ontario until May, 1981"^2 |
@@ -67,11 +81,51 @@ The citation for that award is the fullest single summary of him anywhere: it th
 
 A camp director whose own 1977 report worried about promotion was, in the same years, the national association's authority on it.
 
+## Nineteen years of camping, and what the provincial presidency bought the camp
+
+The 1977 director's report dates his career from inside it. Praising that summer's staff, he writes: "**in my
+19 years of camping**, I don't believe I've seen a finer and more dedicated crew of people working at any
+camp."^20 Counted back from 1977 that puts his start in organised camping at about **1958**, sixteen years
+before the Kanawana directorship this article runs from and fifteen before the 1973 return as programme
+co-ordinator. It says nothing about where those years were spent, and the "camper many years ago" of the
+overview is presumably inside them. [f_5819]
+
+The same report shows the Quebec Camping Association presidency working in both directions. It cost the camp
+office real hours: the extra work of the renovations "**as well as the Camp Director being President of the
+Q.C.A.** substantially increased" Olga Hall's load, in the report's own words. And it paid the camp back in
+coverage that would otherwise have had to be bought. Under promotion: "**on behalf of the Q.C.A. I was
+interviewed on CFCF, CJAD, CBC and CJFM radio stations**", and "**feature articles appeared in the *Montreal
+Star* and *Gazette*** for which I was interviewed on behalf of the Q.C.A."^20 [f_5825] Four radio stations —
+CFCF, CJAD, CBC and CJFM — and both English dailies in one season, in a year when the camp's own paid
+advertising was down to 4% of how new families heard of it, against 14.9% in 1974. The publicity portfolio he
+had chaired provincially since 1975 and would chair nationally for the CCA was not an outside interest; it was
+the camp's press operation.
+
+**And the assistant directorship goes back a year.** [[history/between-centennials|Between Centennials]] dates
+Kerry Finucan's assistant directorship from the 1978 report. He held it in 1977, and Walsh devotes a paragraph
+to him: "under Kerry's excellent direction, **a more flexible and relevant system of interest groups** was
+successfully carried out. His mature, energetic and innovative approach... made him a real asset to the Kamp
+and myself... Kanawana will be truly fortunate to have him back in '78."^20 [f_5819] The report also measures
+the staff Walsh was writing about: average age **20.7 years**, **66% of them former campers**, and two
+dismissed during the season for behavioural reasons, neither named.
+
+## His own voice, six weeks before a season (1978)
+
+The camp's pre-season staff bulletin of **28 April 1978** is the only document in this project written by Walsh to his own staff, and it is worth reading as a portrait of what a Kanawana director was doing in late April.^17 He signs it "Adios, Derek," calls the season "K.K. '78," addresses the staff as "gang," and hopes for "a large group of **Kanawanitans** present" at a workshop — a demonym this wiki has nowhere else, alongside the "old Kanawanians" of 1938.
+
+**He was buying outside training for seasonal staff.** The Quebec Camping Association was running a one-day counsellors' workshop on **Saturday 13 May 1978 at McGill**, in the Sir Arthur Currie Gym, covering "song leading, games, dramatics, attitudes for rainy days, aquatics, nature, folk dancing, campfires, etc." Walsh's line is unambiguous: "**Kamp Kanawana is prepared to sponsor you**, so please let me know if you are able to attend," with registrations through him or **Mrs. Hall** by 4 May to catch the advance rate — **Olga Hall**, the camp secretary, whom a YMCA news release of October 1973 gives at the camp office number, and who was already reporting the camp's booking figures to the association's newsletter in **March 1969**^18 and whom the 1977 director's report thanks by name for absorbing the extra work of the renovations and of Walsh's own presidency of the Quebec Camping Association. He points staff who happened to be in Toronto at the Ontario Camping Association's parallel programme on 6 May. That session list is also a direct statement of what the Quebec association thought a counsellor needed in 1978, and its first four items are cultural rather than technical.
+
+**Four directorships were still open six weeks out.** Under "Positions Still Open": **Waterfront Director, Sailing Director, C.I.T. Director, Junior Girls Section Director** — "if perchance you know of someone who may be interested, just have them give me a call." Some staff had not returned their staff agreements. Read as structure rather than as a staffing problem, that list attests a Junior Girls section with its own director in 1978, sailing as a programme with a director distinct from the waterfront, and a CIT programme with a director. **Kerry Finucan** was returning from Nova Scotia to start full-time at the camp on **4 May**, and was co-planning pre-camp training with Walsh, which makes Finucan the season's second-in-command by function whatever the title was.
+
+**The camp office was in the Downtown Y, and the building had just burned.** From the bulletin's staff-news column: "The Downtown Y had a fire recently, damage was mainly on the 2nd and 3rd floors — **the camp office is OK except for the smell**." The incidental half of that sentence is the useful one. Kanawana's year-round administrative office sat inside the Downtown YMCA building in 1978, which is where the camp's records were kept and where a fire on the floors above them came close. The fire is undated beyond "recently" and its cause is not given; anyone later accounting for holes in Kanawana's 1970s paper record should know about it.
+
+**Three documents are named that this project does not hold**: "the Kanawana crest and interpretation," enclosed with the bulletin, which would be the only written explanation of the crest anywhere in this research; a **Kamper Information Booklet** sent to campers and carrying the staff medical form; and the Green Triangle promised for the following week. The bulletin closes with a column of staff news — jobs, studies, a wedding date — about named individuals who are probably living. It is recorded here as present, and described, rather than reproduced.
+
 ## Open Questions
 
 1. [Critical] **Who was he, outside camping?** The 2026 RALPH cycle found no obituary, no birth or death date, no family and no occupation away from the YMCA — for a man who ran Kanawana for five years and held national office for seven [f_4827]. This absorbs the earlier separate question on biographical basics. **The untried routes are the ones likely to work, and none of them is a search engine:** obituary aggregators searched by name alone, Concordia's YMCA of Montreal fonds for personnel files, the CCA's own membership records, and the camp's living alumni network. The one new trace is a CBC photo credit that has not been read [f_4826].
 
-2. [Important] **Where did he go after February 1979?** The May 1979 issue lists "Derek Walsh (Camp Thunderbird, Victoria, B.C.)" among Canadians leading sessions at an international event, with the public-relations brief that matches his CCA role.^2 But December 1980 calls him "Derek Walsh of Montreal." Either he went west and came back, the association's copy lagged, or these are two men. Note that the Montreal YMCA ran its own Camp Thunderbird — sub-series P0145/12I in the Concordia fonds, a two-year wartime operation of 1942-43 — which is a different camp and an easy conflation. **Two things added 2026-09-04 from the word-for-word read.** The British Columbia camp is real and is a Y camp: *Canadian Camping* describes "**Camp Thunderbird**, operated by the **Victoria YM-YWCA** on Southern Vancouver Island, a **1,300 acre site**" in December 1979, which makes a move between Y camps professionally coherent rather than merely possible.^9 But against it, the association's own president wrote in the same issue that "**Derek Walsh, the Vice-President, is a past-president of Q.C.A. and will retain the Chairmanship of the C.C.A. Public Relations and Promotions Committee, a position he has held for the past two years**" — describing him by his Quebec offices and saying nothing of a move west.^9 **And a third Quebec attribution, from the president herself (added 2026-09-04, issue 141).** In Spring 1982 the national president, **Jocelyn Palm**, listed every committee and task force chairman by province in her President's Perspective, and gave him as "**Derek Walsh (Qué.)**".^11 That is the national president assigning her own volunteers, which is about as authoritative an attribution of province as the association produces. The tally is now **one 1979 line placing him at a British Columbia camp against three later sources placing him in Quebec** — May 1979 (B.C.), against December 1979 (described by his Quebec offices), December 1980 ("Derek Walsh of Montreal"), and Spring 1982 ("Qué."). The likeliest readings are a short secondment or a visiting role at Camp Thunderbird, or an error in the 1979 copy. The question stays open, but it is no longer evenly balanced.
+2. ~~[Important] Where did he go after February 1979?~~ **[Resolved 2026-09-06 — he went to Victoria, and he said so himself.]** The camp's own newsletter answers it twice, from both ends of the country. Walsh's resignation letter of **5 February 1979** tells the Kanawana staff he has resigned from the Montreal YMCA and will be "assuming a similar post with the **Victoria YM-YWCA** in mid-March."^15 Three months later the newsletter records **Dave Paltiel** leaving "for Victoria, B.C. to work for Derek at **Camp Thunderbird** as Waterfront Director" — a Kanawana staff member following him west, which is not something a lagging line of association copy produces.^16 **So the tally below inverts.** The single 1979 line placing him at a British Columbia camp was right, and it is the three later Quebec attributions that need explaining. The plainest reading is that the CCA went on listing a national officer by the province whose offices he had held; that does not dispose of Jocelyn Palm's "**Derek Walsh (Qué.)**" in Spring 1982, which is a national president assigning her own volunteers three years after the move. Whether he came back east is the half that stays open. The reasoning as it stood before the newsletters were read is kept below, since it is what the *Canadian Camping* record on its own supports. [SUPERSEDED 2026-09-06: the balance struck in the next sentences was struck without the resignation letter, and it came down the wrong way.] The May 1979 issue lists "Derek Walsh (Camp Thunderbird, Victoria, B.C.)" among Canadians leading sessions at an international event, with the public-relations brief that matches his CCA role.^2 But December 1980 calls him "Derek Walsh of Montreal." Either he went west and came back, the association's copy lagged, or these are two men. Note that the Montreal YMCA ran its own Camp Thunderbird — sub-series P0145/12I in the Concordia fonds, a two-year wartime operation of 1942-43 — which is a different camp and an easy conflation. **Two things added 2026-09-04 from the word-for-word read.** The British Columbia camp is real and is a Y camp: *Canadian Camping* describes "**Camp Thunderbird**, operated by the **Victoria YM-YWCA** on Southern Vancouver Island, a **1,300 acre site**" in December 1979, which makes a move between Y camps professionally coherent rather than merely possible.^9 But against it, the association's own president wrote in the same issue that "**Derek Walsh, the Vice-President, is a past-president of Q.C.A. and will retain the Chairmanship of the C.C.A. Public Relations and Promotions Committee, a position he has held for the past two years**" — describing him by his Quebec offices and saying nothing of a move west.^9 **And a third Quebec attribution, from the president herself (added 2026-09-04, issue 141).** In Spring 1982 the national president, **Jocelyn Palm**, listed every committee and task force chairman by province in her President's Perspective, and gave him as "**Derek Walsh (Qué.)**".^11 That is the national president assigning her own volunteers, which is about as authoritative an attribution of province as the association produces. The tally is now **one 1979 line placing him at a British Columbia camp against three later sources placing him in Quebec** — May 1979 (B.C.), against December 1979 (described by his Quebec offices), December 1980 ("Derek Walsh of Montreal"), and Spring 1982 ("Qué."). The likeliest readings are a short secondment or a visiting role at Camp Thunderbird, or an error in the 1979 copy. The question stays open, but it is no longer evenly balanced.
 3. ~~[Nice-to-have] What did his 1982 magazine feasibility study conclude, and did *Canadian Camping* change as a result?~~ **[Resolved 2026-09-04 by the word-for-word read, issue 142.]** Both halves answered — see "The magazine study, and what came of it" above.
 4. [Nice-to-have] Which camps were the "many years of experience in other camps... from camper, through C.I.T. to camp director" that Robitaille credits him with in 1973?
 
@@ -81,6 +135,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 - [[people/leo-robitaille|Leo J. Robitaille]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]] — the body he was president of the English Section of
 
 ## Sources
 
@@ -98,7 +153,13 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 12. Derek Walsh, "Magazine Task Force," and Jay Haddad, "Newsletter Committee," in the CCA/ACC Annual Report 1981, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), p. 11 [src_ia_canadian_camping_collection]. Found by the same read (issue 142).
 13. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 4 and 10 [src_ia_canadian_camping_collection]. Found by the same read (issue 144).
 14. CBC News, "Stuart McLean fund to help kids in need attend Quebec camp" (2017) [src_cbc_mclean_fund_2017]. **Not read** — cbc.ca returns HTTP 403 to this project's fetch tool. A search-result summary indicates Derek Walsh is credited for the article's photographs of Stuart McLean at camp. See [f_4826], [f_4827].
+15. Derek V. Walsh, "Special Ka-News," 5 February 1979 [src_ymf_ka_news_1979_02_05], YMCA of Montreal fonds. His own resignation letter to the Kanawana staff. Read in full 2026-09-06 under p_418. See [f_5219].
+16. Kevin Forster and Dave Twynam, "Ka-News '79," May 1979 [src_ymf_ka_news_1979_05], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5220].
+17. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07, having been held since 2026-08-25 in a "skimmed" read state. The item also carries a French half (*Nouvelles-KA*), a translation of the same bulletin rather than a second document, surfaced by the rescan for multi-text items.
+18. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 
+19. YMCA of Montreal annual report **1989** [src_ymf_annual_report_1989_202301], the *Branch Boards of Management* page, with the camp's own directors' reports for **1977** and **1978** [src_ia_kanawana_report_1977, src_ia_kanawana_report_1978] for the Camping Branch board and Chairman Phil Davey, with the 1985-1988 volumes checked for the camp's absence from the same list [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988]. Read 2026-09-08 under p_487. See [f_5777].
+20. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its STAFF, PROMOTION and MONTREAL OFFICE sections and its staff list. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read against the document's own heading list 2026-09-08 under p_441. See [f_5819] and [f_5825].
 ## Research Notes
 
 <!-- Spawned 2026-09-04 from the Canadian Camping re-read (p_304). Enters at STUB

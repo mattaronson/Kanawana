@@ -1,0 +1,49 @@
+Commission de toponymie du Quebec -- fiche no_seq=393822 (camp-de-l-avenir)
+https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=393822
+Fetched 2026-09-06 (p_423). Text extracted from the served HTML.
+------------------------------------------------------------
+Camp de l'Avenir - Sainte-Anne-des-Lacs (Municipalité de paroisse)
+Passer au contenu
+Commission de toponymie
+Accueil
+Nous joindre
+Plan du site
+Retour aux résultats
+Version imprimable
+Camp de l'Avenir
+Origine et signification
+Ce camp de vacances, situé sur la rive sud du lac Ouimet, fut fondé en 1964 par les clercs de Saint-Viateur.
+Date d'officialisation
+2005-12-08
+Spécifique
+Avenir
+Générique (avec ou sans particules de liaison)
+Camp de l'
+Type d'entité
+Camp
+Région administrative
+Laurentides
+Municipalité régionale de comté (MRC)
+Les Pays-d'en-Haut
+Municipalité
+Sainte-Anne-des-Lacs (Municipalité de paroisse)
+Code géographique de la municipalité
+77035
+Latitude               Longitude (coord. sexagésimales)
+45° 50' 08"
+-74° 09' 32"
+Latitude               Longitude (coord. décimales)
+45.83556
+-74.15889
+Carte topographique 1/50 000
+31G16
+Carte topographique 1/20 000
+31G16 -0102
+Nouvelle recherche
+Date de la dernière mise à jour : 7 octobre 2020
+-->
+Déclaration de services aux citoyens
+Accès à l’information
+Politique de confidentialité
+Accessibilité
+© Gouvernement du Québec, 2024

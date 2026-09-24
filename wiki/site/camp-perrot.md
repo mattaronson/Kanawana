@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-09-07 (1955-57 filled in from the association's reports, and the decline re-dated)*
 
 ## Overview
 
@@ -13,21 +13,347 @@ Camp Perrot's exact site is now confirmed by two digitized period brochures: "th
 
 ## Founding and Operating Span
 
+**Who bought it, for how much, and after how long a search.** The association's report for the year
+ending 31 March 1945 states all three:
+
+> "**After many years of search for suitable camping facilities near the city for a low cost camp,
+> the Kamp Kanawana Committee was successful in locating a property on the south side of [Île] de
+> Perrot** about 50 miles from Montreal, which after careful investigation **was acquired for
+> $8,500**. The transaction was completed in time for a successful low cost camp to be conducted
+> during the 1944 summer season."^14
+
+Three things follow. **The buyer was Kanawana's own committee**, which makes Perrot institutionally
+Kanawana's offspring rather than a parallel venture — nothing this project held had said so. The
+price and the timing confirm the 1944 founding that five annual reports' season-ordinals imply. And
+"after many years of search" closes a thread that runs through this wiki: the association reported
+experimenting with "the idea of a 'near-the-city' camp for older boys" at [[site/camp-otoreke|Camp
+Dorval]] in 1929 and finding "a very important need," ran the [[site/camp-thunderbird|Camp
+Thunderbird]] island experiment in the early 1940s and concluded it had "proven the need for a
+permanent camp of this nature, which could be used by boys and girls throughout the summer" — and
+here is the purchase that ended the search. *No document still says Perrot succeeded Thunderbird,
+but the search is documented and Perrot is its stated end.*
+
+*One discrepancy, flagged not resolved:* this report says "about 50 miles from Montreal" where the
+camp's own brochures say about 28. Île Perrot is roughly twenty miles west of downtown, so 28 is the
+plausible figure and the brochure is the nearer witness; neither is preferred here.
+
+
 The camp's founding is now dated to 1944, not the "1945" previously inferred from the earliest surviving document. Five independent annual reports self-describe their season number relative to a consistent start year: the 1947 report calls itself the "fourth season," 1948 the "fifth season," 1950 the "seventh consecutive season," 1951 the "eighth year of operation," and 1952 the "ninth summer" (for both boys' and girls' sessions) — all counting from 1944.^5
 
 Camp Perrot is absent from the 1980 YMCA situation reports, which mention Kanawana, Otoreke, and Weredale but not Perrot, confirming it had closed by that date.^1 The precise closure chronology is genuinely contested between two internal sources rather than resolvable to one clean date. A 1959 internal memo by longtime director Donald Cochrane, written to rebut a July 1958 Camp Committee decision to close the resident camp once a new site was found, shows the resident program was still fully operating in 1958-59.^6 A separate 1969 planning document instead states the resident camp (established in the 1940s) closed at an OCR-illegible year, sat dormant about six years, and reopened in 1958 as a Day Camp — which would place resident closure around 1952, inconsistent with the 1959 memo's evidence of ongoing 1958-59 operation.^7 By 1964 a "Family Summer Centre" program had begun, and after Expo 67 the site added Tent and Trailer facilities, operating by the late 1960s as a mixed Day Camp/Family Centre/Tent-and-Trailer operation serving Lakeshore-area YMCA branches.^7 This contradiction is preserved here rather than forced to a single answer.
+
+**The site was still in use in the summer of 1961, as a day camp.** Under "Summer Programs For Youngsters in the City," the annual report for the year ending 31 December 1961 says: "Day camps and summer fun clubs were operated by **eight branches** during the summer of 1961. **Lakeshore 'Y' and Lachine-Dorval Branch used the Camp Perrot site** on Lake St. Louis. Here, 'campers' spent the day building teepees, leantos, making cook-outs, and engaging in all the fascinations of Indian council lore. These are all the experiences of a regular resident camp **and yet the youngsters return home in time for supper**."^17
+
+That is a distinction the closure question needs. In 1961 the property was still YMCA summer camping ground; what had gone, or was going, was the **residential** camp. Anyone dating the end of Camp Perrot by asking when the site fell out of use will get the wrong answer, and the two questions — when the resident camp stopped and when the property left the association — have to be asked separately.
+
+The same report does **not** say whether a resident season ran at Perrot in 1961. It describes only the day camp. That is not evidence that none ran.
+
+**And by 1963-64 the association was building it into something else.** The property section of the 112th annual report, covering 1 January 1963 to 31 May 1964, records: "At Camp Perrot, **additional facilities were constructed in conjunction with the development of this property as a family recreation centre**."^18
+
+**And in 1966 and 1967 the property was built out for Expo, and the family programme had a size.** The 1966-67 report: "In preparation initially for the accommodation of Expo visitors, and subsequently **as an expanded site for summer day camp activity**, the Ile Perrot property was developed as a **camping and trailer site** for Expo visitors. It is expected that **two-thirds of the capital investment will be recovered from Expo operations**."^19 The same report gives the programme's scale: "The Ile Perrot family camping program **organized by the West Island Branch** of the Montreal YMCA accommodated **130 families plus 27 groups** from the community."^19 A year later: "To help accommodate Expo visitors, a **trailer park** was built on previously undeveloped sections of the Camp Perrot property. The development included a **new swimming pool** which will be available to participants in the family camping program there."^19
+
+**By December 1966 the association's own press office simply called it the day camp.** A release of 5 December 1966 is headed "**Ile Perrot Day Camp to House Expo Visitors**" — no qualification, no "former resident camp," no explanation.^21 It also puts numbers and a date on the Expo work the annual reports mention in a clause: "On **November 8th**, work was officially started on facilities which will enable the 'Y' day camp at Ile Perrot to accommodate a total of **120,000 visitors** during Expo '67. **Charles Morrison**, Chairman of the Montreal YMCA Expo-Centennial Committee, turned the first sod... The development involves **90 trailer sites, 100 camp sites, an outdoor swimming pool** and sanitary facilities, changing and electrical power sources."^21
+
+A hundred and twenty thousand visitors is a very large target for a site that had been a low-cost boys' camp twenty years earlier, and it explains why the association expected to recover two-thirds of its capital outlay from Expo operations. Charles Morrison appears nowhere else in this project.
+
+**And the day camp had a named head.** A staffing release of 2 September 1969 records that **Murray Horn** "also **remains in charge of the YMCA's day camp complex on Ile Perrot**."^21 "Remains" implies he had held it for some time; nothing else here names him.
+
+Two smaller items from the same sweep concern the island rather than the camp. In November 1964 the Town of Pincourt invited the Lakeshore YMCA to help develop a **teen centre** in a house the Town Council made available, with "over 100 young people now involved"; and in January 1965 a Pointe Claire youth council listed "**trips to Camp Perrot**" among its activities.^21 Both show the site in branch use outside any camp season.
+
+**And a 1969 proposal describes the whole second life from inside — with a history section that is wrong.** "Camp Perrot Family Centre" sets out the case for expanding the site's family programming, and its facilities and usage figures for 1968 are the most detailed this article has.^20
+
+The site by 1968: **48 acres** (against 45 in the 1949 report and 40 in the 1952 one), **two swimming pools**, a lodge seating 200, a farm house with three bedrooms and four offices, a barn for storage, a laundromat — and "**Hospital – program area**," which is the John W. Ross Memorial Hospital still standing twenty years on and put to another use.^20
+
+Usage that year: a **day camp of 1,353 campers** at $19.00 a child, drawing from the Northmount, Lachine-Dorval and West Island districts; a **Summer Centre serving 100 families** at $15.00 a family; and a **tent and trailer area**, "primarily transient," at $2.50 for a tent, $2.50 for a trailer without electricity and $3.50 with, taking **600 families**. The plan for what came next: "greater usage by total Montreal Association i.e. as a family program operation" and a "**day camp centre for French and English program**."^20
+
+**Do not date anything from its historic background.** That paragraph reads: "Camp Perrot, established in the 1940's as a resident camp, operated as such until 196[?]. **Financial difficulties forced the camp to close** and the campsite was **dormant for a period of six years**. Re-opened in **1958** as a Day Camp administered through the **Lakeshore YMCA**."^20 The year is damaged in the scan. Take the document's own arithmetic — 1958 less six dormant years — and the resident camp closes in 1952.
+
+It did not. The association's annual reports describe a running resident camp straight through that supposed dormancy: 177 boys and 87 girls in 1955, 207 boys and 104 girls in 1957, with 1953 and 1954 described the same way and the camp's own 1958 season report surviving. A 1969 proposal's preamble, written to make a case about the future, is a weak witness to events fifteen years earlier, and the contemporaneous reports beat it outright.
+
+That is useful rather than confusing. The closure chronology above is called "genuinely contested between two internal sources"; there is now a third account, and it is demonstrably wrong on a point that can be checked, which is a reason to weight the contemporaneous record over the retrospective one throughout this question.
+
+**One thing it adds that nothing else does: a reason.** "Financial difficulties forced the camp to close." Open question 6 below asks why Camp Perrot closed and has only the July 1958 committee's list — limited programme, limited site, closing in by homes, poor swimming, bank erosion — against the 1959 memo defending the place. Money is a different kind of answer, and it comes from the association's own later account. It also comes from the same paragraph that gets the date wrong.
+
+So the site's second life is documented end to end: day camps from 1961, development as a family recreation centre by 1963-64, a family camping programme under West Island Branch taking 130 families in 1966, and a trailer park and pool built for Expo in 1967. The resident boys' and girls' camp is absent from every one of those records, and none of them says when it stopped.
+
+So the shape of the ending is now visible even though its date is not. The residential boys' and girls' camp stopped; the site did not. It carried day camps for two city branches in 1961 and was being built up as a **family recreation centre** two years later. "When did Camp Perrot close" is the wrong question, and the contested chronology above is contested partly because it asks it: what closed was one use of a property the association kept, spent money on, and repurposed. The report does not say when the resident camp last ran.
 
 ## Programming and Capacity
 
 Camp Perrot ran sequential single-sex sessions at the same site — a roughly six-week Boys' Camp from late June to early August, then a roughly two-week Girls' Camp in mid-August — rather than simultaneous coeducation.^5 Its 1947 brochure gives ages 9-14 for boys and 9-15 for girls, younger and narrower than Kanawana's stated 8-16 boys-only range in the same brochure.^5 Camp Perrot explicitly described itself as a low-cost service camp: "operated by the Y.M.C.A. as a service to boys and girls of Greater Montreal who for a variety of reasons are unable to attend camps with more elaborate facilities. Fees are set at a figure below actual operating costs." It was fed by referral quotas from roughly nine Montreal YMCA branches plus service clubs (Foremen's Club of Montreal, Rotary, Kinsmen, Kinette Club) sponsoring needy campers.^5 Attendance was roughly 260 campers per season in 1947, with a rated capacity later reaching approximately 630 boys and 210 girls by 1958.^5
 
+**The attendance split by sex, 1945 to 1948.** The association's annual reports give Perrot's numbers each year, broken out boys and girls, which carries the series back three seasons before the camp's own 1947 report.^15
+
+| Season | Boys | Girls | Girls' session | Total campers | Camper-weeks |
+|---|---|---|---|---|---|
+| 1945 (2nd) | 180 | 62 | two weeks | 242 | 480 |
+| 1946 (3rd) | 166 | 90 | three weeks | 256 | 572 |
+| 1947 (4th) | 185 | 73 *(see below)* | three weeks | 258 *(sum; the report gives only the two figures)* | 690 |
+| 1948 (5th) | 162 | 89 | two weeks | 251 | **536** *(358 + 178)*^26 |
+| 1949 (6th) | — | — | — | — | **777** *(588 + 189)*^26 |
+| **1950 (7th)** | — | — | — | — | **828** *(635 + 193)* — **the peak**^26 |
+| 1951 (8th) | — | — | — | — | **787** *(584 + 203)*^26 |
+| 1952 (9th) | — | — | — | — | **792** *(589 + 203)*^26 |
+| **1955** | **177** | **87** | two weeks | **264** | — *(average stay "just under 3 weeks")*^28 |
+| **1956** | **196** | **98** | two weeks | **294** | —^28 |
+| **1957** | **207** | **104** | two weeks | **311** | —^28 |
+
+**The camper-week column now runs to 1952, from the camp's own statistics.** The 1952 Perrot report
+carries a STATISTICS block giving camper weeks as Boys, Girls and total for five consecutive seasons, and
+every column sums correctly; the 1951 report prints the 1950 column identically, so that year has two
+printings. **The reading is confirmed by a document with no connection to the table**: the 1948 row above
+already recorded 89 girls at a two-week session, from the association's annual report, and 89 × 2 is 178
+— the girls' camper-week figure exactly.^26
+
+**1950 is the peak, and the report knows it.** It calls that season "the highest record of attendance",
+adds that "throughout the camp season it was necessary to refuse applications due to the large
+attendance" and that "there were only two weeks that the camp did not operate over-capacity" — all while
+"the promotion budget was cut in half". It also gives the figure **in words** as "eight hundred and
+twenty-seven weeks" where both later tables give **828**. A one-week disagreement between the camp's own
+prose and its own later tables, recorded here rather than smoothed away. The "Number of Individual
+Campers" block on the same page is shredded past reconstruction and nothing from it is used.^26 [f_5674]
+
+Two things the table shows that the prose above does not. The girls' session was **not** a fixed two weeks: it ran two in 1945, three in 1946 and 1947, and two again in 1948, so the "roughly two-week Girls' Camp" is the modal case rather than the rule. And the girls were between a quarter and a third of every season's intake from the camp's second year on — this was a camp for boys and girls from the start of its documented run, ten years before Kanawana's own director first recommended coeducation and twenty-three before girls arrived here.
+
+**A two-girl discrepancy for 1947, both sides documented.** The camp's own season report counts 75 girls; the association's annual report counts 73.^15 Neither is oral history and neither is obviously the better record — the camp counted its own campers, the association compiled from returns — so this is left open rather than resolved. It changes nothing about the shape of the season.
+
+**What the reports say was built.** 1945 brought permanent tent platforms, sleeping bunks, the barn repaired for rainy-day use and a carpentry shop; 1947 raised accommodation "to take care of 102 campers at a time" and added five new boats, while the camp made do with "the temporary marquee dining room for another season."^15 The site itself is given as **45 acres including a stretch of sandy shore-line**. The 1952 report gives it as **forty acres** "facing Lake St. Louis, in the St. Lawrence River, **twenty-eight miles west of Montreal**" — an acreage five short of the 1949 figure, and the 28 miles this article's opening line takes from the brochures, now in an annual report as well. That leaves the 1945 report's "about 50 miles" standing alone against two independent 28s.^16 Service clubs and other friends paid the way of "a group of deserving boys and girls to attend camp, including **sons of service men**" in 1945.
+
+### 1948, the "Building Year" — a season report recovered on 2026-09-07
+
+**This project held the 1948 item and had read the wrong half of it.** The Internet Archive item carries two text files, and the source record here read "catalogued as a season report; it is not one." It is one. The season report is the second file — addressed "To the: Camp Board of Management," signed **A. T. Dodds, Camp Director** — and its own Recommendations section names the companion document that had been read in its place: "A formal and detailed report containing suggestions, recommendations and procedures has been prepared and tabled with the special Committee dealing with Camp Perrot."^22 See [f_5431] for how the defect worked.
+
+**Dodds calls 1948 "the Building Year," and the buildings are what the report is mostly about.** The new **Dining Hall** seated 160 campers and staff, or 250 for a day or evening group, and he thought it good for "year-round activities, Fall and Spring conferences, the summer camping period and small beginner ski parties in the winter." The original plans were extended during construction, with the committee's approval, to carry the fireplace stonework to the roof — "a beautiful harmonizing centre-piece that has become a practical utilized 'Hearth' for the entire camp." It was inaugurated on **Tuesday 29 June 1948**, with **Col. Gerald W. Birks** officiating.^22
+
+The **kitchen** was "designed on a functional basis": an 80-gallon jack-heater, an automatic electrically controlled refrigeration system and cooler room, an automatic bread and meat cutter, a butter cutter, and a specially drilled well with an electric pump "supplying water up to a quantity of 40 gallons a minute."^22
+
+**The hospital gets a dedication date and a ceremony.** The John W. Ross Memorial Hospital is described room by room — "(1) The surgery or first aid room… (2) The nurse's bed-sitting room and private quarters. (3) The four bed hospital ward. (4) The outside porch convalescent wing" — insulated, with picture windows, awnings and self-contained toilet facilities. "A formal dedication service was held on **Sunday afternoon, August 8th**. The **Rev. Leonard Griffiths** officiating. Before the unveiling of the plaque, **Mr. J. W. Beaton** spoke of the life and service of the late Dr. John W. Ross. **Mr. John F. Lewis, Chairman of the Camp Committee**, presided." The Association is recorded as "deeply indebted to Mr. J. Ernest Millen and his family for his very generous bequest."^22
+
+**The people who built it.** The contractor was **Mr. E. Leduc**, local, who "fulfilled everyone of the obligations in his contract, and in many other respects did additional work, beyond his job, at no extra cost," and who also built the camp's new six-drum raft. The architect was **Mr. E. Wiggs** and the building superintendent **Mr. L. Clarke**; both are named among the "old reliable friends" who dropped in, alongside **Mr. H. C. Cross** of the Board of Management — see [[people/harold-cross|Harold C. Cross]].^22 The **Foremen's Club of Montreal**, led by **Mr. N. Millington**, took the old barn as a service project, coming out on Saturday afternoons to lay a new floor and install electric lights toward "a planned transformation of the Barn into a Recreational Hall."^22
+
+**The season in numbers**, and it was a smaller one than 1947. Eight weeks against nine, with the girls given only two (**9–23 August**). **251 different campers** — 162 boys and 89 girls — against 260 the year before; **536 camper-weeks** taken up by the branches, led by the camp office at 175 and Lachine at 133; **96 boys passing swim tests**; 90 boys on one-day and 63 on overnight canoe trips; and **800 parents and friends** visiting on Sundays, brought by a special Provincial Transport Company bus.^22 Dodds blames the shortfall on two things and neither is weather: a restriction on registering for longer than two weeks, "discovered late in the season" to have "lost a great many potential campers"; and his own absence from promotion while "out at Camp dealing with many details on the new buildings just prior to the opening."^22
+
+**And the property was busy outside the camping season.** Twenty-odd organisations brought **920 people** to the site before, during and after it — the Foremen's Club, the Central Y Saturday Night Club (225 across five visits), church picnics from Lachine and the Church of the Messiah, the **Olympic Swimming Team** (9), Hi-Y clubs, Rotary, the Kinsmen's Club of Lachine, a Point St. Charles barn dance.^22
+
+**Counsellor training was formal by 1948.** Every counsellor and staff member received a specially prepared **twelve-page "Camp Perrot Counsellors Training Course" booklet**, "a digest of many books, articles and the experience of the Camp Director, having particular reference to the problems that would be met within Perrot." All the boys' and girls' counsellors met at camp for a combined course on the weekend of **25–27 June**, and "over 50% of last year's leaders returned to camp to make the nucleus around which the new corps formed."^22
+
+**A correction to the branch figures, made by summing them.** Until 2026-09-07 the sentence above read "546 branch registrations, led by the camp office at 195." The table prints its parts as well as its totals, so the parts can be checked. The girls' column sums to exactly **178**, which is the 1948 girls' camper-week figure printed independently in both the 1951 and 1952 reports; the boys' legible entries sum to 354, and the illegible International cell resolves to 4 from that row's own total, giving **358** and a grand total of **536** — again the figure those two later reports print. So the table is denominated in **camper-weeks**, like every other Perrot statistical table, and the printed totals 308 and 546 are scanning damage. Two row totals then fail against their own components (Southwestern prints 87 where 26 + 51 = 77; the camp office prints 195 where 132 + 43 = 175), and reading those as correct instead would break the column against three independent printings. The corrected table also gives the average stay directly: 358 boys' weeks over 162 boys is **2.21 weeks**, and 178 girls' weeks over 89 girls is exactly **2.00** — the two-week session, confirmed a third way. [f_5697]
+
+**And the office was one person, for both camps.** From Publicity and Promotion: "Many obvious difficulties arose this year in giving the office work for **both camps** to **one girl** in a central city office. More efficient work and planning can be carried out if the responsibilities of the two camps are divided or shared by another person in a central location." The two camps are Perrot and Kanawana, the association's only two at the time, and the appreciation names her — "To **Miss Vera Rutherford** of the Camp Office." Not shared staff or shared equipment but a shared back office, with the director on record that it was understaffed.^22 [f_5698]
+
+*One thing left unreconciled.* The Chapel section calls **Mr. Herb Patterson** "the Camp Director" while the report is signed by A. T. Dodds as Camp Director. Nothing here settles whether Patterson held the title in another year, in another section, or whether one of the two is a slip.^22
+
+### The Girls' Camp of 1948, in its directress's own report
+
+The last third of the 1948 document is a separate report signed **Verlie Dodds, Girls Camp Directress**, headed "Girls Camp, August 9th – 23rd, 1948." This project held it for a fortnight and used nothing from it.^22
+
+**Its first sentence moves the girls' camp back a year further than this article's table reaches.** "The **fifth season** for Girls Camp was a happy experience with the largest enrolment to-date, of **89 campers**." Fifth in 1948 counts back to **1944** — the camp's own first season. Girls were at Isle Perrot from the beginning, not from the second year.
+
+The staff were **Carol Hammond** as Program Directress, **Marilyn Mathews** on waterfront, **Bess Clements** as Senior Counsellor, **Mrs. Ina Bogle** as chef and **Miss Marie Comeau, R.N.** as nurse, with a Senior Section for twelve and over under Hammond (Joan Allton, Joan Deachman, Gladys Hinchcliff, Brenda Lamb, Janet Preston, Hilary Spriggs) and a Junior Section for under twelve under Mathews (Lynn Bowering, Myrna Chislett, Carol Dollison, Caireen Elliott as spare, Joan Henley, Nina Long, June Petrie). **The roster carries its own progression legend**, which is rare in this project's documents: X marks a counsellor from last year, C marks last year's camper. Bowering and Chislett are the two Cs — camper-to-counsellor promotions identified by the camp itself rather than inferred here by name-matching.
+
+**The programme kept Christmas and New Year in August.** "The christmas tree, a donation from the **Mayor of Ile Perrot**, was placed beside the fire-place in the Dining Hall. The Camp Director, as Santa Claus, distributed gifts donated by all campers." Then, at midnight, campers were brought to the Dining Hall "to say farewell to Old Camp Perrot 1948 and welcome the new Perrot 1949." The rest of the list runs to opening and closing torchlight parades, Stunt Night, a Masquerade, a hayride and weiner roast, Olympic Day with the crowning of an Olympic Queen, movies, a Lumberjack Dinner, a visit from eight Kinsmen of Lachine who brought a corn roast and ice cream, and a closing banquet followed by "The Perrot Follies, capably directed by Carol Hammond." **Campers' Day** handed the camp over: "a campers' staff, **elected by popular vote**, took over camp-administration and program for one day." And **Indian Night** was held in the Council Circle — "Hiawatha's arrival by canoe; feats of skill by 'Braves'; Peace Pipe Ceremony" — the same Seton-derived council-ring material this wiki traces in [[traditions/traditions-and-culture|Traditions and Culture]], running in a girls' camp in 1948.
+
+Two smaller things. Crafts ran two afternoons a week on the Dining Hall verandah — shellcraft, felt work, clay modelling, plastic work, art — with archery under Phil Dunn; and the dramatics group "met in the Barn to read plays," the report adding that "since the closing of camp, the Foremen's Club of Montreal have built a stage in the barn," which dates that stage to the autumn of 1948. Chapel was at eleven on Sundays in the grove, staff leading the first week and counsellors the second, and "**eight Roman Catholic girls attended early Mass at the Village church**" — a Protestant association's camp making room for Catholic campers, recorded without comment.
+
+**Her recommendations to her successor** were that the camper age range start at nine rather than ten (the upper figure is illegible in the scan); that counsellors be required to hold a life-saving certificate and a craft skill for instructing; that age grouping be kept with a Section Directress for each group; and that "a small area on one of the Ile Perrot farms be rented for overnight hike groups." She also records the girls' counsellors' own age range as beginning at **fifteen**, the upper bound illegible — worth setting beside the July 1958 committee's list of reasons to close the camp, which includes "counsellors too young." [f_5696]
+
+**The John W. Ross Memorial Hospital, and a founder's death date.** In the 1947 report, "through the kindness of Mr. J. Ernest Millen a fund of $2,000.00 has been established to finance the construction at Camp Perrot of a camp hospital in memory of **Laddie Millen** and a craftsmanship hut in memory of the late **John W. Ross, L.L.D.** who was closely associated with the early development of Y.M.C.A. Camps."^15 A year later a contract had been let for "a fine new dining hall and kitchen, and the John W. Ross Memorial hospital, the gift of the family of Mr. J. Ernest Millen," and by the 1949 report both stood: "the spacious new dining hall, with its large open fireplace, the fully-equipped John W. Ross Memorial Hospital."^15 The name moved between buildings across those three reports — hut in 1947, hospital in 1948 and 1949 — and none of them explains why.
+
+**Settled by the building itself.** The report for the year ending 31 December 1951 records the other half going up: "Through the generous gift of J. Ernest Millen and family, a completely equipped, modern handicraft workshop was opened and dedicated in mid-summer as **the Laddie Millen Memorial Craft Shop**," and its property section repeats it — "the construction was completed of a fully-equipped Craft Shop at Camp Perrot, **as a memorial to the late Laddie Millen**."^16 So as built, the hospital carries John W. Ross's name and the craft shop carries Laddie Millen's; the 1947 report's pairing is the one that did not survive construction. Four years separate the announcement of the $2,000 fund from the craft shop's dedication.
+
+The phrase "the late" is the more consequential half. [[history/founding-1894|John W. Ross]] chaired the association's Summer Camp committee in the mid-1890s, sat on the Permanent Camp Committee, and was Association President from 1906 to 1909. This project has held no death date for him. A report covering the year to 31 March 1947 calling him "the late" puts his death before that date — a bracket, not a date, but the first one there is.
+
 Donald Cochrane's 1959 memo makes the Kanawana comparison explicit in his own words: campers who attended both camps "prefer Perrot — possibly due to the fact that we are more of a family than is Kanawana with its four sections and individual tent sites." He also frames Perrot as an informal training ground for future Kanawana counsellors, since Kanawana's newly raised counsellor minimum age (17) left 16-year-old Perrot "Rangers" available to counsel at Perrot first.^6
+
+### 1953, the tenth season, from a report read whole
+
+The tenth annual report is signed **Donald Cochrane** to the Boys' Camp Committee, and it opens with a director enjoying himself: with Robert Kneeland back on crafts, William Macks back on the junior section and **William Osterman** added "with ten years camping experience," Cochrane writes that "I have never enjoyed a camping season as much as this past summer."^27
+
+**Tripping was the year's expansion, and it went downward in age.** The camp's three nine-man war canoes were "greatly in demand"; life-jackets were added "as an added safety measure" and tripping was thereby opened to the youngest campers. Cochrane took three canoes of ten- and eleven-year-olds overnight to Pine Island, six miles off, and found them "very capable and keen." **Some 160 campers went on trips of two to five days, with twenty counsellors, CITs and staff.** This is the passage that also contains the sentence about flat terrain quoted higher up. On the waterfront, under **Steve Montague**, "a hundred boys passed Y.M.C.A. Swim cards" — against 96 passing in 1948 — and he built a railway-tie wall at the foot of the bank in the swimming area.
+
+**The nurse ran a study.** "From records kept by the nurse, it was found that the average camper's gain in weight was 3.3 pounds. The counsellors' average gain was 6 pounds, with **Eric Oke** topping the list with a gain of 15 pounds. It is interesting to note that Eric was out on canoe trips most of the summer." Visits to the hospital that season: **campers 350, counsellors 100, staff 2**, under **Miss Norma Anjo, R.N.** *(The scan prints the campers' average as "33 pounds," which for a two- or three-week stay is not credible; 3.3 is the reading taken here.)*
+
+The morning interest groups are ranked in the report's own order of popularity — woodwork first, archery and boating second, then braiding, bait casting, wood carving, clay modelling, nature lore and woodsmanship. **Backwoodsman's Day** was "true competition in log-sawing, pack-sack relay races, knot-tying, tent pitching, fire lighting and pancake cooking," ending with a cookout: "It was thrilling to see 16 fires, in a large circle, in operation and the campers trying to flip pancakes." The **Penny Fair** again sent all proceeds to World Service; "some campers ate as many as eight hot-dogs, without any ill-effects," and "Get a kiss from the Nurse" was the most popular booth. Reforestation was cumulative and counted: another 5,000 spruce in the back half of the property, "giving a total of 10,000," plus a hundred spruce along the waterfront bank, a hundred cedars around the Council Ring and a hundred poplar ordered from the Government for the spring. [f_5700]
+
+**The council ring, and what the camp called it.** "New life was added to the council fire programs with addition of **Chief Tomahawk (Bill Osterman)** and his well planned **Indian wars** which provided a variety of physical activity for the **braves and warriors** but nearly crippled older members of the Perrot Council!" The setting was built up the same season — a hundred cedars round the ring, sixteen railway ties for seats, **two more totem poles**, the grass mowed "which has almost turned the ring into a lawn" — and the costuming was a running problem: "We are slowly building up our Indian costumes but still have trouble getting turkey feathers." Set beside the girls' camp of 1948 and its "Hiawatha's arrival by canoe… Peace Pipe Ceremony," the association's second camp was running the same Seton-derived material as Kanawana, in both sections, across at least five years. The man playing Chief was the one hired for his experience. [f_5702]
+
+**What the camp still lacked in its tenth year.** There was no wash house: the drinking taps in the lower camp were "an eye sore," badly drained and permanently muddy, and "the rule has been that the taps are for drinking and teeth brushing only, the river to be used for washing **but everyone washes at the taps anyway**." The kitchen staff lived in tents — "both the kitchen and the tents are extremely hot during the summer, then there is no place for them to relax comfortably during their short breaks from the kitchen grind" — and a two-room bungalow with an inside toilet was proposed behind the kitchen. The eroding bank needed some 400 tons of stone, quoted at $1.75 a ton delivered, **$700 in all, by Mr. E. Leduc, the camp's local contractor** — the same Leduc who had built the dining hall, the hospital and the six-drum raft in 1948. Five years and two directors later he is still the man the camp asks for a price. And the tents had no windbreak, "the thoughts of waiting 15 years for trees to grow" being "very discouraging," so money was wanted for larger ones. [f_5703]
+
+**The recreation hall that appears twice and is never finished.** In 1948 the Foremen's Club took the old barn as its service project, **under the leadership of Mr. N. Millington** — the association's own **Norman J. Millington**, appointed Membership Secretary of Central Branch in the year ending 31 March 1947 and, by September 1954, Executive Secretary of Westmount Branch on his way to the Metropolitan Assistant Secretaryship, the chair [[people/roy-locke|Roy Locke]] took from him.^29 *So the volunteer club rebuilding Perrot's barn was led by a paid YMCA secretary a year into his Montreal career*, which is what a "service project" looked like at this association: staff and members in the same club, working on a camp neither of them ran. They laid a floor toward "a planned transformation of the Barn into a Recreational Hall," and a stage went in that autumn. Five years later the same club is starting again: "after having presented the Camp with **twenty wharves** for the Swimming Pool," it "now plans to build a much needed Recreation Hall for Camp Perrot. **Two thousand dollars** was donated by this group as the first step towards this noble project." Nothing follows. Neither the 1954 nor the 1958 report mentions a recreation hall at all, and 1954's building sections are about painting the dining hall and reinforcing its tables. That is an absence in two documents rather than a statement that the hall was never built — the 1955–57 reports are not held here — but a $2,000 first step with no second step inside the camp's own next five years of reporting belongs in the record of a camp the association closed at the end of the decade. [f_5701]
+
+## The shape of the run, from the reports read together
+
+No single Perrot report says the camp is in trouble, and the run does not say it either in the way this
+section once did. *(This section was called "The shape of the decline" until 2026-09-07. The three years
+it had no evidence for turned out to be the camp's largest.)*
+
+**1950** is the peak, described above: at capacity, refusing applications, on half the advertising.
+**1951** reports "a near capacity registration throughout the entire **eight** weeks". **1954**: "In spite
+of poor camping weather, the Boys' Camp had a near capacity registration" — still the language of a full
+camp, four years on.
+
+**1958's report opens by saying the year was bad.** "It is unfortunate that the enrollment was down at
+Perrot this summer, for in every other way it was a most successful season." Tent units hold "five or six
+campers, **compared to the usual seven**" — and the report puts the best face on that, noting it "greatly
+facilitated" the counsellor being "with his campers at all times". Of twenty-four staff, only seven were
+new to Perrot, so the staff was experienced and returning even as the campers thinned.^26
+
+**The three years in between have no camp report, and the association's own reports fill them in — with
+a different shape from the one this article used to draw.** Until 2026-09-07 this section read "by 1958
+the camp is smaller in three measurable ways", the first being that the boys' season was "now six weeks,
+not eight". **The season was already six weeks in 1955.** The 1958 report never presents six weeks as a
+change; it mentions the figure in passing, and the contraction from 1951's "entire eight weeks" was
+inferred from the gap between two reports seven years apart. The association's volumes have six weeks in
+**1955, 1956 and 1957** as well, so the shortening falls between 1954 and 1955.^28
+
+**And through those same three years the camp grew.** 264 individual campers in 1955, **294** in 1956,
+**311** in 1957, against 251 in 1948 and 260 in 1947 — higher at the end of them than in any season the
+camp's own surviving reports cover.^28 So the run is not a decline from the 1950 peak. It is a fall after
+1950, a recovery through the middle of the decade, and then a drop in a single season, 1958, which is the
+year the committee met with a list of reasons to close the camp. The tent occupancy and the returning
+staff still say what they said; the date attached to them does not. [f_5714], correcting [f_5675]
+
+**One thing those three years cannot settle.** They are exactly the years whose camp reports are missing:
+a title search of the Internet Archive returns twelve Camp Perrot items and nothing at all for 1955, 1956
+or 1957, and the collection search returns only the association's own volumes. All twelve were uploaded by
+the same archives address into the same collections, so this is one digitisation programme with three
+years absent from it. The association's paragraphs do not mention a recreation hall, and their Foremen's
+Club entries are about camperships rather than buildings — 24 boys and girls in 1956 with the Verdun Y's
+Men's Club, 19 in 1957 "as usual". The club stayed with the camp and the hall never surfaces again.
+That strengthens the question above without closing it, and it makes the request to Concordia a specific
+one. [f_5715]
 
 ## Connection to Kanawana
 
-Île Perrot was also a canoe trip destination for Kanawana campers: by 1945, intermediate campers undertook 7–8 day trips to Île Perrot and Grenville.^4 No source states Camp Perrot itself was used as a base or waypoint for these trips — Perrot ran its own independent canoe-tripping program (to Cascade Island, around Perrot Island itself, and later up the Ottawa River to Carillon/Grenville), driven by its own flat, non-wilderness terrain: "due to the lack of wooded areas and the location, canoe trips fill the gap," per the 1953 annual report.^5 The two camps' shared Île-Perrot-area canoe activity therefore appears to be geographic coincidence rather than a shared operation.
+Île Perrot was a canoe trip destination for Kanawana campers: by 1945, intermediate campers undertook 7–8 day trips to Île Perrot and Grenville.^4 **Camp Perrot counted them arriving.** Its 1948 season report lists, in a table of overnight boys' hike groups that used the property alongside the Central, Westmount, Southwestern and Pointe Saint-Charles Y boys: "**Kanawana Canoe Parties (2 visits) 20**."^22 That is the receiving end of Kanawana's own tripping programme — twenty boys, twice in one season, sleeping at the association's other camp — and it makes the relationship between the two camps operational and not merely institutional. [f_5432] **Three years later it is still happening.** The 1951 report's list of "Groups Using Camp Perrot" runs through St. Anne's United Church, the Foremen's Club, four Y branches, the Montreal Westward Rotary Club, three more churches and the Phalanx club, and among them sits "**Kanawana Canoe Trip**."^26 That table's numbers column did not survive the scan, so there is a second season but no second count. [f_5699]
 
-A real institutional link is documented, however: the 1954 Camp Perrot Annual Report states "with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out" — direct equipment-sharing between the two camps.^5 A. Ross Seaman (Kanawana director 1959-1967) is thanked in Perrot's 1952 report as "Past Director of Camp Perrot," and per the 1959 Cochrane memo personally planted trees at Perrot "about 1950" — a previously undocumented staff overlap. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.^5 ^6
+**This corrects what this article said until 2026-09-07**, which was that the shared Île-Perrot-area canoe activity "appears to be geographic coincidence rather than a shared operation," and Open Question 5 below, which had been closed on that reading in July 2026. The reasoning was sound on the sources then read: Perrot did run its own canoe-tripping programme (to Cascade Island, around Perrot Island itself, and later up the Ottawa River to Carillon and Grenville), driven by its own flat, non-wilderness terrain — "due to the lack of wooded areas and the location, canoe trips fill the gap," per the 1953 annual report.^13 Both things are true at once. What was missing was the one line in the one document nobody had read.
+
+**A second Kanawana name comes out of the same report's Health and Safety section.** Dr. Kelso of Sainte-Anne-de-Bellevue attended the camp unpaid — "again gave unstintingly of his skill and professional services" — and when he went on holiday he handed his camp duty to his locum along with his practice: "Dr. Lougheed, his successor, continued the interest in our camp and **we were agreeably surprised to learn that Dr. Lougheed had formerly been on the staff of Kamp Kanawana**."^22 Neither physician appears anywhere else in this project. The passage gives a named member of Kanawana's medical staff, a category almost empty here, with no first name and no year for that service. [f_5433]
+
+A real institutional link is documented, however: the 1954 Camp Perrot Annual Report states "with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out" — direct equipment-sharing between the two camps.^5 A. Ross Seaman (Kanawana director 1959-1968) is thanked in Perrot's 1952 report as "Past Director of Camp Perrot," and per the 1959 Cochrane memo personally planted trees at Perrot "about 1950" — a previously undocumented staff overlap. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.^5 ^6 *None of those three overlaps is stated by a Perrot document*: the reports give the names and the roles, and the join to Kanawana is made here, against this project's own people index.^9
+
+**What the association said it needed, the year Perrot opened.** The 1944 annual report, reporting
+on a second summer of the association's island experiment in the rivière des Mille Îles: "Camp
+Thunderbird: an experimental near-the-city camp was again operated on a small island in Mille Isles
+River near Plage Laval. **Our experience has proven the need for a permanent camp of this nature,
+which could be used by boys and girls throughout the summer.**"^12 Perrot — permanent, near the
+city, low-cost, for boys and girls — opened that same year, and **A. T. Dodds directed both**,
+Thunderbird in 1943 and Perrot by 1947. **The handover is exact to the season.** These reports run
+to 31 March, so each covers the previous summer: Thunderbird is tabled for the summers of 1942 and
+1943 and vanishes from the report whose summer is 1944, which is the first to carry Perrot.^12 *No document found says Perrot succeeded Thunderbird*, and
+none is claimed here; the Perrot founding papers (P0145/12H) or the 1944–45 camp committee minutes
+would settle it. See [[site/camp-thunderbird|Camp Thunderbird]].
+
+## Who ran it, 1947 to 1958
+
+The annual reports print their officers on the title page, so the leadership can be set out
+directly.^10 ^13
+
+| Year | Director | Girls' Camp | Committee chairs |
+|------|----------|-------------|------------------|
+| 1947 | A. T. Dodds | Verlie Dodds | O. N. H. Owens, Chairman |
+| 1950 | *(the three names are A. R. Seaman, Dr. Preston Robb and E. Hammond; the scan jumbles the columns and the roles are not assigned here)* | | |
+| **1951** (eighth annual report) | **A. Ross Seaman** | | Dr. J. Preston Robb, Chairman; E. Hammond, Perrot Committee |
+| **1952** (ninth) | **Donald Cochrane** | **Margaret Seaman** | S. F. Kneeland, Chairman; E. Hammond, Perrot Committee |
+| **1953** (tenth) | **Donald Cochrane** | | S. F. Kneeland, Boys' Camping; [G.] Mackey, Camp Perrot |
+| **1954** | **Donald Cochrane** | | Gordon Mackey, Camp Perrot; Scott F. Kneeland, Boys' Camping |
+| **1958** | **Donald Cochrane** | **Maureen Ring** | Gordon Mackey, Chairman; George Clouston, Vice-Chairman |
+
+**Robb's connection to the Montreal Y's camps runs back at least twenty-six years before that chairmanship.** The first issue of *The Green Triangle*, 23 July 1932, carries a joke classified advertisement in Kanawana's craft shop: "Wanted: **More Graft for the Graft Shop. See Preston Robb.**"^23 A young man minding the craft shop at Kanawana in 1932, chairman of the Camp Perrot committee in 1958, and on the Advisory Committee of [[site/les-voyageurs-de-la-verendrye|Les Voyageurs]] as **Dr. J. Preston Robb** in 1960 — the same name across twenty-eight years and three of the association's camps. The identification rested on the name alone when that was written; the following year's paper strengthens it considerably.^24 *The Green Triangle* of **12 August 1933** reports that "Presty" Robb had fallen seriously ill at camp and left: "After leaving here, Presty has passed through a very strenuous time, such that it has been necessary for him to have a special nurse and medical care up to the present… He is expected to be getting out of bed sometime next week and leave for his summer home at **Portage, Que.**, where he will recuperate for his **fall entry at McGill**. Preston sends his very best regards to all the boys and wished that he could return to Kanawana." A young man entering **McGill in the autumn of 1933** would have been born about 1915 and qualified in medicine around 1940 — the right shape for a **Dr. J. Preston Robb** chairing a camp committee in 1958 and sitting on an advisory committee in 1960. It is still an identification by convergent particulars and not a documented one, but it now rests on a university and a career rather than on a pun in a classified advertisement.
+
+**Donald Cochrane directed Camp Perrot from 1952 to at least 1958** — seven seasons, which makes him
+its longest documented director. This article previously knew him only as the author of a 1959 memo.
+**A. Ross Seaman's directorship is now dated to 1951** from the report he signed, where it had rested
+on the 1952 report's thank-you to a "Past Director of Camp Perrot." The 1958 committee list also puts
+**Hedley Dimock** on it alongside H. C. Brophy, Donald Dewar, Allan Forbes, Scott F. Kneeland,
+Marshall Lebeau, John Lewis and A. Miles.
+
+The reports' own ordinals — eighth in 1951, ninth in 1952, tenth in 1953 — count from **1944** and
+corroborate the founding date twice more.
+
+**One name worth flagging across two camps.** The 1929 "Come to Kanawana" brochure has "Scott
+Kneeland will have charge of the workshop"; the Perrot reports of 1952–54 have Scott F. Kneeland
+chairing the Montreal YMCA's Boys' Camping Committee. Same uncommon name, same association, a
+plausible arc from a young man running a camp workshop to a committee chairman in his forties —
+and **no document names both roles**, so the identification is left open. See
+[[people/directors-index|Directors and Staff of Camp Kanawana]] for the 1929 staff list.
+
+## 1947, in the camp's own report
+
+The season's report to the Board of Management is signed **O. N. H. Owens, Chairman** and **A. T.
+Dodds, Camp Director**, and the Girls' Camp has its own report signed **Verlie Dodds, Girls' Camp
+Directress** — "Mrs Dodds acted as Resident Director of the Girls [Camp]. This was Mrs Dodds' first
+year in an administrative capacity but not her first one in camp."^10 **A married couple ran the two
+halves of the season.** Owens's chairmanship is corroboration rather than news; see
+[[traditions/order-of-owens|The Order of Owens]], which already places him on Perrot's board through
+the 1940s and 50s.
+
+Named staff: **Peter Sykes**, back for a third year "as Senior Counsellor and Director of the Out
+Trips"; **Russell Bell**; **Marilyn Mathews** on swimming and waterfront; **Carol** and **Jane
+Hammond** as Program Assistants; and the girls' counsellors **Bess Clements, Gladys Hinchcliffe,
+June Petrie, Earla Taylor, Alberta Gilbert, Mary Bullock** and **Anne Avison**, with **Brenda Lamb**
+and **Maurien Mears** promoted from camper, **Carol Dallison** and **Joan Henley** added in the
+second week, and **Pat Neason**, a camper, made a spare counsellor.^10 The kitchen changed hands
+mid-season: "when Mrs Pair withdrew from camp as Chef, the campers, Counsellors and staff helped me
+in every way to prepare the meals for five days until we secured **Mme. La Tour**."
+
+**The numbers, and how a city association shared out a camp.** 1947 was "the fourth season of the
+YMCA Camp on Ile Perrot" — independent confirmation of the 1944 founding. Nine weeks, 25 June to
+27 August, with the Girls' Camp 6-27 August. 260 campers in all, 185 different boys and 75 girls,
+"15 other organized parties, and an average of 80 parents and visitors each Sunday." The branch
+quota table sets Southwestern at 120 camper-weeks, North and Lachine at 100 each, Central 75,
+N.D.G. 60, International and Westmount 40, Pointe Saint-Charles and Rosemount 20 each, Eastern
+Community 10 — 585 quota against 713 taken, up from 557 the year before. Registration closed on
+4 July because capacity had been reached.^10
+
+**Two pressures on the site, in the same report.** Cottagers: "since the close of the camp in 1946…
+a colony of cottagers have bought and erected private dwellings on the adjacent property… they left
+a deep impression that we should at once look to our fences and expand to the East **before the camp
+is enclosed**." And water: "the exceptionally high flood waters of the Spring altered the contour of
+our shoreline, swept away many fine trees, scattered the beach, eroded the cliff and left the cabin
+near the shore in a precarious position."^10
+
+The property was also lent out through the year — a St. James the Apostle church picnic, two
+Central YMCA Co-Ed Club events, three Lachine Protestant church picnics, two Pointe Saint-Charles
+barn dances, a three-day Montreal Area Hi-Y Conference, a Sainte-Anne-de-Bellevue Sunday School
+outing and a Lachine Y party for crippled children.^10
+
+### 1948: what the camp wanted built, and what it gave up
+
+The 1948 item in the same series is filed as a season report and is not one — it is unsigned and
+headed "Suggestions / Recommendations, Camp Perrot 1948," a building-by-building list of works
+wanted before 1949, with no attendance figures and no staff.^11
+
+The **barn** was to be finished by the Foremen's Club: the old ice-storage section floored up to
+level, the western end turned into a crafts room wired "with provision to be made to eventually use
+power tools," the stage completed with stage lighting and wings, floor outlets "for use of movies
+or other special events," and a proper stair to the loft for "a balcony to the assembly section, a
+reading or club room."^11
+
+**The garden was to be given up**, and the reasoning is the frankest thing in the document: "the
+results achieved are negligible to the food supply, and the labour involved is out of all
+proportion to the amount gained. **The campers felt it was an imposition on their time**, and the
+little work done was completed by members of the staff in any spare time they might have had… the
+crop with few exceptions did not produce in time for the camp to use." Tennis courts were proposed
+for the plot instead.
+
+A **tuck shop** was wanted in the kitchen verandah, and the stated reason was containment: it
+"would lessen the desire of the staff, counsellors and campers to visit the nearby and in my
+opinion, undesirable restaurant around the corner from the camp."^11
+
+And one proposal that is pure camp culture. A three-quarters dead tree in front of the hospital
+should get a bench built round it for the view across the lake, and "the tree could also be
+stripped of all its bark and be **used for carving the initials of campers** on it who have
+attended the camp. (This would be a natural outlet for their carving instinct and also a reminder
+of their stay at camp.)"^11
+
+**The encroachment of 1947 is still the live question and now has a name.** "Committee negotiations
+for the purchase of the property next to the camp should be continued. If undesirable owners secure
+the **triangle piece of farmland** with a view to building cottages on it, the camp would possibly
+find it necessary to do some shifting of tents and curtailing of certain activities… From the
+appearance of our next door neighbour, **the Lalondes**, they seem to have no intention of selling
+their land, for at the present time, they are extending their home building."^11
 
 R.H. Hanagan, who served as Montreal YMCA camp director in 1942 and 1946, filed reports that appear alongside Camp Perrot comparison documents in the Concordia Archives, indicating his portfolio may have extended to both camps.^1
 
@@ -39,17 +365,38 @@ Camp Perrot has sometimes been cited under a "P0145/12G" sub-series designation,
 
 The earliest known Kanawana-side documentary evidence is a "Comparison of Two Boys Camps operated by Montreal YMCA" dated approximately 1945–1946, which formally compared Camp Perrot and Kamp Kanawana.^1 ^3 A second comparison document dates from 1953–1954.^3 The YMCA produced these comparison reports as part of its camping program evaluation, indicating Camp Perrot was considered a peer facility to Kanawana. This is now substantially supplemented by Camp Perrot's own primary-source annual reports and brochures (1945-1969), digitized on Internet Archive.^5 ^6 ^7
 
+## Gordon Mackey's Route to Isle Perrot
+
+The 1946 brochure announcing the new camp introduces its incoming boys'-camp director, and the sketch
+is the fullest biography of him this project holds:^25
+
+> **Mr. Gordon Mackey** will be the Resident Director of the boys' camp. He has had a number of years
+> camp experience **as a camper, counsellor and Section director of Kamp Kanawana**. Mr. Mackey, who
+> has spent the past **two and a half years as a Flying Officer in the R.C.A.F.**, has seen service in
+> **Africa, India, China**, and other parts of the world.
+
+Set beside what this wiki already holds, that gives a career in five stages, all within the same
+association: a Kanawana **camper**; a Kanawana **counsellor**; a Kanawana **section director**; two and
+a half years' war service flying for the RCAF across three continents; and then, within months of
+demobilisation, **Resident Director of the Montreal YMCA's brand-new camp** at Isle Perrot in 1946.
+Fourteen years later he is **Gordon A. Mackey, Chairman** of the Camp Committee that governed
+[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]], and he chairs the Camp Perrot
+committee in the tables above. The association promoted from inside its own camps, and this is the
+clearest single instance of it.
+
 ## Open Questions
 
 1. ~~[Critical] What was Camp Perrot's exact location? Was it on Île Perrot?~~ [Resolved 2026-07-10] South shore of Isle Perrot, 45 acres, 600 ft of shoreline, ~28 miles from Montreal.
 2. ~~[Critical] When did Camp Perrot begin and end operations?~~ [Substantially resolved 2026-07-10] Founded 1944 (triangulated across five annual reports); closure is genuinely contested between two internal sources rather than a single date — see Founding and Operating Span above.
 3. ~~[Important] How did its programming differ from Kanawana's?~~ [Resolved 2026-07-10] Co-ed via sequential single-sex sessions, younger/narrower age range, an explicitly low-cost branch-referral "service camp" model, versus Kanawana's longer-stay boys-only wilderness model. See Programming and Capacity above.
 4. ~~[Important] What was its capacity and age range?~~ [Resolved 2026-07-10] Ages 9-14 (boys) / 9-15 (girls) per the 1947 brochure; ~260 campers/season in 1947, rated capacity ~630 boys/210 girls by 1958.
-5. ~~[Nice-to-have] Did Camp Perrot serve as a base for Kanawana canoe trips, or was it wholly independent?~~ [Resolved 2026-07-10] Wholly independent canoe program; the two camps' shared Île-Perrot-area activity is geographic coincidence, though a direct 1954 canoe-donation link from Kanawana to Perrot is documented.
-6. [Nice-to-have, partially advanced 2026-07-10] Why was Camp Perrot closed? A 1959 memo defends the camp against closure rationale cited at a July 1958 committee meeting ("limited programme," "limited site," "closing in by homes," "counsellors too young," "poor swimming," "bank erosion"), but a separate 1969 document's account of dormancy and a 1958 Day Camp reopening is internally inconsistent with this. Not fully resolved -- see Founding and Operating Span above.
+5. ~~[Nice-to-have] Did Camp Perrot serve as a base for Kanawana canoe trips, or was it wholly independent?~~ [Closed 2026-07-10 as "geographic coincidence." **Reopened and answered the other way on 2026-09-07.**] Camp Perrot's 1948 season report counts "Kanawana Canoe Parties (2 visits) 20" among the overnight groups that used its property, so Kanawana trippers did stop and sleep there. Perrot also ran a canoe programme of its own, and a 1954 canoe donation from Kanawana to Perrot is documented. It happened at least twice: the 1951 report's list of "Groups Using Camp Perrot" carries a "**Kanawana Canoe Trip**" among the church picnics and branch outings, though the numbers column of that table is lost to the scan. What remains open is how long the arrangement ran and how many boys it moved — 1948 is the only season with a count.
+6. [Nice-to-have, partially advanced 2026-07-10; **a stated reason found 2026-09-06** — the 1969 Family Centre proposal says "financial difficulties forced the camp to close," which is the association's own later account and the only reason given by anything other than the 1958 committee's list. Weigh it against the fact that the same paragraph misdates the closure by roughly a decade; see the section above and [f_5099].] Why was Camp Perrot closed? A 1959 memo defends the camp against closure rationale cited at a July 1958 committee meeting ("limited programme," "limited site," "closing in by homes," "counsellors too young," "poor swimming," "bank erosion"), but a separate 1969 document's account of dormancy and a 1958 Day Camp reopening is internally inconsistent with this. Not fully resolved -- see Founding and Operating Span above.
 
 ## Related Articles
 
+- [[site/camp-dorval|Camp Dorval]]
+- [[site/camp-thunderbird|Camp Thunderbird]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
@@ -61,7 +408,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 ## Sources
 
 1. Concordia University Archives: YMCA of Montreal fonds P0145/12A — Comparison documents (1945–46, 1953–54), camping committee records.
-2. Concordia University Archives: YMCA of Montreal fonds — Camp Perrot references (see note on cataloguing below; "12G" is not a described sub-series in the master finding aid).
+2. **Superseded 2026-09-08 by note 8 and retained to show what it said.** Concordia University Archives, YMCA of Montreal fonds — Camp Perrot references, with the "12G" caveat. Note 8 is the direct read of the 125-page master finding aid that settles the question, and it is the note "A Note on Archival Cataloguing" cites.
 3. Concordia University Archives AtoM finding aid.
 4. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Canoe trip destinations including Île Perrot.
 5. YMCA of Montreal fonds (Internet Archive): Camp Perrot annual reports and brochures, 1945-1969 [src_ia_camp_perrot_collection]. Verified genuine via archive.org metadata API, 2026-07-10.
@@ -69,7 +416,27 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 7. "Camp Perrot Family Centre," planning document, 1969 [src_camp_perrot_1969_family_centre].
 8. Concordia University Archives, master finding-aid PDF [src_concordia_finding_aid_master_pdf]. Confirms no descriptive "12G" entry exists.
 9. A. Ross Seaman, Margaret Seaman, and Hedley Dimock cross-referenced from Camp Perrot's own annual reports (sources 5-6) against this KB's existing people index.
+10. "1947 Report of the Montreal YMCA Camp Perrot for Boys & Girls", addressed to the Board of Management and signed by O. N. H. Owens (Chairman) and A. T. Dodds (Camp Director), with the Girls' Camp section signed by Verlie Dodds [src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. See [f_5032] and [f_5033]. Read whole 2026-09-06 under p_441.
+11. "Suggestions / Recommendations, Camp Perrot 1948" [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. Unsigned, no attendance figures, no staff list, a building-by-building list of works wanted before 1949 — and **the companion to the season report at source 22, not a substitute for it**. It is the document the season report means when it says "a formal and detailed report containing suggestions, recommendations and procedures has been prepared and tabled with the special Committee." The note that once stood here, that the archive's catalogue had filed a recommendations document as a season report, was wrong; the catalogue was describing the other file in the same item. See [f_5034] and [f_5431].
+12. YMCA of Montreal Annual Report, 1944, on Camp Thunderbird [src_ymf_sgw_ymca_annual_report_1944]. See [f_5037] and [[site/camp-thunderbird|Camp Thunderbird]].
+13. Camp Perrot annual reports for 1950, 1951 (eighth), 1952 (ninth), 1953 (tenth), 1954 and 1958 [src_ymf_1950_camp_perrot_annual_report, src_ymf_1951_camp_perrot_annual_report, src_ymf_1952_camp_perrot_annual_report, src_ymf_1953_camp_perrot_annual_report, src_ymf_1954_camp_perrot_annual_report, src_ymf_1958_camp_perrot_annual_report]. Read for their title-page officer blocks and signatures in September 2026; **the 1953 report's body was read whole on 2026-09-07 and has its own entry at source 27 below**, and the 1950, 1951, 1952, 1954 and 1958 bodies were read as a run the same day (source 26). See [f_5048].
+14. YMCA of Montreal Annual Report for the year ending 31 March **1945** [src_ymf_sgw_ymca_annual_report_1945]. See [f_5074].
+15. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1946, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078].
+16. YMCA of Montreal annual reports for the years ending **31 December 1951** and **31 December 1952** [src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1952]. Note the year-end: the association moved from a 31 March to a 31 December financial year with its 100th report, so these describe the summers of 1951 and 1952, not the previous ones (see [f_5081]). Read 2026-09-06 under p_441. See [f_5082].
+17. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961], the "Summer Programs For Youngsters in the City" section. A December year-end report, and the YMCA of Montreal's 31 December era runs its camping season inside the cover year, so this is 1961 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5089].
+18. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964 (see [f_5090]), property section. Read 2026-09-06 under p_441. See [f_5093].
+19. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5096].
+20. "Camp Perrot Family Centre" (1969), an internal proposal document [src_cache_1969_camp_perrot_family_centre]. Cached at `sources/cache/ymca-montreal-fonds/1969-camp-perrot-family-centre.txt`; read end to end 2026-09-06 under p_451. See [f_5099]. **Its historic background is unreliable** — see the caution in the text.
+21. Montreal YMCA news releases of **13 November 1964**, **4 January 1965**, **5 December 1966** ("Ile Perrot Day Camp to House Expo Visitors") and **2 September 1969** [src_ymf_news_release_1964_11_13, src_ymf_news_release_1965_01_04, src_ymf_news_release_1966_12_05_2, src_ymf_p0145_news_release_1969_09_02]. Found by sweeping the news-release cache for camp names rather than for Kanawana; read 2026-09-06 under p_451. See [f_5107].
+22. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948 — the season report proper, signed **A. T. Dodds, Camp Director**, with the Girls' Camp report signed **Verlie Dodds, Girls Camp Directress** [src_ymf_1948_camp_perrot_season_report]. Cached in full at `sources/cache/ymca-montreal-fonds/1948-camp-perrot-season-report.txt`. **Recovered 2026-09-07**: the Internet Archive item holds two text files and this project had read only the first, a companion recommendations document (source 11 above), and recorded that the item was "catalogued as a season report; it is not one." It is one. **Split into its own source record and cached on the same day**, since a citation to the item id named an item rather than a document; the earlier record said both files had been "read in full" and that overstated it — the Girls' Camp report had not been used at all and the branch table had been copied from raw OCR. See [f_5431]–[f_5434] and [f_5696]–[f_5698].
+23. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
+24. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+25. *The New YMCA Camp on Isle Perrot*, brochure, 1946 [src_ymf_1946_the_new_ymca_camp_on_isle_perrot_brochure]. Cached at `sources/cache/ymca-montreal-fonds/1946-the-new-ymca-camp-on-isle-perrot-brochure.txt`; read word for word 2026-09-07 under p_482.
+26. Camp Perrot's own annual reports for **1950** [src_ymf_1950_camp_perrot_annual_report], **1951** [src_ymf_1951_camp_perrot_annual_report], **1952** [src_ymf_1952_camp_perrot_annual_report], **1954** [src_ymf_1954_camp_perrot_annual_report] and **1958** [src_ymf_1958_camp_perrot_annual_report], cached in `sources/cache/ymca-montreal-fonds/`. Read as a run 2026-09-07 under `p_491`. The 1948-52 camper-week series and the 827/828 discrepancy are at [f_5674]; the run of seasons at [f_5675], **corrected on its dating by [f_5714]**. The 1951 report's "Groups Using Camp Perrot" list, which carries a "Kanawana Canoe Trip", is at [f_5699].
+27. *Camp Perrot Tenth Annual Report, 1953*, signed Donald Cochrane, Director [src_ymf_1953_camp_perrot_annual_report]. Cached at `sources/cache/ymca-montreal-fonds/1953-camp-perrot-annual-report.txt`; **body read whole 2026-09-07 under `p_491`**, having been held at read_state "partial" since 2026-09-06 with only its officer block read. See [f_5700]–[f_5703].
+28. YMCA of Montreal annual reports for the years ending **31 December 1955**, **1956** and **1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], their Camp Perrot paragraphs. Cached under `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_259`. **These stand in for camp reports that do not exist in digitised form**: a title search of the Internet Archive returns twelve Camp Perrot items and none for 1955, 1956 or 1957, and the collection search returns only the association's own volumes for those years — see [f_5715]. The season lengths and attendance are at [f_5714].
 
+29. YMCA of Montreal annual reports for the years ending **31 March 1947** and **31 March 1954** [src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1954], the staff paragraphs. "Norman J. Millington" appointed Membership Secretary of Central Branch in 1946-47, and "Mr. N. A. Millington, Executive Secretary of Westmount Branch" appointed Metropolitan Assistant Secretary on 1 September 1954 — the 1954 volume's *A* is very probably a scan of the *J* the 1947 volume spells out. Read 2026-09-08 under p_490. See [f_5756].
 ## Research Notes
 
 ### Revision History

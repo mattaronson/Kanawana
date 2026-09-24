@@ -7,16 +7,24 @@ been caught here in a second:
      tuple, kb/facts.json was never written, and the commit went through with
      only half the change in it.
 
-  2. DUPLICATE OR MALFORMED IDS. fact_id, source_id, article_id and
-     conflict_id must each be unique and well formed; a duplicated source_id
-     makes every [src_x] citation to it ambiguous.
+  2. DUPLICATE OR MALFORMED IDS, AND FIELDS OF THE WRONG TYPE. fact_id,
+     source_id, article_id and conflict_id must each be unique and well
+     formed; a duplicated source_id makes every [src_x] citation to it
+     ambiguous. A fact's claim must be a non-empty string and its sources,
+     entities and conflicts_with must be lists -- a claim that is not a string
+     parses as valid JSON, passes every id check, and then crashes three other
+     verify scripts on the regex that reads it.
 
   3. GENERATED FILES OUT OF DATE. kb/plaque-audit/person-index.json and the
      table in wiki/people/multi-year-index.md are outputs of build_index.py and
      build_table.py. Editing either by hand, or changing the builder without
      re-running it, is how the wiki came to state three counts its own index
-     contradicted. This regenerates both into a scratch copy and fails if the
-     committed files differ.
+     contradicted. Three fields of wiki/articles.json -- word_count,
+     open_questions and article_count -- are likewise outputs, of
+     scripts/wiki/build_article_counts.py; they were hand-written until
+     2026-09-05, when half the file turned out to be stale (p_417). This
+     regenerates all three files into a scratch copy and fails if the committed
+     files differ.
 
 BLOCKING vs ADVISORY. A check earns the right to fail a build by being
 actionable by whoever just pushed. Duplicate source_ids are real -- twenty of
@@ -31,6 +39,39 @@ Exit 1 on any BLOCKING failure.
 import json, io, os, re, sys, subprocess, shutil, tempfile, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Source records whose cache_path may legitimately name a DIRECTORY rather than
+# a file, with the reason for each. Everything else with a directory cache_path
+# fails, because a directory always exists and so satisfies the existence check
+# below while telling a later reader nothing about which document was consulted.
+#
+# WHY THIS LIST EXISTS. On 2026-09-07, nine item-level records for individual
+# issues of Canadian Camping -- src_ia_canadian_camping_1952_04 and eight
+# siblings -- were found naming `sources/cache/canadian-camping/`, the folder
+# holding all 164 issues. Each claimed read_state "extracted" on the basis
+# "asserted:read-in-full-from-cached-corpus", and each carried char_count 0.
+# So nine records asserted a full read of a document they did not identify, and
+# every existing check passed: the path existed, the id was unique, the record
+# was cited. They were repaired by naming the file and measuring char_count;
+# the read itself stays asserted, because repairing a path does not read a
+# document. Found while working p_487, which exists because the same shape of
+# error -- an asserted state nothing ever measures -- had just been found in
+# the Green Triangle run (f_5591).
+DIR_CACHE_OK = {
+    # Collection-level records. The directory IS the source: these stand for a
+    # whole downloaded run, and the item-level records name the files.
+    'src_ia_green_triangle_collection',
+    'src_ia_canadian_camping_collection',
+    'src_openlibrary_search_inside',
+    # Image sets. There is no single text file to name.
+    'src_flickr_kanawana_plaque_album',
+    'src_flickr_kanawana_concordia_historical_album',
+    'src_kanawana_physical_archive_scans_2026',
+    # Sets of short per-place fiches fetched together in one pass.
+    'src_ct_fiches_kanawana_2026',
+    'src_ct_fiches_neighbour_camps_2026',
+}
+
+
 def P(*p): return os.path.join(ROOT, *p)
 
 JSON_FILES = ['kb/facts.json', 'kb/conflicts.json', 'wiki/articles.json',
@@ -80,7 +121,21 @@ def main():
         if facts.get('fact_count') != len(ids):
             bad.append('kb/facts.json: fact_count is %r, there are %d facts'
                        % (facts.get('fact_count'), len(ids)))
+        # A claim that is not a string parses as valid JSON and passes every id
+        # check, then crashes three other verify scripts on the regex that reads
+        # it. That happened on 2026-09-05, from a stray comma turning a claim
+        # into a tuple; the file was committed-clean by this script and broken
+        # for citation_aim, staleness and restricted_guard. Types are checked
+        # here so the failure lands where the defect is.
+        SHAPE = {'claim': str, 'sources': list, 'confidence': str,
+                 'entities': list, 'conflicts_with': list}
         for f in facts['facts']:
+            for field, want in SHAPE.items():
+                if field in f and not isinstance(f[field], want):
+                    bad.append('%s: %s is %s, expected %s'
+                               % (f['fact_id'], field, type(f[field]).__name__, want.__name__))
+            if isinstance(f.get('claim'), str) and not f['claim'].strip():
+                bad.append('%s: claim is empty' % f['fact_id'])
             pub = f.get('publication')
             if pub and pub.get('status') not in (None, 'embargoed', 'released'):
                 bad.append('%s: publication.status %r is not recognised' % (f['fact_id'], pub['status']))
@@ -90,32 +145,142 @@ def main():
         rec = s if isinstance(s, list) else s['sources']
         sids = [r['source_id'] for r in rec]
         dup = [k for k, v in collections.Counter(sids).items() if v > 1]
+        # BLOCKING SINCE 2026-09-07, when p_303's record half cleared. It shipped
+        # advisory because twenty pre-existing groups -- 45 records for 20 ids,
+        # src_flickr_kanawana alone held by six -- would have failed every build
+        # until the backlog was worked, which trains everyone to ignore the
+        # output. Every group turned out to describe ONE document under two or
+        # more records, and they were merged field by field under a stated rule
+        # (longest title, most precise date with its own precision, longest
+        # origin_url, most specific type, highest reliability, first non-empty
+        # read-state fields), with every distinct note and every other URL kept
+        # in the merged record. No fact or article needed repointing, because
+        # the id never changed -- which is exactly why nothing had noticed.
         if dup:
-            note.append('sources/sources.json: %d source_id(s) held by more than one record; '
-                        'a [src_] citation to any of them is ambiguous. Pre-existing and queued '
-                        'as p_303 -- advisory until that clears, then make this blocking. '
-                        'First few: %s' % (len(dup), sorted(dup)[:5]))
+            bad.append('sources/sources.json: %d source_id(s) held by more than one record; '
+                       'a [src_] citation to any of them is ambiguous, and the checks that '
+                       'resolve a citation will silently take whichever record they reach '
+                       'first. Merge them into one record per document, or give the genuinely '
+                       'different document its own id. First few: %s'
+                       % (len(dup), sorted(dup)[:5]))
+
+        # every source_id a fact cites must have a record here. A fact written
+        # by hand can invent one, and forty-two of them had, silently, for
+        # months (p_220). The count in the queue drifted between the day it was
+        # taken and the day it was fixed, which is why this is a check and not
+        # a number written down somewhere.
+        if not any(b.startswith('kb/facts.json') for b in bad):
+            known = set(sids)
+            dangling = collections.Counter()
+            for f in facts['facts']:
+                for sid in f.get('sources', []):
+                    if sid not in known:
+                        dangling[sid] += 1
+            if dangling:
+                bad.append('kb/facts.json cites %d source_id(s) with no record in '
+                           'sources/sources.json: %s. Do not drop the citation. Decide for '
+                           'each whether it is a variant of an existing record (remap the '
+                           'fact) or a source never indexed (add a record saying it was '
+                           'reconstructed from the citation and not read) -- see '
+                           'project-docs/source-id-remap-2026-09-06.md for how the first '
+                           'forty-two were handled.'
+                           % (len(dangling), sorted(dangling)[:8]))
+
+    # 2b. the same cached text filed under two paths. Found by the p_284 verify
+    # pass, which had to notice by hand that the Green Triangle issue of
+    # 1938-07-29 sat in the cache twice: a grep across sources/cache/ then
+    # double-counts, and a coverage sweep over "how many issues are cached"
+    # overstates. Advisory, and it names the groups rather than proposing a
+    # deletion: these are cached primary texts and which copy is canonical is
+    # a decision for a person, not for this script.
+    import hashlib
+    seen = collections.defaultdict(list)
+    for root, _, files in os.walk(P('sources/cache')):
+        for fn in files:
+            fp = os.path.join(root, fn)
+            try:
+                with open(fp, 'rb') as fh:
+                    blob = fh.read()
+            except OSError:
+                continue
+            if not blob.strip():
+                continue      # empty files and .gitkeep are not duplicate content
+            seen[hashlib.md5(blob).hexdigest()].append(os.path.relpath(fp, ROOT))
+    dup = {h: sorted(v) for h, v in seen.items() if len(v) > 1}
+    if dup:
+        extra = sum(len(v) - 1 for v in dup.values())
+        total = sum(len(v) for v in seen.values())
+        first = sorted(dup.values())[:2]
+        note.append('sources/cache: %d file(s) of %d are byte-identical copies of another '
+                    'cached file, in %d group(s). A grep across the cache double-counts them '
+                    'and a "how many issues are cached" sweep overstates. First few: %s'
+                    % (extra, total, len(dup), first))
 
     # 3. generated files
     tmp = tempfile.mkdtemp(prefix='kanawana-regen-')
     try:
         for rel in ['kb', 'wiki', 'scripts', 'sources']:
             shutil.copytree(P(rel), os.path.join(tmp, rel), dirs_exist_ok=True)
-        for script in ['scripts/plaque/build_index.py', 'scripts/plaque/build_table.py']:
+        for script in ['scripts/plaque/build_index.py', 'scripts/plaque/build_table.py',
+                       'scripts/wiki/build_article_counts.py']:
             r = subprocess.run([sys.executable, script], cwd=tmp,
                                capture_output=True, text=True)
             if r.returncode != 0:
                 bad.append('%s: exits %d when re-run -- %s'
                            % (script, r.returncode, (r.stderr or '').strip()[-300:]))
-        for rel in ['kb/plaque-audit/person-index.json', 'wiki/people/multi-year-index.md']:
+        for rel in ['kb/plaque-audit/person-index.json', 'wiki/people/multi-year-index.md',
+                    'wiki/articles.json']:
             a, b = P(rel), os.path.join(tmp, rel)
             if os.path.exists(a) and os.path.exists(b):
                 if io.open(a, encoding='utf-8').read() != io.open(b, encoding='utf-8').read():
-                    bad.append('%s is not what its builder produces. Re-run '
-                               'scripts/plaque/build_index.py then build_table.py and commit '
-                               'the result -- do not edit it by hand.' % rel)
+                    builder = ('scripts/wiki/build_article_counts.py'
+                               if rel == 'wiki/articles.json'
+                               else 'scripts/plaque/build_index.py then build_table.py')
+                    detail = ('' if rel != 'wiki/articles.json' else
+                              ' Only word_count, open_questions and article_count are '
+                              'generated; every other field in that file is hand-maintained.')
+                    bad.append('%s is not what its builder produces. Re-run %s and commit '
+                               'the result -- do not edit those fields by hand.%s'
+                               % (rel, builder, detail))
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
+
+    # Every cache_path resolves to something on disk.
+    #
+    # WHY. On 2026-09-07 a source record was found whose cache_path named a .pdf
+    # that does not exist (the file on disk is the .txt of the same name), and
+    # another that held TWO paths in a single-path field, so it resolved to
+    # nothing at all. A path that resolves to nothing is INDISTINGUISHABLE FROM
+    # A SOURCE NEVER CACHED: a later pass greps it, finds nothing, and reads the
+    # absence as an absence of evidence. That is the same failure as an
+    # unrecorded null, one layer down.
+    #
+    # This says nothing about whether the file is the whole document -- 29 cache
+    # files legitimately serve 99 records as shared sweeps, and many caches are
+    # excerpts whose read_state says so. Size proves nothing here and was tried:
+    # a size test flagged 25 records, and every one checked turned out honest,
+    # its read_state_basis naming exactly which part had been read. What is
+    # checkable is existence, so that is what is checked.
+    try:
+        with open(P('sources', 'sources.json'), encoding='utf-8') as fh:
+            _src = json.load(fh)
+        _rows = _src['sources'] if isinstance(_src, dict) else _src
+        for _s in _rows:
+            _cp = _s.get('cache_path')
+            if _cp and not os.path.exists(P(_cp)):
+                bad.append('source %s: cache_path %r does not exist. A path that '
+                           'resolves to nothing looks exactly like a source that was '
+                           'never cached.' % (_s.get('source_id'), _cp))
+            elif _cp and os.path.isdir(P(_cp)) \
+                    and _s.get('source_id') not in DIR_CACHE_OK:
+                bad.append('source %s: cache_path %r is a DIRECTORY. Existence is '
+                           'not provenance -- a directory always exists, so this '
+                           'record passes the check above while pointing at every '
+                           'file in the folder at once. Name the file, or add the '
+                           'id to DIR_CACHE_OK in this script with a reason.'
+                           % (_s.get('source_id'), _cp))
+    except Exception as exc:                      # sources.json parse is checked above
+        note.append('cache_path existence not checked: %s' % exc)
 
     print('=' * 70)
     print('DATA INTEGRITY')
