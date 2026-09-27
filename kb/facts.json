@@ -1,6 +1,6 @@
 {
-  "version": "11.88",
-  "kb_version": "11.88",
+  "version": "11.89",
+  "kb_version": "11.89",
   "migrated_from": "3.3",
   "fact_count": 5820,
   "facts": [
@@ -105024,11 +105024,11 @@
     },
     {
       "fact_id": "f_5852",
-      "claim": "THE 2022 STAFF GARMENT IS A LONG-SLEEVED TEE, SO FAR AS THE PHOTOGRAPH SHOWS. The 2022 staff shirt photographed from the back on 2026-09-27 is laid flat with a sleeve running well past the elbow line, which reads as a long-sleeved tee rather than the short-sleeved shirt this project had assumed. The garment is bunched in the photograph and the sleeve is not fully extended, so this is read off the image and is not confirmed by the operator.",
+      "claim": "BOTH STAFF GARMENTS ARE SHORT-SLEEVED. The 2022 and 2023 Kanawana staff shirts are short-sleeved tees, on the operator's direct observation of the garments. [CORRECTED 2026-09-27. This fact first read the 2022 shirt as LONG-sleeved, off the back photograph, in which the garment is laid flat and bunched and a fold of the body reads as a sleeve running past the elbow line. It was recorded as inferred rather than stated and flagged to the operator for confirmation, which is what caught it. The photograph is not wrong; the reading of it was.]",
       "sources": [
-        "src_photo_staff_shirts_2022_2023"
+        "src_oral_aronson_merch_design_2026"
       ],
-      "confidence": "inferred",
+      "confidence": "stated",
       "category": "culture",
       "entities": [
         "Camp Kanawana",

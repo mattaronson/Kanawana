@@ -660,7 +660,9 @@ Kanawana; photograph supplied by the operator.^40*
     **all four faces are photographed**: `tshirt-staff-2022.jpg`, `-2022-back.jpg`, `tshirt-staff-2023.jpg`,
     `-2023-back.jpg`. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
     [f_5846], and both back prints with the Y mark over PERSONNEL / STAFF at [f_5850]. The garment reads as a
-    long-sleeved tee in the 2022 back photograph, recorded as an observation and not confirmed, at [f_5852].
+    **Both garments are short-sleeved tees** [f_5852], on the operator's direct observation. This project first read
+    the 2022 shirt as long-sleeved off the back photograph, in which the garment is laid flat and a fold of the body
+    passes for a sleeve; the reading was recorded as unconfirmed, which is what caught it.
     **The 2023 garment is purple**, on the operator's direct observation and corrected from this project's earlier
     reading of navy. The photographs cannot settle it: the front frame's plain cloth averages hue 222 degrees and the
     back frame's hue 314, both heavily desaturated under different light.

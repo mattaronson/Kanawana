@@ -9447,3 +9447,16 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   shirts' rule. Needs the operator, not research.
   PENDING: the 2019 L&V team shirts, to be supplied. Noted in p_504.
   All eleven verify checks pass.
+
+[2026-09-27] SLEEVE CORRECTION -- both staff shirts are short-sleeved
+  Operator's direct observation. f_5852 had read the 2022 garment as long-sleeved off the back
+  photograph, in which the shirt lies flat and bunched and a fold of the body passes for a sleeve
+  running past the elbow line. Corrected in place; the misreading and its cause are kept in the fact.
+  Worth noting how this one was caught. f_5852 was recorded as INFERRED rather than stated and
+  explicitly flagged to the operator for a one-line confirmation, because the sleeve was not extended
+  in the frame. The hedge did its job. The colour error two entries up was not hedged and had to be
+  caught by the operator unprompted -- same photographs, same class of mistake, different outcome
+  depending on whether the uncertainty was written down.
+  src_photo_staff_shirts_2022_2023 now carries a second caution alongside the colour one: do not read
+  garment cut from these images either. kb/facts.json v11.88 -> v11.89.
+  All eleven verify checks pass.
