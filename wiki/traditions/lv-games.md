@@ -1,7 +1,7 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 21*
+*Last Updated: 2026-09-26*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. **The camp's own 1988 report states it plainly**, under Programme Highlights: "1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created."^13 The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
@@ -162,6 +162,12 @@ The upshot is a stronger continuity claim than this article previously made. **T
 
 *This resolves conflict `c_021`, which was raised when the trophy was first transcribed and could not be settled from documents alone.*
 
+## Team Colours
+
+Each team has a colour, and the colours are as old as the Games: the **Lumbermen are green** and the **Voyageurs are red**, the same pairing since the first Games in 1947.^21 The colours follow the emblems, so the Lumbermen's axe is green and the Voyageurs' paddle is red wherever the two are shown together.
+
+No document yet found in this project records the colours. The attribution rests on the operator's own knowledge from his years at camp as camper, counsellor and program director. The perpetual trophy's red-painted backing is consistent with the tradition but does not by itself establish it, since the backing carries both teams' emblems.^18 A season report, program sheet or photograph that shows team pinnies, banners or face paint in colour would give the tradition a documentary anchor.
+
 ## The Capitaine Role
 
 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive. Leigh Evans, who attended Camp Kanawana for six summers (one as a camper, one as a Leader-in-Training, four as staff), was named Capitaine for the Voyageur team in 2012. She credited Camp Kanawana with shaping her career as an educator.^6
@@ -208,8 +214,7 @@ The editors were making a case rather than a remark. The same issue carries an i
 16. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
 17. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
 18. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form and span, and — read shield by shield — the winners roll tabulated above. See [f_1996], [f_2000], [f_2001]. Four shields were illegible in the photographs and were supplied separately (source 16); 1961 alone remains unread. The earlier note here that the shields were "not yet reliably transcribed" described the state of the work in August 2026 and no longer holds.
-19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
-20. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice in *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). Yard directed Camp Pine Crest in the 1950s and early 1960s and was CCA President 1953-55; the article is undated and describes Pine Crest, not Kanawana.
+19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.Q. Operator knowledge (Matt Aronson), 2026-09-26: "The axe is Lumbermen = Green, that's been the way it's been since '47," and the Voyageurs are red by the same tradition [src_oral_aronson].
 
 ## The 1966 discrepancy — resolved in favour of the trophy
 
@@ -243,6 +248,7 @@ Three possibilities, in the order this article thinks likeliest:
 
 ## Open Questions
 
+- **[New 2026-09-26] Can the team colours be documented?** Green for the Lumbermen and red for the Voyageurs rests on operator knowledge alone. Colour photographs of pinnies, banners or face paint, or a season report naming the colours, would anchor it; the earliest such evidence would also show whether the colours were fixed in 1947 or settled later.
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
 - **[Attributed, not read — 2026-08-14] 1961 is the one season not taken from the trophy.** The four shields obscured in the photographs were supplied directly (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen); 1961 was not, and has never been read. It is entered as a **Voyageur** win on the operator's standing instruction, *"61 is Voyageurs until proven wrong"* — explicitly provisional, and the burden of proof now sits with the contrary reading. **Reading that shield remains the single highest-value verification left in this article**: it is the sole support for the longest run in the Games' history (Voyageurs 1959–1963), and every running margin from 1961 onward moves by one if it turns out to say Lumbermen.
 - ~~**[New, critical] Resolve conflict c_021 — the 2020/2021 discrepancy.**~~ **[Resolved 2026-08-14]** The 2020 Games were played remotely — volunteer alumni and campers competing in individual and online challenges from their socially-distanced bubbles — and the 2021 Games were not held. This reconciles the trophy, the Owens gap, the documented closures and the "78th edition" count simultaneously. See "The remote 2020 Games" above.
@@ -263,6 +269,7 @@ Three possibilities, in the order this article thinks likeliest:
 
 ### Revision History
 
+- **2026-09-26** — Added the Team Colours section (Lumbermen green, Voyageurs red, since 1947) from operator knowledge; no documentary source yet, flagged as an open lead.
 - **2026-07-09** — Corrected an overstated parallel: this article previously treated YMCA Hayo-Went-Ha's "Woodsmen"/"Voyageurs" names as a second example of the L&V-style competing-team format. Direct fetches of both program pages show these are age-based program levels, not a Color-War-style team pair — the naming echo is real but isn't evidence of a shared competitive tradition.
 
 <!-- RALPH process log (informal, not reader-facing). -->

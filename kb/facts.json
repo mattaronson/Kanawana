@@ -2,7 +2,7 @@
   "version": "6.26",
   "kb_version": "6.26",
   "migrated_from": "3.3",
-  "fact_count": 4796,
+  "fact_count": 4797,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85953,6 +85953,26 @@
         "src_photo_trudeau_letter_1978"
       ],
       "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.26",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4835",
+      "claim": "The L&V Games team colours are green for the Lumbermen (axe) and red for the Voyageurs (paddle), unchanged since the first Games in 1947. Stated by Matt Aronson on 2026-09-26: \"The axe is Lumbermen = Green, that's been the way it's been since '47\"; he confirmed the Voyageurs are red by the same tradition. No documentary source has yet been found.",
+      "category": "traditions",
+      "entities": [
+        "L&V Games",
+        "Lumbermen",
+        "Voyageurs",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
       "conflicts_with": [],
       "added_version": "6.26",
       "added_by": "manual"
