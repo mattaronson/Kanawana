@@ -1,6 +1,6 @@
 {
-  "version": "11.86",
-  "kb_version": "11.86",
+  "version": "11.87",
+  "kb_version": "11.87",
   "migrated_from": "3.3",
   "fact_count": 5815,
   "facts": [
@@ -104911,7 +104911,7 @@
     },
     {
       "fact_id": "f_5846",
-      "claim": "THE 2023 STAFF SHIRT: A RETRO SUNSET DISC WITH A K CUT OUT OF IT. A navy shirt carrying a single front print: a circle divided into three horizontal bands of colour, yellow at the top, orange in the middle and coral-red at the bottom, in the 1970s banded-sunset manner, the bands separated by gaps of the navy shirt showing through. A large angular letter K is knocked out of the disc in the same navy, its upright a wide vertical bar filled with a sketched conifer silhouette, its arms heavy diagonal strokes reaching to the right edge of the circle. No lettering, no date and no camp name appear on the design: the mark is expected to be read as Kanawana's on its own.",
+      "claim": "THE 2023 STAFF SHIRT: A RETRO SUNSET DISC WITH A K CUT OUT OF IT. A purple shirt carrying a single front print: a circle divided into three horizontal bands of colour, yellow at the top, orange in the middle and coral-red at the bottom, in the 1970s banded-sunset manner, the bands separated by gaps of the purple shirt showing through. A large angular letter K is knocked out of the disc in the same purple, its upright a wide vertical bar filled with a sketched conifer silhouette, its arms heavy diagonal strokes reaching to the right edge of the circle. No lettering, no date and no camp name appear on the design: the mark is expected to be read as Kanawana's on its own. [CORRECTED 2026-09-27 on the operator's direct observation of the garment: the shirt is PURPLE, recorded here as navy until he said otherwise. The error was mine and the photographs could not have settled it either way: sampled over the plain cloth, the front frame averages #252a35, a blue at hue 222 degrees, and the back frame averages #30272e, a magenta at hue 314 degrees, both at very low saturation under different light. Two photographs of one garment disagreeing by ninety degrees of hue is the signature of a dark desaturated colour photographed under mixed white balance, and it is not a basis for naming a colour.]",
       "sources": [
         "src_photo_staff_shirts_2022_2023"
       ],
@@ -104985,7 +104985,7 @@
     },
     {
       "fact_id": "f_5850",
-      "claim": "THE BACK PRINTS, AND THE FRENCH ABOVE THE ENGLISH AT EQUAL SIZE. The 2022 shirt's back carries the YMCA Y mark over '2022 / PERSONNEL / STAFF'; the 2023 shirt's back carries the Y mark over 'KANAWANA / PERSONNEL / STAFF' in white. On both back prints the French 'PERSONNEL' appears above the English 'STAFF' at equal size. The YMCA wordmark appears on these garments only on the back. [CONFIRMED BY PHOTOGRAPH 2026-09-27, both garments. Both Y marks carry the registered-trademark symbol. 2022: a single dark charcoal on natural white, stacked and centred between the shoulder blades, '2022' below the mark in a smaller and lighter weight, PERSONNEL and STAFF in heavy sans-serif capitals on two lines. 2023: white on navy, the Y mark over three lines of heavy sans-serif capitals. The equal-size claim was checked rather than taken: cap heights measured off the photographs give PERSONNEL 204 px against STAFF 194 px on the 2022 back, and KANAWANA 275, PERSONNEL 265, STAFF 294 on the 2023 back, in frames 2576 px tall. Every line is within about ten per cent of its neighbours, which is inside what the camera angle and the bunched fabric can account for. The measurement corroborates the operator's account and does not contradict it.]",
+      "claim": "THE BACK PRINTS, AND THE FRENCH ABOVE THE ENGLISH AT EQUAL SIZE. The 2022 shirt's back carries the YMCA Y mark over '2022 / PERSONNEL / STAFF'; the 2023 shirt's back carries the Y mark over 'KANAWANA / PERSONNEL / STAFF' in white. On both back prints the French 'PERSONNEL' appears above the English 'STAFF' at equal size. The YMCA wordmark appears on these garments only on the back. [CONFIRMED BY PHOTOGRAPH 2026-09-27, both garments. Both Y marks carry the registered-trademark symbol. 2022: a single dark charcoal on natural white, stacked and centred between the shoulder blades, '2022' below the mark in a smaller and lighter weight, PERSONNEL and STAFF in heavy sans-serif capitals on two lines. 2023: white on purple, the Y mark over three lines of heavy sans-serif capitals. The equal-size claim was checked rather than taken: cap heights measured off the photographs give PERSONNEL 204 px against STAFF 194 px on the 2022 back, and KANAWANA 275, PERSONNEL 265, STAFF 294 on the 2023 back, in frames 2576 px tall. Every line is within about ten per cent of its neighbours, which is inside what the camera angle and the bunched fabric can account for. The measurement corroborates the operator's account and does not contradict it.]",
       "sources": [
         "src_photo_staff_shirts_2022_2023"
       ],

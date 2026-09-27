@@ -9412,3 +9412,16 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   else. The 2022 garment is the reverse: name and founding date on the front, year on the back.
   Both Y marks carry the registered-trademark symbol.
   kb/facts.json v11.85 -> v11.86, 5814 -> 5815. Credits 262 images. All eleven verify checks pass.
+
+[2026-09-27] COLOUR CORRECTION -- the 2023 staff shirt is purple, not navy
+  Operator's direct observation of the garment. This project had named the colour off the photographs
+  and should not have: sampled over the plain cloth, the front frame averages #252a35, a blue at hue
+  222 degrees, and the back frame averages #30272e, a magenta at hue 314 degrees, both at very low
+  saturation. Two frames of one garment ninety degrees apart in hue is the signature of a dark
+  desaturated colour shot under mixed white balance, and it is not a basis for naming a colour.
+  Corrected in f_5846 (amended in place, the error and the measurements kept), f_5850, the source
+  record, both credits entries and the article. kb/facts.json v11.86 -> v11.87.
+  src_photo_staff_shirts_2022_2023 now carries a standing caution: do not name this colour from the
+  images. Worth generalising -- the other garment is natural white and safe, but any future colour
+  claim off a photograph in this collection needs the object or the operator behind it.
+  All eleven verify checks pass.

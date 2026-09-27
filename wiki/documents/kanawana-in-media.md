@@ -210,9 +210,9 @@ mark, with its registered-trademark symbol, over **"2022 / PERSONNEL / STAFF"**,
 between the shoulder blades in a single dark charcoal: the year small and light, the two words of the job
 in heavy capitals. It is the only self-dating face of either garment.^40
 
-The **2023** shirt is navy. The **front** is a circle divided into three horizontal bands, yellow over
-orange over coral-red, in the 1970s banded-sunset manner, the bands separated by gaps of navy showing
-through. A large angular **K** is knocked out of the disc in the same navy, its upright a wide vertical bar
+The **2023** shirt is purple. The **front** is a circle divided into three horizontal bands, yellow over
+orange over coral-red, in the 1970s banded-sunset manner, the bands separated by gaps of the shirt showing
+through. A large angular **K** is knocked out of the disc in the same purple, its upright a wide vertical bar
 filled with a sketched conifer, its arms heavy diagonals reaching the right edge of the circle. The front
 carries no lettering whatsoever: no camp name, no date, no institution. The **back** carries the Y mark,
 with its registered-trademark symbol, over **"KANAWANA / PERSONNEL / STAFF"** in white capitals. That
@@ -617,6 +617,9 @@ Kanawana; photograph supplied by the operator.^40*
     `-2023-back.jpg`. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
     [f_5846], and both back prints with the Y mark over PERSONNEL / STAFF at [f_5850]. The garment reads as a
     long-sleeved tee in the 2022 back photograph, recorded as an observation and not confirmed, at [f_5852].
+    **The 2023 garment is purple**, on the operator's direct observation and corrected from this project's earlier
+    reading of navy. The photographs cannot settle it: the front frame's plain cloth averages hue 222 degrees and the
+    back frame's hue 314, both heavily desaturated under different light.
     That the 2023 garment names Kanawana only on its back is at [f_5853]. [f_5847] is the
     front-only reading, amended 2026-09-27 as to the YMCA wordmark under **c_074**.
     For the 1980s and 1990s art they are compared against, see [f_1580].
