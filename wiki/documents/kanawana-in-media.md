@@ -214,12 +214,17 @@ The **2023** shirt is navy. The **front** is a circle divided into three horizon
 orange over coral-red, in the 1970s banded-sunset manner, the bands separated by gaps of navy showing
 through. A large angular **K** is knocked out of the disc in the same navy, its upright a wide vertical bar
 filled with a sketched conifer, its arms heavy diagonals reaching the right edge of the circle. The front
-carries no lettering whatsoever: no camp name, no date, no institution. The **back** carries the Y mark
-over **"KANAWANA / PERSONNEL / STAFF"** in white.^40
+carries no lettering whatsoever: no camp name, no date, no institution. The **back** carries the Y mark,
+with its registered-trademark symbol, over **"KANAWANA / PERSONNEL / STAFF"** in white capitals. That
+is the only place the word Kanawana appears on the garment. Seen from the front, the wearer is
+identifiable as Kanawana by the K in the disc and by nothing else.^40
 
 **On both back prints the French "PERSONNEL" sits above the English "STAFF" at equal size.**^40 That is a
 small thing to notice and not a small thing to do. See
 [[traditions/french-language-camping|French-Language Camping]] for how long the camp took to get there.
+The equal-size claim was checked rather than taken on trust: cap heights measured off the photographs put
+every line within about ten per cent of its neighbours on both garments, which is inside what the camera
+angle and the bunched fabric account for. The measurement corroborates the account.^40
 
 **Three things standard on the camp's shirt art of the 1980s and 1990s are absent from both.** The
 [[documents/green-triangle|Green Triangle]], which the camp had been putting on its publications since the
@@ -537,6 +542,11 @@ Camp YMCA Kanawana; photograph supplied by the operator.^40*
 conifer. No lettering of any kind. Design copyright Camp YMCA Kanawana; photograph supplied by the
 operator.^40*
 
+![Kanawana staff t-shirt, 2023, back](../../assets/images/art/tshirt-staff-2023-back.jpg)
+*The back of the 2023 shirt: the Y mark over "KANAWANA / PERSONNEL / STAFF" in white. The front of this
+garment carries no lettering, so this is the only place it names itself. Design copyright Camp YMCA
+Kanawana; photograph supplied by the operator.^40*
+
 ## Open Questions
 
 1. [**Resolved for published work, 2026-09-06**; the Dave-and-Morley question stands] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? **He did, in his own book.** *The Vinyl Cafe Notebooks* (2010) carries an essay naming the camp and the lake — see the section above.^21 No camp-themed Dave and Morley story has been found. *Original text of this question follows.* [Largely resolved 2026-07-09] A full retrieval of the McMaster fonds finding aid found two distinct camp A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for full detail.
@@ -603,10 +613,11 @@ operator.^40*
     `assets/images/art/tshirt-staff-2022.jpg` and `tshirt-staff-2023.jpg`. **The years are the operator's**;
     the 2022 garment carries no printed date beyond "est. 1894" and the 2023 design carries no lettering at
     all, so neither is self-dating beyond the 2022 back's "2022". Both are identified as staff versions. The
-    **2022 back print was photographed** (`tshirt-staff-2022-back.jpg`); the **2023 back print is from
-    physical examination and has not been photographed**. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
+    **all four faces are photographed**: `tshirt-staff-2022.jpg`, `-2022-back.jpg`, `tshirt-staff-2023.jpg`,
+    `-2023-back.jpg`. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
     [f_5846], and both back prints with the Y mark over PERSONNEL / STAFF at [f_5850]. The garment reads as a
-    long-sleeved tee in the 2022 back photograph, recorded as an observation and not confirmed, at [f_5852]. [f_5847] is the
+    long-sleeved tee in the 2022 back photograph, recorded as an observation and not confirmed, at [f_5852].
+    That the 2023 garment names Kanawana only on its back is at [f_5853]. [f_5847] is the
     front-only reading, amended 2026-09-27 as to the YMCA wordmark under **c_074**.
     For the 1980s and 1990s art they are compared against, see [f_1580].
 

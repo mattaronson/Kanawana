@@ -7753,6 +7753,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Operator supplied a photograph of the 2022 shirt's back. f_5850 upgraded from description to photographic evidence for that garment: the Y mark carries its registered-trademark symbol, the year sits below it small and light, PERSONNEL and STAFF are heavy capitals of equal size. The 2023 back remains unphotographed. The garment also reads as long-sleeved, recorded as an observation at f_5852."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-27",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The 2023 back photographed, so all four faces of the two garments are now imaged. The equal-size claim for PERSONNEL over STAFF was measured off the photographs rather than taken on trust and holds on both shirts, every line within about ten per cent of its neighbours. f_5853 added: the 2023 garment names Kanawana only on its back, under the Y mark, because its front carries no lettering at all."
         }
       ],
       "ralph_loops_completed": 1,
@@ -7818,7 +7825,8 @@
         "f_5849",
         "f_5850",
         "f_5851",
-        "f_5852"
+        "f_5852",
+        "f_5853"
       ],
       "sources_cited": [
         "src_cache_canadiancampingmagazine_vol29_no1_1977february",
@@ -7862,7 +7870,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 9850,
+      "word_count": 9987,
       "tags": {
         "era": [
           "1960s",
