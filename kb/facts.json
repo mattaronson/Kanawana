@@ -1,8 +1,8 @@
 {
-  "version": "11.82",
-  "kb_version": "11.82",
+  "version": "11.83",
+  "kb_version": "11.83",
   "migrated_from": "3.3",
-  "fact_count": 5806,
+  "fact_count": 5809,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104891,6 +104891,58 @@
       "conflicts_with": [],
       "added_version": "11.82",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5845",
+      "claim": "THE 2022 STAFF SHIRT: A TOPOGRAPHIC BADGE, AND THE CAMP PUTTING ITS FOUNDING DATE ON ITS CHEST. A natural-white shirt carrying a single front print: an elongated hexagonal badge with a heavy dark outline and a thin inner keyline. The upper two thirds of the badge is a field of topographic contour lines with dashed lines running through it in the manner of mapped trails. Across the middle, 'Kanawana' in a heavy connected brush script, rising slightly to the right. Below it a solid black silhouetted treeline of conifers rises from the bottom edge, with a coral-red half-disc sun setting behind the trees at the right. Knocked out in white in the dark ground at the bottom: 'est. 1894', letterspaced, in a light sans-serif. Two colours plus the shirt.",
+      "sources": [
+        "src_photo_staff_shirts_2022_2023"
+      ],
+      "confidence": "stated",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "staff t-shirt"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "11.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5846",
+      "claim": "THE 2023 STAFF SHIRT: A RETRO SUNSET DISC WITH A K CUT OUT OF IT. A navy shirt carrying a single front print: a circle divided into three horizontal bands of colour, yellow at the top, orange in the middle and coral-red at the bottom, in the 1970s banded-sunset manner, the bands separated by gaps of the navy shirt showing through. A large angular letter K is knocked out of the disc in the same navy, its upright a wide vertical bar filled with a sketched conifer silhouette, its arms heavy diagonal strokes reaching to the right edge of the circle. No lettering, no date and no camp name appear on the design: the mark is expected to be read as Kanawana's on its own.",
+      "sources": [
+        "src_photo_staff_shirts_2022_2023"
+      ],
+      "confidence": "stated",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "staff t-shirt"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "11.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5847",
+      "claim": "WHAT THE 2022 AND 2023 SHIRTS SHOW ABOUT THE CAMP'S GRAPHIC IDENTITY AT 128 AND 129 YEARS OLD. Both designs work in the contemporary outdoor-brand idiom: a hexagonal or circular containing shape, a conifer treeline, a setting sun, a topographic contour field, flat colour and no illustration of people or activity. Neither carries the Green Triangle, the YMCA wordmark, a totem or mask motif, or the spelling 'Kamp' -- all four of which are standard on the camp's own shirt art of the 1980s and 1990s. The 2022 design names the camp 'Kanawana' alone and dates it 'est. 1894'; the 2023 design names it not at all. Operator-supplied dating; the garments carry no printed year.",
+      "sources": [
+        "src_photo_staff_shirts_2022_2023"
+      ],
+      "confidence": "inferred",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "Green Triangle",
+        "staff t-shirt"
+      ],
+      "date_ref": "2022-2023",
+      "conflicts_with": [],
+      "added_version": "11.83",
+      "added_by": "manual"
     }
   ]
 }

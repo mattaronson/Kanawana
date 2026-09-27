@@ -9336,3 +9336,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   row retired (the camp only reached Saint-Sauveur in 1910), the article cross-linked.
   Image filed: assets/images/historical/charlton-lodge-seniors-log-club-house.jpg, credited.
   All eleven verify checks pass.
+
+[2026-09-27] TWO STAFF SHIRTS, 2022 AND 2023 -- the camp's graphics after the 1990s
+  Operator supplied photographs of two finished garments. Checked against the repo first: the art
+  folder holds seven shirt items and all of them are 1980s-1990s production art from the Concordia
+  fonds. Nothing from after 1999, and no photograph of a finished garment at all. These are new.
+  Filed: assets/images/art/tshirt-staff-2022.jpg, tshirt-staff-2023.jpg. Credited (260 images).
+  Source: src_photo_staff_shirts_2022_2023. sources.json 1760 -> 1761.
+  Facts: f_5845 (the 2022 hexagonal topographic badge, "est. 1894"), f_5846 (the 2023 banded sunset
+  disc with the K knocked out of it, no lettering at all), f_5847 (what both designs dropped).
+  kb/facts.json v11.82 -> v11.83, 5806 -> 5809.
+  Written into kanawana-in-media.md as a new section after Art, sources 39 -> 40. The comparison is
+  the point: the Green Triangle, the YMCA wordmark, the Northwest-coast totem and mask motifs, the
+  bilingual joke and the spelling "Kamp" are all standard on the camp's shirt art of the 1980s and
+  1990s and absent from both of these.
+  Dating is the operator's. The 2022 garment carries no printed year beyond "est. 1894"; the 2023
+  design carries no lettering, date or camp name at all. Recorded as such, not as documented.
+  f_1580 (hand-drawn t-shirt and silkscreen art, 1980s-1990s) had been cited by no article and now
+  has a home. kanawana-in-media.md's registered facts were also badly under-recorded, 23 against 57
+  actually cited; corrected in the same pass.
+  All eleven verify checks pass.

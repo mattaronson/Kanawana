@@ -29675,7 +29675,25 @@
       "notes": "The Lookout's location above the swimming beach in the Pathfinders section; its standing at camp as the oldest building on the property; the tradition that it is the farmhouse of the 1910 storm and that the committee looked out of it the next morning to see the lake; the Lodge (1927) and the lower pavilion/Longhouse as separate buildings; the Pagé family as the vendors of the 1910 property.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_photo_staff_shirts_2022_2023",
+      "type": "web",
+      "title": "Photographs: Kanawana staff t-shirts, 2022 and 2023",
+      "date": "2022-2023",
+      "date_precision": "year",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-27T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "11.83",
+      "reliability": "primary",
+      "notes": "Two photographs of finished garments supplied by the operator 2026-09-27: a natural/white shirt with a hexagonal topographic badge (2022) and a navy shirt with a banded sunset disc and a K monogram (2023). Operator identifies both as staff versions and supplies the years; the garments carry no printed date beyond 'est. 1894' on the 2022 design. Images filed at assets/images/art/tshirt-staff-2022.jpg and tshirt-staff-2023.jpg.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
-  "source_count": 1760
+  "source_count": 1761
 }

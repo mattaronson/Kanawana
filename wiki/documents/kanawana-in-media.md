@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 39*
-*Last Updated: 2026-09-08 (the whole 1977 promotion effort, and the survey saying which of it worked)*
+*Status: E1-reviewed | Sources: 40*
+*Last Updated: 2026-09-27 (two staff shirts from 2022 and 2023, and what the camp's graphics dropped)*
 
 ## Overview
 
@@ -184,6 +184,37 @@ print and stands beside the film rather than over it.)* Nothing here says whethe
 any connection to the camp, whether the block or an impression of it survives, or where it might be.
 The Montreal Museum of Fine Arts' own collection, the National Gallery's, and the print trade are
 where to ask. *She was looked for and not found:* a book-corpus search on her name returns one item, a 1950 Boston residents list, and three web searches turn up only other artists — Sarah Robertson the Montreal painter, Doris Boulton-Maude, Doris Adeney Robertson. **She survives in this record through one catalogue of exhibition entries and nowhere else that is indexed**, which says more about how thinly Montreal's women printmakers of the 1930s are documented than about her: she showed at the Art Association for thirteen years.
+
+## The camp's own graphics, 2022 and 2023
+
+Two staff shirts supplied in 2026 are the only examples of the camp's graphic output after the 1990s this
+project holds, and they are worth setting beside the 1980s and 1990s art above because of what has gone
+missing from them.^40
+
+The **2022** shirt is natural white with a single front print: an elongated hexagonal badge, heavy dark
+outline, thin inner keyline. The upper two thirds is a field of topographic contour lines with dashed
+lines running through it in the manner of mapped trails. **"Kanawana"** crosses the middle in a heavy
+connected brush script, rising slightly to the right. Below, a solid black conifer treeline rises from the
+bottom edge with a coral-red half-disc sun setting behind it at the right, and **"est. 1894"** is knocked
+out in white in the dark ground, letterspaced, in a light sans-serif.^40
+
+The **2023** shirt is navy, and the print is a circle divided into three horizontal bands, yellow over
+orange over coral-red, in the 1970s banded-sunset manner, the bands separated by gaps of navy showing
+through. A large angular **K** is knocked out of the disc in the same navy, its upright a wide vertical bar
+filled with a sketched conifer silhouette, its arms heavy diagonals reaching the right edge of the circle.
+There is no lettering on it at all: no camp name, no date, no institution.^40
+
+**Four things standard on the camp's shirt art of the 1980s and 1990s are absent from both.** The
+[[documents/green-triangle|Green Triangle]] and the YMCA wordmark, which the camp had put on its
+publications since the 1930s; the Northwest-coast mask and totem motifs that recur across the staff art of
+1986, 1988 and 1991; the bilingual joke, of the Star-Wars-parody and *Kamp Fever* kind; and the spelling
+**"Kamp"**, which the camp used officially into the 2000s. What is there instead is the contemporary
+outdoor-brand idiom: a containing hexagon or circle, a treeline, a setting sun, a contour field, flat
+colour, and nobody in the picture doing anything.^40
+
+The 2022 design does one thing the older art rarely bothered with, which is to date the institution on the
+garment. **"est. 1894"** is the camp asserting, on a shirt, the founding claim this wiki spends an article
+on. See [[history/founding-1894|The Founding, 1894]].
 
 ## Radio
 
@@ -469,6 +500,15 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 ![“Voyageurs” program advertisement, c.1981](../../assets/images/art/voyageurs-ad-1981.jpg)
 *A “Voyageurs” program advertisement, c.1981. Copyright All rights reserved by Kanawana.*
 
+![Kanawana staff t-shirt, 2022](../../assets/images/art/tshirt-staff-2022.jpg)
+*The 2022 staff shirt: a hexagonal topographic badge, brush-script "Kanawana", a conifer treeline against a
+setting sun, and "est. 1894". Design copyright Camp YMCA Kanawana; photograph supplied by the operator.^40*
+
+![Kanawana staff t-shirt, 2023](../../assets/images/art/tshirt-staff-2023.jpg)
+*The 2023 staff shirt: a banded sunset disc with an angular K knocked out of it, its upright filled with a
+conifer. No lettering of any kind. Design copyright Camp YMCA Kanawana; photograph supplied by the
+operator.^40*
+
 ## Open Questions
 
 1. [**Resolved for published work, 2026-09-06**; the Dave-and-Morley question stands] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? **He did, in his own book.** *The Vinyl Cafe Notebooks* (2010) carries an essay naming the camp and the lake — see the section above.^21 No camp-themed Dave and Morley story has been found. *Original text of this question follows.* [Largely resolved 2026-07-09] A full retrieval of the McMaster fonds finding aid found two distinct camp A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for full detail.
@@ -525,6 +565,13 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 37. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its PROMOTION section. Cached at `sources/cache/ymca-montreal-fonds/1969-kamp-kanawana-annual-report.txt`; read 2026-09-07 under `p_491`. See [f_5688].
 38. *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987], Jay Netherwood, its Publicity and Free Publicity tables. Read 2026-09-08 under p_441. See [f_5810].
 39. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its PROMOTION section and the how-did-you-hear survey table. The same document as 33, whose acknowledgement section was read under p_492; the promotion section was read 2026-09-08 under p_441, working the document's own heading list. See [f_5825].
+
+40. **Kanawana staff t-shirts, 2022 and 2023** [src_photo_staff_shirts_2022_2023]. Two photographs of
+    finished garments supplied by the operator on 27 September 2026 and filed at
+    `assets/images/art/tshirt-staff-2022.jpg` and `tshirt-staff-2023.jpg`. **The years are the operator's**;
+    the 2022 garment carries no printed date beyond "est. 1894" and the 2023 design carries no lettering at
+    all, so neither is self-dating. Both are identified as staff versions. See [f_5845], [f_5846] and
+    [f_5847]; for the 1980s and 1990s art they are compared against, see [f_1580].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

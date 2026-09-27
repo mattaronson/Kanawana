@@ -1,7 +1,7 @@
 {
   "_comment": "Provenance manifest for the Camp Kanawana visual archive. Every identified pre-2016 image gets an entry here BEFORE the image file lands, so provenance and rights are recorded. When an image is added to this directory, set status='acquired' and fill 'filename'. Canadian copyright note: photographs created before 1949 are generally public domain in Canada (and most pre-1972 published works), so the early archival images below are safely displayable. Photo-integration batch 'photodownloads-2026-06-29' added 2026-07-02: 234 images filed from three delivered archives (Concordia historical album, dining-hall plaque album, physical-artifact/art scans). See project-docs/research-log.md.",
   "version": "1.0",
-  "updated": "2026-09-24",
+  "updated": "2026-09-27",
   "images": [
     {
       "id": "img_kanawana_from_the_water_1923",
@@ -5199,6 +5199,54 @@
       "status": "acquired",
       "priority": 1,
       "notes": "The only attestation of the name \"Charlton Lodge\" in the corpus. Sepia print on card mount, 2189x1739 as scanned. Shows the deep verandah described in The Green Triangle, 27 June 1940, as \"the veranda rail of the Lookout at Senior Camp\"."
+    },
+    {
+      "id": "img_tshirt_staff_2022",
+      "title": "Kanawana staff t-shirt, 2022 — hexagonal topographic badge",
+      "caption_on_original": "Kanawana / est. 1894",
+      "date": "2022",
+      "date_precision": "year",
+      "source": "Photographed by the operator and supplied 2026-09-27",
+      "source_ref": "src_photo_staff_shirts_2022_2023",
+      "source_url": null,
+      "rights": "Design copyright Camp YMCA Kanawana / YMCAs of Québec. Photograph of a garment in the operator's possession, supplied for this project. In copyright; recorded here as documentation, not licensed for reuse.",
+      "linked_facts": [
+        "f_5845",
+        "f_5847"
+      ],
+      "suggested_articles": [
+        "kanawana-in-media",
+        "traditions-and-culture"
+      ],
+      "target_filename": "art/tshirt-staff-2022.jpg",
+      "filename": "art/tshirt-staff-2022.jpg",
+      "status": "acquired",
+      "priority": 2,
+      "notes": "Year supplied by the operator; the garment carries no printed date beyond 'est. 1894'."
+    },
+    {
+      "id": "img_tshirt_staff_2023",
+      "title": "Kanawana staff t-shirt, 2023 — banded sunset disc with K monogram",
+      "caption_on_original": null,
+      "date": "2023",
+      "date_precision": "year",
+      "source": "Photographed by the operator and supplied 2026-09-27",
+      "source_ref": "src_photo_staff_shirts_2022_2023",
+      "source_url": null,
+      "rights": "Design copyright Camp YMCA Kanawana / YMCAs of Québec. Photograph of a garment in the operator's possession, supplied for this project. In copyright; recorded here as documentation, not licensed for reuse.",
+      "linked_facts": [
+        "f_5846",
+        "f_5847"
+      ],
+      "suggested_articles": [
+        "kanawana-in-media",
+        "traditions-and-culture"
+      ],
+      "target_filename": "art/tshirt-staff-2023.jpg",
+      "filename": "art/tshirt-staff-2023.jpg",
+      "status": "acquired",
+      "priority": 2,
+      "notes": "Year supplied by the operator; the design carries no lettering, date or camp name at all."
     }
   ],
   "moving_images": [
