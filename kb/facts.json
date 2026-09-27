@@ -1,8 +1,8 @@
 {
-  "version": "11.84",
-  "kb_version": "11.84",
+  "version": "11.85",
+  "kb_version": "11.85",
   "migrated_from": "3.3",
-  "fact_count": 5813,
+  "fact_count": 5814,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104985,7 +104985,7 @@
     },
     {
       "fact_id": "f_5850",
-      "claim": "THE BACK PRINTS, AND THE FRENCH ABOVE THE ENGLISH AT EQUAL SIZE. Physical examination of both garments: the 2022 shirt's back carries the Y mark over '2022 / PERSONNEL / STAFF'; the 2023 shirt's back carries the Y mark over 'KANAWANA / PERSONNEL / STAFF' in white. On both back prints the French 'PERSONNEL' appears above the English 'STAFF' at equal size. The YMCA wordmark appears on these garments only on the back.",
+      "claim": "THE BACK PRINTS, AND THE FRENCH ABOVE THE ENGLISH AT EQUAL SIZE. The 2022 shirt's back carries the YMCA Y mark over '2022 / PERSONNEL / STAFF'; the 2023 shirt's back carries the Y mark over 'KANAWANA / PERSONNEL / STAFF' in white. On both back prints the French 'PERSONNEL' appears above the English 'STAFF' at equal size. The YMCA wordmark appears on these garments only on the back. [CONFIRMED BY PHOTOGRAPH 2026-09-27 for the 2022 garment: the back print is a single dark charcoal colour on natural white, stacked and centred between the shoulder blades. The Y mark carries the registered-trademark symbol. '2022' sits below it in a smaller, lighter weight; 'PERSONNEL' and 'STAFF' are in heavy sans-serif capitals of the same size on two lines. The 2023 back remains described from physical examination and unphotographed.]",
       "sources": [
         "src_photo_staff_shirts_2022_2023"
       ],
@@ -105018,6 +105018,23 @@
       "date_ref": "2022-2023",
       "conflicts_with": [],
       "added_version": "11.84",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5852",
+      "claim": "THE 2022 STAFF GARMENT IS A LONG-SLEEVED TEE, SO FAR AS THE PHOTOGRAPH SHOWS. The 2022 staff shirt photographed from the back on 2026-09-27 is laid flat with a sleeve running well past the elbow line, which reads as a long-sleeved tee rather than the short-sleeved shirt this project had assumed. The garment is bunched in the photograph and the sleeve is not fully extended, so this is read off the image and is not confirmed by the operator.",
+      "sources": [
+        "src_photo_staff_shirts_2022_2023"
+      ],
+      "confidence": "inferred",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "staff t-shirt"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "11.85",
       "added_by": "manual"
     }
   ]

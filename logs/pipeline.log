@@ -9379,3 +9379,19 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   src_ymca_kanawana_town_hall and f_1109 out of an HTML comment in kate-taylor.md that exists precisely to
   say that source does not exist. Caught by verify A2. Comments are now stripped before the regex runs.
   All eleven verify checks pass.
+
+[2026-09-27] THE 2022 BACK PRINT, PHOTOGRAPHED
+  Operator supplied the back of the 2022 staff shirt. The front he sent with it is byte-identical to
+  what was already filed, so only the back is new: assets/images/art/tshirt-staff-2022-back.jpg.
+  f_5850 upgraded from description to photographic evidence for the 2022 garment. What the image adds
+  beyond the description already recorded: the Y mark carries its registered-trademark symbol; the
+  print is a single dark charcoal on natural white, stacked and centred between the shoulder blades;
+  "2022" sits below the mark small and in a lighter weight while PERSONNEL and STAFF are heavy capitals
+  of the same size on two lines. The 2023 back is still described, not photographed, and the fact and
+  source record both say so.
+  f_5852 added: the garment reads as a LONG-SLEEVED tee in the photograph, which this project had not
+  assumed. Recorded as inferred, not stated -- the shirt is bunched and the sleeve is not extended.
+  Flagged to the operator for a one-line confirmation.
+  The 2022 back is the only self-dating face of either garment, which is worth keeping in view: the
+  front says "est. 1894" and nothing about which year it was printed.
+  kb/facts.json v11.84 -> v11.85, 5813 -> 5814. Credits 261 images. All eleven verify checks pass.

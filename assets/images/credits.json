@@ -5247,6 +5247,30 @@
       "status": "acquired",
       "priority": 2,
       "notes": "Year supplied by the operator; the design carries no lettering, date or camp name at all."
+    },
+    {
+      "id": "img_tshirt_staff_2022_back",
+      "title": "Kanawana staff t-shirt, 2022 — back print",
+      "caption_on_original": "[Y mark] 2022 / PERSONNEL / STAFF",
+      "date": "2022",
+      "date_precision": "year",
+      "source": "Photographed by the operator and supplied 2026-09-27",
+      "source_ref": "src_photo_staff_shirts_2022_2023",
+      "source_url": null,
+      "rights": "Design copyright Camp YMCA Kanawana / YMCAs of Québec. Photograph of a garment in the operator's possession, supplied for this project. In copyright; recorded here as documentation, not licensed for reuse.",
+      "linked_facts": [
+        "f_5850",
+        "f_5852"
+      ],
+      "suggested_articles": [
+        "kanawana-in-media",
+        "kate-taylor"
+      ],
+      "target_filename": "art/tshirt-staff-2022-back.jpg",
+      "filename": "art/tshirt-staff-2022-back.jpg",
+      "status": "acquired",
+      "priority": 2,
+      "notes": "The only photographed back print of the two. Confirms the Y mark's placement, the registered-trademark symbol, and PERSONNEL above STAFF at equal size. The 2023 back is described from the garment and remains unphotographed."
     }
   ],
   "moving_images": [

@@ -206,7 +206,9 @@ lines running through it in the manner of mapped trails. **"Kanawana"** crosses 
 connected brush script, rising slightly to the right. Below, a conifer treeline rises in silhouette from
 the bottom edge with a coral-red half-disc sun setting behind it at the right, and **"est. 1894"** is
 knocked out in white in the dark ground, letterspaced, in a light sans-serif. The **back** carries the Y
-mark over **"2022 / PERSONNEL / STAFF"**.^40
+mark, with its registered-trademark symbol, over **"2022 / PERSONNEL / STAFF"**, stacked and centred
+between the shoulder blades in a single dark charcoal: the year small and light, the two words of the job
+in heavy capitals. It is the only self-dating face of either garment.^40
 
 The **2023** shirt is navy. The **front** is a circle divided into three horizontal bands, yellow over
 orange over coral-red, in the 1970s banded-sunset manner, the bands separated by gaps of navy showing
@@ -525,6 +527,11 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 *The 2022 staff shirt: a hexagonal topographic badge, brush-script "Kanawana", a conifer treeline against a
 setting sun, and "est. 1894". Design copyright Camp YMCA Kanawana; photograph supplied by the operator.^40*
 
+![Kanawana staff t-shirt, 2022, back](../../assets/images/art/tshirt-staff-2022-back.jpg)
+*The back of the same 2022 shirt: the Y mark over "2022 / PERSONNEL / STAFF". This is where the YMCA
+wordmark sat on camp merchandise until it moved to the front two or three years later. Design copyright
+Camp YMCA Kanawana; photograph supplied by the operator.^40*
+
 ![Kanawana staff t-shirt, 2023](../../assets/images/art/tshirt-staff-2023.jpg)
 *The 2023 staff shirt: a banded sunset disc with an angular K knocked out of it, its upright filled with a
 conifer. No lettering of any kind. Design copyright Camp YMCA Kanawana; photograph supplied by the
@@ -596,8 +603,10 @@ operator.^40*
     `assets/images/art/tshirt-staff-2022.jpg` and `tshirt-staff-2023.jpg`. **The years are the operator's**;
     the 2022 garment carries no printed date beyond "est. 1894" and the 2023 design carries no lettering at
     all, so neither is self-dating beyond the 2022 back's "2022". Both are identified as staff versions. The
-    **back prints are from physical examination and were not photographed**. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
-    [f_5846], and both back prints with the Y mark over PERSONNEL / STAFF at [f_5850]. [f_5847] is the
+    **2022 back print was photographed** (`tshirt-staff-2022-back.jpg`); the **2023 back print is from
+    physical examination and has not been photographed**. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
+    [f_5846], and both back prints with the Y mark over PERSONNEL / STAFF at [f_5850]. The garment reads as a
+    long-sleeved tee in the 2022 back photograph, recorded as an observation and not confirmed, at [f_5852]. [f_5847] is the
     front-only reading, amended 2026-09-27 as to the YMCA wordmark under **c_074**.
     For the 1980s and 1990s art they are compared against, see [f_1580].
 

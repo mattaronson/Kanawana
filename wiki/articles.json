@@ -7746,6 +7746,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Operator supplied the design history behind the 2022 and 2023 staff shirts: Kanawana merchandise is almost always staff-designed, Camp Director Kate \"Wawa\" Taylor drew both of these and kept them from the YMCA's in-house marketing team, and the Y mark sits on the back of each over PERSONNEL/STAFF with the French above the English at equal size. That last point corrects f_5847, which had read the wordmark as absent from front-only photographs; conflict c_074, resolved in favour of the physical examination."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-27",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Operator supplied a photograph of the 2022 shirt's back. f_5850 upgraded from description to photographic evidence for that garment: the Y mark carries its registered-trademark symbol, the year sits below it small and light, PERSONNEL and STAFF are heavy capitals of equal size. The 2023 back remains unphotographed. The garment also reads as long-sleeved, recorded as an observation at f_5852."
         }
       ],
       "ralph_loops_completed": 1,
@@ -7810,7 +7817,8 @@
         "f_5848",
         "f_5849",
         "f_5850",
-        "f_5851"
+        "f_5851",
+        "f_5852"
       ],
       "sources_cited": [
         "src_cache_canadiancampingmagazine_vol29_no1_1977february",
@@ -7854,7 +7862,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 9729,
+      "word_count": 9850,
       "tags": {
         "era": [
           "1960s",
