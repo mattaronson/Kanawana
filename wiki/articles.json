@@ -7739,6 +7739,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Two staff shirts from 2022 and 2023 supplied by the operator, the first examples of the camp's graphic output after the 1990s this project holds. New section comparing them against the 1980s and 1990s staff art: the Green Triangle, the YMCA wordmark, the totem and mask motifs, the bilingual joke and the spelling \"Kamp\" are all absent. Sources 39 -> 40."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-27",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Operator supplied the design history behind the 2022 and 2023 staff shirts: Kanawana merchandise is almost always staff-designed, Camp Director Kate \"Wawa\" Taylor drew both of these and kept them from the YMCA's in-house marketing team, and the Y mark sits on the back of each over PERSONNEL/STAFF with the French above the English at equal size. That last point corrects f_5847, which had read the wordmark as absent from front-only photographs; conflict c_074, resolved in favour of the physical examination."
         }
       ],
       "ralph_loops_completed": 1,
@@ -7799,7 +7806,11 @@
         "f_5825",
         "f_5845",
         "f_5846",
-        "f_5847"
+        "f_5847",
+        "f_5848",
+        "f_5849",
+        "f_5850",
+        "f_5851"
       ],
       "sources_cited": [
         "src_cache_canadiancampingmagazine_vol29_no1_1977february",
@@ -7821,6 +7832,8 @@
         "src_mcmann_aam_spring_exhibitions_1988",
         "src_newspapers_com_gazette",
         "src_newspapers_gazette_1918",
+        "src_oral_aronson",
+        "src_oral_aronson_merch_design_2026",
         "src_photo_staff_shirts_2022_2023",
         "src_torge_dear_sam_2007",
         "src_ymf_1938_11_07_kanawana_goes_on_the_air",
@@ -7829,7 +7842,7 @@
         "src_ymf_the_green_triangle_1935_07_20",
         "src_ymf_the_green_triangle_1935_07_27"
       ],
-      "open_questions": 2,
+      "open_questions": 6,
       "cross_links": [
         "centennial-1967",
         "howie-langille",
@@ -7841,7 +7854,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 9244,
+      "word_count": 9729,
       "tags": {
         "era": [
           "1960s",
@@ -9453,6 +9466,13 @@
           "at": "2026-08-14T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-27",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Operator supplied the design history behind the 2022 and 2023 staff shirts: Kanawana merchandise is almost always staff-designed, Camp Director Kate \"Wawa\" Taylor drew both of these and kept them from the YMCA's in-house marketing team, and the Y mark sits on the back of each over PERSONNEL/STAFF with the French above the English at equal size. That last point corrects f_5847, which had read the wordmark as absent from front-only photographs; conflict c_074, resolved in favour of the physical examination."
         }
       ],
       "ralph_loops_completed": 1,
@@ -9470,25 +9490,33 @@
         "f_1395",
         "f_1489",
         "f_1490",
-        "f_1493"
+        "f_1493",
+        "f_5845",
+        "f_5846",
+        "f_5848",
+        "f_5849",
+        "f_5850",
+        "f_5851"
       ],
       "sources_cited": [
         "src_campcode_95",
         "src_camphacker_147",
+        "src_gazette_covid_2021",
         "src_gocamp_pro_kate",
         "src_linkedin_kate_taylor",
         "src_mtl_families_gender",
-        "src_gazette_covid_2021",
-        "src_oral_aronson"
+        "src_oral_aronson",
+        "src_oral_aronson_merch_design_2026",
+        "src_photo_staff_shirts_2022_2023"
       ],
-      "open_questions": 2,
+      "open_questions": 4,
       "cross_links": [
         "directors-index",
         "sean-day",
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 606,
+      "word_count": 919,
       "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted. One fact (f_1109) cites a genuinely un-cached source_id (src_ymca_kanawana_town_hall, no obvious real equivalent) -- deliberately left uncited, flagged as a KB cleanup item. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [

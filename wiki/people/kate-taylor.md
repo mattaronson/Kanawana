@@ -1,7 +1,7 @@
 # Kate Taylor
 
-*Status: draft | Sources: 7*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 9*
+*Last Updated: 2026-09-27 (the camp merchandise she drew herself)*
 
 ## Overview
 
@@ -21,10 +21,29 @@ Under Taylor's directorship, Kanawana introduced a gender-expansive tent option 
 
 Taylor appeared on three camping-industry podcasts: Go Camp Pro's "Beyond Camp" episode 18 (on social media advocacy), CampHacker episode 147 (on summer self-care for camp directors), and Camp Code episode 95 (on combating learning loss in staff teams).^6 ^2 ^7
 
+## The Merchandise She Drew
+
+**Taylor designed the 2022 and 2023 Kanawana staff t-shirts herself, and kept those years' designs from
+being produced by the YMCA's in-house marketing team.**^8 That sits against the graphic-design work in her
+outside record,^1 and against a longer camp habit: Kanawana merchandise has almost always been designed by
+a member of camp staff, with a few exceptions.^8 The camper shirts of both years carried the same logo on
+a different shirt colour.^8
+
+Both garments survive in an alumnus's possession and are described in full at
+[[documents/kanawana-in-media|Kanawana in Media and Culture]]: a hexagonal topographic badge with a brush-script
+"Kanawana" and "est. 1894" for 2022, and a banded sunset disc with an angular K for 2023.^9 Each carries the
+YMCA wordmark on the back only, over "PERSONNEL / STAFF" with the French above the English at equal size, an
+arrangement the oral record says was the norm until the wordmark moved to a more prominent position in the
+last two or three years before 2026.^8 ^9
+
+These are the last two staff shirts of her tenure. She left partway through the 2023 season.^4
+
 ## Open Questions
 
 1. [Nice-to-have] What prompted Taylor's departure partway through the 2023 season?
 2. [Nice-to-have] What years specifically did Taylor direct Camp Ta-Wa-Si before coming to Kanawana?
+3. Did Taylor design camp merchandise in years other than 2022 and 2023, and if so which?^8
+4. Do the rights to the 2022 and 2023 artwork rest with the YMCA or with Taylor as designer?
 
 ## Related Articles
 
@@ -41,6 +60,8 @@ Taylor appeared on three camping-industry podcasts: Go Camp Pro's "Beyond Camp" 
 5. Montreal Families, gender-expansive tent coverage [src_mtl_families_gender].
 6. Go Camp Pro podcast, "Beyond Camp" episode 18 [src_gocamp_pro_kate].
 7. Camp Code episode 95 [src_campcode_95].
+8. Oral history, Matt Aronson, on camp merchandise design, 27 September 2026 [src_oral_aronson_merch_design_2026]: Taylor as the designer of the 2022 and 2023 staff shirts, her keeping them from the YMCA's in-house marketing team, the staff-design norm, the camper shirts, and the wordmark's recent move to the front. See [f_5848], [f_5849] and [f_5851].
+9. Physical examination and photographs of the 2022 and 2023 staff t-shirts, 27 September 2026 [src_photo_staff_shirts_2022_2023]. Fronts photographed and filed under `assets/images/art/`; back prints described from the garments. See [f_5845], [f_5846] and [f_5850].
 
 ## Research Notes
 

@@ -1135,6 +1135,20 @@
       "raised_by": "manual",
       "resolution": null,
       "resolved_at": null
+    },
+    {
+      "conflict_id": "c_074",
+      "description": "f_5847 read the YMCA wordmark as absent from the 2022 and 2023 staff shirts. It was written from photographs of the fronts alone. Physical examination of the garments (f_5850) puts the Y mark on the back of both. Not a disagreement between sources: an inference from partial evidence, corrected by direct examination of the object.",
+      "entity": "2022 and 2023 Kanawana staff t-shirts -- YMCA wordmark",
+      "facts": [
+        "f_5847",
+        "f_5850"
+      ],
+      "raised": "2026-09-27",
+      "raised_by": "auto",
+      "resolution": "Resolved in favour of f_5850, the physical examination. f_5847 amended in place with a SUPERSEDED IN PART note limited to the wordmark; its other four observations stand. The superseded reading is preserved, not deleted.",
+      "resolved_at": "2026-09-27",
+      "status": "resolved"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "version": "11.83",
-  "kb_version": "11.83",
+  "version": "11.84",
+  "kb_version": "11.84",
   "migrated_from": "3.3",
-  "fact_count": 5809,
+  "fact_count": 5813,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104928,11 +104928,11 @@
     },
     {
       "fact_id": "f_5847",
-      "claim": "WHAT THE 2022 AND 2023 SHIRTS SHOW ABOUT THE CAMP'S GRAPHIC IDENTITY AT 128 AND 129 YEARS OLD. Both designs work in the contemporary outdoor-brand idiom: a hexagonal or circular containing shape, a conifer treeline, a setting sun, a topographic contour field, flat colour and no illustration of people or activity. Neither carries the Green Triangle, the YMCA wordmark, a totem or mask motif, or the spelling 'Kamp' -- all four of which are standard on the camp's own shirt art of the 1980s and 1990s. The 2022 design names the camp 'Kanawana' alone and dates it 'est. 1894'; the 2023 design names it not at all. Operator-supplied dating; the garments carry no printed year.",
+      "claim": "WHAT THE 2022 AND 2023 SHIRTS SHOW ABOUT THE CAMP'S GRAPHIC IDENTITY AT 128 AND 129 YEARS OLD. Both FRONT designs work in the contemporary outdoor-brand idiom: a hexagonal or circular containing shape, a conifer treeline, a setting sun, a topographic contour field, flat colour and no illustration of people or activity. Neither front carries the Green Triangle, the YMCA wordmark, a totem or mask motif, or the spelling 'Kamp' -- all four of which are standard on the camp's own shirt art of the 1980s and 1990s. The 2022 front names the camp 'Kanawana' alone and dates it 'est. 1894'; the 2023 front names it not at all. Operator-supplied dating; the fronts carry no printed year. [SUPERSEDED IN PART 2026-09-27, as to the YMCA wordmark only: this fact was written from photographs of the FRONTS alone and read the wordmark's absence there as absence from the garment. Physical examination shows the Y mark on the BACK of both shirts -- see f_5850. The wordmark is not absent, it is placed where the wearer cannot see it, which the oral record at f_5848 says was the norm until the last two or three years before 2026. Every other element listed above is confirmed absent.]",
       "sources": [
         "src_photo_staff_shirts_2022_2023"
       ],
-      "confidence": "inferred",
+      "confidence": "disputed",
       "category": "culture",
       "entities": [
         "Camp Kanawana",
@@ -104940,8 +104940,84 @@
         "staff t-shirt"
       ],
       "date_ref": "2022-2023",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_5850"
+      ],
       "added_version": "11.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5848",
+      "claim": "KANAWANA MERCHANDISE HAS ALMOST ALWAYS BEEN DESIGNED BY CAMP STAFF, AND THE Y MARK ONLY RECENTLY MOVED TO THE FRONT. Camp merchandise has almost always been designed by a member of camp staff, with a few exceptions. The YMCA wordmark moved to a more prominent position on camp merchandise only in the last two or three years before 2026; before that it sat where the 2022 and 2023 staff shirts put it, on the back.",
+      "sources": [
+        "src_oral_aronson_merch_design_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA",
+        "staff t-shirt"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "11.84",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5849",
+      "claim": "THE 2022 AND 2023 STAFF SHIRTS WERE DESIGNED BY THE CAMP DIRECTOR, WHO KEPT THEM AWAY FROM HEAD OFFICE. Camp Director Kate 'Wawa' Taylor designed the 2022 and 2023 staff t-shirts, and kept those years' designs from being produced by the YMCA's in-house marketing team.",
+      "sources": [
+        "src_oral_aronson_merch_design_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Kate Taylor",
+        "Wawa",
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": "2022-2023",
+      "conflicts_with": [],
+      "added_version": "11.84",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5850",
+      "claim": "THE BACK PRINTS, AND THE FRENCH ABOVE THE ENGLISH AT EQUAL SIZE. Physical examination of both garments: the 2022 shirt's back carries the Y mark over '2022 / PERSONNEL / STAFF'; the 2023 shirt's back carries the Y mark over 'KANAWANA / PERSONNEL / STAFF' in white. On both back prints the French 'PERSONNEL' appears above the English 'STAFF' at equal size. The YMCA wordmark appears on these garments only on the back.",
+      "sources": [
+        "src_photo_staff_shirts_2022_2023"
+      ],
+      "confidence": "stated",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA",
+        "staff t-shirt"
+      ],
+      "date_ref": "2022-2023",
+      "conflicts_with": [
+        "f_5847"
+      ],
+      "added_version": "11.84",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5851",
+      "claim": "THE CAMPER SHIRTS OF 2022 AND 2023 CARRIED THE SAME DESIGN ON A DIFFERENT COLOUR. The camper shirts for 2022 and 2023 used the same logo as the staff shirts, printed on a different shirt colour. Which colours is not recorded.",
+      "sources": [
+        "src_oral_aronson_merch_design_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "staff t-shirt"
+      ],
+      "date_ref": "2022-2023",
+      "conflicts_with": [],
+      "added_version": "11.84",
       "added_by": "manual"
     }
   ]

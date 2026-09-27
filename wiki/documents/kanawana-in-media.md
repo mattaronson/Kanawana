@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-09-27 (two staff shirts from 2022 and 2023, and what the camp's graphics dropped)*
+*Status: E1-reviewed | Sources: 41*
+*Last Updated: 2026-09-27 (staff-designed merchandise; the 2022 and 2023 shirts, their backs, and who drew them)*
 
 ## Overview
 
@@ -185,32 +185,53 @@ any connection to the camp, whether the block or an impression of it survives, o
 The Montreal Museum of Fine Arts' own collection, the National Gallery's, and the print trade are
 where to ask. *She was looked for and not found:* a book-corpus search on her name returns one item, a 1950 Boston residents list, and three web searches turn up only other artists — Sarah Robertson the Montreal painter, Doris Boulton-Maude, Doris Adeney Robertson. **She survives in this record through one catalogue of exhibition entries and nowhere else that is indexed**, which says more about how thinly Montreal's women printmakers of the 1930s are documented than about her: she showed at the Art Association for thirteen years.
 
-## The camp's own graphics, 2022 and 2023
+## Staff-designed merchandise, and two shirts from 2022 and 2023
 
-Two staff shirts supplied in 2026 are the only examples of the camp's graphic output after the 1990s this
-project holds, and they are worth setting beside the 1980s and 1990s art above because of what has gone
-missing from them.^40
+**Kanawana's merchandise has almost always been designed by a member of camp staff, with a few
+exceptions.**^41 That is the fact that makes the shirt art in this article's Art section something other
+than marketing collateral: the 1986, 1988 and 1991 staff designs, the Star-Wars parody and the *Kamp
+Fever* graphic are all in-house work, and so are the two most recent examples this project holds.
 
-The **2022** shirt is natural white with a single front print: an elongated hexagonal badge, heavy dark
+The **2022 and 2023 staff t-shirts were designed by Camp Director Kate "Wawa" Taylor**, who kept those
+years' designs from being produced by the YMCA's in-house marketing team.^41 See
+[[people/kate-taylor|Kate Taylor]], whose own record includes work as a graphic designer outside the camp.
+The camper shirts for both years used the same logo on a different shirt colour.^41
+
+Two staff garments supplied in 2026 are the only examples of the camp's graphic output after the 1990s
+this project holds, and they are worth setting beside the older art for what has changed.^40
+
+The **2022** shirt is natural white. The **front** carries an elongated hexagonal badge, heavy dark
 outline, thin inner keyline. The upper two thirds is a field of topographic contour lines with dashed
 lines running through it in the manner of mapped trails. **"Kanawana"** crosses the middle in a heavy
-connected brush script, rising slightly to the right. Below, a solid black conifer treeline rises from the
-bottom edge with a coral-red half-disc sun setting behind it at the right, and **"est. 1894"** is knocked
-out in white in the dark ground, letterspaced, in a light sans-serif.^40
+connected brush script, rising slightly to the right. Below, a conifer treeline rises in silhouette from
+the bottom edge with a coral-red half-disc sun setting behind it at the right, and **"est. 1894"** is
+knocked out in white in the dark ground, letterspaced, in a light sans-serif. The **back** carries the Y
+mark over **"2022 / PERSONNEL / STAFF"**.^40
 
-The **2023** shirt is navy, and the print is a circle divided into three horizontal bands, yellow over
+The **2023** shirt is navy. The **front** is a circle divided into three horizontal bands, yellow over
 orange over coral-red, in the 1970s banded-sunset manner, the bands separated by gaps of navy showing
 through. A large angular **K** is knocked out of the disc in the same navy, its upright a wide vertical bar
-filled with a sketched conifer silhouette, its arms heavy diagonals reaching the right edge of the circle.
-There is no lettering on it at all: no camp name, no date, no institution.^40
+filled with a sketched conifer, its arms heavy diagonals reaching the right edge of the circle. The front
+carries no lettering whatsoever: no camp name, no date, no institution. The **back** carries the Y mark
+over **"KANAWANA / PERSONNEL / STAFF"** in white.^40
 
-**Four things standard on the camp's shirt art of the 1980s and 1990s are absent from both.** The
-[[documents/green-triangle|Green Triangle]] and the YMCA wordmark, which the camp had put on its
-publications since the 1930s; the Northwest-coast mask and totem motifs that recur across the staff art of
-1986, 1988 and 1991; the bilingual joke, of the Star-Wars-parody and *Kamp Fever* kind; and the spelling
-**"Kamp"**, which the camp used officially into the 2000s. What is there instead is the contemporary
-outdoor-brand idiom: a containing hexagon or circle, a treeline, a setting sun, a contour field, flat
-colour, and nobody in the picture doing anything.^40
+**On both back prints the French "PERSONNEL" sits above the English "STAFF" at equal size.**^40 That is a
+small thing to notice and not a small thing to do. See
+[[traditions/french-language-camping|French-Language Camping]] for how long the camp took to get there.
+
+**Three things standard on the camp's shirt art of the 1980s and 1990s are absent from both.** The
+[[documents/green-triangle|Green Triangle]], which the camp had been putting on its publications since the
+1930s; the Northwest-coast mask and totem motifs that recur across the staff art of 1986, 1988 and 1991;
+and the spelling **"Kamp"**, which the camp used officially into the 2000s. What is there instead is the
+contemporary outdoor-brand idiom: a containing hexagon or circle, a treeline, a setting sun, a contour
+field, flat colour, and nobody in the picture doing anything.
+
+**The YMCA wordmark is a fourth case and a different one.** It is on both garments, on the back, where the
+wearer cannot see it and a photograph of the front will not find it. This project first recorded it as
+absent, from front-only photographs, and the correction is logged at **c_074**. The oral record says the
+wordmark moved to a more prominent position on camp merchandise only in the last two or three years before
+2026,^41 which makes these two shirts a record of the arrangement immediately before that change: the
+camp's own mark on the chest, the institution's on the shoulder blades.
 
 The 2022 design does one thing the older art rarely bothered with, which is to date the institution on the
 garment. **"est. 1894"** is the camp asserting, on a shirt, the founding claim this wiki spends an article
@@ -515,6 +536,10 @@ operator.^40*
 2. [**Answered 2026-09-06**] Are there other published works of fiction or memoir set at or inspired by Kanawana? **Three, and none is about the camp** — Jan Elvin's *The Box from Braunau* (2009), Janet Torge's *Dear Sam* (2007) and the *Dictionary of Literary Biography*'s entry on McLean (2011), all set out in the section above. The question is not closed, because all three were found in one sweep of a single full-text index and the sweep is not finished.
 3. Do any Montreal television news archives contain footage of camp events (e.g., centennial, Pip Award ceremonies)?
 4. [Partially resolved, negative result 2026-07-09] The Concordia Archives hold photographs, slides, and film from multiple decades — have any been published or exhibited? Separately, the McMaster Stuart McLean fonds' own photo series (Box 97) was checked and confirmed to contain NO camp/Kanawana-tagged photographs — ruling out that specific archive as a source, though the original Concordia-held photographs remain unexamined for publication/exhibition history.
+5. Who designed camp merchandise before 2022, year by year, and which years were the exceptions not designed by camp staff?^41
+6. In which year did the YMCA wordmark first move to the front of camp merchandise?^41
+7. What colours were the 2022 and 2023 camper shirts?^41
+8. Do the rights to the 2022 and 2023 artwork rest with the YMCA or with the designer?
 
 ## Related Articles
 
@@ -570,8 +595,19 @@ operator.^40*
     finished garments supplied by the operator on 27 September 2026 and filed at
     `assets/images/art/tshirt-staff-2022.jpg` and `tshirt-staff-2023.jpg`. **The years are the operator's**;
     the 2022 garment carries no printed date beyond "est. 1894" and the 2023 design carries no lettering at
-    all, so neither is self-dating. Both are identified as staff versions. See [f_5845], [f_5846] and
-    [f_5847]; for the 1980s and 1990s art they are compared against, see [f_1580].
+    all, so neither is self-dating beyond the 2022 back's "2022". Both are identified as staff versions. The
+    **back prints are from physical examination and were not photographed**. The 2022 hexagonal topographic badge is at [f_5845], the 2023 banded sunset disc at
+    [f_5846], and both back prints with the Y mark over PERSONNEL / STAFF at [f_5850]. [f_5847] is the
+    front-only reading, amended 2026-09-27 as to the YMCA wordmark under **c_074**.
+    For the 1980s and 1990s art they are compared against, see [f_1580].
+
+41. **Matt Aronson, oral history on camp merchandise design**, 27 September 2026
+    [src_oral_aronson_merch_design_2026], as former camper, counsellor and programme director. The
+    staff-design norm and its exceptions, the YMCA wordmark's recent move to a more prominent position,
+    Kate "Wawa" Taylor as the designer of the 2022 and 2023 staff shirts and her keeping them from the
+    YMCA's in-house marketing team, and the camper shirts of those years. Part of the ongoing oral history
+    recorded at [src_oral_aronson]; given its own dated record in keeping with this project's practice for
+    topic-specific oral testimony. See [f_5848], [f_5849] and [f_5851].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

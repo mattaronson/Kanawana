@@ -9356,3 +9356,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   has a home. kanawana-in-media.md's registered facts were also badly under-recorded, 23 against 57
   actually cited; corrected in the same pass.
   All eleven verify checks pass.
+
+[2026-09-27] STAFF-DESIGNED MERCHANDISE -- and a correction I had to make to my own fact
+  Operator supplied the design history behind the 2022 and 2023 shirts, and one piece of it contradicts
+  what this project wrote two commits ago. f_5847 said the YMCA wordmark was absent from both garments.
+  It is not absent. It is on the BACK of both, over "PERSONNEL / STAFF". The fact had been written from
+  photographs of the fronts, and absence-from-the-photograph was read as absence-from-the-object.
+  c_074 raised and resolved the same day in favour of the physical examination. f_5847 amended in place
+  with a SUPERSEDED IN PART note limited to the wordmark; its other four observations stand and the
+  superseded reading is preserved, not deleted.
+  New facts: f_5848 (merchandise almost always staff-designed, few exceptions; the Y mark moved to a more
+  prominent position only in the last two or three years before 2026), f_5849 (Camp Director Kate "Wawa"
+  Taylor designed both shirts and kept them from the YMCA's in-house marketing team), f_5850 (the back
+  prints, and the French PERSONNEL above the English STAFF at equal size), f_5851 (camper shirts, same
+  logo, different colour). kb/facts.json v11.83 -> v11.84, 5809 -> 5813.
+  Source: src_oral_aronson_merch_design_2026. src_photo_staff_shirts_2022_2023 broadened to cover the
+  physical examination of the backs, which were not photographed. sources.json 1761 -> 1762.
+  kanawana-in-media.md: section rewritten as "Staff-designed merchandise", sources 40 -> 41, four new open
+  questions. kate-taylor.md: new section "The Merchandise She Drew", sources 7 -> 9, two open questions.
+  Her outside record already had graphic-design work in it (f_1395), which now has something to sit against.
+  Second correction, process: registering facts and sources by regex over the raw markdown scooped
+  src_ymca_kanawana_town_hall and f_1109 out of an HTML comment in kate-taylor.md that exists precisely to
+  say that source does not exist. Caught by verify A2. Comments are now stripped before the regex runs.
+  All eleven verify checks pass.
