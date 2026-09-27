@@ -91,7 +91,7 @@ record as though it were a finding.
 These are deliberately NON-BLOCKING and print as a separate section. They
 measure the project's reading discipline, not any article's correctness.
 """
-import json, os, re
+import json, os, pathlib, re
 from collections import defaultdict
 
 # Derived, not hardcoded: this runs on a CI runner as well as in the session
@@ -117,6 +117,11 @@ link_re    = re.compile(r'\[\[([^\]]+?)\]\]')
 cite_re    = re.compile(r'\^(\d+)')
 srcref_re  = re.compile(r'\bsrc_[A-Za-z0-9_]+')   # matches ids inside combined brackets too, e.g. [src_a, src_b]
 hdr_src_re = re.compile(r'^\*Status:\s*([a-zA-Z0-9\-]+)\s*\|\s*Sources:\s*(\d+)', re.M)
+# Reader-facing articles carry no visible status line -- "R3-verified" is pipeline
+# vocabulary and does not belong in front of a reader. They carry the same two
+# fields in an HTML comment instead, which the reader never sees and this harness
+# still binds to. Added 2026-09-07 with the first such article (julien-tasse).
+meta_src_re = re.compile(r'^<!--\s*meta:\s*status=([a-zA-Z0-9\-]+)\s*\|\s*sources=(\d+)', re.M)
 srcline_re = re.compile(r'^(\d+)\.\s', re.M)
 
 def article_path(a):
@@ -135,13 +140,29 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
     body = parts[0]
     srcsec = re.split(r'^## ', parts[1], flags=re.M)[0] if len(parts) > 1 else ''
 
+    # 2026-09-07: a reader-facing article carries the same two fields in an HTML
+    # comment instead of a visible status line, because "draft"/"R3-verified" is
+    # pipeline vocabulary and does not belong in front of a reader. Its status is
+    # necessarily 'reader-facing' and will not equal articles.json's pipeline
+    # status, so the status comparison is skipped for that form -- articles.json
+    # keeps the pipeline state and a separate reader_facing flag records the rest.
     m = hdr_src_re.search(text)
-    if not m:
-        issues.append('F: no parseable "*Status: X | Sources: N*" header line')
+    mm = meta_src_re.search(text) if not m else None
+    if not m and not mm:
+        issues.append('F: no parseable "*Status: X | Sources: N*" header line '
+                      'and no "<!-- meta: status=... | sources=N -->" comment')
         hdr_n = None
+    elif mm:
+        hdr_n = int(mm.group(2))
+        if not a.get('reader_facing'):
+            issues.append('F: carries a reader-facing meta header but articles.json '
+                          'does not set reader_facing: true')
     else:
         hdr_status, hdr_n = m.group(1), int(m.group(2))
-        if hdr_status != a['status']:
+        if a.get('reader_facing'):
+            issues.append('F: articles.json sets reader_facing: true but the article '
+                          'still carries a visible pipeline status line')
+        elif hdr_status != a['status']:
             issues.append('F: header status %r != articles.json status %r' % (hdr_status, a['status']))
 
     numbered = srcline_re.findall(srcsec)
@@ -180,8 +201,10 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
     if bad_links:
         issues.append('E: broken wiki-links: %s' % sorted(set(bad_links)))
 
-    if not re.search(r'^\*Last Updated:', text, re.M):
-        issues.append('G: no "*Last Updated:*" line')
+    # G accepts the reader-facing form's updated= field for the same reason.
+    if not re.search(r'^\*Last Updated:', text, re.M) and not re.search(
+            r'^<!--\s*meta:.*\bupdated=\d{4}-\d{2}-\d{2}', text, re.M):
+        issues.append('G: no "*Last Updated:*" line and no updated= in the meta comment')
 
     report[a['article_id']] = issues
 
@@ -202,6 +225,7 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
 wide = {}
 wide_a1 = {}
 wide_g = {}
+wide_d = {}
 for a in arts:
     p = article_path(a)
     if not os.path.exists(p):
@@ -227,9 +251,33 @@ for a in arts:
             wide_g[a['article_id']] = (a['status'], dupes, gaps)
 
     # A1 wide: header count against the entries actually present.
-    mh = hdr_src_re.search(tx)
-    if mh and int(mh.group(2)) != len(numbered_list) and numbered_list:
-        wide_a1[a['article_id']] = (a['status'], int(mh.group(2)), len(numbered_list))
+    #
+    # 2026-09-07. This used to be `if mh and ...`, so an article with NO header at
+    # all passed silently -- there was nothing to compare, so nothing was reported.
+    # No article had fallen into that hole until a reader-facing rewrite dropped the
+    # visible status line, and then the harness said "ok" because it had stopped
+    # looking rather than because the article was sound. Same shape as the two scope
+    # notes above: a check that only fires when it finds something to check cannot
+    # tell "correct" from "absent".
+    mh = hdr_src_re.search(tx) or meta_src_re.search(tx)
+    if numbered_list:
+        if not mh:
+            wide_a1[a['article_id']] = (a['status'], 'NO HEADER', len(numbered_list))
+        elif int(mh.group(2)) != len(numbered_list):
+            wide_a1[a['article_id']] = (a['status'], int(mh.group(2)), len(numbered_list))
+
+    # D wide: a [src_] reference to an id that is not in sources.json. Widened
+    # 2026-09-06 (f_5120). The draft-only D had let src_kk_preparation_guide_2025
+    # sit in canadian-camping-movement.md, at E1-reviewed, for as long as the note
+    # existed -- the record is src_kk_prep_guide_2025 -- and it surfaced only
+    # because the note was carried into a NEW DRAFT during a spinout. Widening it
+    # immediately found two more, in camp-oolahwan.md, also E1-reviewed, both
+    # written from the shape of a cache filename rather than looked up. That is the
+    # same failure the earlier ids were: DO NOT DERIVE A SOURCE ID FROM A FILENAME.
+    wd = sorted(s for br in re.findall(r'\[([^\]]*src_[^\]]*)\]', tx)
+                for s in srcref_re.findall(br) if s not in SRC_IDS)
+    if wd:
+        wide_d[a['article_id']] = (a['status'], sorted(set(wd)))
 
 clean = [k for k, v in report.items() if not v]
 dirty = {k: v for k, v in report.items() if v}
@@ -270,7 +318,41 @@ if not wide_a1:
     print('    none')
 for k in sorted(wide_a1):
     st, hdr, n = wide_a1[k]
-    print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
+    if hdr == 'NO HEADER':
+        print('    %-32s [%s] NO status/sources header at all, %d entries present' % (k, st, n))
+    else:
+        print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
+
+# WHOLE-WIKI: a .md under wiki/ that articles.json has never heard of. Added
+# 2026-09-06. A spinout wrote cca-national-office.md, three articles linked to it,
+# and EVERY CHECK PASSED -- because every per-article check iterates articles.json,
+# so a file missing from it is not checked, it is invisible. Link integrity resolves
+# file paths and was satisfied. An unregistered article has no status, so it never
+# appears in the draft passes; it has no sources_cited, so A2 cannot compare
+# anything; and it is absent from every count the wiki reports about itself.
+_reg = {os.path.join(ROOT, 'wiki', a['wiki_folder'], a['article_id'] + '.md') for a in arts}
+_skip = {os.path.join(ROOT, 'wiki', 'README.md'),
+         os.path.join(ROOT, 'wiki', 'articles', 'README.md'),
+         os.path.join(ROOT, 'wiki', 'sources', 'README.md')}
+_ondisk = {str(f) for f in pathlib.Path(os.path.join(ROOT, 'wiki')).rglob('*.md')} - _skip
+wide_r = sorted(_ondisk - _reg)
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: .md files under wiki/ missing from articles.json (%d)' % len(wide_r))
+print('=' * 70)
+if not wide_r:
+    print('    none')
+for k in wide_r:
+    print('    %s' % os.path.relpath(k, ROOT))
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: [src_] refs that are not source ids (%d article(s), all statuses)' % len(wide_d))
+print('=' * 70)
+if not wide_d:
+    print('    none')
+for k in sorted(wide_d):
+    st, bad = wide_d[k]
+    print('    %-32s [%s] not in sources.json: %s' % (k, st, bad))
 
 print('\n' + '=' * 70)
 print('WHOLE-WIKI: duplicate or missing source NUMBERS (%d article(s), all statuses)' % len(wide_g))
@@ -291,7 +373,28 @@ facts = json.load(open(os.path.join(ROOT, 'kb/facts.json')))['facts']
 conflicts_raw = json.load(open(os.path.join(ROOT, 'kb/conflicts.json')))
 conflicts = conflicts_raw if isinstance(conflicts_raw, list) else conflicts_raw.get('conflicts', [])
 
-VALID_READ_STATES = {'extracted', 'skimmed', 'unopened', 'unavailable', 'unknown'}
+# The vocabulary actually in use. This set was {extracted, skimmed, unopened,
+# unavailable, unknown} until 2026-09-06, which was stale: the corpus had been using
+# 'partial', 'read', 'unread', 'snippet' and 'unverified_backfill' for months, and the
+# check was printing 223 records as INVALID. A checker that cries wolf about a fifth of
+# the corpus hides the records that are genuinely mislabelled, so the set now names what
+# each value means and is meant to be kept current.
+#
+#   extracted            -- read, and its facts are in the KB
+#   partial              -- part of it read; the basis must say which part
+#   read                 -- read, with nothing extracted (legacy; prefer extracted)
+#   skimmed              -- keyword-swept, not read
+#   swept                -- matched against a stated pattern and did not match, so not
+#                           read; a fact about the pattern, not the document
+#   snippet              -- only a fragment is held (search-inside, quoted excerpt)
+#   unread / unopened    -- nobody has opened it
+#   unavailable          -- cannot be opened from here; the basis must name the barrier
+#   unverified_backfill  -- state asserted by a bulk script, never checked
+#   unknown              -- state genuinely undetermined
+VALID_READ_STATES = {
+    'extracted', 'partial', 'read', 'skimmed', 'swept', 'snippet',
+    'unread', 'unopened', 'unavailable', 'unverified_backfill', 'unknown',
+}
 
 cited_by_fact = set()
 for f in facts:
@@ -531,7 +634,7 @@ if m_unreadable:
 # out to have no sys.exit at all: it reported everything and always exited 0,
 # so nothing it found could ever fail a build.
 #
-# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all three whole-wiki passes.
+# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all five whole-wiki passes.
 # These are integrity failures -- a marker that resolves nowhere, a source id
 # that is not a source, a header that miscounts its own list.
 #
@@ -544,15 +647,16 @@ if m_unreadable:
 BLOCKING_CLASSES = {'A1', 'A2', 'B', 'D', 'E', 'F', 'G'}
 _blocking = sorted({k for v in dirty.values() for i in v
                     if (k := i.split(':')[0]) in BLOCKING_CLASSES})
-_wide = len(wide) + len(wide_a1) + len(wide_g)
+_wide = len(wide) + len(wide_a1) + len(wide_g) + len(wide_d) + len(wide_r)
 
 print('\n' + '=' * 70)
 if _blocking or _wide:
     print('FAIL -- blocking issue classes present: %s' % (_blocking or 'none'))
     if _wide:
         print('       plus %d whole-wiki finding(s): %d unresolvable marker(s), '
-              '%d header mismatch(es), %d numbering break(s)'
-              % (_wide, len(wide), len(wide_a1), len(wide_g)))
+              '%d header mismatch(es), %d numbering break(s), %d dead source id(s), '
+              '%d unregistered file(s)'
+              % (_wide, len(wide), len(wide_a1), len(wide_g), len(wide_d), len(wide_r)))
     print('=' * 70)
     sys.exit(1)
 print('PASS -- no blocking issue class, no whole-wiki finding')

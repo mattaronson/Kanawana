@@ -29,13 +29,13 @@ Adam has spent 25 years in Dawson College's Community Recreation and Leadership 
 ## Sources
 
 1. YMCA Quebec, "Chris Adam Receives Camp YMCA Kanawana Pip Award" (2017) [src_ymca_pip_adam].
-2. YMCA Quebec, "Chris Adam Receives the Camp YMCA Kanawana Pip Award" (2017), 10th-recipient numbering [src_ymca_pip_adam_2017].
+2. YMCA Quebec, "Chris Adam Receives the Camp YMCA Kanawana Pip Award" (2017), 10th-recipient numbering [src_ymca_pip_adam].
 3. Kanawana Alumni News / *Ka-News* (1980), Nature Awareness program [src_ka_news_1980].
 4. YMCA Quebec (2017); *Ka-News* (1980), identity cross-reference [src_ymca_pip_adam].
 5. Dawson College, Chris Adam research page [src_dawson_chris_adam].
 6. CBC News, "Montreal's Dawson College wins international sustainability award" (2022) [src_cbc_dawson_green_gown].
 7. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal" [src_dawson_adam_ggmsm].
-8. Dawson College, Chris Adam researcher profile (M.Ed., wildlife/fish management) [src_dawson_adam_research].
+8. Dawson College, Chris Adam researcher profile (M.Ed., wildlife/fish management) [src_dawson_chris_adam].
 
 ## Research Notes
 

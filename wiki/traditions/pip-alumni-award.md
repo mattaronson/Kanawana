@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 28*
+*Last Updated: 2026-09-15 (the award's own plaque: the roll completed, and the missing recipient named)*
 
 ## Overview
 
@@ -25,6 +25,14 @@ Caddell joined the Royal Canadian Hussars reserve while at university. In 1995, 
 
 Both Caddell and Newell worked for the federal government in Ottawa — Caddell as Senior Program Manager at Human Resources Development Canada — before leaving their posts in June 2004 for a round-the-world trip.^7 ^8 ^15 Their itinerary took them across Australia, to Hanoi and Angkor Wat, through humanitarian work in East Timor and Indonesia, and to two months as CMAT volunteers at an orphanage in Kannyakumari district, Tamil Nadu, working with children orphaned by the 2004 tsunami — an experience that, by all accounts, changed them both.^7 ^15 They continued through Nepal, Gallipoli, Jerusalem, Provence, Buenos Aires, and Santiago before arriving by bus in Bolivia.^15
 
+**And a year before that, he wrote the trip down himself.** The *McGill News* for **Fall 2004** carried "Traveling Out of the Comfort Zone," a signed two-page dispatch by Caddell, sent to the alumni quarterly from the road. It is the only thing in this project written by him, and one of two first-person long-form documents by a Kanawana person the project has ever identified.^26
+
+He gives the trip an origin the obituaries do not. It was not planned so much as provoked, on their honeymoon in Kenya in 2002: a Land Rover broke down "in a tiny community of a few mud houses near the base of Mount Kenya," in exactly the sort of place they had been warned to avoid, and the hours that followed — children going through their pockets and putting hands in Tara's hair — became "the most memorable experience of our trip." The radiator cap was replaced with one off an old water can and duct tape, "my suggestion, since all Canadian soldiers learn that anything can be fixed with duct tape." Planning began "roughly ten seconds after we returned."^26
+
+He also gives the numbers: a budget of **$100 CDN a day** in the United States, Australia and Western Europe and **$50 in developing countries**, against a planned route through "North America, Australia, Southeast Asia, the Indian subcontinent, the Middle East, Africa, Europe and South America." And he names his own post more narrowly than the obituary does — "a **senior advisor in the Canada Student Loans Program**," with Tara "the manager of Ministerial Support for the National Secretariat on Homelessness," both within Human Resources Development Canada. A refinement from the man himself, not a correction of the record.^26
+
+*What is not in it is worth saying plainly.* **Kanawana is never named**, nor the YMCA, nor summer camp, nor Quebec; both pages were searched for all of them. The single line that touches this camp's world is seven words long, in a passage about trying to fish in Tasmania: "Although we consider ourselves outdoorsy types, **being veteran canoe trippers**, neither of us have much interest in hunting or fishing." That is how a Kanawana upbringing surfaces here — unprompted, as a description of himself at thirty-one, on the other side of the world, from a man who had been tripping out of this camp since 1983. **The article does not make that connection, and this article does not either.**^26
+
 Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary edema caused by altitude sickness. He had suffered altitude sickness nine months earlier on Mount Everest above 5,000 metres; Tupiza sits below 3,000 metres, but no one in the hotel or local hospital recognized the symptoms or had oxygen.^7 ^15 His memorial service was held in Ottawa on November 5, 2005, with obituaries published in the Globe and Mail and Ottawa Citizen.^15 Tara Newell subsequently founded the James Caddell Memorial Foundation to provide educational opportunities for marginalized girls in India, and went on to spend 16 years with MSF (including as Emergency Coordinator in Syria and as MSF's Representative to the United Nations); as of 2025, she is Chief Programs Officer at CARE Canada.^15 ^17
 
 ## Recipients
@@ -34,32 +42,75 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 | 2007 | Richard "Itche" Kerr | Camper; camp song composer | Volunteer work with the physically challenged^3 |
 | 2008 | Richard Patten | YMCA day camps alumnus | MPP for Ottawa Centre; Montreal YMCA Executive Director (1976–79); CHEO Foundation CEO^9 |
 | 2009 | Stuart McLean | Counsellor 1969–73; Asst. Director 1974–75 | CBC broadcaster, *Vinyl Cafe* host, Officer of the Order of Canada^3 |
-| 2010 | — | *No documented recipient* | — |
+| 2010 | — | *No entry on the plaque* | — |
 | 2011 | Bruce Netherwood | Staff, late 1980s–1990s | VP Camping Services, South Shore YMCA (Massachusetts)^3 |
 | 2012 | John Cleghorn | Alumnus; chaired Montreal YMCA | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
 | 2013 | Sam Lazarus (posthumous) & family | Camper and staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser, 17+ years.^3 ^19 ^20 |
-| 2014 | Jeniene Phillips Birks | Alumna | CBC Montreal television journalist; community volunteer^3 |
+| 2014 | Jeniene Phillips-Birks | Alumna | CBC Montreal television journalist; community volunteer^3 |
 | 2015 | Terry "Aislin" Mosher | Camper 1952–53 | Montreal Gazette editorial cartoonist; Officer of the Order of Canada^2 |
 | 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate; Master's in Art Therapy; Director of YMCA Camp Hayward; CMHA Art Therapist^1 |
 | 2017 | Chris Adam | Former staff | Director of Sustainability Office, Dawson College; environmental educator^3 |
 | 2018 | Dr. Marina Sharpe | Former camper and staff | DPhil Law (Oxford, Trudeau Scholar); Assoc. Professor of International Law, RMC Saint-Jean; Director, Trudeau Foundation; author of *The Regional Law of Refugee Protection in Africa* (OUP, 2018)^4 |
 | 2019 | Dr. Amy Ornstein | Former staff (years not yet established) | Professor of Pediatrics and Head of General Pediatrics, Dalhousie University; Medical Director, IWK Suspected Trauma and Abuse Response Team (START); BSc Concordia, MDCM McGill^21 ^22 |
-| 2020–2023 | Dr. Karl Cernovich | *Not yet established* | "A leader in emergency medicine"^23 |
+| 2020 | — | *No entry on the plaque* | — |
+| 2021 | — | *No entry on the plaque* | — |
+| 2022 | Karl Cernovitch | *Not yet established* | "A leader in emergency medicine"^23 ^28 |
+| 2023 | [[people/sean-day\|Sean Day]] | Camper, counsellor, then Director of Camp YMCA Kanawana and Regional Director of Camps, 2005 – April 2023 | Named on the plaque only; no citation for the award beyond the board itself^28 |
 | 2024 | Dr. James Orbinski | Camper/counsellor 1980s–90s | President MSF International Council; accepted 1999 Nobel Peace Prize; Officer of the Order of Canada; Principal, Massey College, U of T^5 |
 | 2025 | Alexandra Olshefsky | Camper through 2002; **Ranger 2002**; **Knight of Kanawana 2002** | Public defender and community volunteer^23 |
-| 2026 | Jared MacSween | Camper 1982–86; staff 1987–91 | General Manager, YMCA Cedar Glen Outdoor Centre; Manager of Training, YMCA Ontario Regional Development Centre 2012–24; 20+ years in youth work — transitional housing in Toronto, a City of Montreal/YMCA youth drop-in centre, and YMCAs of Quebec camping programmes; BA Applied Human Science and Diploma in Social Studies, Concordia^23 |
+| 2026 | [[people/jared-macsween\|Jared MacSween]] | Camper 1982–86; staff 1987–91 | General Manager, YMCA Cedar Glen Outdoor Centre; Manager of Training, YMCA Ontario Regional Development Centre 2012–24; 20+ years in youth work — transitional housing in Toronto, a City of Montreal/YMCA youth drop-in centre, and YMCAs of Quebec camping programmes; BA Applied Human Science and Diploma in Social Studies, Concordia^23 |
 
-**The count, fixed by two ordinals.** YMCA Quebec calls Orbinski **the 15th recipient** (2024) and the 2026 release calls Jared MacSween **the 17th** — so the 16th falls in **2025**.^5 ^23 The release's list of previous recipients is *selective*: it omits Bruce Netherwood (2011) and Chris Adam (2017). But the names it does carry run in **chronological order**, which places **Karl Cernovich** between Amy Ornstein (2019) and James Orbinski (2024), and **Alexandra Olshefsky** after Orbinski — making Olshefsky the 16th, of 2025, and putting Cernovich in one of 2020–2023.
+**The count, fixed by three ordinals.** The 2015 release calls Terry Mosher **"the eighth person to receive the award"**, YMCA Quebec calls Orbinski **the 15th recipient** (2024), and the 2026 release calls Jared MacSween **the 17th** — so the 16th falls in **2025**.^5 ^23 ^27 **The 2015 ordinal is the one that anchors the early years**, and it was found on 2026-09-07 in a page this project had cached and cited for eight facts without using this sentence. Counting the table above through 2015 gives exactly eight recipients, which it does only if **2010 had no award** — so the blank row there is now corroborated from outside the table rather than inferred from a gap in the newsroom. The release's list of previous recipients is *selective*: it omits Bruce Netherwood (2011) and Chris Adam (2017). But the names it does carry run in **chronological order**, which places **Karl Cernovich** between Amy Ornstein (2019) and James Orbinski (2024), and **Alexandra Olshefsky** after Orbinski — making Olshefsky the 16th, of 2025, and putting Cernovich in one of 2020–2023.
 
 **One recipient was already on this wiki's walls.** Alexandra Olshefsky, named in the 2026 release as a past recipient, is documented on two photographed dining-hall plaques from the 2002 season: the **Rangers 2002** board, which names her among eight Rangers, and the **Order of the Knights of Kanawana** roll, which carries "Lady Ali Olshefsky" for 2002 [f_4815]. The operator, who was staff that year, confirms she was a camper through 2002 and was knighted that summer [f_4816]. **Checked against the twenty-nine-name Knights roll, hers is the only name that also appears among the sixteen known Pip recipients** — knighted as a camper for mastery inside the camp, and given the Pip more than twenty years later for what she carried out of it. It is the first time this project can follow a Knight of Kanawana past the gate [f_4818]. *(This article stated an hour earlier that she appeared nowhere else in the wiki or KB. That was false and unchecked; see [f_4808].)*
 
 **On the spelling.** Three documents give **Olshefsky** — both 2002 plaques and the 2026 release; the operator recalled *Olshevsky*. The documented spelling stands under the standing directive, and two of the three documents are contemporary painted records of that season [f_4817].
 
+## The plaque, photographed 2026
+
+The award has a board at camp, and it is the only complete record of the roll this project holds. It was
+photographed and supplied by the operator on **15 September 2026**.^28 A bilingual header plate sits over
+two columns of engraved year strips, seventeen of them, running 2007 to 2026. Every strip is transcribed
+into the table above. [f_5830]
+
+**The header, in both languages.** The title is set as one bilingual line, **"Prix « PIP » Award"**, rather
+than as two. Beneath it, in French: "À la mémoire de Philip "Pip" Caddell (Kanawana '28) et James Caddell
+(Kanawana '83-'91). Présenté aux **Kanawanien(ne)s** qui représentent les valeurs Non Nobis Solum dans le
+monde au-delà du camp." And in English: "In memory of Philip "Pip" Caddell (Kanawana '28) & James Caddell
+(Kanawana '83-'91). Presented to Kanawanians who represent the values of Non Nobis Solum in the world beyond
+camp." [f_5833] The camp years on the plate agree with what this article already had for both men, so they
+corroborate rather than add. The French demonym does something else: **Kanawanien(ne)s**, gender-inclusive,
+engraved on a board still being added to in 2026. That is the same word that hid a 1978 *Ka-News* issue from
+this project's keyword triage, which classified it as never naming the camp because it spells the demonym
+only in French. The form is the camp's own usage, not one newsletter's.
+
+**Three years have no strip: 2010, 2020 and 2021.** The 2010 blank was already here, derived on 2026-09-07
+from Mosher's published ordinal; the board now attests it directly rather than by arithmetic. The 2020 and
+2021 absence is new, and it does not stand alone. [[traditions/order-of-owens|The Order of Owens]] records
+the same two-season interruption in its own roster, read there against Sean Day's announcement that YMCA
+Quebec would keep the overnight camp closed for 2021, a second consecutive closed summer. **Two separate
+award records, one for campers and one for alumni, now show the same gap**, neither of them press coverage.
+[f_5831] The three blanks should not be written as one thing: 2020 and 2021 have a documented cause and 2010
+has none.
+
+**And the 2023 award went to the man who was running the camp.** Sean Day directed Kanawana from 2005 until
+April 2023 and received an award given, in the board's own words, for representing the camp's values "in the
+world beyond camp." Nothing here explains the choice or dates the presentation within the year, and the
+coincidence with his departure is noted rather than interpreted.
+
+**A disagreement the plaque opens.** The 2022 strip is engraved **Cernovitch**; the YMCA release this article
+took the name from spells it **Cernovich**. The same board hyphenates **Phillips-Birks** where the release
+prints it open. Both are documented sources, so the standing direction that oral history yields to documents
+does not reach this and it is not resolved here — see `c_073`. The table above keeps the plaque's spelling
+for Cernovitch and Phillips-Birks and flags the alternative here; a third and independent source, a
+professional register or a broadcast credit, would settle either. [f_5832]
+
+
 **A death newly indicated, and still undated.** The 2026 release describes four past recipients as "the late" — Richard Patten (2008), Stuart McLean (2009), Sam Lazarus (2013) and **Carol Skinner** (2016). The first three were already recorded here as deceased; for Skinner this is the first indication in any of this project's sources that she has died, and no date is given [f_4812]. Press coverage places her **alive in June 2018**, so the death falls between then and August 2026 [f_4822].
 
 Searching for an obituary on 2026-09-05 found none — the several Carol and Carol Ann Skinner obituaries that surface belong to other people. It did, however, recover biography this article did not have: she was diagnosed with **ALS on 19 September 2013**, after her legs failed her while she was skating on the Rideau Canal earlier that year; she was a longtime **Kirkland** resident and a **McGill art history graduate**; she lived in **Ottawa** with her husband **Travis Skinner**; she gave up her work as an art therapist with the Canadian Mental Health Association because of the illness; and her teams raised more than **$26,000** across four annual ALS walks [f_4821].^24 ^25 **The two newspaper features that carry all this in full were not read** — both sit on PressReader, which returned HTTP 403. That is an access failure, not an absence, and the same is true of the obituary: it is unfound, not shown not to exist.
 
-**One recipient is still unaccounted for.** Fourteen preceded Orbinski. This article names twelve through 2019 (2010 excepted, recorded as *undocumented*), and Cernovich makes thirteen — so exactly one remains, and it is **either a 2010 recipient or a second award somewhere in 2020–2023** [f_4809]. The gap was two; it is now one. It is *not* resolved in favour of 2010: the release drops two known names, so it could as easily be dropping a third from the 2020s.
+**That gap is closed, by the award's own board.** This paragraph read, until 2026-09-15, that fourteen recipients preceded Orbinski, that this article could name only thirteen, and that the fourteenth was "either a 2010 recipient or a second award somewhere in 2020–2023." It is the second: **Sean Day, 2023**. The plaque photographed at camp carries seventeen engraved year strips and every one of them is transcribed into the table above. [f_5830] The arithmetic now closes from three directions at once rather than one: counting the board through 2015 gives eight, and the 2015 release calls Mosher the eighth; counting the strips before Orbinski gives fourteen, and YMCA Quebec calls Orbinski the fifteenth; Olshefsky is then sixteenth and MacSween seventeenth, which is what the 2026 release says of MacSween. Three published ordinals, three matches, and no slack left for a recipient the board does not name.
 
 **The 2019 recipient is confirmed twice over, and this article owes a correction on how it nearly lost her.** Dr. Amy Ornstein received the Pip Alumni Award in 2019 — confirmed by a member of the Pip Awards committee [f_4803],^22 and then **in print**: the sponsor's own 2026 news release lists among previous recipients "Dr. Amy Ornstein, an advocate for abused children" [f_4807].^23 She is Professor of Pediatrics and Head of the Division of General Pediatrics at Dalhousie University, and Medical Director of the IWK Suspected Trauma and Abuse Response Team; her degrees include a **BSc from Concordia** and an **MDCM from McGill** [f_4799].^21
 
@@ -88,7 +139,7 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 ## Open Questions
 
 1. [Important] **Which year did Karl Cernovich receive the award, and who is the one recipient still unaccounted for?** Cernovich falls in 2020–2023 on the release's ordering; the missing fourteenth is either a 2010 recipient or a second award in the 2020s [f_4809]. Also open: the Kanawana years of Ornstein, Cernovich and Olshefsky, none of which any source gives. **The route is the committee's own list** — sixty-odd queries failed on 2019 before it was closed by asking, and two further recipients were unknown to this project until the sponsor's release was handed over (`p_413`).
-2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
+2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved; **arithmetic corrected 2026-09-07**] Orbinski = 15th recipient (2024). With **eleven** documented through 2018 — not twelve, as this line read until the 2015 "eighth person" ordinal fixed the early count — exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
 3. ~~[Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death?~~ [Resolved] Born July 7, 1913 in Brantford, Ontario; died July 24, 2004 in Ottawa (age 91). Full genealogy via The Peerage database. No formal obituary located, but biographical details confirmed through multiple sources.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?
 5. [Nice-to-have] What was James Caddell's specific role at camp — camper from 1983, counsellor from what year, through 1991?
@@ -130,6 +181,9 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 23. YMCA Quebec news release, "Jared MacSween Receives Camp YMCA Kanawana 'Pip' Award", Saint-Sauveur, 31 August 2026 [src_ymca_quebec_pip_macsween_2026]. Supplied by the operator; the file's document properties give Andrew Caddell, who sponsors the award, as its author. Source of the 17th-recipient ordinal, of MacSween's biography, of the first documentary attestation of Ornstein's 2019 award, and of the two previously unknown recipients. See [f_4805], [f_4806], [f_4807], [f_4808], [f_4809].
 24. Montreal Gazette, "A voice for those who don't have one", 20 September 2016 [src_gazette_skinner_als_2016]. **Not read** — PressReader returned HTTP 403; known only from search-result summaries. See [f_4821], [f_4822].
 25. Ottawa Citizen, "My dad's been my biggest hero my whole life", 16 June 2018 [src_ottawa_citizen_skinner_als_2018]. **Not read** — same block. Establishes that Carol Skinner was alive in June 2018. See [f_4821], [f_4822].
+26. James Caddell, "Traveling Out of the Comfort Zone", *McGill News* (alumni quarterly), **Fall 2004**, in two pages [src_mcgill_news_caddell]. Both fetched 2026-09-07 and read in full; quoted at `sources/cache/biographical/2026-09-07-caddell-mcgill-news-travelling.txt`. This project had the article recorded as a 404 — the cause was its own URL, truncated by two characters and a path segment. See [f_5364], [f_5365].
+27. YMCA Quebec newsroom, "Terry “Aislin” Mosher Receives YMCA Kanawana “Pip” Alumni Award", **3 August 2015** [src_ymca_pip_mosher], cached at `sources/cache/web-pages/ymca_pip_mosher.txt`; and "Dr. James Orbinski Receives the Camp YMCA Kanawana “Pip” Award", **25 July 2024** [src_ymca_quebec_pip_orbinski_2024], cached at `sources/cache/web-pages/ymca_pip_orbinski.txt`. **Both had been cached and cited for years without the ordinals in them being used**; read whole 2026-09-07 under `p_451`, which is the priority for source records marked extracted by inference rather than by reading. The 2015 page also carries the award's own definition of eligibility and its list of previous recipients; the 2024 page dates the award's creation to **2007**.
+28. **The Pip Award plaque at Camp Kanawana**, photographed and supplied by the operator, 15 September 2026 [src_photo_pip_award_plaque_2026]. Image at `assets/images/plaques/pip-award-2026.jpg`. A bilingual header plate over seventeen engraved year strips, 2007–2026, in two columns. The award's own permanent record and the only complete recipient roll this project holds: source of the 2023 recipient, of Cernovitch's year, of the 2020 and 2021 blanks, and of the plaque's own bilingual wording. See [f_5830] for the seventeen strips and the three ordinals they reconcile, [f_5831] for the 2010, 2020 and 2021 blanks, [f_5832] and `c_073` for the Cernovitch spelling disagreement, and [f_5833] for the bilingual header and the demonym Kanawanien(ne)s.
 
 ## Research Notes
 

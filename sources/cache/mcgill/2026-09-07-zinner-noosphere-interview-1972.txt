@@ -1,0 +1,170 @@
+"PROJECT: Gabor Zinner, interviewed by Phyllis Piatt"
+THE McGILL DAILY, "The Review", Vol. 62 No. 28, Friday 27 October 1972, pp. 2-3
+Headed on p. 3: "Strange games in the Quebec bush"
+
+Identifier: McGillLibrary-mcgill-daily-v62-n028-october-27-1972-11775
+Found 2026-09-07 by the whole-corpus sweep of 9,890 McGill student publication
+items under p_479. Not previously in sources.json.
+
+WHY IT MATTERS BEFORE ANYTHING ELSE IT SAYS: IT NAMES THE CAMP, AND ZINNER IS
+THE ONE SAYING IT. wiki/traditions/programs-activities.md records, correctly,
+that Zinner's 176-page MA thesis of 1973 "never names Camp Kanawana, the YMCA,
+or Saint-Sauveur anywhere in its text — it describes the venue only as 'a summer
+camp...in the Laurentian Mountains near Montreal,' rented for three weeks; the
+Kanawana identification rests entirely on the newspaper coverage." That coverage
+was two French-language papers, Le Soleil of 7 July 1971 (pre-event) and
+Montreal-matin of 24 August 1971. THIS IS AN ENGLISH-LANGUAGE INTERVIEW WITH THE
+RESEARCH ANALYST HIMSELF, published fourteen months after the event and a year
+before the thesis, and its first sentence is: "Project Noosphere is a simulation
+game which was played in the summer of 1971 AT CAMP KANAWANA in the Laurentians."
+The identification no longer rests on newspaper report alone.
+
+-------------------------------------------------------------------------------
+THE INTERVIEWER'S FRAMING (Phyllis Piatt's introduction, transcribed complete)
+-------------------------------------------------------------------------------
+
+  "Project Noosphere is a simulation game which was played in the summer of 1971
+  at Camp Kanawana in the Laurentians. It was conceived of by the Noosphere
+  Committee, individual members of which were affiliated with the CANADIAN
+  INTERNATIONAL DEVELOPMENT AGENCY and with CUSO. The committee created the
+  project to serve as an educational experience of international scope for a
+  test group of young Canadians. The game was financed by an Opportunities for
+  Youth grant. Gabor Zinner was a research analyst for the experiment who also
+  co-authored the scenario.
+
+  The organisers of the game arranged for the use of the Kanawana facilities for
+  a two-week period. They then recruited 45 participants from high schools and
+  youth organisations. There was an even distribution between males and females,
+  all of whom were between 15 and 19 years old. The group was one-third English,
+  one-third French, and one-third bilingual, and was divided up into villages
+  along those lines. The English segment was designated the rich camp, the
+  French the poor camp, and the bilingual group the middle-class camp.
+
+  The English group was housed in a comfortable farm house, with running water,
+  electricity, canned goods, video and tape recording facilities and were
+  furnished with armaments (squirt guns filled with YELLOW paint which
+  represented NUCLEAR CAPABILITY and could 'kill'). The middle-class village was
+  somewhat poorer. They lived in tents on platforms, and had control over fresh
+  produce and the transportation and real estate industries. Both the
+  middle-class and the poor groups had 'conventional weapons', squirt guns
+  loaded with RED paint which could only 'wound'. The poor group found itself in
+  very crude surroundings. They had no tent and had to erect their own shelters.
+  Instead of inside plumbing and electricity they had one out-house and one
+  pump. But they did have control over crude and raw materials — oil and
+  kerosene — and were the only group with an oven to bake bread."
+
+-------------------------------------------------------------------------------
+ZINNER, IN HIS OWN WORDS — THE PASSAGES WORTH KEEPING
+-------------------------------------------------------------------------------
+
+On the limits of the exercise: "There is an inherent limitation in simulations
+just in terms of scope. If you wanted to ideally simulate the world you'd need
+another world, and the more you simplify the more you lose. So we had limited
+resources, we had only 45 people, we had two weeks, and we were recruiting only
+from the Montreal area, from Quebec. Given these limitations, and they're very
+real factors, this game was the best we could devise."
+
+On what happened: "I have a day-to-day account as to what happened — there were
+coups, there was warfare, there were trade agreements, there were massacres,
+there were going to be war crime trials. Then there was inter-village
+cooperation in many spheres, there was an underlying necessity to exchange."
+
+On the national analogy, which is the interview's argument: "there were also
+cultural antagonisms which surfaced, which were very analogous to what we have
+here in Canada, in Quebec (because in part this was a CANADIAN simulation even
+though it attempted to be international in scope), in that THE ENGLISH WERE
+CONSTANTLY THE AGGRESSORS, and they espoused a capitalist ideology in terms of
+the way they wanted to conduct their own affairs, whereas the French and
+bilingual camps were more in accord with a communal spirit... The English camp
+felt very menaced by demands for equity, and for the abolition of capital, and I
+would say that THE ENGLISH PARANOIA WAS BASED ON ECONOMICS PRIMARILY, RATHER
+THAN ON LANGUAGE. They knew they were sitting on the goods, and they knew the
+other camps weren't."
+
+On what the children did: "They actually plundered the poor camp and massacred
+people — it was really incredible. You couldn't imagine the fervor, I mean there
+were actual tears. Two guys went and wiped out thirteen people, and one of the
+guys, when he came back — these are idealistic kids, you know, they go in with
+the notion that the adult world is fucked up and that they're really pure, and
+they see themselves engaging in the same type of phenomena when it comes to
+haggling over concrete material goods — and THE KID ACTUALLY CRIED WHEN HE
+REALIZED WHAT HE'D BEEN REDUCED TO."
+
+On the mechanics of death and wounding: "Death meant that an individual that was
+shot would be taken to an isolation area, which meant that he couldn't
+participate in the group's activities or productive processes. If someone was
+shot rather than killed, it meant that he would remain within the camp, but he
+couldn't contribute to the productive and recreational aspects of the camp,
+which meant that they would actually constitute a burden to the village."
+
+On why the paint colours: "the reason that we had the red and the yellow
+distinction in armaments was because WE HAD TO MAKE MILITARY CAPABILITY A
+FUNCTION OF ECONOMIC CAPABILITY, which is the way it happens in the real world."
+
+On internal inequality inside each village: "in the rich camp you had rich
+people, middle-class and poor people, as you have in the States, and you had
+vast concentrations of wealth in the hands of a few individuals. The
+middle-class camp had a social and economic distribution somewhat analogous to
+SCANDINAVIAN COUNTRIES... The under-developed camp had lots of indigents but one
+or two extremely wealthy people. An example of this on an international scale
+would be THE OIL MAGNATES OF THE NEAR EAST."
+
+On the currency, which the thesis account in this wiki does not name: "as soon
+as you walked into the camp (and these things were arbitrarily done) you were
+given an envelope, and in the envelope you were given X amount of capital, plus
+control over whatever resources you were given. We printed up currency. They
+were referred to simply as NEWSPHERES, and the rich camp started out with I
+think 55% OF ALL THE NEWSPHERES programmed into the game. The middle-class camp
+had 30% AND THE POOR HAD 20%."
+
+On the design principle: "we didn't structure the relationship in any way; in
+other words we wanted to see what would evolve from a given set of structures
+that were programmed into the game. We also gave them the opportunity to totally
+abolish the structure."
+
+On why the players restored capitalism, which is the strangest thing in the
+piece: they "said 'we came here to learn about the real world and we don't want
+to be fantasizing in an idyllic Noosphere. Let us grapple with structures as
+they exist in the world and let us proceed from there — otherwise we're not
+going to be getting an education.' So they advocated a return to the capitalist
+system and they wanted to force money into circulation again between the camps.
+One of the reasons they advocated this, was that THEY WERE REALLY BORED — the
+thing wasn't challenging enough for them — they wanted stimulus. So the two most
+rabid capitalists tried to persuade everyone in their own camp" to revert.
+
+-------------------------------------------------------------------------------
+WHERE IT AGREES AND DISAGREES WITH THE THESIS ACCOUNT ALREADY IN THE WIKI
+-------------------------------------------------------------------------------
+
+The wiki's account comes from Zinner's thesis, read in full on 2026-07-08. Set
+against this interview:
+
+  headcount     thesis 46           interview 45
+  ages          thesis 15-20        interview 15-19
+  duration      thesis "rented for  interview "the use of the Kanawana
+                three weeks"        facilities for a two-week period",
+                                    and "we had two weeks"
+  villages      thesis names them   interview gives no names, and rounds the
+                Cannabis (12, Eng), split to "one-third" each, which the
+                Slide dans Slutch   thesis's 12/17/16 is not
+                (17, bilingual),
+                Triquenimo (16, Fr)
+  poor village  thesis "ground      interview "They had no tent and had to
+                tents"              erect their own shelters"
+
+NONE OF THESE IS A CONTRADICTION WORTH A CONFLICT RECORD, and all are the
+expected shape of a man talking from memory fourteen months on against a
+document he wrote with his notes in front of him. THE THESIS IS THE BETTER
+WITNESS ON EVERY NUMBER and should be preferred where they differ; the interview
+is the better witness on the things the thesis account here does not carry at
+all — the CIDA and CUSO affiliations, the colour-coded weapons and the reasoning
+behind them, the resource allocations by village, the currency and its name, the
+55/30/20 split, the death and wounding mechanics, the internal class structure of
+each village, and Zinner's own reading of what the English-French dynamic meant.
+The three-weeks-versus-two is probably not a disagreement at all: a three-week
+rental with a two-week game inside it fits both.
+
+NULL RESULTS. "Kanawana" occurs twice in the issue, both in this piece. "YMCA" 0,
+"Otoreke" 0, "Saint-Sauveur" 0 — so the interview names the camp but not its
+owner or its village, and the YMCA's part in hosting the event is still
+undocumented from any source.

@@ -44,6 +44,8 @@ Mosher is the author of approximately 52 books, including:^2 ^3
 
 ## Awards and Honours
 
+The table below is assembled from his published biography and the awarding bodies' own notices.^10
+
 | Year | Honour |
 |------|--------|
 | 1977 | National Newspaper Award (cartoon of René Lévesque) |
@@ -54,7 +56,7 @@ Mosher is the author of approximately 52 books, including:^2 ^3
 | 2012 | Canadian Cartoonists Hall of Fame ("Giants of the North") |
 | 2015 | YMCA Kanawana Pip Alumni Award |
 | 2018 | Honorary Doctor of Laws (*honoris causa*), Concordia University |
-| 2021 | Canada Post commemorative stamp (editorial cartoonist series) |
+| 2021 | Canada Post commemorative stamp (editorial cartoonist series)^9 |
 | 2024 | Michener-Baxter Award |
 
 Mosher also holds a Gold National Magazine Award, five prizes from the International Salon of Caricature, and served as President Emeritus of the Association of Canadian Cartoonists.^2 ^3

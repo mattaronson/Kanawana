@@ -1,7 +1,7 @@
 # The YMCA of Montreal / YMCAs of Quebec
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-07-09 (Batch 5 research pass: Drummond Street building's 2002 demolition and the 2023 sale announcement for its successor building added; governance chronology extended to 1981-82; 1912 national YMCA federation noted with an unresolved naming discrepancy)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-08 (the chief-executive succession 1980-2009, and Michael Weil's marriage to the chair of Kanawana's advisory committee)*
 
 ## Overview
 
@@ -36,9 +36,58 @@ In January 2009, the YMCA du Grand Montréal and its eight regional branches too
 
 In November 2019, the YMCAs of Quebec underwent a major strategic restructuring, closing the Guy-Favreau and Hochelaga-Maisonneuve centres and shifting away from large fitness facilities toward community-based programs.^4 Camp Kanawana was closed for two consecutive summers (2020 and 2021) due to COVID-19.^6 In summer 2024, a new "Kanawana Adventure" day camp program was launched at the Saint-Sauveur site — the first day camp to operate at the residential camp location.^7 Day camps were discontinued across YMCA Quebec in fall 2025; Camp YMCA Kanawana's summer residential program continues as the organization's flagship outdoor program.^1 ^4
 
-## Current Leadership
+## Chief Executives
 
 Pascale Audette was named President and CEO of the YMCAs of Quebec effective January 6, 2025 — the first woman to hold this position in the organization's 170-year history.^5
+
+**She had a long line of predecessors, and until 2026-09-08 this article named none of them.** The cached annual reports sign themselves, so the succession can be read straight off the signature blocks:^13
+
+| Chief executive | Documented span | Title as printed |
+|---|---|---|
+| K. W. Johnston | FY1980–81 | *Directeur général* / Director General and Chief Executive Officer |
+| S. (Sol) Kasimer | FY1981–82 to at least 1985 | Director General and Chief Executive Officer |
+| Michael Goldbloom | by 1992 to 1 June 1994 | President and Chief Executive Officer |
+| Bernard W. Matte | from 1 June 1994, signing through 1996 | President and Chief Executive Officer |
+| Michael Weil | April 1997 to FY2000–01 | President and Chief Executive Officer |
+| Stéphane Vaillancourt | by FY2002–03 to at least 2009 | President and Chief Executive Officer |
+| Pascale Audette | from 6 January 2025 | President and CEO |
+
+Two of the entries carry more than a name. **Goldbloom left for a newspaper**: "On June 1, 1994, Michael
+Goldbloom resigned as the President and Chief Executive Officer of the Montreal YMCA to become the President
+and Publisher of *The Gazette*." **Matte was an insider**, elected effective the same day, after fifteen
+years as a volunteer and a term as Chairman of the Board from 1985 to 1988. **Weil came back**: he had begun
+his career at the Montreal YMCA in 1979, ran the Saint-Laurent and Downtown branches among other posts, left
+to be CEO of the YM-YWCA of Winnipeg, and returned in April 1997 to the chief executive's office.^13 [f_5764]
+[f_5765] *One of those four posts now has a date.* The 1988 report's Branch Boards of Management list gives
+the Saint-Laurent board as "Berger, Craig; Bisscheroux, John; Brownrigg, Marlyn; Buteau, Georges; Daly, Henry
+A.; Girard, Robert; Manios, Irène; Parent, Roch; **Weil, Michael (YMCA)**" — the "(YMCA)" marker being this
+series' convention for the branch's own staff member on its board. So he was running Saint-Laurent in **1988**,
+nine years after joining the association and nine before the chief executive's office.^15 [f_5778]
+
+**And one of them came back.** Michael Goldbloom signs the association's community reports for **2010, 2011
+and 2012** as **Chair of the Board of Directors**, sixteen years after resigning its chief executive's office
+for *The Gazette*; the 2013 board list gives him as "Goldbloom, Michael — Chair of the Board — **Bishop's
+University**," the association's own document supplying his day job. He appears again in the 2014, 2015, 2017
+and 2018 reports, in a roll of past leaders and major donors that also carries
+[[people/notable-alumni/john-cleghorn|John E. Cleghorn]], Paul Dunne and Michael Novak.^14 This wiki has
+documented former Kanawana staff returning to the camp's advisory committee after their paid tenures — Morgan
+Carter, Arleen Boyer, Roxanne Martel, Matt Hamerman. The same thing happens at the top of the association, and
+across two decades. [f_5775]
+
+*Two cautions about the table.* The 1992 report lists **Sol Kasimer as Director General and Michael Goldbloom
+as President and Chief Executive Officer in the same governance block**, so these were two coexisting posts
+for at least part of the 1980s and 1990s and the table flattens them. And the spans are the years the cached
+reports cover: 1986–1991 was not checked for this, and no cached report covers 2010–2024, which is a
+fifteen-year hole between Vaillancourt and Audette.
+
+**The Kanawana connection is Weil's, and it is by marriage.** Judy Weil sat on Camp Kanawana's local advisory
+committee from its founding year, FY2002–03, and chaired it in FY2004–05, in the years just after Michael
+Weil left the chief executive's office. The association's 2009 report names them together: the Gabrielle and
+Maurice A. Massé Award went that March "to Judy and Michael Weil, **a couple** who has contributed greatly to
+the successes of The YMCAs of Québec through their involvement over many years as directors, employees, and
+volunteers."^13 This project has been wrong about name matches before, so it is worth saying that the
+relationship here is not an inference from a shared surname: the association printed it. See
+[[people/directors-index|Directors and Staff of Camp Kanawana]] for the committee rosters.
 
 ## Connection to Kanawana
 
@@ -64,6 +113,7 @@ The YMCA of Montreal established Camp Kanawana in 1894, making it one of the old
 - [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 - [[connections/related-camps/camp-weredale|Camp Weredale]]
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/association-founding-dates|Founding Dates of the Camping Associations]] — when the CCA and the Quebec association actually began, which their own officers disagreed about
 
 ## Sources
 
@@ -79,6 +129,9 @@ The YMCA of Montreal established Camp Kanawana in 1894, making it one of the old
 10. Concordia University Archives, YMCA of Montreal fonds P0145: Drummond Street building history — occupied 1912, 12-storey annex 1930–31, demolished 2002 [src_concordia_drummond_ymca_building].
 11. YMCAs of Quebec, announcement of intent to sell downtown Montreal building (October 11, 2023) [src_ymcaquebec_downtown_sale_2023].
 12. YMCA Canada, institutional history: 1912 "National Federation" formation [src_ymca_canada_history].
+13. YMCA of Montreal annual reports, the signature blocks and governance pages of the volumes for **1980-81, 1981-82, 1984, 1985, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1998-99, 1999-2000, 2000-01, 2001-02, 2002-03, 2004-05** and **2009** [src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1992, src_cache_sgw_ymca_annual_report_1993, src_cache_sgw_ymca_annual_report_1994, src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1997, src_ymf_sgw_ymca_annual_report_2001_2002, src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2004_2005, src_ymf_sgw_ymca_annual_report_2009]. Read 2026-09-08 under p_487. The 1997 volume's outgoing board chairman's message for Michael Weil's arrival and prior career; the 1994 volume for Goldbloom's resignation and Matte's election; the 2009 volume for the Heritage Club dinner and the Massé Award. See [f_5764] and [f_5765].
+14. The YMCAs of Québec, community reports for **2010**, **2011**, **2012**, **2013**, **2014**, **2015**, **2017** and **2018** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012, src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2018], the signature blocks and board and donor lists. Read 2026-09-08 under p_487. See [f_5775].
+15. YMCA of Montreal annual report **1988** [src_ymf_sgw_ymca_annual_report_1988], the *Branch Boards of Management* page. Read 2026-09-08 under p_487. See [f_5778].
 
 ## Research Notes
 

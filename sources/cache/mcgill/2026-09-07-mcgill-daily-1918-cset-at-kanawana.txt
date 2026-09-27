@@ -1,0 +1,107 @@
+THE McGILL DAILY, Vol. 7 No. 112, Tuesday 26 February 1918, p. 3
+"BIBLE STUDY SUPPER WAS HELD YESTERDAY / Mr. Bradford Spoke on Boys' Work in Canada"
+
+Internet Archive identifier: McGillLibrary-mcgill-daily-v07-n112-february-26-1918-6306
+Text file: mcgill-daily-v07-n112-february-26-1918_djvu.txt (69,076 bytes)
+Retrieved 2026-09-07 by the whole-corpus sweep of the 9,890 McGill student
+publication items (p_479). "Kanawana" occurs once in the issue.
+
+The OCR renders Y.M.C.A. as "T.M.C.A." throughout, which is the scanner
+misreading the Y, and "Laure.ntians" for Laurentians. Both are transcribed as
+printed below; nothing else in the passage is ambiguous.
+
+-------------------------------------------------------------------------------
+THE REPORT, TRANSCRIBED IN FULL
+-------------------------------------------------------------------------------
+
+BIBLE STUDY SUPPER WAS HELD YESTERDAY
+Mr. Bradford Spoke on Boys' Work in Canada.
+
+The Y. M. Bible Study Groups met as usual last night, In Strathcona Hall.
+Supper was served shortly after 6 o'clock, under the chairmanship of "Art"
+Walsh, Med. '21. The fellows, as usual, did full justice to the good things set
+before them. At 6.45 the groups separated to their respective meeting places
+upstairs, under the regular teachers.
+
+The Senior Class continue to have their Interesting social service topics under
+the leadership of Mr. John Bradford, of Central T.M.C.A. Mr. Pierce, Editor of
+the "Locomotive Engineer," who was advertised to speak to thpm last night, was
+unable to put In an appearance, owing to Illness. It Is expected, however, that
+he can come next Monday night.
+
+Mr. Bradford himself favoured the group with an Interesting description of the
+most recent developments In "Boys' Work in Canada." This new work Is known to
+most of us now, at least by name, as the Canadian Standard Efficiency Test. This
+takes the form of a definite programme concerning every phase of the normal
+boy's activity. It contemplates the development of a new type of Christian
+leadership. Its plan of work is four-fold, Its divisions being: 1, Mental; 2,
+Physical; 3, Spiritual, and 4, Social. Among its other good points Is the
+emphasizing of the value of school training for life. The Importance of habits
+of observation In the ordinary walks of life Is also laid stress on. Training
+for leadership among boys is the chief point on the Social side. Under the head
+of Religion they group Poetry, Music, Art and Nature, as well as what we usually
+connect with religious activities.
+
+Although begun In Canada, the Idea is being taken up rapidly In the United
+States by Churches, Sunday School Associations and the T.M.C.A. Mr. Bradford
+considers it one of the most sensible and hopeful ideas yet tried in the
+training of the adolescent for sane, Christian manhood. In conclusion he asked
+"Doc." Busby to give his point of view. The latter told about the valuable work
+along this line being done at the Kanawana Boys' Camp In the Laurentians.
+
+As there will be only two more sessions of the Bible Study Groups this year it
+is hoped the attendance will keep up to normal.
+
+-------------------------------------------------------------------------------
+WHY THIS MATTERS, CHECKED AGAINST THE DESTINATION BEFORE IT WAS WRITTEN
+-------------------------------------------------------------------------------
+
+1. IT IS THE DOCUMENT wiki/connections/institutional-lineage/wallace-forgie.md
+   SAYS DOES NOT EXIST. That article, written 2026-09-07, has a section headed
+   "Kanawana's stake in any of this" which begins "Indirect, and worth stating
+   plainly rather than overclaiming" and argues from the general -- "Kanawana
+   ran a YMCA boys' programme through the decades when CSET was the national
+   framework for exactly that." It had no document connecting the camp to the
+   programme. This is one, and it is early: 25 February 1918, five months
+   before the October 1918 date the CSET's own board gives. Note what it is and
+   is not. It is a student paper reporting a speaker at a McGill YMCA supper
+   saying that work "along this line" was being done at Kanawana. It is not the
+   camp's own record, and "along this line" is the reporter's phrase for a
+   connection the speaker drew. What it establishes is that in February 1918
+   people in Montreal YMCA circles understood Kanawana's work as CSET work and
+   said so out loud to a room of university students.
+
+2. IT IS ALSO A BIOGRAPHY FOR A NAME THE WIKI HOLDS AS ONE LINE. John Bradford
+   appears in wiki/people/directors-index.md only as one of two men who
+   supervised the camp in 1917 alongside Jos. Dalley, under MacKinnon. Here he
+   is, seven months later, "of Central Y.M.C.A.", running the senior social
+   service class of McGill's Bible Study Groups through a term, and standing up
+   as Montreal's exponent of the Canadian Standard Efficiency Test. The man who
+   ran the camp in the summer was teaching its method to undergraduates in the
+   winter.
+
+3. A CONTEMPORARY DESCRIPTION OF CSET, FROM OUTSIDE ITS OWN LITERATURE. The
+   fourfold divisions are given as "1, Mental; 2, Physical; 3, Spiritual, and 4,
+   Social" -- not in the order of Luke 2:52 (wisdom, stature, favour with God,
+   favour with man), which is how the programme's own board describes its
+   origin. And the religion heading is described as grouping "Poetry, Music, Art
+   and Nature, as well as what we usually connect with religious activities."
+   That last clause is worth keeping: a camp in the Laurentians running a
+   programme whose religious category formally includes Nature is a different
+   thing from one where nature study is recreation.
+
+4. "ALTHOUGH BEGUN IN CANADA, THE IDEA IS BEING TAKEN UP RAPIDLY IN THE UNITED
+   STATES." A dated, contemporaneous statement of the programme's spread south,
+   from February 1918, made by a man in a position to know.
+
+5. "DOC." BUSBY IS A NEW NAME AND OCCURS NOWHERE ELSE IN THIS PROJECT (greped
+   across wiki/, kb/facts.json and project-docs/ before this was written: zero
+   hits). He is at a McGill Bible study supper, he is called "Doc.", and he is
+   the person in the room who could speak to what Kanawana did. That is a
+   camp connection of some kind and it is entirely undocumented here. The
+   quotation marks around "Doc." in the original suggest a nickname rather than
+   a title, which is a caution for any search that assumes a physician.
+
+NULL RESULTS IN THIS ISSUE. "Kanawana" occurs once, in this report. The rest of
+the issue is McGill student news; the adjoining column advertises the Class of
+Medicine '21's production of "The Coronation of King Cook III".

@@ -1,0 +1,136 @@
+THE GEORGIAN, SWEPT WHOLE: 292 ISSUES, TWO HITS
+Sir George Williams University's student newspaper, digitized by Concordia
+Records Management and Archives in the rma-concordia-publications collection.
+Swept 2026-09-07 under p_463.
+
+=====================================================================
+WHY IT HAD TO BE BRUTE FORCE
+=====================================================================
+
+sgw-concordia-connection.md has carried an open question since 2026-07-09:
+"Are there SGW student newspaper (The Georgian) articles about Camp Kanawana
+from the 1930s-1960s?" It could not be answered by search, and now it is known
+why: archive.org's advancedsearch.php is METADATA ONLY, its own full-text APIs
+are unreachable from this environment, and Open Library's search/inside --
+the one full-text route that works here -- INDEXES BOOKS ONLY (f_5371). A
+student newspaper is catalogued by date; its contents are outside every index
+available.
+
+SO EVERY ISSUE WAS DOWNLOADED AND GREPPED. 292 text items, six workers, each
+file deleted after searching. The whole run took a few minutes. The filename
+trap applies -- the djvu.txt is named after the item's TITLE, not its
+identifier -- and the metadata call gives the right name.
+
+RESULT: 290 issues contain neither camp's name. TWO DO. Both are new to this
+project and neither is an article about the camp, which is itself the finding:
+what a student newspaper carried was a job advertisement and a retirement
+notice.
+
+=====================================================================
+HIT 1 -- 20 FEBRUARY 1962, Vol. 25 No. 16
+A KANAWANA STAFF ADVERTISEMENT AIMED AT SIR GEORGE WILLIAMS STUDENTS
+=====================================================================
+
+The OCR interleaves the advertisement with the sports page beside it, so it is
+quoted here in the fragments the text preserves, in order:
+
+  "Summer Employment -- Opportunity for employment with the Montreal YMCA
+  Kamp Kanawana -- the Laurentian camp for Boys. Kanawana offers special
+  opportunity for training and personal growth through all camp and section
+  training programs and regular supervision. An opportunity for working with
+  boys through A SYSTEMATIC PROCESS OF PLANNED GROUP DEVELOPMENT under the
+  guidance of outstanding educational camp leade[rs] ..."
+
+  "... years plus chauffeur's license -- honorarium $300. Room and Board
+  included. Truck Driver
+  Camp Dates: June 23rd to August 25th
+  A. Ross Seaman, M.Ed. - Director,
+  Dr. H. G. Dimock, Co-ordinator of staff training and development,
+  Metropolitan YMCA
+  APPLY: Director, Kamp Kanawana, 1441 Drummond St."
+
+FIVE THINGS IN IT.
+
+1. THE LINK ITSELF, which is what the open question asked for. The camp
+   recruited its staff in the university's student paper. Not an article about
+   the camp -- an advertisement placed by it.
+2. "A SYSTEMATIC PROCESS OF PLANNED GROUP DEVELOPMENT", in the camp's own
+   recruitment prose, in February 1962. This project has P.G.D. from the 1959
+   annual report (f_5256) and from the 1961 report's "second season". Here it
+   is a third time, in a third document type, and used as a SELLING POINT to
+   students rather than described in a report to the board.
+3. DR. H. G. DIMOCK as "Co-ordinator of staff training and development,
+   Metropolitan YMCA" -- a dated association post, February 1962, the year
+   BEFORE he became first Chairman of Applied Social Science at Sir George
+   Williams. This project's Dimock article has the 1963 chairmanship and the
+   1962 Mistassini Cree study; it does not have this.
+4. THE 1962 SEASON'S DATES: June 23rd to August 25th.
+5. A WAGE. A truck driver, needing a chauffeur's licence, at an honorarium of
+   $300 with room and board -- for a nine-week season. This project holds
+   almost no wage or price data after the 1970s and less before.
+
+Seaman as director in 1962 is NOT new -- directors-index.md has him 1959-1968
+and says he "again directed the camp" in 1962 -- but "M.Ed." is, and the
+advertisement corroborates the directorship from an independent document type.
+
+=====================================================================
+HIT 2 -- 3 OCTOBER 1961, Vol. 25 No. 2
+"MR. MAC" RETIRES, AND HE IS CLARENCE J. McGERRIGLE
+=====================================================================
+
+  "A 'Farewell' to the Y.M.C.A. Camp Otoreke director, 'MR. MAC', was held in
+  BUDGE HALL of Central YMCA last Friday evening. Mr. David Walker was in
+  charge of the evening's programme[.] Mr. Starkey addressed the large crowd
+  of former campers, friends and associates (to whom 'Mr. Mac' has been 'MR.
+  CAMP DIRECTOR' FOR OVER 15 YEARS).
+
+  Along with Mr. Starkey's complimentary remarks of the warmth and
+  appreciation felt by all who attended was the presentation to 'Mr. Mac' and
+  his charming wife, of an 19-inch console model television set. It was quite
+  a gala evening -- dancing, buffet, etc. -- with the proceeds going to the
+  WORLD SERVICES CAMPAIGN. Mr. Mac has always been known for his terrific
+  support of The World Services Campaign.
+
+  May we of the Georgian add to the best wishes for an advan[t]urous
+  retirement to a 'great guy.'"
+
+HE IS ALREADY IN THIS WIKI UNDER HIS SURNAME. camp-otoreke.md quotes the 1956
+annual report on "Mr. and Mrs. C. J. McGerrigle, who have been associated with
+this important undertaking for twenty-one years... Mr. and Mrs. 'MAC' have a
+deep interest in young people", and the YMCA Year Book gives "Dir. Camp
+Otoreke, Clarence J. McGerrigle" for 1951, 1953 and 1957 through 1961, with
+Colin R. McKay in the post from 1963.
+
+WHAT THIS ADDS, AND IT IS THE PIECE THAT WAS MISSING. The Otoreke article says
+in as many words that "1962 produced no hit and it was not established whether
+the 1962 volume is in the collection, so nothing is claimed about the handover
+year." THE HANDOVER YEAR IS NOW DATED: McGerrigle's retirement farewell was
+held on the Friday before 3 October 1961, so about 29 SEPTEMBER 1961. He
+retired at the end of the 1961 season, and McKay's appearance in the 1963
+volume is the succession, not a gap.
+
+IT ALSO DISTINGUISHES TWO SPANS THAT THE 1956 REPORT RUNS TOGETHER. The
+association dates from 1935 -- twenty-one years by 1956. But the Georgian says
+"Mr. Camp Director for over 15 years", which from 1961 reaches back to about
+1946 OR EARLIER. Being associated with a camp and directing it are different
+things, and the two sources may be measuring different ones. Nothing is
+resolved here; the distinction is recorded.
+
+AND THE SMALL THINGS, which are the sort a report never carries: the farewell
+was in BUDGE HALL at Central; DAVID WALKER ran the programme and MR. STARKEY
+gave the address; the gift was a nineteen-inch console television to
+McGerrigle AND HIS WIFE, who the 1956 report shows had been in it with him
+from the start; and the proceeds of the evening went to the WORLD SERVICES
+CAMPAIGN, which he was known for supporting -- which is a small, real piece of
+character, and connects to the 1939 World Service table that lists Kanawana
+and Otoreke as their own contributing units (f_5244).
+
+=====================================================================
+ONE OCR TRAP IN THIS ISSUE, WORTH FLAGGING
+=====================================================================
+
+The column immediately before the McGerrigle notice ends "Mr. V. McAdam,
+Executive Dir-", cut off mid-word by the column break. V. McAdam is an
+executive of the BOYS CLUBS OF CANADA in the adjacent story about a Fellowship
+orientation weekend at the Seigniory Club, Montebello. He has nothing to do
+with Otoreke, and a careless read of the OCR would make him "Mr. Mac".

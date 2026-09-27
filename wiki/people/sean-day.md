@@ -1,11 +1,36 @@
 # Sean Day
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-07 (a fellow naturalist named, and where the songs were first tried)*
 
 ## Overview
 
 Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs from 2005 (per editorial resolution of conflict c_017 — see Titles and Scope, below) to April 2023.^1 ^2 ^13 ^14 He grew up at Camp Kanawana and rose from camper to counsellor to director, holding a dual institutional role overseeing both the individual camp and the broader YMCA Quebec camping system.^2 ^3 His directorship spanned several defining periods, including the Stuart McLean partnership, a camp revitalization effort, the COVID-19 pandemic, and post-pandemic staffing challenges. He also served as spokesperson for the Quebec Camping Association (Association des camps du Québec).^4
+
+**And there is one document of him before any of that, speaking for himself.** *The McGill Daily*'s
+culture section for **25 November 1993** reviewed "Spirit Rhythm", an evening of contemporary dance
+and music at the Hive, a Montreal warehouse loft — a collective of eight of whom "**the majority …
+know each other from Camp Kanawana near St. Sauver**", performing music by Day and Hartley Wynberg,
+with Alorani Martin among the dancers and choreographers. Day is quoted on where the songs came from:
+
+> "A lot of my songs are about the earth. **I used to work with a naturalist, mostly in Kanawana. We
+> used to do an 'earth values' program**, and I think the other people who worked on the show are on
+> the same wavelength as far as those things go."^16
+
+*Three things follow, and one of them is a caution.* It puts his camp work **in the past tense in
+1993**, twelve years before the directorship this article dates from 2005 — the "grew up at Kanawana"
+above is documented here rather than only reported. It puts the phrase "**earth values**" **at the
+camp in or before 1993**, which matters because this wiki knows it only from the other end, as the
+name of [[traditions/environmental-history|Chris Adam's later Earthvalues Institute]]; the phrase was
+at Kanawana first. **And the naturalist is not named.** Chris Adam is the obvious candidate — he built
+the camp's Nature Awareness programme in 1980 and is the naturalist this project knows — but Day does
+not name him, and nothing here does. *That is a strong reading and not a document.*^16
+
+**[UPDATED 2026-09-07 — a name arrives, and it is not Chris Adam.]** *The Link* reviewed the same show one day after the *Daily*, on 26 November 1993, and its account of how the collective formed includes this: "**Concordia dance student Elaine Hooper met Day when they worked together as naturalists at camp.** Hooper has a degree in biology and her desire to incorporate her ecological and biological knowledge into her performance was in keeping with Day's environmental themes."^17
+
+**Read that precisely.** Elaine Hooper is *a* naturalist Day worked with at Kanawana, which makes her a far better candidate than Chris Adam for the naturalist of the quotation — Adam was never more than an inference from being the naturalist this project happened to know. **It does not make her that naturalist.** Day says "a naturalist," singular and unnamed; the *Link* says the two of them worked "as naturalists," which describes both of them holding the role rather than identifying his collaborator on the earth values programme. The candidate changes and the question stays open.
+
+**And the same piece gives his origin as a songwriter, which nothing here had.** He "first picked up a guitar two years ago on a trip to Indonesia" — "I was suffering from culture shock. I just didn't want to come out of the hut. So I borrowed a guitar and passed my time inside writing songs" — and then "tried out his music on a '**captive audience**' at Kanawana, where the response was overwhelmingly positive."^17 So the camp was where the songs were tested, twelve years before he came to direct it. He was at the time "presently training for a future in **opera**." 
 
 ## Early Connection to Kanawana
 
@@ -15,9 +40,19 @@ Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having live
 
 ### Titles and Scope
 
+**One title this article did not have: the ski school.** The association's 2013 community report lists him
+in Senior Management as "**Director, Camp YMCA Kanawana and YMCA Ski School**."^18 That pairing appears
+nowhere else here, and "Ski School" occurs nowhere in this wiki except at
+[[site/camp-otoreke|Camp Otoreke]], where it is McGill's. It matters beyond a job title: the camp's winter
+operation runs as a documented thread from the ski tow of 1971–72 and the lift and three downhill slopes of
+1973 through the [[traditions/winter-programming|Kanawana Outing Club]], and a 2013 senior-management title
+putting a camp and a ski school under one man is the late end of it. *What the listing does not establish is
+where the ski school was:* it pairs the two under one director without placing them on one site.
+
+
 Oral history and a 2017 CBC profile placed Day in the "Director of Camp Kanawana" role as early as 2005.^3 The Montreal YMCA's 2007 annual report's Senior Management listing instead names Francois Dauphin as "Directeur YMCA Kanawana" that year, with Day's first appearance in that specific internal org-chart role coming only in the 2008 report.^13 This once looked like a clean case for the project's "documented sources take precedence over oral history" policy — but a 2026-07-09 re-check found the camp's own public website (Wayback-archived) naming Day as "directeur du camp estival et des programmes" continuously from December 2005 through December 2007, with no mention of Dauphin anywhere on the site.^14 That makes this a genuine disagreement between two documented institutional sources (the annual report's internal org chart vs. the camp's own public-facing site), not oral history versus a document.
 
-Conflict c_017 is resolved in favour of **2005** as the start of Day's on-site directorship, per editorial judgment rather than new evidence (see Revision History). The camp's own public-facing website is read as a more direct, real-time signal of who ran the camp season-to-season, naming Day continuously across five consecutive Wayback snapshots (December 2005 through December 2007) with zero mention of Dauphin anywhere on the site. The most likely reconciliation: "Directeur, YMCA Kanawana" on the Montreal YMCA's internal annual-report Senior Management list is a separate head-office/administrative designation that Dauphin held concurrently or that lagged the camp's own public messaging by a year or two — not a claim that Dauphin, not Day, was running the camp on-site in 2007. This is not confirmed by any single source stating both roles' scope explicitly, so it remains open to revision if better evidence surfaces. A 2009 press release describes Day as "directeur des programmes et du camp Y Kanawana" (Director of Programs and Camp Y Kanawana).^8 From 2017 onward, CBC coverage uses the broader title "Regional Director of Camps for YMCA Quebec" alongside his camp director role.^2 ^3
+Conflict c_017 is resolved in favour of **2005** as the start of Day's on-site directorship, per editorial judgment rather than new evidence (see Revision History). The camp's own public-facing website is read as a more direct, real-time signal of who ran the camp season-to-season, naming Day continuously across five consecutive Wayback snapshots (December 2005 through December 2007) with zero mention of Dauphin anywhere on the site. **A third, later attestation of the on-site title sits outside the YMCA's own org charts entirely:** the camp's Facebook page, posting on **5 September 2014** for the camp's 120th anniversary, calls him "directeur du camp YMCA Kanawana."^15 It does not bear on when the role began, but it is the title in public use, in French, from the camp itself rather than from head office. The most likely reconciliation: "Directeur, YMCA Kanawana" on the Montreal YMCA's internal annual-report Senior Management list is a separate head-office/administrative designation that Dauphin held concurrently or that lagged the camp's own public messaging by a year or two — not a claim that Dauphin, not Day, was running the camp on-site in 2007. This is not confirmed by any single source stating both roles' scope explicitly, so it remains open to revision if better evidence surfaces. A 2009 press release describes Day as "directeur des programmes et du camp Y Kanawana" (Director of Programs and Camp Y Kanawana).^8 From 2017 onward, CBC coverage uses the broader title "Regional Director of Camps for YMCA Quebec" alongside his camp director role.^2 ^3
 
 ### Stuart McLean Partnership
 
@@ -26,6 +61,8 @@ Day was present at Camp Kanawana when Stuart McLean returned for a week in 2005,
 Day spoke about the fund: "That was Stuart's experience, and he's so kindly asked people to support making sure that any kid who wants to experience that magic can."^3 He also articulated the camp's mission: "Helping kids to understand their potential in the context of community and nature is what the camp is all about."^3
 
 In 2016, YMCA Quebec provided over $150,000 in financial support for children to attend Camp Kanawana, with a goal of at least one in five campers coming from financially disadvantaged backgrounds.^3
+
+YMCA Quebec maintains its own page for the fund, "The Stuart McLean Camp YMCA Kanawana Fund," which sets out what it pays for and how to give to it.^12
 
 ### Green Shift and Revitalization (2006–2009)
 
@@ -86,6 +123,9 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 13. Montreal YMCA annual reports, 2007 and 2008 editions (Wayback Machine). Senior Management listings: Francois Dauphin as "Directeur YMCA Kanawana" (2007 report); Sean Day first appearing in that role (2008 report). One side of conflict c_017, resolved editorially in favour of the other (source 14) -- see Revision History.
 14. ymcakanawana.com, "Pour nous joindre" contact page, Wayback Machine snapshots 2005-12-16 through 2007-12-28. Names "Sean Day, directeur du camp estival et des programmes" continuously across five snapshots; no mention of Francois Dauphin. The side of conflict c_017 favoured in the editorial resolution -- see Revision History.
 15. Camp YMCA Kanawana Facebook page, 120th-anniversary post (September 5, 2014). Labels Day "directeur du camp YMCA Kanawana"; content only partially extractable due to Facebook's mobile wrapper.
+16. Julie Crysler, "Do it yourself, environmental style: Contemporary dance and music at the Hive", *The McGill Daily* (Culture), Vol. 83 No. 46, **25 November 1993** [src_mcgill_daily_1993_11_25]. Internet Archive item `McGillLibrary-mcgill-daily-culture-v83-n046-november-25-1993-13865`, found by a whole-corpus sweep of the McGill student publications, since no index reaches their contents. Quoted in full at `sources/cache/mcgill/2026-09-07-spirit-rhythm-1993.txt`. See [f_5376], [f_5377].
+17. Sarah Musgrave, "Folk rhythm and light spirits," *The Link* (Concordia University) Vol. 14 No. 20, 26 November 1993 [src_concordia_link_1993_11_26]. The companion review to the *McGill Daily*'s of the day before. Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5450].
+18. YMCAs of Québec, community report for **2013** [src_ymf_sgw_ymca_community_report_2013], Senior Management listing. Read 2026-09-07 under the sharpened p_441. See [f_5584].
 
 ## Research Notes
 

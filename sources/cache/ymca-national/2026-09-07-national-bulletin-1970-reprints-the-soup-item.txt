@@ -1,0 +1,54 @@
+YMCA BULLETIN, 13 FEBRUARY 1970 — A NATIONAL REPRINT OF THE KANAWANA SKI ITEM
+Internet Archive identifier: bulletin-1970-02-13 | creator: YMCA of Montreal
+Collections: ymca-montreal-fonds, rma-concordia-publications | 4,164 characters
+Found 2026-09-07 by the accounted sweep of rma-concordia-publications (p_479).
+
+WHAT THIS IS, AND WHY IT IS NOT A DUPLICATE OF SOMETHING ALREADY HELD.
+
+The Kanawana passage in it is already in this wiki, word for word, in
+traditions/winter-programming.md, from the Montreal YMCA's bilingual communiqué
+of 29 JANUARY 1970 (src_ymf_p0145_news_release_1970_01_29). The destination was
+checked before any of this was written and the passage was found there, in
+detail, under the heading "Winter 1969-70: a family ski day, already full".
+
+WHAT IS NEW IS NOT THE CONTENT BUT THE REACH. This is a different document,
+issued a fortnight later, and it is national. Its masthead reads "for
+information / all staff / key lay persons / BULLETIN", and its other items are
+National Council business: the Annual Meeting of 21-24 May at the new National
+Capital YMCA-YWCA, 180 Argyle Avenue, Ottawa; appointments of representative
+members "according to procedure outlined in February 3 memo by Les Vipond";
+binding details available "through National Council's Records Office"; car cards
+"now available through National YMCA Supplies Office"; and an enclosure of the
+Montreal Residence's bilingual folder and rate card.
+
+TWO EDITORIAL DECISIONS ARE VISIBLE IN THE REPRINT AND BOTH ARE WORTH KEEPING.
+
+1. "West Island Branch (Montreal)". The parenthesis is added. The Montreal
+   communiqué needed no such gloss; a bulletin going to all staff and key lay
+   persons across the country did. That parenthesis is the evidence that the
+   readership is national.
+
+2. THE NATIONAL EDITOR TOOK THE SKI ITEM AND LEFT THE STAFF APPOINTMENT. The
+   29 January communiqué carries, immediately before the soup item, "TURNER TO
+   KANAWANA: Jim Turner, associate executive of the amalgamated operations of
+   West Island and Lachine-Dorval Branches, will be the on-site director and
+   head of program at Kamp Kanawana this summer." The 13 February bulletin does
+   not reprint it. So the national office judged an oversubscribed family ski
+   day at a Montreal camp to be of interest to YMCAs across Canada, and the
+   appointment of that camp's director not to be.
+
+THE PASSAGE AS PRINTED HERE, transcribed complete:
+
+  "IT'S MAINLY BECAUSE OF THE SOUP: West Island Branch (Montreal) seems to have
+  come up with a real winner. Its family ski program, running Saturdays at Kamp
+  Kanawana, just can't handle anybody else. Here's the package. A network of
+  cross-country trails. Firmly-packed hills for downhill runs and instructions.
+  Skiing lessons. A well-equipped nursery, supervised by experienced baby
+  sitters. Facilities for preparing lunch, Free soup."
+
+Otherwise identical to the January text, including the last comma splice before
+"Free soup." The January OCR has "just ean't handle" where this has "can't"; the
+scan, not the printer.
+
+NULL RESULTS. "Kanawana" occurs once in the bulletin, in this item. "Otoreke" 0,
+"Perrot" 0, "Voyageurs" 0. No other Kanawana or camping material.

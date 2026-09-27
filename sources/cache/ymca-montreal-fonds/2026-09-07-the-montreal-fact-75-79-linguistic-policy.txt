@@ -1,0 +1,102 @@
+"THE MONTREAL FACT '75-'79" — the YMCA of Montreal's four-year review of its
+linguistic policy, and what it says the camps were for
+
+Internet Archive identifier: 1979-the-montreal-fact-75-79
+Source id: src_ymf_1979_the_montreal_fact_75_79
+Read closely 2026-09-07. Until today this record's read_state was "skimmed",
+with the honest note that "this item has not been read closely and no fact has
+been extracted from it individually." That was accurate and is now superseded.
+
+HOW IT CAME BACK INTO VIEW, AND A CORRECTION TO MY OWN FIRST READING OF THAT.
+rescan_multi.py -- the back-fill written for the txts[0] bug (rule 50, f_5427) --
+flagged this item because its French text file contains the search term. MY
+FIRST REACTION WAS THAT THIS WAS THE RULE-50 LOSS MADE CONCRETE: the French half
+of a bilingual document, hidden because "eng" sorts before "fr". IT IS NOT.
+Fetching both halves shows the passage in BOTH languages, and the item was
+already a HIT from its English text. Nothing was lost here and the rescan found
+a duplicate, not a recovery. What it did do was put a "skimmed" document back in
+front of me, which is a different and smaller kind of usefulness, and the
+distinction is worth keeping straight.
+
+-------------------------------------------------------------------------------
+THE DOCUMENT
+-------------------------------------------------------------------------------
+
+  "Since the YMCA adopted its LINGUISTIC POLICY ON SEPTEMBER 15, 1975, various
+  changes have taken place within the Association. Four years of organizing and
+  setting up different programs have changed the YMCA's image... The linguistic
+  policy objectives were clear. The Association was to reflect each of Montreal's
+  two main cultures by redefining its social mission and its programs; the
+  Association was to reflect Montreal's two main languages in the running of both
+  its public and internal affairs... Four years have gone by since that 15th of
+  September 1975, and A SECOND STAGE IS ABOUT TO BEGIN."
+
+On staff: bilingual ability or "at least an open attitude towards bilingualism"
+weighted in hiring; a language training programme "in its final year"; all
+publications for staff and volunteers required in both languages; a translation
+service under Linguistic Services with glossaries, terminology cards, a
+translation representative in each branch, and contact with the Office de la
+langue francaise, Radio-Canada and the University of Montreal; French copy all
+revised centrally; and staff and programme evaluations "carried out in the
+working language of each unit or branch."
+
+On the branches: the South Shore Branch "working in a mainly French-speaking
+environment"; the International Branch bilingual, serving a population 37% of
+which is other ethnic groups; St-Laurent "a family community centre" with both
+languages equally present; a branch in Hochelaga-Maisonneuve; and negotiations
+under way in Ville d'Anjou.
+
+THE CAMP PARAGRAPH, WHICH IS WHY THIS MATTERS HERE, transcribed complete:
+
+  "The YMCA camps also strive to reflect their environment. CAMP OTOREKE, IN
+  STE-AGATHE, GIVES FRENCH-SPEAKING LOW-INCOME FAMILIES THE CHANCE TO SPEND
+  PLEASANT HOLIDAYS OUTDOORS. CAMP WEREDALE, ON LAKE L'ACHIGAN, HAS A SPECIFIC
+  PURPOSE: TO BE A FRENCH CAMP ALSO ABLE TO RECEIVE ENGLISH-SPEAKING CAMPERS.
+  Agreements made between the Montreal and the Quebec City YMCA's have opened a
+  new door for the Montreal YMCA and strengthened ties between the two
+  Associations."
+
+-------------------------------------------------------------------------------
+THREE THINGS, AND THE THIRD IS AN ABSENCE THAT WAS CONTROLLED
+-------------------------------------------------------------------------------
+
+1. CAMP WEREDALE IS DESCRIBED AS A FRENCH CAMP. Nothing in
+   wiki/connections/related-camps/camp-weredale.md says this. The article covers
+   the Boys' Home of Montreal, the 1934 founding, the 1977 merger into Youth
+   Horizons and the 1977-1980 two-site planning with Kanawana, and never
+   mentions language. Here the Association assigns it "a specific purpose: to be
+   a French camp also able to receive English-speaking campers" -- the inverse
+   of the arrangement its own history would predict.
+
+2. CAMP OTOREKE IS ASSIGNED A CLIENTELE: French-speaking low-income families.
+   camp-otoreke.md has the camp as a family and vacation centre and records the
+   1942 advertisement's "young men, young women and young married couples", but
+   nothing on language. Note also "IN STE-AGATHE": the wiki places Otoreke at
+   Saint-Adolphe-d'Howard and records the journey as "sixty-four miles by rail
+   to Ste-Agathe, then eight miles by" road. So the 1979 document is naming the
+   nearest railhead and market town rather than the municipality. NOT A
+   CONTRADICTION -- a loose locality reference of the kind a promotional review
+   makes -- but written down so nobody later reads it as one.
+
+3. KANAWANA IS NOT MENTIONED, AND THE NULL WAS RUN. "Kanawana" occurs ZERO
+   times in the English text and ZERO times in the French. In a four-year review
+   of how the Association's units were made to reflect Montreal's two languages,
+   which names five branches and two camps, THE ASSOCIATION'S OLDEST AND BEST
+   KNOWN CAMP IS ABSENT. That is worth having in traditions/french-language-
+   camping.md, whose thread otherwise runs 1967-1973 and stops. Do not overread
+   it: a promotional four-page review is not an inventory, and absence from a
+   showcase is not evidence of a policy about Kanawana. What it does show is
+   that when the Association wanted to point at camps embodying the linguistic
+   policy in 1979, it pointed at Otoreke and Weredale.
+
+-------------------------------------------------------------------------------
+LEADS THIS OPENS
+-------------------------------------------------------------------------------
+
+- THE POLICY ITSELF is a separate item already registered and also only skimmed:
+  src_ymf_1975_09_15_the_y_and_the_montreal_fact, dated 15 September 1975 -- the
+  very date this review gives for the policy's adoption. It should be read.
+- THE SECOND STAGE this document says "is about to begin" appears to be the item
+  `1981-06-09-la-politique-linguistique`, titled "La politique linguistique -
+  Deuxieme etape", which the same sweep returned as a hit. Also unread closely.
+- The Montreal / Quebec City YMCA agreements are mentioned and not described.

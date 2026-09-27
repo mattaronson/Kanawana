@@ -1,0 +1,117 @@
+CONCORDIA'S THURSDAY REPORT, THREE ISSUES 1990-1992
+The Seaman awards, in the university's own newspaper
+
+Found 2026-09-07 by the accounted sweep of rma-concordia-publications (p_479).
+None previously in sources.json; the wiki cites a 2001 Thursday Report for
+Seaman and nothing earlier. One text file each, checked.
+
+  1990-11-15  Vol. 15 No. 11   117,204 chars
+  1991-06-06  Vol. 15 No. 30   175,684 chars
+  1992-03-19  Vol. 16 No. 21   112,668 chars
+
+===============================================================================
+15 NOVEMBER 1990 — "FIVE LEADERSHIP AWARDS", AND A LINE THAT CLOSES A LOOP
+===============================================================================
+
+From Mike Shahin's report of the first Concordia award presentation:
+
+  "Ross Seaman was a graduate of Sir George Williams University and a part-time
+  faculty member of Concordia's APSS and Leisure Studies Departments. HE
+  ORIGINATED THE DAWSON COLLEGE COMMUNITY RECREATION AND LEADERSHIP PROGRAMME
+  AND WAS AN ADVISER TO THE YMCA FELLOWSHIP STAFF. His life's work involved
+  helping people feel good about themselves. 'No matter who (Seaman) was with,'
+  APSS Professor Dick McDonald said before the award presentation last week,
+  'they always came out of the experience more upbeat than when they went in.'
+
+  Seaman died in 1987. FIVE LEADERSHIP AWARDS HAVE BEEN CREATED IN HIS NAME to
+  be presented annually. TWO AWARDS ARE PRESENTED TO CONCORDIA STUDENTS IN THE
+  APSS AND LEISURE STUDIES PROGRAMMES. THE OTHER AWARDS ARE PRESENTED TO
+  STUDENTS AT DAWSON, THOSE INVOLVED WITH THE YM/WCA AND WITH KAMP KANAWANA."
+
+The photograph caption names those present: "APSS Professor Dick McDonald, MRS.
+MARGARET SEAMAN, winner [name] and APSS Chair Richard Cawley gather at the award
+presentation." Photo by Owen Egan.
+
+THREE THINGS, AND THE FIRST IS THE ONE THAT MATTERS MOST.
+
+(a) "AN ADVISER TO THE YMCA FELLOWSHIP STAFF." The Fellowship is the Montreal
+    YMCA's Training Fellowship, documented in this project earlier the same day
+    from Sir George Williams yearbooks of 1942 and 1943 — a paid apprenticeship
+    in the Association secretaryship, worked in the branches, with enrolment at
+    the college as its academic half. Concordia's own obituary of Seaman says he
+    "attended Sir George as a YMCA Fellowship Secretary" in the 1940s. SO HE
+    CAME THROUGH THE FELLOWSHIP AND LATER ADVISED ITS STAFF. The scheme that
+    made him is a scheme he went back and helped run.
+
+(b) "HE ORIGINATED THE DAWSON COLLEGE COMMUNITY RECREATION AND LEADERSHIP
+    PROGRAMME." wiki/people/a-ross-seaman.md has him becoming "teacher and
+    chairperson of the CRLT Department at Dawson" in 1974. "Originated" is a
+    stronger claim than "chaired", and it comes from his own university's
+    newspaper reporting on an award in his name — a friendly source, so the
+    claim is recorded as theirs rather than adopted flat.
+
+(c) FIVE AWARDS, NOT ONE. Everything this project holds treats the Seaman fund
+    as a single scholarship. It was five annual awards: two at Concordia (one
+    each in APSS and Leisure Studies), one at Dawson, one through the YM/WCA,
+    one through Kamp Kanawana. That also explains the 1995-96 calendar's plural
+    "A. Ross Seaman Memorial SCHOLARSHIPS", which had looked like loose wording.
+    NOTE "YM/WCA" — the YWCA is in it too, which no other source here says.
+
+===============================================================================
+6 JUNE 1991 — A SIXTH CONSTITUENCY, AND THE CUP MOVES
+===============================================================================
+
+  "The A. Ross Seaman Award for outstanding community leadership was presented
+  at the 'LEISURE IN THE 21ST CENTURY' seminar in March. The award went to Peter
+  Clark, a student in Leisure Studies. THOUGH IT WAS THE FIRST TIME THAT THE
+  AWARD WAS GIVEN TO A STUDENT IN THAT DEPARTMENT, the award is offered to
+  groups that the late Ross Seaman was involved in, such as the YMCA, Kamp
+  Kanawana, Concordia's Department of Applied Social Science, as well as Dawson
+  College AND IN HIS HOME COMMUNITY OF PRESCOTT-RUSSELL. Clark said that
+  although he never met Seaman, he knew how much he had done to help youth.
+  Clark is actively involved with the Boy Scouts and outdoor education
+  programmes.
+
+  THE ROSS SEAMAN CUP, an annual 'friendly' competition, WAS HELD IN MAY AT THE
+  BEACONSFIELD RECREATION CENTRE."
+
+PRESCOTT-RUSSELL is the united counties of eastern Ontario containing VANKLEEK
+HILL, which wiki/people/a-ross-seaman.md already names as his home community and
+as the site of one of the five memorial scholarships. This names the county, and
+shows the home community was a constituency of the award scheme itself rather
+than a separate local memorial.
+
+AND THE CUP MOVED. Held in MAY 1991 at the Beaconsfield Recreation Centre;
+held in MARCH 1992 at Loyola. So it was not fixed to a month or a place.
+
+===============================================================================
+19 MARCH 1992 — THE CUP'S OWN INVITATION, WITH A THEME
+===============================================================================
+
+  "FRIDAY, MARCH 20 1992. A. Ross Seaman Memorial Cup. TO THE STUDENTS OF
+  CONCORDIA UNIVERSITY LEISURE STUDIES AND A.P.S.S., DAWSON COLLEGE C.R.L.T. AND
+  YMCA CAMP KANAWANA. You are invited to participate in this year's A. Ross
+  Seaman Memorial Cup, 'RECREATION AND LEISURE, A DOOR TO THE FUTURE.' This is a
+  one-day mission to raise money for the scholarship fund, learn leadership
+  development and have a great time. The day will kick off with an INTERGALACTIC
+  GAME OF SPACEBALL and includes other OUT-OF-THIS-WORLD EVENTS, such as variety
+  show, t-shirts, free dinner, an auction and awards. Time: 2:30 p.m. Location:
+  Loyola Campus - Athletics Complex (7200 Sherbrooke St. W.)"
+
+The Link's notice of the same event, found earlier today, gives the venue as
+7141 Sherbrooke St. W. and this one 7200. A small discrepancy in a street number
+for the same complex, recorded and not resolved.
+
+===============================================================================
+A NOTE ON NAMES
+===============================================================================
+
+The 1990 article names and describes its award winner in some personal detail
+and the 1991 piece names its own. Consistent with the decision registered as
+r_0006 on the 2007 bursary booklet, THE INSTITUTIONAL FACTS ARE TAKEN AND THE
+WINNERS' PERSONAL CIRCUMSTANCES ARE NOT REPRODUCED IN THE WIKI. Peter Clark is
+named because "the first time the award was given to a student in that
+department" is a fact about the award rather than about him, and because the
+same name appears in the 2007 honour roll, which confirms that roster's
+accuracy. The 1990 winner is referred to without her name and without her
+biography.

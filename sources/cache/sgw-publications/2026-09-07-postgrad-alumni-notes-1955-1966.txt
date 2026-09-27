@@ -1,0 +1,102 @@
+THE POSTGRAD (Sir George Williams University alumni magazine), THREE ISSUES
+Class notes as a source of camp staffing, 1955-1966
+
+Found 2026-09-07 by the accounted sweep of rma-concordia-publications (p_479).
+None of the three was in sources.json. Each item has ONE _djvu.txt (checked).
+
+  1955  postgrad-1955-april   Vol. 11 No. 1, Easter Issue        119,799 chars
+        Kanawana 0, Otoreke 1
+  1957  postgrad-1957-oct     Vol. 13 No. 3, Thanksgiving Issue   78,640 chars
+        Kanawana 2, Otoreke 0
+  1966  postgrad-1966-summer-hall-building-issue
+        Vol. 22 No. 2, Summer 1966, The Building Issue           101,407 chars
+        Kanawana 0, Otoreke 1
+
+WHY AN ALUMNI MAGAZINE IS WORTH SWEEPING. Its class notes record where graduates
+went, in their own words, year by year. For a camp staffed out of a college that
+is a roster nobody at the camp ever wrote — the same channel the Sir George
+yearbooks and the McGill Daily advertisements show from other angles.
+
+===============================================================================
+1966: A NAMED DIRECTOR OF CAMP OTOREKE, AND AN UNLIKELY ROUTE TO THE JOB
+===============================================================================
+
+  "ROBERT D. (BOB) SALLERY, B.A. '62, VALEDICTORIAN, CLASS OF '62 is now back in
+  Montreal and WILL TAKE OVER THE POSITION OF DIRECTOR OF CAMP OTOREKE. After
+  Sir George Bob went to Southern Illinois University with a teaching
+  assistantship and tuition scholarship. FROM SEPTEMBER '63 TO SEPTEMBER '65 HE
+  WAS IN BEIRUT, LEBANON WITH THE UNITED NATIONS RELIEF AND WORKS AGENCY FOR
+  PALESTINE ARAB REFUGEES (UNRWA) RESPONSIBLE FOR THE DEVELOPMENT AND SUPERVISION
+  OF 48 REFUGEE YOUTH ACTIVITY CENTRES scattered throughout Lebanon, Jordan,
+  Syria and the Gaza Strip. Developed program for Canadian Y.M.C.A. summer
+  service volunteers in the Middle East. 22 Canadian students (including 3
+  Georgians) have participated on a volunteer basis. In 1965 Bob was graduated
+  from the American University of Beirut with an M.A. in Social Psychology. He
+  has spent the last year at Dalhousie University on a doctoral program. Bob and
+  his wife Janet Marilyn (née Pickford of Westmount) have one daughter Marilyn
+  and are expecting another momentarily."
+
+wiki/site/camp-otoreke.md is thin on named directors: McGerrigle from the
+mid-1930s, Ron Hupfield by 1942 (established earlier today), George N. Barker at
+the ski lodge in 1943, and the 1967 absorption into Downtown Branch. Sallery
+fills 1966, the year before that absorption.
+
+AND THE ROUTE IS THE STORY. A man who had spent two years running forty-eight
+refugee youth centres across four Middle Eastern territories, and built the
+Y's own Canadian volunteer pipeline into them, came home to run a family camp
+in the Laurentians. The Y.M.C.A. connection is explicit and it runs both ways:
+he developed the programme that sent 22 Canadian students, three of them Sir
+George men, to the Middle East as YMCA summer service volunteers.
+
+===============================================================================
+1957: TWO SIR GEORGE GRADUATES AT KAMP KANAWANA, FROM THE CLASS NOTES
+===============================================================================
+
+  "GEORGE E. CLIFFORD, B.A. — is a student at McGill U. — faculty of Divinity —
+  THIS SUMMER HE WILL BE AT Y.M.C.A. KAMP KANAWANA IN ST. SAUVEUR DES MONTS,
+  QUE."
+
+  "DAVID J. CARSON, B.A. — PRESENTLY AT THE Y.M.C.A. KAMP KANAWANA IN ST.
+  SAUVEUR, QUE. He will be working at the Bell Telephone, Traffic Dept."
+
+Neither name occurs anywhere else in this project (greped across wiki/,
+kb/facts.json, project-docs/ and sources/sources.json before writing: zero).
+They are not directors and the notes give no role, so what they document is the
+ordinary case rather than the notable one — two graduates of the same college in
+the same season at the same camp, one heading into divinity and one into the
+telephone company. That is the Sir George pipeline working at the level it
+normally worked at, in a year (1957) that falls inside Murray B. Shantz's
+Kanawana directorship.
+
+===============================================================================
+1955: "OTOREKE SCHOOL, QUE." — RECORDED AS A QUESTION, NOT A FACT
+===============================================================================
+
+From a report of a model United Nations Security Council session staged in the
+YWCA building at 1355 Dorchester St W in February 1955, with nine Canadian
+schools and colleges, one American college and the local United Nations
+Association playing the eleven council members, in four languages, presided over
+by Rene Pouliot, "in real life technical adviser to the International Civil
+Aviation Organization in Montreal":
+
+  "Among the groups taking part in the debate were Assumption College, Windsor,
+  Ont., (Belgium); Sir George Williams Day College (Peru); OTOREKE SCHOOL, QUE.
+  (BRAZIL); United Nations Association (Turkey); University of Toronto (United
+  Kingdom); University of Montreal (France); Sir George Williams Evening College
+  (Iran); Royal Military College Kingston (New Zealand); and Macdonald Teachers
+  College."
+
+WHAT TO DO WITH THIS. Every other delegation is a real institution, named
+precisely, so the list is not careless. But nothing in this project knows of an
+"Otoreke School," and the YMCA's Camp Otoreke is a summer camp, not a school
+sending a delegation to a February debate in Montreal. Three readings, none
+adopted here:
+
+  (a) an OCR or editorial garble of another institution's name;
+  (b) a school that used the Otoreke site, which would fit the off-season and
+      conference use camp-otoreke.md documents from other years;
+  (c) a distinct institution that happens to share the name.
+
+This is written into the wiki as an open question with the quotation attached,
+because a fourth possibility — that somebody later reads "Otoreke School" as
+established fact — is the one worth guarding against.

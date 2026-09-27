@@ -1,0 +1,139 @@
+THE McGILL DAILY, TWO ISSUES: 2 MARCH 1938 AND 9 OCTOBER 1941
+A ski party navigating by the camp, and Hupfield at Otoreke a year earlier than the yearbook
+
+Found 2026-09-07 by the whole-corpus sweep of 9,890 McGill student publication
+items under p_479. Term counts run rather than assumed: 1938 issue Kanawana 1,
+Otoreke 0; 1941 issue Otoreke 1, Kanawana 0.
+
+Note how the second was found. "Hupfield" returns ZERO in the 1941 text: the
+paper broke it across a line as "Mr. Hup- field". The sweep matched on
+"Otoreke". A name search would have missed this document entirely, which is a
+general caution for OCR of narrow newspaper columns.
+
+===============================================================================
+1. 2 MARCH 1938 — "LOST SKIERS FIND TRAILS"
+===============================================================================
+
+READ THE WHOLE ARTICLE BEFORE USING IT. The Kanawana sentence, taken alone,
+reads as though a student conference were being held at the camp. IT WAS NOT.
+The conference was at Madame Hébert's "Laurentide Home" on the shores of Lac
+Guindon, about three miles up the lumber trail from Shawbridge. Kanawana enters
+only as a landmark that lost skiers recognised. This was misread on first
+sight here and corrected by reading the article, which is the whole reason for
+transcribing it in full.
+
+  "LOST SKIERS FIND TRAILS
+
+  Free to explore all the trails in the St. Sauveur-Shawbridge district, but
+  only feeling secure when at the bottom of Hill 70, the members of the S.C.M.
+  ski conference arrived in Montreal last night after spending the week-end
+  recess at Lac Guindon. Led by Dr. Fred Howes, discussion during the
+  conference periods centred about the main theme 'Freedom and Security.'
+
+  Among the 42 students attending the ski conference were five co-eds from
+  Macdonald College, and Holley Fletcher, student at the University of Vermont.
+  The party arrived at Lac Guindon, which is about three miles up the lumber
+  trail from Shawbridge, in time for lunch on Saturday. About half the party
+  left on Sunday night in time for the early train, but the remainder either
+  stayed at Lac Guindon during Monday, or skied along trails in the vicinity
+  until the 6.05 train from Shawbridge.
+
+  VISIT HILL 70. The week-end was spent at Madame Hebert's 'Laurentide Home,'
+  on the shores of Lac Guindon. During the daytime, the programme consisted
+  chiefly of skiing. On Saturday most of the 42 present skied along the Douglas
+  Trail, emerging from the woods at the top of Hill 70, where the rest of the
+  afternoon was spent. The conference proper began on Saturday evening when
+  Neil Morrison, S.C.M. secretary, gave a short talk on 'The Present
+  Situation,' and showed how students everywhere are beginning to take a more
+  active part in the life of the society in which they live. After a short
+  question period, Dr. Howes gave the first short address on the topic 'Freedom
+  and Security.' On Sunday morning a short service was held led by Ivor
+  Williams. [...] The remainder of the morning was occupied by a talk by Dr.
+  Howes.
+
+  SKIING PARTY LOST. During Sunday afternoon, one skiing party got itself into
+  such a predicament that at one time each of its nine members was pointing to
+  a different direction for return. WHEN THEY NEARED KAMP KANAWANA THEY WERE
+  FINALLY LED BACK SAFELY UNDER THE DIRECTION OF TWO OLD KANAWANIANS IN THE
+  PARTY, only half an hour too late for supper.
+
+  The conference proper was brought to a close on Sunday evening, when Dr.
+  Howes finished his remarks. Monday was devoted wholly to skiing, one party
+  managing to get itself lost on the snow-silted Johannsen-West trail, and only
+  arriving at St. Margaret's with 15 minutes to go before the departure of the
+  one and only evening train."
+
+WHAT IT ACTUALLY GIVES.
+
+(a) "TWO OLD KANAWANIANS", IN PRINT, IN 1938, IN SOMEBODY ELSE'S NEWSPAPER.
+    The wiki has "Kanawanian" as a term of belonging from the camp's own
+    literature -- the 1964 annual report's "Forty thousand boys have earned the
+    title 'Kanawanian'", the 1980 Knights of Kanawana charter, the Order of
+    Owens citation, and a counsellor's "We are all Kanawanians" of 2004-05. All
+    of those are the institution using its own word. This is a student
+    newspaper using it in passing about two men in a ski party, with no gloss,
+    twenty-six years before the earliest dated instance held here. A word used
+    without explanation in an outside publication is in general currency, which
+    is a different and stronger claim than a camp branding its alumni.
+
+(b) THE CAMP AS A WINTER LANDMARK. Nine lost skiers in the St-Sauveur-Shawbridge
+    trail network in March 1938 knew where they were when they came in sight of
+    Kanawana, and two men who had been campers there could navigate home from
+    it. That says the site was known, recognisable and passable in deep winter,
+    and that the trail country the camp sits in was being skied through by
+    Montreal students between the wars.
+
+(c) WHAT IT DOES NOT GIVE, STATED SO NOBODY LATER READS IT BACK IN. No winter
+    programme at Kanawana. No use of the camp's buildings. The party was at Lac
+    Guindon and merely passed near.
+
+(d) The S.C.M. connection is worth noting beside the Sir George material found
+    the same day: Murray B. Shantz was President of the S.C.M. at Sir George in
+    1943 and George N. Barker President of its Group in 1941-42. The same
+    movement, in the same years, running ski conferences in the same district.
+
+===============================================================================
+2. 9 OCTOBER 1941 — "RE-MODELLED PIT RE-OPENS"
+===============================================================================
+
+  "The Pit, co-operative cafeteria in the basement of Strathcona Hall, will
+  present a new appearance and atmosphere to those students who took advantage
+  of its facilities in past years. THERE IS AN ENTIRELY NEW STAFF UNDER THE
+  MANAGEMENT OF MR. HUP-FIELD, DIRECTOR OF THE Y.M.C.A. CAMP OTOREKE, AND
+  FOURTH YEAR ARTS STUDENT. Acting in the capacity of new chef is Mother Mac,
+  who, with the co-operation of the staff, has promised to attempt fulfilling
+  the Pit's new policy, that of serving good food in the home-cooked manner, at
+  prices in keeping with the new war-time economy. The Pit has been renovated
+  in many respects. The new concrete floor has been painted red, the walls
+  sport a new colour combination, and the windows have been adorned with
+  fluffy, white curtains. Designed as further attractions for the students are
+  new signs around the walls, a new pop-cooler, and a new nickelodeon to supply
+  background music."
+
+WHY THIS MATTERS. Earlier the same day this project corrected
+wiki/site/camp-otoreke.md, which had concluded that Ron Hupfield "does not
+appear on the Montreal staff at all until 1947 and is never placed at Otoreke
+by any source held here," using his graduating entry in Sir George Williams
+College's 1942 yearbook. THIS IS A SECOND, INDEPENDENT SOURCE FROM A DIFFERENT
+INSTITUTION, AND IT IS EARLIER: October 1941, a McGill student newspaper, in a
+story that has nothing to do with camps and no reason to flatter him. He is
+"director of the Y.M.C.A. Camp Otoreke" as a plain identifying fact about the
+man running the cafeteria.
+
+It also puts flesh on "Mgr. Strathcona Hall, '41 & '42" from the yearbook: what
+he managed there was The Pit, the co-operative cafeteria in the basement, and
+he took it over with an entirely new staff at the start of the 1941-42 session.
+
+ONE THING NOT SMOOTHED OVER. The Daily calls him a "fourth year Arts student"
+without naming a college, and its readers were McGill's. The Sir George
+yearbook has him graduating in Arts from SIR GEORGE in 1942, which fits a
+fourth year in October 1941. The likeliest reading is that a Sir George student
+managed the McGill YMCA's cafeteria and the Daily did not think the distinction
+worth making -- which would itself be a fact about how porous the two YMCA
+institutions were. But the article does not say so and this is left open.
+
+A TRAP, RECORDED BECAUSE THIS ARTICLE HAS ONE ALREADY. "Mother Mac" here is the
+Pit's new chef in Montreal in 1941. She is NOT "Mr. Mac", Clarence J.
+McGerrigle, Otoreke's long-serving director. camp-otoreke.md already carries one
+warning of this kind, about a V. McAdam of the Boys Clubs of Canada whom a
+careless OCR read would turn into "Mr. Mac".

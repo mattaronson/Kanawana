@@ -1,0 +1,180 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+TWO FAMILY MEMOIRS THAT DESCRIBE KANAWANA FROM OUTSIDE IT — one from the late 1920s, one from the
+late 1990s. Neither is a camp document; both are books about something else, written by a relative
+of a camper, in which the camp appears because it was part of the life being described.
+
+NOT SCANS. Both books are lending-restricted on the Internet Archive; neither has been read. Each
+passage below was assembled by walking overlapping twelve-word windows returned by
+https://openlibrary.org/search/inside.json (contract at f_4933), to a sentence or subject boundary
+in both directions. Page images on lending-restricted items return HTTP 403 with an HTML body even
+with the item's own details page sent as Referer — a different failure from the missing-Referer trap
+that returns a 43-byte transparent GIF under HTTP 200. The OCR's own line-break hyphens ("improv¬
+ing", "sum- mer") are left in place as evidence of where the scan broke.
+
+BOTH ITEMS WERE FOUND BY QUERYING "Kamp Kanawana" RATHER THAN "Kanawana". p_430's item list was
+compiled from the bare-"Kanawana" enumeration and did not have either of the two books added to the
+project on 2026-09-06 from the same query; the camp has spelled its own name two ways for a century
+and both spellings have to be run.
+
+
+===============================================================================
+ITEM 1. Jan Elvin, THE BOX FROM BRAUNAU: IN SEARCH OF MY FATHER'S WAR
+        (New York: AMACOM/American Management Association, 2009). ISBN 9780814410493.
+        Internet Archive: boxfrombraunauin0000elvi — scan leaf 296; the index entry reads
+        "Kamp Kanawana, 24", so this is the boyhood chapter, "The golden boy".
+        Subject of the book: the author's father, WILLIAM JOHN ELVIN, US 80th Infantry Division.
+===============================================================================
+
+RECOVERED PASSAGE (continuous; two runs, joined where they overlap):
+
+    "In 1926, when Dad was eight and the family had spent two years in Maryland, Jim announced that
+    the company was dispatching him to Quebec to help purchase and install the machinery for a new
+    plant in Drummondville on the Saint-Fran[ç]ois River. The fam[ily] ... found the cold, biting
+    winter in Drummondville exhilarating. Taxi drivers removed their ...
+
+    ... [when he] wasn't in the mood for company, he'd send the whip back at them. Every summer, Dad
+    and Georgie went off to Kamp Kanawana, a YMCA camp located on a remote lake in the Laurentians
+    north of Montreal — one of what seemed to my father to be an endless series of thousands. The
+    first time Georgie went, he was supposed to spend a week there but got so homesick he wouldn't
+    stay. Dad stayed two weeks, improv[ing] his swimming to the point where he finally made it
+    across the lake. On the last day of camp, early in the morning, all the campers observed the
+    camp ritual of jumping into the cool lake bare naked. Each Sunday in Drummondville, they'd
+    dress up for church. ..."
+
+WHAT IT GIVES, IN ORDER OF WORTH:
+
+1. A CAMP RITUAL THIS PROJECT DOES NOT HAVE. "On the last day of camp, early in the morning, all the
+   campers observed the camp ritual of jumping into the cool lake bare naked." The KB holds a
+   morning dip from the camp's own early literature — reveille at 6.30, physical exercises, then the
+   dip — but not a LAST-DAY, WHOLE-CAMP, undressed one, and not the word "ritual" for it. The camp's
+   own publications would have had every reason not to print this and every reason to print the
+   6.30 dip, which is exactly why an outside memoir is worth reading.
+
+2. A DATE BRACKET. The family arrives in Quebec in 1926, the father being eight; "every summer, Dad
+   and Georgie went off to Kamp Kanawana" therefore begins in or after 1927 and runs through the
+   family's Drummondville years. That is the Harold Cross era — Cross put up the totem pole in 1927.
+
+3. A CATCHMENT FACT. An AMERICAN family, moved to DRUMMONDVILLE for an industrial posting, sending
+   two boys to the MONTREAL YMCA's camp a hundred kilometres away, every summer. Drummondville is
+   not Montreal and the Elvins were not Montrealers. Whatever channel carried them to Kanawana —
+   the company, the local Y, an English-speaking congregation — is not in the passage, and is a
+   question this project had not thought to ask.
+
+4. A CAMPER'S OWN MEASURE OF SUCCESS: swimming across the lake, in two weeks, at eight or nine.
+
+WHAT IT DOES NOT GIVE: a year for any particular summer, a section or tent, a counsellor's name, or
+the brother's full name ("Georgie"). The father's name comes from the book's own subject heading,
+not from this passage.
+
+
+===============================================================================
+ITEM 2. Janet Torge, DEAR SAM: GRIEVING THE DEATH OF MY SON
+        (iUniverse, 27 May 2007). ISBN 9780595423835.
+        Internet Archive: dearsamgrievingd0000jane — scan leaf 150.
+        The subject is SAM LAZARUS (1978–2004), who already has an article in this wiki.
+===============================================================================
+
+A NOTE ON HOW THIS WAS READ, BEFORE THE TEXT. This is a mother's book about her son's death, written
+in the form of letters to him. It is published, in print, under her name, with his name in the
+title; she chose to make it public and this project is not disclosing anything she did not. But
+there is a difference between reading a published book and mining a grieving parent's private
+sentences for data, and the difference is how far you walk. The walk here was stopped at the camp
+material and at the sentence that places it, and was not extended into the surrounding chapters. The
+four windows the index surfaced are all recorded; nothing found was withheld. NO EMBARGO APPLIES:
+this is not a personal assessment of a private individual held in a confidential record, it is a
+published memoir about a person this wiki already documents, and the 2026-09-03 amendment's default
+is written for the former.
+
+RECOVERED PASSAGES:
+
+(a) The CIT application and the summer that followed — continuous:
+
+    "... [he wanted] to be a teacher, but he wanted out of school, not back in again. His employment
+    options in Montreal were severely limited by his poor grasp of French. To escape the decision
+    about what to do next, he applied for a position as a counselor-in-training at Kamp Kanawana,
+    the place he had spent practically every summer since he was eight, and was accepted. That
+    summer was terrific. Sam was considered a good counselor with the kids, especially the younger
+    ones, who called him 'Daddy' and ran to him whenever a bout of homesickness came over them. He
+    was able to share with them a child's enthusiasm for the outdoors while using a firm, older hand
+    to keep them in line. However, once camp was [over] ..."
+
+(b) A later summer, from the index window, not walked further:
+
+    "... quickly went off to spend another sum- mer as a camp counselor at Kamp Kanawana but told me
+    that when he was finished, he was ..."
+
+(c) The last summer he did not take, from the index window, not walked further:
+
+    "... to spend the summer again as a counselor at Kamp Kanawana, but he continued mak- ing
+    arrangements to leave ..."
+
+(d) The funeral, January 2004 — walked one window each way:
+
+    "... [people] share their stories of you. Counselors and kids from Kamp Kanawana are everywhere,
+    many at their first funeral. I can see the shock on their young ..."
+
+WHAT IT GIVES:
+
+1. HE WAS A CAMPER FROM AGE EIGHT. Born 3 March 1978, so from the summer of 1986. `sam-lazarus.md`
+   Open Question 1 asks what years he attended; this answers the start of it, and "practically every
+   summer" answers the shape.
+
+2. THE CIT YEAR CAME AFTER SCHOOL, NOT AT SIXTEEN. He applied "to escape the decision about what to
+   do next", having left school and found Montreal employment closed to him by his French. NO YEAR
+   IS GIVEN in the recovered text. That is later than a CIT cohort's usual age and is worth
+   recording as such rather than converted into a year by arithmetic.
+
+3. WHAT HE WAS LIKE ON STAFF, from someone who was not at camp and is reporting what she was told:
+   good with the young ones, called "Daddy" by them, the one homesick children ran to.
+
+4. THAT CAMP CAME TO HIS FUNERAL, in her own sentence, and that for many of the campers there it was
+   the first funeral of their lives.
+
+5. A DATING LEAD, NOT AN IDENTIFICATION. The camp's 2003 Junior Boys counsellors plaque carries a
+   "Sam L" and a "Sam W" — two Sams disambiguated by initial, which is why neither carries a
+   surname. Sam Lazarus died in January 2004, and passage (c) has him meaning to return for the
+   following summer, so 2003 would have been his last. That is consistent and it is not proof: the
+   plaque gives an initial, and one initial is not a name. Recorded as a lead in the KB, hedged in
+   the article, and not folded into the plaque index.
+
+QUERIES RUN — ITEM 1 (in order):
+  "Kamp Kanawana"  ·  "went off to Kamp Kanawana, a YMCA camp located on a remote lake"  ·
+  "Dad and Georgie went off to Kamp Kanawana"  ·  "a YMCA camp located on a remote lake in the
+  Laurentians"  ·  "at them. Every summer, Dad and Georgie"  ·  "remote lake in the Laurentians north
+  of Montreal"  ·  "north of Montreal — one of what seemed"  ·  "to my father to be an endless"  ·
+  "he'd send the whip back at them"  ·  "an endless series of thousands. The first" (non-JSON) ·
+  "endless series of thousands. The first" (non-JSON) · "series of thousands. The first"  ·  "The
+  first time Georgie went, he was supposed"  ·  "he was supposed to spend a week there"  ·  "spend a
+  week there but got so homesick he" (non-JSON) · "but got so homesick he"  ·  "homesick he wouldn't
+  stay. Dad stayed two weeks"  ·  "Dad stayed two weeks, improv¬ ing his swimming"  ·  "ing his
+  swimming to the point where"  ·  "where he finally made it across"  ·  "made it across the lake. On
+  the last day"  ·  "On the last day of camp, early in the"  ·  "early in the morning, all the
+  campers"  ·  "all the campers observed the camp ritual"  ·  "the camp ritual of jumping into the
+  cool"  ·  "into the cool lake bare naked. Each Sunday" (non-JSON) · "cool lake bare naked. Each
+  Sunday"  ·  "Drummondville" "Kamp Kanawana"  ·  "the machinery for a new plant in Drummondville"  ·
+  "to purchase and install the machinery for a new plant" (0 hits) · "purchase and install the
+  machinery for a new plant" (non-JSON) · "install the machinery for a new plant" (non-JSON) · "and
+  install the machinery for a new"  ·  "to Quebec to help purchase and install"  ·  "company was
+  dispatching him to Quebec"  ·  "Maryland, Jim announced that the company"  ·  "had spent two years
+  in Maryland, Jim announced"  ·  "eight and the family had spent two years in Maryland"
+
+QUERIES RUN — ITEM 2 (in order):
+  "Kamp Kanawana"  ·  "the place he had spent practically every summer"  ·  "for a position as a
+  counselor-in-training at Kamp Kanawana"  ·  "practically every summer since he was eight, and was"
+  ·  "to do next, he applied for a position as a" (non-JSON) · "since he was eight, and was accepted.
+  That summer was"  ·  "accepted. That summer was terrific. Sam was considered"  ·  "Sam was
+  considered a good counselor with the"  ·  "good counselor with the kids, especially the younger"  ·
+  "the younger ones, who called him 'Daddy'"  ·  "and ran to him whenever a bout"  ·  "of homesickness
+  came over them. He"  ·  "He was able to share with them a child's"  ·  "a child's enthusiasm for
+  the outdoors while"  ·  "using a firm, older hand to keep"  ·  "he applied for a position as a
+  counselor-in-training"  ·  "decision about what to do next, he applied"  ·  "grasp of French. To
+  escape the decision"  ·  "were severely limited by his poor grasp of French"  ·  "his employment
+  options in Montreal were severely limited"  ·  "school, not back in again. His employment options"
+  ·  "Counselors and kids from Kamp Kanawana are everywhere"  ·  "are everywhere, many at their first
+  funeral" (non-JSON) · "everywhere, many at their first funeral"  ·  "spend another sum- mer as a
+  camp counselor at Kamp Kanawana"
+
+ROUTES NOT TRIED for either book: an authenticated Internet Archive borrow; Google Books snippet
+view; a library copy. *Dear Sam* is print-on-demand from iUniverse and is orderable new; *The Box
+from Braunau* is a trade book and is widely held.

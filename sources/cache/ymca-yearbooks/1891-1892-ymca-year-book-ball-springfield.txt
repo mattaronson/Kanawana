@@ -1,0 +1,108 @@
+SOURCE EXTRACT — read from the full djvu texts, 2026-09-06
+=========================================================
+YEAR BOOK AND OFFICIAL ROSTER OF THE YMCAs OF NORTH AMERICA — the volumes for 1891 and 1892
+Internet Archive: ymcayearbookof1891younuoft, ymcayearbookof1892younuoft
+
+NEITHER IS LENDING-RESTRICTED. Both djvu texts downloaded whole (672,945 and 630,720 bytes) and
+searched. "Kanawana" occurs ZERO times in either, as in all twelve volumes of this series now read.
+
+These two were taken last and are the most important of the series for this project, because they
+cover the year of the Jones' Island trip (1891) and the autumn the camp committee was appointed
+(1892).
+
+
+===============================================================================
+1. THE 1892 VOLUME — W. H. BALL, JR. CAME FROM SPRINGFIELD, AND A CONTEMPORARY
+   PRINTED SOURCE SAYS SO
+===============================================================================
+
+From the QUEBEC provincial narrative report, signed at its foot "CHARLES CUSHING, Cor. Mem.":
+
+    "QUEBEC.
+    The Quebec Association is at present without a general secretary. The Association at Sherbrooke,
+    under its new secretary, is doing an active and earnest work. The membership of the Montreal
+    Association has reached 1,600, and the new building has the appearance of an African ant hill,
+    swarming with workers in every department, and severely taxing the energies of the general
+    secretary and his assistants. The religious meetings continue large and impressive, and bear
+    much fruit. THE PHYSICAL DIRECTOR, W. H. BALL, JR., A NEW MAN, FROM THE SPRINGFIELD TRAINING
+    SCHOOL, IS DOING EXCELLENT WORK; the classes for pastors and business men, as well as those for
+    young men and boys, are all thronged, and the great plunge and the shower baths are new and
+    exceedingly popular features of the building. In the canvass for subscriptions for the new
+    building the International Committee rendered very valuable and opportune assistance in the
+    personal services of Secretary Claus Olandt, Jr., for which the Montreal Association is deeply
+    grateful.
+                                                            CHARLES CUSHING, Cor. Mem."
+
+    (The OCR gives "CHARLES GUSHING" and "Glaus Olandt"; both are read as C.)
+
+And the same volume's roster:
+
+    "Montreal — D. A. Budge. Asst., D. W. Corbett. PHYS. DIRECTOR, W. H. BALL, JR."
+
+
+WHY THIS IS THE FIND
+--------------------
+`billy-ball.md`'s Open Question 5 asks whether the Montreal "Billy" Ball is **William Henry Ball,
+Springfield College class of 1891**, who graduated alongside James Naismith and Amos Alonzo Stagg
+and later ran the YMCA's national swimming campaign. The article's answer has been "**strongly
+corroborated, not fully proven**", and the KB's own `f_1245` states the objection precisely:
+
+    "His known career positions (Yonkers, Brooklyn, Springfield, Detroit, then YMCA International
+    Committee 1911-1924) DO NOT INCLUDE MONTREAL, but a Montreal posting between 1891 and his other
+    documented positions has not been ruled out."
+
+Here is a contemporary printed source, published by the YMCA's own International Committee, saying
+that Montreal's physical director W. H. Ball, Jr. was **a new man from the Springfield Training
+School**. The Springfield man graduated in 1891; the Montreal man is new in the volume for 1892.
+
+**This does not prove the two are one man.** It does something more useful than another name match:
+it removes the only structural objection there was. The Springfield-to-Montreal path is now
+documented from the Canadian end, by a source with no interest in the question, written by the
+Quebec corresponding member who would go on to chair the Permanent Camp Committee.
+
+The proof that would close it is still the Springfield College finding aid MS 527, which is
+JavaScript-rendered and inaccessible to this environment, or a direct enquiry to that archive.
+
+
+===============================================================================
+2. THE 1891 VOLUME — THE POST WAS EMPTY THE YEAR BEFORE
+===============================================================================
+
+    "QUEBEC.
+     Montreal — D. A. Budge. Asst., W. J. Orr. Asst., Percy C. Leslie.
+     Quebec — F. W. Gooch.
+     Sherbrooke — D. C. Stephens."
+
+**No physical director at all.** Which is what "a new man" in the next volume means, and which fits
+this project's record of Ball as Physical Director from September 1891 — after this volume was
+compiled and before the next.
+
+
+===============================================================================
+3. AND R. L. CHARLTON, WHOM THE NAME SWEEP COULD NOT FIND
+===============================================================================
+The 1891 volume prints the provincial committee:
+
+    "ONTARIO AND QUEBEC. Appointed February, 1891. Headquarters, Toronto, Ont.
+     C. S. Gzowski, Jr., Toronto, Ont., Chairman. J. O. Anderson, Secretary.
+     John J. Gartshore, Treasurer.
+     [Toronto members] … Herbert Ames, Montreal, Que. — D. A. BUDGE — R. L. CHARLTON —
+     George Hague — R. Henderson — R. H. Holland — F. W. Kelly …"
+
+**R. L. Charlton sat on the Ontario and Quebec Provincial Committee, appointed February 1891** —
+three years before he appears on the 1894 Summer Camp committee that founded Kanawana, and seven
+before the 1898 Camp Jubilee photograph. He is in Montreal company: Herbert Ames, the reformer who
+wrote *The City Below the Hill*, and George Hague, the banker.
+
+This project's name sweep ran "R. L. Charlton" against a full-text index of millions of books on
+2026-09-06 and got thirteen hits, none of them him. He was in a volume of a series already sitting
+in this repo's cache. **That is rule 21 for the third time in one day.**
+
+
+===============================================================================
+THE SERIES, AS IT NOW STANDS
+===============================================================================
+TWELVE volumes read for the Montreal roster: 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1906, 1907,
+1908, 1921, 1922. STILL UNREAD: the four Google scans (1882, 1886, 1896, 1907, 1921 — duplicates of
+years already held, but worth checking for different printings) and the 1936 volume, which may be
+restricted. See p_433.

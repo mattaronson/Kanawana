@@ -1,0 +1,168 @@
+SOURCE EXTRACT — read from full djvu texts, 2026-09-06 (p_430 name sweep, re-run with paging)
+==============================================================================================
+INTERNATIONAL COUNCIL OF RELIGIOUS EDUCATION, YEARBOOKS
+Internet Archive: yearbook0000inte_t6c3 (1933), yearbook0000inte_w2e1 (1942), yearbook1943inte,
+yearbook1945inte, yearbook0000inte_y7m7 (undated) — NONE lending-restricted.
+
+WHY THESE WERE READ
+-------------------
+This project already held ONE volume of this series, the 1936 Yearbook, whose source record ends:
+"Other years of this yearbook series exist and are untried." They are tried now. The re-run of the
+name sweep that found them is the one prompted by discovering that the Open Library search-inside
+API pages and had never been paged (f_4998) — though as it happens "Harold C. Cross" returns only
+20 hits, one page, so paging was not what was missing here. NOBODY HAD RUN THE NAME AGAINST THIS
+SERIES AT ALL.
+
+HAROLD C. CROSS IN THE RELIGIOUS EDUCATION COUNCIL OF THE PROVINCE OF QUEBEC
+-----------------------------------------------------------------------------
+The Yearbook lists every affiliated state and provincial council with its officers. The Quebec
+entry, year by year, quoted with the OCR's slips:
+
+  1933 volume (title page "YEARBOOK 1933"), TWO Quebec listings, scan lines 46448 and 61226 —
+  the item appears to bind more than one year, since the two differ in every officer but the
+  president:
+
+      Religious Education Council of the Province of Quebec
+      212 Coronation Building, Montreal, Quebec, Canada
+      Officers
+      PRESIDENT — HAROLD C. CROSS, Y. M. C. A., Drummond St., Montreal
+      Vice-President — James J. Reid, 18 Milroy Ave., Valois, P. Q.
+      Secretary — Milly Brisbane, 452 Strathcona Ave., Westmount
+
+      ... and, later in the same item:
+      PRESIDENT — HAROLD C. CROSS, 1441 Drummond St., Montreal
+      Vice-President — Rev. A. M. Hill, Ph.D., 297 Beatty Ave., Verdun, Que.
+      Secretary — James A. Reid, 19 Mt. Pleasant Ave., Valois, Que.
+
+  1936 volume — PRESIDENT (already held by this project, src_icre_yearbook_1936, f_4943)
+
+  1942 volume (yearbook0000inte_w2e1) — "CORRESPONDING SECRETARY ... Mr. Harold C. Cross"
+      alongside "Honorary Treasurer ... Mr. J. P. Copland, 389 St. Paul St., Montreal"
+
+  1943 volume — the fullest entry:
+      QUEBEC. Religious Education Council of the Province of Quebec
+      106-07 Coronation Bldg., Montreal, Quebec, Canada
+      President ................ Dr. E. Leslie Pidgeon, Erskine and American Church,
+                                 3407 Ontario Ave., Montreal
+      Recording Secretary ...... Miss Jean Ferguson, 5530 Queen Mary Rd., N.D.G., Montreal
+      CORRESPONDING SECRETARY .. MR. HAROLD C. CROSS, Central Y. M. C. A.,
+                                 1441 Drummond St., Montreal
+      Honorary Treasurer ....... Mr. J. P. Copland, 389 St. Paul St., Montreal
+      [Children's Work?] Secretary ... Vacant
+
+  1945 volume — President Rev. Roland Bodger, St. Cuthbert's Anglican Church;
+      "CORRESPONDING SECRETARY ... Mr. Harold C. Cross, Central Y. M. C. A., 1441 Drummond St."
+
+  undated volume (yearbook0000inte_y7m7) — "Corresponding Secretary ... Harold C. Cross;
+      Honorary Treasurer, Mr. J. P. Copland" — the same pairing as 1942, so probably adjacent
+      to it; THE VOLUME IS NOT DATED HERE AND NO YEAR IS ASSIGNED TO IT.
+
+WHAT THIS ESTABLISHES
+---------------------
+Harold C. Cross served the Religious Education Council of the Province of Quebec across AT LEAST
+TWELVE YEARS AND IN TWO DIFFERENT OFFICES — PRESIDENT in 1933 and 1936, CORRESPONDING SECRETARY
+in 1942, 1943 and 1945 — and in every listing his address is the YMCA's own: Drummond Street, and
+from the 1940s "Central Y. M. C. A., 1441 Drummond St." This project had a single data point,
+1936, described in its own source record as sitting "inside the ten-year hole in his documented
+career". The hole is now a career.
+
+The council itself moves in this period, from 212 Coronation Building to 106-07 Coronation
+Building; the YMCA address stays.
+
+TWO CAUTIONS
+------------
+THE 1933 ITEM'S TWO QUEBEC LISTINGS — AND THE SECOND ONE IS 1936, ALREADY HELD.
+[Corrected within the hour of writing this file, by checking against what the project already had
+rather than leaving the question open.] Its title page reads "YEARBOOK 1933" and it carries two
+Quebec council entries. The second gives "Vice-President — Rev. A. M. Hill, Ph.D., 297 Beatty
+Ave., Verdun" and "Secretary — James A. Reid, 19 Mt. Pleasant Ave., Valois". THIS PROJECT'S
+ARTICLE ON CROSS ALREADY RECORDS, FROM THE SEPARATELY HELD 1936 VOLUME, that the council's "other
+officers were Rev. A. M. Hill of Verdun, James A. Reid of Valois and J. P. Copland of Montreal."
+Same men, same suburbs. So the second listing is the 1936 entry, and this item binds at least
+1933 and 1936 — which means it is NOT an unassigned year and NOT a new one. The genuinely new
+years from this pass are 1933, 1942, 1943, 1945 and the undated volume.
+
+That was worth thirty seconds of grepping. Written down unchecked, it would have put a phantom
+extra year into the record.
+
+THE UNDATED VOLUME. yearbook0000inte_y7m7 carries no year in its front matter that this read
+could find. Its officer pairing matches 1942's. NO YEAR IS CLAIMED FOR IT.
+
+TWO OTHER CROSS ITEMS FOUND IN THE SAME SWEEP, NEITHER READ
+-----------------------------------------------------------
+  americanroseannu1970evan — AMERICAN ROSE ANNUAL 1970 (lending-restricted): "North American
+    Rose Gardens of 1851 ... HAROLD C. CROSS, ST. ANNE DE BELLEVUE, QUEBEC. One of the by-paths..."
+    If this is the same man, it places him at Sainte-Anne-de-Bellevue in 1970 and writing on rose
+    history — a retirement, nineteen years after One Hundred Years of Service with Youth. THE
+    IDENTIFICATION IS NAME AND PROVINCE ONLY and is not made here.
+
+  georgianspiritst0000hall — THE GEORGIAN SPIRIT: THE STORY OF SIR GEORGE WILLIAMS UNIVERSITY
+    (1967, lending-restricted) — the YMCA's own university, later Concordia, and squarely in this
+    project's institutional lineage: "research and records of my friend, Mr. Harold C. Cross,
+    dedicated professional leader and historian". A tribute in an acknowledgements page, by
+    someone who knew him.
+
+BOTH ARE LENDING-RESTRICTED. THEY WERE WALKED BY SEARCH-INSIDE ON 2026-09-06 — see below.
+
+
+THE GEORGIAN SPIRIT (1967) — WHAT IT SAYS ABOUT HIM, IN FULL
+=============================================================
+Assembled from four overlapping Open Library search-inside windows, each quoted phrase chosen to
+begin inside the previous window's text so the join is visible rather than assumed:
+
+  "...maintain the Georgian tradition. The research and records of my friend, Mr. Harold C. Cross,
+   dedicated professional leader and historian of the Montreal YMCA, have been invaluable and are..."
+
+The sentence runs on past "and are" and the walk was stopped there; the acknowledgement's sense is
+complete. The book is HENRY F. HALL's THE GEORGIAN SPIRIT: THE STORY OF SIR GEORGE WILLIAMS
+UNIVERSITY, and its preface is dated OCTOBER 14, 1966. Hall was Sir George Williams' principal —
+Concordia's Hall Building carries his name — so this is the head of the YMCA's own university
+thanking Cross by name, fifteen years after Cross published One Hundred Years of Service with
+Youth.
+
+THE PHRASE THAT MATTERS IS "HISTORIAN OF THE MONTREAL YMCA". Not "a historian" and not "author of
+a history": a standing, stated by someone in a position to know, in print, in 1966.
+
+"KANAWANA" DOES NOT APPEAR IN THIS BOOK. It is not among the seventy-six items enumerated at
+`sources/cache/openlibrary-search-inside/2026-09-06-all-76-kanawana-items-enumerated.txt`.
+
+
+THE AMERICAN ROSE ANNUAL 1970 — A LEAD, STILL NOT AN IDENTIFICATION
+====================================================================
+Leaf 282: "North American Rose Gardens of 1851 — HAROLD C. CROSS, ST. ANNE DE BELLEVUE, QUEBEC.
+One of the by-paths of the..." — and, from the volume's index, "North American Rose Gardens of
+1851 ... Harold C. Cross 58".
+
+So a Harold C. Cross of Sainte-Anne-de-Bellevue wrote an article on the rose gardens of 1851 for
+the American Rose Society's annual in 1970. WHAT MAKES IT TEMPTING: the subject is HISTORICAL
+research on a nineteenth-century topic, which is what Cross did; 1851 is also the founding year of
+the Montreal YMCA, whose centenary he wrote; and Sainte-Anne-de-Bellevue is greater Montreal.
+
+WHAT IT STILL IS NOT: an identification. The evidence is a name and a province. No middle name, no
+age, no YMCA reference, nothing linking the two men beyond a common name in a common place, and
+"Harold Cross" is not rare. THE IDENTIFICATION IS NOT MADE, and the article records it as a lead.
+WHAT WOULD SETTLE IT: the article's own text, if it mentions Montreal or the YMCA; an obituary; or
+the American Rose Society's contributor notes for that volume.
+
+AND NOBODY ELSE FROM THIS PROJECT IS IN THE SERIES
+---------------------------------------------------
+Having read five volumes for Cross, the obvious next move was to ask whether the series carries
+anyone else. Forty-four surnames from `wiki/people/directors-index.md` — Seaman, Ereaux,
+Netherwood, Langille, Macdiarmid, Cornell, Spinney, Dawson, Lummis, Cleghorn, Patten, Goddard,
+Twynam, Robitaille, Hanagan, Bradford, Powter, Holliday, Brandon, Paterson, Patton, Chapman,
+Merritt, Budge, Calhoun, Abraham, Cowan, Crawford, Finlay, Charlton, Ball, Cushing, Ellis and the
+rest — were run across all five volumes, restricted to passages within a dozen lines of "Quebec"
+or "Montreal".
+
+THE RESULT IS A CLEAN NULL. The only matches are Mrs. Ella B. Patten of Covina, California, a
+Pacific Coast member of an unrelated board, in two volumes. No Kanawana figure other than Cross
+appears in the Quebec or Montreal sections of this series.
+
+That is worth having. It means the International Council of Religious Education Yearbooks are now
+worked out for this project: they gave one man twelve years of career and they have nothing else
+to give. (The obvious caveats: only the five downloaded volumes were searched, only near Quebec
+and Montreal, and surname matching will miss anyone the OCR mangled.)
+
+QUERIES RUN: '"Harold C. Cross"' with paging (total 20, one page, 20 distinct items);
+archive.org/metadata on six of them; full djvu download and a /Harold C\. Cross/ scan of the five
+unrestricted Yearbook volumes; title-page year scans on each.

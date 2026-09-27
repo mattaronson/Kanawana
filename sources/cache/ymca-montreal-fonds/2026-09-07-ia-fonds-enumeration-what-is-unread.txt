@@ -1,0 +1,185 @@
+THE YMCA OF MONTREAL FONDS ON THE INTERNET ARCHIVE -- WHAT THIS PROJECT HAS NOT READ
+====================================================================================
+Enumerated 2026-09-07. advancedsearch.php, q="ymca of montreal", rows=1000. numFound 942.
+
+HELD OR CITED SOMEWHERE IN THIS PROJECT: 458.   NOT: 484 (437 images, 47 texts).
+
+A TRAP THAT COSTS AN HOUR IF YOU DO NOT KNOW IT
+-----------------------------------------------
+The plain-text file in these items is named after the item's TITLE, not its identifier:
+  https://archive.org/download/the-news-bulletin-vol-07-no-06/The%20News%20Bulletin%20-%20Vol%2007,%20No%2006_djvu.txt
+The obvious <identifier>_djvu.txt returns HTTP 404 with a 146-byte body. Read the file list
+from archive.org/metadata/<identifier> and take the name that ends in _djvu.txt.
+
+THE 47 UNREAD TEXT ITEMS, oldest first
+--------------------------------------
+  1856   the-quarterly-reporter-1856-01                       The Quarterly Reporter - No. 1
+  1874   sgw-ymca-annual-report-1874                          YMCA Annual Report 1874
+  1914   canadian-manhood-vol-01-no-03                        Canadian Manhood - Volume 01, Number 03
+  1915   canadian-manhood-vol-02-no-02                        Canadian Manhood - Volume 02, Number 02
+  1915   canadian-manhood-vol-02-no-03                        Canadian Manhood - Volume 02, Number 03
+  1915   canadian-manhood-vol-02-no-04                        Canadian Manhood - Volume 02, Number 04
+  1917   canadian-manhood-vol-04-no-04                        Canadian Manhood - Volume 04, Number 04
+  1919   canadian-manhood-enlarged-series-vol-01-no-01        Canadian Manhood (Enlarged Series) - Volume 01, Number 01
+  1931   the-news-bulletin-vol-07-no-06                       The News Bulletin - Volume 07, Number 06
+  1931   the-news-bulletin-vol-07-no-07                       The News Bulletin - Volume 07, Number 07
+  1931   the-news-bulletin-vol-07-no-01                       The News Bulletin - Volume 07, Number 01
+  1931   the-news-bulletin-vol-07-no-05                       The News Bulletin - Volume 07, Number 05
+  1931   the-news-bulletin-vol-07-no-03                       The News Bulletin - Volume 07, Number 03
+  1932   the-news-bulletin-vol-08-no-03                       The News Bulletin - Volume 08, Number 03
+  1932   the-news-bulletin-vol-09-no-02                       The News Bulletin - Volume 09, Number 02
+  1932   the-news-bulletin-vol-08-no-02                       The News Bulletin - Volume 08, Number 02
+  1933   the-news-bulletin-vol-09-no-01                       The News Bulletin - Volume 09, Number 01
+  1933   the-news-bulletin-vol-09-no-03                       The News Bulletin - Volume 09, Number 03
+  1934   ymca-news-bulletin-1934-12                           Y.M.C.A. News Bulletin - 1934-12
+  1936   the-news-bulletin-vol-12-no-03                       The News Bulletin - Volume 12, Number 03
+  1938   the-national-news-letter-1938-12-06                  The National News Letter - 1938-12-06
+  1939   the-news-bulletin-vol-15-no-01                       The News Bulletin - Volume 15, Number 01
+  1943   the-news-bulletin-vol-20-no-07                       The News Bulletin - Volume 20, Number 07
+  1944   the-news-bulletin-vol-19-no-02                       The News Bulletin - Volume 19, Number 02
+  1944   the-news-bulletin-vol-19-no-03                       The News Bulletin - Volume 19, Number 03
+  1946   the-news-bulletin-vol-21-no-03                       The News Bulletin - Volume 21, Number 03
+  1946   the-news-bulletin-vol-21-no-04                       The News Bulletin - Volume 21, Number 04
+  1946   the-news-bulletin-vol-21-no-01                       The News Bulletin - Volume 21, Number 01
+  1946   the-news-bulletin-vol-21-no-02                       The News Bulletin - Volume 21, Number 02
+  1949   the-news-bulletin-vol-24-no-04                       The News Bulletin - Volume 24, Number 04
+  1949   the-news-bulletin-vol-24-no-01                       The News Bulletin - Volume 24, Number 01
+  1950   national-council-bulletin-vol-24-no-01               National Council Bulletin - Volume 24, Number 01
+  1950   national-council-bulletin-vol-24-no-02               National Council Bulletin - Volume 24, Number 02
+  1959   sgw-ymca-annual-report-1959-short-version            YMCA Annual Report 1959 Short Version
+  1962   national-council-bulletin-vol-36-no-04               National Council Bulletin - Volume 36, Number 04
+  1965   national-council-bulletin-vol-38-no-04               National Council Bulletin - Volume 38, Number 04
+  1966   national-council-bulletin-vol-39-no-03               National Council Bulletin - Volume 39, Number 03
+  1966   national-council-bulletin-vol-40-no-01               National Council Bulletin - Volume 40, Number 01
+  1967   national-council-bulletin-vol-40-no-02               National Council Bulletin - Volume 40, Number 02
+  1967   national-council-bulletin-vol-40-no-03               National Council Bulletin - Volume 40, Number 03
+  1968   national-council-bulletin-vol-41-no-03               National Council Bulletin - Volume 41, Number 03
+  1968   national-council-bulletin-vol-41-no-02               National Council Bulletin - Volume 41, Number 02
+  1970   bulletin-1970-02-13                                  Bulletin - 1970-02-13
+  1972   canada-newsletter-1972-spring                        Canada Newsletter - 1972 Spring
+  1982   communique-incendie-orillia                          Un incendie ravage le YMCA d'Orillia
+  1982   bulletin-1982-12-15                                  Bulletin - 1982-12-15
+  2002   sgw-ymca-annual-report-2001-2002-fr                  YMCA Rapport Annuel 2001-2002
+
+THE 437 UNREAD IMAGE ITEMS are city-branch photographs with generic titles -- Basketball (13),
+Norris Building (10), Gym (10), Gymnasium Activity (8), Day Camp Activity (7), Pool (6),
+Swimming Class (5), Hockey Rink (5) and so on. They are NOT catalogued by camp, so a camp
+photograph among them would not surface in a search on the camp's name. That is a real
+possibility and it is why they are counted here rather than dismissed.
+
+WHAT A SAMPLE OF NINE PROVED, 2026-09-07
+----------------------------------------
+The News Bulletin, Vol 15 No 1 (1939), carries the table 'WORLD SERVICE OBJECTIVES SUGGESTED
+FOR 1939 (As Approved by The Council)', in which CAMP KANAWANA and CAMP OTOREKE are listed as
+their own contributing units, among Montreal's branches and Sir George Williams College. The
+amounts sit in a separate OCR column run and are NOT matched to names here; do not guess them.
+Canadian Manhood (1914-1919) is the association's WARTIME magazine and its 'camp' content is
+MILITARY camps, not summer camps -- 45 and 71 hits in two issues, all of that kind.
+The 1874 annual report contains the word 'camp' zero times.
+
+CORRECTION, 2026-09-07, ADDED AFTER OPENING ONE OF THE ITEMS
+-------------------------------------------------------------
+the-quarterly-reporter-1856-01 IS NOT AN 1856 DOCUMENT AND IS NOT MONTREAL'S. It is a JUNE 1944
+periodical, Vol. 18 No. 6, which reproduces the Quarterly Reporter's front page as a curiosity. The
+reproduced page reads "JANUARY, 1858. NUMBER ONE" and its masthead gives the publisher as the
+Confederation of Young Men's Christian Associations under the Central Committee at CINCINNATI, OHIO.
+The Archive's 1856 date field is the date of the thing pictured. The 1944 caption is worth keeping:
+the Quarterly Reporter "was published from 1856 through 1858 and was succeeded by the Young Men's
+Christian Journal. It is the first of the many ancestors of the National Council Bulletin."
+TREAT EVERY YEAR IN THE TABLE ABOVE THE SAME WAY -- it comes from the catalogue, and this project
+already learned on the YMCA Year Book that a catalogue year is worthless.
+
+THE 437 IMAGES, NARROWED TO 59 WORTH A PERSON'S EYES (2026-09-07)
+------------------------------------------------------------------
+A title containing a camp or outdoor word is NOT evidence that the photograph shows Kanawana, and
+most of these will be city-branch pools, gyms and day camps. The point of the list is that it is 59
+items rather than 437. Everything else among the unrecorded images carries a title like Basketball,
+Norris Building, Gym, Weightlifting or Model United Nations Assembly.
+
+WHAT WOULD MAKE ONE OF THESE A KANAWANA PHOTOGRAPH: a lake with hills behind it, platform tents,
+a council ring, a log lodge. WHAT WOULD RULE ONE OUT: a tiled pool, a gymnasium floor, a city
+street. Nobody here can tell the difference, because nobody here can see them.
+
+  P0145-02-4484                                                     Archery
+  P0145-02-4485                                                     Archery
+  P0145-02-2196                                                     Arts and Crafts
+  P0145-02-2201                                                     Arts and Crafts
+  P0145-02-3221                                              1999   Boating
+  P0145-02-1513                                              1930   Boys Cabinet
+  P0145-02-1514                                              1930   Boys Cabinet
+  P0145-02-0052                                                     Camp
+  P0145-02-0053                                                     Camp Activity
+  P0145-02-0054                                                     Camping
+  P0145-02-0066                                              1916   Canadian Corps Horse Show
+  P0145-02-0118                                              1919   Canadian YMCA Theatre - Canadian Embarkastion Camp
+  P0145-02-1235                                              1956   Christieville Ski Lodge
+  P0145-02-2143                                                     Day Camp
+  P0145-02-3032                                              1981   Day Camp Activity
+  P0145-02-3093                                              1981   Day Camp Activity
+  P0145-02-3094                                              1981   Day Camp Activity
+  P0145-02-3100                                              1981   Day Camp Activity
+  P0145-02-3124                                              1981   Day Camp Activity
+  P0145-02-3967                                                     Day Camp Activity
+  p-0145-02-3039                                             1981   Day Camp Activity
+  hall-watercolour                                           1964   Henry F. Hall Building Watercolour
+  P0145-02-2281                                                     In for a Dip - Lake Couchiching
+  P0145-02-0057                                                     Kids at a Camp
+  P0145-02-0058                                                     Kids at a Camp
+  P0145-02-0056                                                     Lodge Camp
+  P0145-02-2123                                                     Montreal YMCA 10000 Mile Run and Swim
+  P0145-02-1990                                                     Outdoor Handball
+  P0145-02-1328                                                     People swimming
+  P0145-02-1483                                                     Ski Activity
+  P0145-02-1484                                                     Ski Activity
+  P0145-02-1485                                                     Ski Activity
+  P0145-02-1237                                              1964   Ski School 1964
+  P0145-02-1242                                              1965   Ski School 1965
+  P0145-02-1964                                                     Skiing
+  P0145-02-1976                                                     Skiing
+  P0145-02-1983                                                     Skiing
+  P0145-02-4327                                                     Skiing Trip
+  P0145-02-0024                                                     Swimming
+  P0145-02-1412                                                     Swimming
+  P0145-02-1413                                                     Swimming
+  P0145-02-2165                                              1970   Swimming
+  P0145-02-3213                                              1999   Swimming
+  P0145-02-1909                                                     Swimming Activities
+  P0145-02-1914                                                     Swimming Activities
+  P0145-02-1417                                                     Swimming Activity
+  P0145-02-1889                                                     Swimming Activity
+  P0145-02-1890                                                     Swimming Activity
+  P0145-02-1420                                                     Swimming Class
+  P0145-02-1421                                                     Swimming Class
+  P0145-02-1606                                                     Swimming Class
+  P0145-02-1892                                                     Swimming Class
+  P0145-02-2803                                                     Swimming Class
+  P0145-02-0012                                                     Winter Activity
+  P0145-02-1945                                                     Winter Activity
+  P0145-02-1965                                                     Winter Activity
+  P0145-02-2488                                                     YMCA Archery Program
+  P0145-02-2491                                                     YMCA Archery Program
+  P0145-02-0036                                                     YMCA Swimming Pool
+
+ALSO NOTE: two titles in the wider set are already-known subjects rather than leads --
+"Christieville Ski Lodge" is the association's own ski property, recorded in this project from the
+Concordia finding aids and the 1959 annual report, and "In for a Dip - Lake Couchiching" is Ontario,
+at Geneva Park, not Quebec.
+
+SECOND CORRECTION, 2026-09-07: THE QUERY WAS WRONG, AND SO WAS THE WORD "UNREAD"
+--------------------------------------------------------------------------------
+THE QUERY. This file was built from q="ymca of montreal", a phrase search, which returns 942 items.
+The Internet Archive has a COLLECTION of that name and it holds 1,120. The phrase misses 181 items,
+mostly 1962-63 news releases catalogued by their own headline. Almost all of them were already held
+in this project by other routes, so nothing was lost -- but the denominator was wrong.
+USE  q=collection:ymca-montreal-fonds  AND NOT THE PHRASE.
+
+THE WORD. The table above is headed "what this project has not read". As of the end of 2026-09-07
+that is no longer true of the texts: every one was opened. Thirty-two still carry no source record
+in this project, and that is because THEY HAD NO CAMP CONTENT, not because nobody looked. They are
+the News Bulletin and National Council Bulletin issues that came back empty, the six Canadian
+Manhood issues (military camps, deprioritised), and the mis-catalogued Quarterly Reporter.
+DO NOT OPEN THEM AGAIN.
+
+CORRECTED POSITION: 1,120 items in the collection; 653 held or cited here; 467 not, of which 435 are
+IMAGES and 32 are the read-and-empty texts above. The image half is narrowed to fifty-nine
+candidates by title, listed earlier in this file.

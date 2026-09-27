@@ -1,0 +1,125 @@
+ALL 46 "UNREAD" MONTREAL YMCA SERIALS, DOWNLOADED AND SEARCHED
+Run 2026-09-07 under p_462. Every text item on that priority's unread list was
+fetched in full and searched for Kanawana, Otoreke and two OCR variants.
+
+=====================================================================
+THE RESULT IN ONE LINE
+=====================================================================
+
+SIX OF THE FORTY-SIX CARRY A NAMED HIT. ALL SIX WERE ALREADY EXTRACTED.
+The other forty have no occurrence of either camp's name at all.
+
+So the text half of p_462 is finished, and it is finished as a null. That is
+worth more than it sounds: it means nobody needs to open these forty again
+looking for camp content, and the priority can stop listing them as an order of
+attack.
+
+=====================================================================
+THE SIX, AND WHERE EACH ALREADY LIVES
+=====================================================================
+
+  the-news-bulletin-vol-15-no-01          Kanawana=1 Otoreke=1
+      held as src_ia_ymca_montreal_news_bulletin_15_01
+  sgw-ymca-annual-report-1959-short       Kanawana=3 Otoreke=3
+      THE RICHEST OF THEM, and already read earlier the same day: the
+      "Operation P. G. D." passage is f_5256, and the distinction it draws --
+      that 1959 was COUNSELLOR AND STAFF TRAINING while the 1961 report's
+      "second season" is about PROGRAM AND CAMP SUPERVISION -- is already
+      written there. Its capital line, "Camps Kanawana, Perrot, and Otoreke
+      benefited $75,000 in capital replacement and addition through the
+      decade", is the one sentence in these forty-six not obviously already
+      used, and it is a figure for three camps together over ten years.
+  national-council-bulletin-vol-36-no-04  Kanawana=1
+      "F. William Halliday, from Calgary to Ass't and Camp Kanawana,
+      Montreal-North Mount" -- already at directors-index.md:504, with the two
+      cautions that travel with it.
+  national-council-bulletin-vol-40-no-02  Otoreke=1
+  national-council-bulletin-vol-40-no-03  Otoreke=1
+      "So-Ed Youth Cultural Exchange, Otoreke, Montreal, P.Q.", July 9-15 --
+      already at camp-otoreke.md:734, with the right caution that a calendar
+      announces rather than reports.
+  bulletin-1970-02-13                     Kanawana=1
+      The West Island Branch family ski programme, "It's mainly because of the
+      soup" -- already at winter-programming.md:24, cited there from the
+      Montreal bulletin of 29 JANUARY 1970. This item is dated 13 FEBRUARY.
+      The same paragraph in two bulletins a fortnight apart is a small thing
+      and not nothing: it travelled.
+
+=====================================================================
+THE WARNING THAT MATTERS MORE THAN THE NULL
+=====================================================================
+
+p_462'S "UNREAD" LIST IS ABOUT ONE-THIRD STALE, AND WAS WHEN IT WAS WRITTEN.
+Fifteen of the forty-six are already referenced somewhere in sources.json:
+
+  sgw-ymca-annual-report-1874 · the-news-bulletin-vol-07-no-01 ·
+  ...-vol-08-no-02 · ...-vol-12-no-03 · ...-vol-15-no-01 · ...-vol-19-no-03 ·
+  ...-vol-21-no-04 · ...-vol-24-no-04 · sgw-ymca-annual-report-1959-short-version ·
+  national-council-bulletin-vol-36-no-04 · ...-vol-38-no-04 · ...-vol-39-no-03 ·
+  ...-vol-40-no-02 · ...-vol-40-no-03 · ...-vol-41-no-03
+
+THE MECHANISM. The enumeration decided "unread" by matching item identifiers
+against what the project cites. An item read in a session that recorded it
+under a source id whose text does not contain the identifier shows up as
+unread. It is the same error class as a mistyped URL recorded as a dead site:
+A GAP IN OUR INDEX READ AS A GAP IN THE WORLD.
+
+THE RULE THAT FOLLOWS. An enumeration is a snapshot of our own bookkeeping, not
+a to-do list. Before working any item off a list like this, GREP THE
+DESTINATION -- sources.json, the KB and the wiki -- for the item and for its
+distinctive contents. That check cost seconds here and would have saved a
+write-up of six findings this project already had.
+
+=====================================================================
+THE PER-ITEM TABLE, VERBATIM FROM THE RUN
+=====================================================================
+identifier                                          status     bytes  hits | 'camp' count
+
+the-quarterly-reporter-1856-01                       ok           69092  - | camp=21
+sgw-ymca-annual-report-1874                          ok           37604  - | camp=0
+canadian-manhood-vol-01-no-03                        ok           82390  - | camp=47
+canadian-manhood-vol-02-no-02                        ok          129522  - | camp=47
+canadian-manhood-vol-02-no-03                        ok          105601  - | camp=47
+canadian-manhood-vol-02-no-04                        ok          128351  - | camp=45
+canadian-manhood-vol-04-no-04                        ok          187185  - | camp=70
+canadian-manhood-enlarged-series-vol-01-no-01        ok          128363  - | camp=34
+the-news-bulletin-vol-07-no-06                       ok           86805  - | camp=6
+the-news-bulletin-vol-07-no-07                       ok           43563  - | camp=6
+the-news-bulletin-vol-07-no-01                       ok          115581  - | camp=26
+the-news-bulletin-vol-07-no-05                       ok           42333  - | camp=5
+the-news-bulletin-vol-07-no-03                       ok           41810  - | camp=2
+the-news-bulletin-vol-08-no-03                       ok           41015  - | camp=2
+the-news-bulletin-vol-09-no-02                       ok           23476  - | camp=1
+the-news-bulletin-vol-08-no-02                       ok           19186  - | camp=18
+the-news-bulletin-vol-09-no-01                       ok           21949  - | camp=6
+the-news-bulletin-vol-09-no-03                       ok           59817  - | camp=23
+ymca-news-bulletin-1934-12                           ok           60825  - | camp=0
+the-news-bulletin-vol-12-no-03                       ok           52258  - | camp=33
+the-national-news-letter-1938-12-06                  ok            8932  - | camp=8
+the-news-bulletin-vol-15-no-01                       ok           68415  Kanawana=1,Otoreke=1 | camp=18
+the-news-bulletin-vol-20-no-07                       ok           48746  - | camp=9
+the-news-bulletin-vol-19-no-02                       ok           20958  - | camp=18
+the-news-bulletin-vol-19-no-03                       ok           42614  - | camp=32
+the-news-bulletin-vol-21-no-03                       ok           23538  - | camp=11
+the-news-bulletin-vol-21-no-04                       ok           22635  - | camp=6
+the-news-bulletin-vol-21-no-01                       ok           20489  - | camp=0
+the-news-bulletin-vol-21-no-02                       ok           20831  - | camp=11
+the-news-bulletin-vol-24-no-04                       ok           22721  - | camp=8
+the-news-bulletin-vol-24-no-01                       ok           22819  - | camp=7
+national-council-bulletin-vol-24-no-01               ok           50880  - | camp=18
+national-council-bulletin-vol-24-no-02               ok           51070  - | camp=16
+sgw-ymca-annual-report-1959-short-version            ok           18508  Kanawana=3,Otoreke=3 | camp=10
+national-council-bulletin-vol-36-no-04               ok           34891  Kanawana=1 | camp=3
+national-council-bulletin-vol-38-no-04               ok           57852  - | camp=26
+national-council-bulletin-vol-39-no-03               ok           72443  - | camp=34
+national-council-bulletin-vol-40-no-01               ok           20742  - | camp=2
+national-council-bulletin-vol-40-no-02               ok           21269  Otoreke=1 | camp=11
+national-council-bulletin-vol-40-no-03               ok           63875  Otoreke=1 | camp=19
+national-council-bulletin-vol-41-no-03               ok           50276  - | camp=20
+national-council-bulletin-vol-41-no-02               ok           24826  - | camp=7
+bulletin-1970-02-13                                  ok            4164  Kanawana=1 | camp=0
+canada-newsletter-1972-spring                        ok           29446  - | camp=1
+communique-incendie-orillia                          ok            1691  - | camp=1
+bulletin-1982-12-15                                  ok             796  - | camp=0
+
+[exited with code 0]

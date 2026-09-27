@@ -1,0 +1,157 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+
+THIS FILE IS NOT A SCAN AND NOT A TRANSCRIPTION FROM A READ COPY. Both books below are
+lending-restricted on the Internet Archive and neither has been read. Every line of quoted text
+here was assembled by walking overlapping phrase queries against
+https://openlibrary.org/search/inside.json, which returns a highlighted window of roughly twelve
+words around each match. Searching the last four words of one window returns the next. The
+contract for that endpoint is recorded at f_4933.
+
+WHAT IS RECOVERED: two passages, both continuous within themselves, both walked to their own
+sentence boundaries. WHAT IS NOT: everything else in either book. Page images for both are
+blocked (see the ACCESS FAILURE note at the end), so nothing here has been checked against the
+page. The OCR's own line-break hyphens ("real- ized", "Mon- treal") are left in place because
+they are evidence of where the scan broke, not of how the book reads.
+
+
+-------------------------------------------------------------------------------
+ITEM 1. Dictionary of Literary Biography, Volume 362: CANADIAN LITERARY HUMORISTS
+        (Detroit: Gale Cengage Learning, 2011). ISBN 9780787681807.
+        "A Bruccoli Clark Layman book."
+        Internet Archive: canadianliterary0362unse — scan leaf 456
+        The entry is "Stuart McLean (1948– ) / David C. Greer", per the volume's own
+        contents list in the Internet Archive metadata.
+-------------------------------------------------------------------------------
+
+RECOVERED PASSAGE (continuous, walked in both directions from the Kanawana hit):
+
+    "... novelist Mordecai Richler's creative- writing class. During the summer vacation of 1969
+    he got a job as a counselor at Kamp Kanawana, near Saint-Sauveur, Quebec, about an hour from
+    Mon- treal. By the summer of 1971, the year he graduated from the university with a bachelor
+    of applied social science degree, he was a section director at the camp, and he was an
+    assistant director during the summers of 1974 and 1975. In an unpublished 19 May 2010
+    interview he discussed the significance of this experience: "for the first time in my life,
+    I real- ized I had found a place where I could be good at something . . . or as good as
+    everyone else anyway .. . a place where I could fit in and be competent and contribute to the
+    greater good. Which is a very important thing for a young person's growth and development."
+    McLean recorded a Vinyl Cafe radio show at the camp in July 2005. After graduating ..."
+
+The walk stops at "After graduating", which begins the next subject.
+
+QUERIES RUN, in order (each is the phrase submitted; all returned exactly one hit in this item
+unless noted):
+  "Kamp Kanawana"                                              — 13 items; this one among them
+  "a counselor at Kamp Kanawana, near Saint-Sauveur, Quebec"   — non-JSON (rate limited)
+  "job as a counselor at Kamp Kanawana"
+  "near Saint-Sauveur, Quebec, about an hour"                  — non-JSON (rate limited)
+  "Kanawana, near Saint-Sauveur, Quebec, about an hour from"
+  "about an hour from Mon- treal. By the summer"
+  "summer vacation of 1969 he got a job"
+  "creative- writing class. During the summer vacation"
+  "By the summer of 1971, the year he graduated"               — non-JSON (rate limited)
+  "the summer of 1971, the year he graduated"
+  "he graduated from the university with a bachelor"           — 9 items, generic; refined
+  "1971, the year he graduated from the university with a bachelor"
+  "with a bachelor of applied social science"
+  "social science degree, he was a section director"
+  "he was a section director at the camp, and he was an"
+  "and he was an assistant director during"
+  "assistant director during the summers of 1974 and 1975"
+  "of 1974 and 1975. In an unpublished 19 May"
+  "In an unpublished 19 May 2010 interview he discussed the"
+  "interview he discussed the significance of this experience" — non-JSON (rate limited)
+  "he discussed the significance of this experience"
+  "of this experience: "for the first time in my"
+  "first time in my life, I real- ized I had found"
+  "I had found a place where I could be good"
+  "where I could be good at something . . . or as good"
+  "or as good as everyone else anyway"                         — non-JSON, twice
+  "good at something . . . or as good as everyone"
+  "else anyway .. . a place where"
+  "a place where I could fit in and be competent and"          — non-JSON (rate limited)
+  "where I could fit in and be competent"
+  "be competent and contribute to the greater good"
+  "the greater good. Which is a very important"
+  "important thing for a young person's growth"
+  "growth and development." McLean recorded"
+  "McLean recorded a Vinyl Cafe radio show at the"
+
+WHAT THIS ADDS, AND WHAT IT ONLY CORROBORATES. This project already holds McLean's 1969 start,
+his section directorship in 1971 and his assistant directorship in 1974 and 1975 — the last two
+from the camp's own directors' reports for 1974 and 1975, which are better sources than this
+one. What is new is (a) the MONTH of the 2005 recording, July, where the article had only the
+year; (b) a fuller version of the "contribute to the greater good" line, which this project held
+only in the one-sentence form a CBC Montreal Radio Noon interview produced; and (c) the
+existence of an UNPUBLISHED 19 MAY 2010 INTERVIEW with McLean, conducted for this volume and
+therefore presumably held by its author, David C. Greer. That interview is a live archival lead
+and is registered as such.
+
+A CAUTION ON THE QUOTATION. The ellipses are the book's, not this project's; the internal
+spacing (". . ." then ".. .") is the OCR's and should not be reproduced as printed. Because the
+page image cannot be fetched, the quotation is given here exactly as the search index returns it
+and is quoted in the wiki with its OCR artefacts silently normalised and that normalisation
+declared.
+
+
+-------------------------------------------------------------------------------
+ITEM 2. Armand B. Ball (1930– ), BASIC CAMP MANAGEMENT: AN INTRODUCTION TO CAMP
+        ADMINISTRATION (Monterey, CA: Healthy Learning, 2012). ISBN 9781606792087.
+        "An American Camp Association book."
+        Internet Archive: basiccampmanagem0000ball_r5m1 — scan leaf 436
+-------------------------------------------------------------------------------
+
+RECOVERED PASSAGE (continuous):
+
+    "... Keewaydin Foundation. In Canada, the first organizational camp and first independent
+    camp were both organized in the same year: 1894—YMCA Kamp Kanawana in Quebec and Camp
+    Keewaydin (formerly Kamp Kah Kiou) in Ontario. All of these camps were exclusively for boys.
+    In 1876 ..."
+
+The walk stops in both directions at a subject change: "Keewaydin Foundation" ends the preceding
+sentence, and "In 1876" begins a new one.
+
+QUERIES RUN, in order:
+  "1894—YMCA Kamp Kanawana in Quebec and Camp Keewaydin"
+  "Camp Keewaydin (formerly Kamp Kah Kiou)"
+  "were organized in the same year: 1894"        — 0 hits (the sentence does not read that way)
+  "in Ontario. All of these camps"
+  "organized in the same year: 1894"
+  "and first independent camp were both organized"
+  "the first organizational camp and first independent"
+
+WHY IT MATTERS. This is the American Camp Association's own introductory textbook — the book a
+North American camp administrator is handed — and it names Kamp Kanawana as CANADA'S FIRST
+ORGANIZATIONAL CAMP, dated 1894. This project holds the 1894 founding well from the camp's and
+the association's own records; what it did not hold was a statement of primacy from outside the
+YMCA of Montreal, in a professional reference work, in print. It bears directly on the question
+the Canadian Camping Association put to its own membership in 1969 — "we need to know who opened
+the first camp in Canada" — and on the four competing long-continuity claims among Canadian YMCA
+camps already recorded in this KB.
+
+WHAT IT DOES NOT SETTLE. Ball is tertiary, gives no source, and is writing a textbook chapter,
+not adjudicating a claim. "Organizational camp" is a term of art in the American camping
+literature (a camp run by an organisation — a Y, a church, a agency — as against an independent
+or private camp), so the sentence is a statement about two CATEGORIES, and it does not say
+Kanawana was the first camp of any kind in Canada. Note also that it places Keewaydin in
+Ontario, which is its Temagami operation; Keewaydin's own founding claim is 1893, in Maine.
+Ball's date for Keewaydin therefore disagrees with Keewaydin's, and a source that is a year out
+on one half of a sentence is not a source to lean on for the other half. Recorded as what a 2012
+professional textbook says, not as a finding about 1894.
+
+
+-------------------------------------------------------------------------------
+ACCESS FAILURE — page images, both items
+-------------------------------------------------------------------------------
+https://archive.org/download/canadiankeybusin1999unse/page/n1148_w1600.jpg
+  -> HTTP 403, 4,868 bytes of HTML, WITH the item's own details page sent as Referer.
+The same endpoint serves images for unrestricted items (the Referer trap that returns a 43-byte
+transparent GIF under HTTP 200 is a DIFFERENT failure and is not what happened here). A 403 with
+an HTML body is the lending restriction. The same is expected of the two items above and was not
+separately retried.
+
+ROUTES NOT TRIED for either book: an Internet Archive borrow with an authenticated account;
+Google Books snippet view; HathiTrust full-text search; a library copy. Gale's own Literature
+Resource Center carries the DLB text and is the obvious route to Item 1 for anyone with a
+university or public-library subscription — the McGill, Concordia and BAnQ subscriptions are all
+plausible and none has been tried from here.

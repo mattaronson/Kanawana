@@ -1,0 +1,139 @@
+KANAWANA IN THE CANADIAN ALMANAC, EDITION BY EDITION
+"Post Offices and Railroad Stations in Canada"
+Swept 2026-09-07 from the Internet Archive's canadianalmanacd* items.
+
+=====================================================================
+THE LEGEND, WHICH IS THE WHOLE INSTRUMENT
+=====================================================================
+
+Every edition prints it above the table. The 1951 wording:
+
+  "The Offices printed in italics are authorized to issue and pay Money
+  Orders ... The Offices marked * are Savings Bank Offices. [dagger] Places
+  marked thus are NOT Post Offices. ... The population of all cities, towns,
+  and organized villages is shown to the right of places ... A large number
+  of post offices and railway points are not incorporated, consequently have
+  no population figure shown."
+
+The 1968 wording is the same in substance: "The Offices marked * are Savings
+Bank Offices. Places marked [dagger] are not Post Offices."
+
+SO THE DAGGER IS THE CLOSING SIGNAL. A name in this table without a dagger is
+an operating post office; the same name with one is a place that is not.
+Kanawana never carries a population figure, which the legend explains: it was
+never an incorporated place.
+
+THE DAGGER SURVIVES OCR AS t, f, !, [ OR J, depending on the scan. Read it
+against its neighbours on the same page rather than against a character list:
+Kananaskis and Kanasuta carry it in every edition below, and Kanata and
+Kandahar never do, so the two of them calibrate each scan.
+
+=====================================================================
+THE RUNS, VERBATIM FROM THE OCR
+=====================================================================
+
+1910 edition (vol. 63, copyright 1909) -- KANAWANA ABSENT, RUN CLEAN:
+  "Kamouraska | Kamsack | Kananaskis . . , | Kanata | Kanes | Kanyengeh |
+   Kaposvar . . , | Kars"
+  No gap, no garbling, and no Kanawana. THIS NULL IS CONTROLLED.
+
+1911 edition (vol. 64, title page "FOR THE YEAR 1911", Sixty-Fourth Year of
+Publication, copyright 1910) -- PRESENT:
+  "Kanata ... | Kanawana | Kanes . . | Kanyengeh | Kaposvar"
+
+1912 edition (vol. 65) -- NOT DETERMINED. The name column in that scan is
+interleaved with the district and station columns ("Kanata | Strathcona |
+Alta | Erskine 538-114 | Jocelyn | Bathurst Village ...") and cannot be read
+as a run. THE ABSENCE OF THE STRING IS NOT EVIDENCE OF ABSENCE FROM THE PAGE.
+
+1917 and 1918 editions -- present. (Read in an earlier session; running
+headers "[1917" and "[1918" confirmed here, against a suspicion that the
+copyright year and the edition year are offset. They are offset in the 1911
+volume and not in the 1918 one, so THE RUNNING HEADER IS THE THING TO READ.)
+
+1943 edition -- present, columns legible: "Kanawana ...... Terrebonne ......
+Q | St. Sauveur 529 or Piedmont 535".
+
+1951 edition (_h4a6) -- PRESENT, NO DAGGER:
+  "'Kamsack. ..1,754 | tKananaskis. . | t Kanasuta . | Kanawana ."
+  The volume states its own year three ways: title page "DIRECTORY FOR 1951",
+  "Copyright, Canada, 1951", running head "[1951".
+
+1954 edition (_o8e8) -- PRESENT, NO DAGGER:
+  "' Kainsack. ..2,327 | t Kananaakis . | tKanasuta . | Kanawana ."
+  Title page "DIRECTORY FOR 1954", "Copyright, Canada, 1954", head "[1954".
+
+1956 edition (_c3n5) -- PRESENT, NO DAGGER, AND NEARLY MISSED:
+  "*Kamsack. ..2,327 | t Kananaskis . | t Kanasuta . | Kanavvana . |
+   Kandahar ... .76 | Kane . | Kapasiwin"
+  THE OCR READS THE W AS TWO V'S. A plain search for "Kanawana" returns
+  nothing in this edition and the Internet Archive's own search-inside
+  returns nothing, which would have made 1956 the closing year on a false
+  null. Found by anchoring on Kanasuta and reading the run.
+
+1957 edition (_t1a1) -- PRESENT, DAGGERED:
+  "* Kamloops 8,099 | [Kamloops Jet. | Kamauraska ,48s | ... | t Kananaskis .
+   | t Kanasuta . | [Kanawana . | Kandahar _ 76 | Kane ."
+  THE BRACKET IS THE DAGGER IN THIS SCAN: Kamloops Junction, a railway point
+  and not a post office, carries the same bracket, and Kandahar and Kane
+  carry nothing.
+
+1958 edition (_e0u3) -- PRESENT, DAGGERED: "KananaskisJ. | Kanasutaf . |
+  Kanawanaf . | Kandahar"
+1960 edition (_z0r2) -- PRESENT, DAGGERED: "Kananaskist .... | Kanasutaf . |
+  Kanawanat . | Kandahar | Kane ."
+1961 edition (_c6h2) -- PRESENT, DAGGERED, COLUMNS LEGIBLE:
+  "Kanawanat . Terrebonne... .Q St. Sauveur des Mts 529 or [Piedmont 535]"
+1962 edition (_y4m2) -- PRESENT, DAGGERED, COLUMNS LEGIBLE:
+  "Kanawanat . Terrebonne. .. .Q St. Sauveur des Mts 529 or Piedmont 535"
+1964, 1965, 1966 editions -- the string is present once in each; the runs
+  were not read out.
+1968 edition (_c4y7) -- PRESENT, DAGGERED:
+  "Kamsack* . . | Kananaskis! .... | Kanasuta! . | Kanata . | Kanawana! . |
+   Kandahar . | Kane ."
+
+=====================================================================
+WHAT THIS SETTLES
+=====================================================================
+
+THE OFFICE CLOSED BETWEEN THE 1956 AND 1957 EDITIONS. Unmarked in 1951, 1954
+and 1956; daggered in 1957 and in every edition checked after. Since an
+almanac edition is compiled the year before it is dated, that puts the
+closure in 1956, or in the months between the two compilations.
+
+This replaces the bracket this project had, "between about 1955 and the
+mid-1960s", which rested on the two 1950s almanacs being undated and on a
+McGraw-Hill directory catalogued 1966 that lists Kanawana among closed and
+renamed offices with mail redirected to St-Sauveur-des-Monts. The McGraw-Hill
+entry is not contradicted; it is just eight or ten years later than the event.
+
+AND THE NAME OUTLIVED THE OFFICE BY AT LEAST TWELVE YEARS. Kanawana is still
+in the table in 1968, still with Terrebonne and St. Sauveur des Monts beside
+it, marked only as a place that is not a post office.
+
+=====================================================================
+THE EDITIONS THAT EXIST ON THE INTERNET ARCHIVE, WITH THEIR YEARS
+=====================================================================
+
+The archive catalogues every one of these as 1848, the series start, so the
+year has to be read out of each volume. It is on the title page, as
+"DIRECTORY FOR 19xx", within the first 45,000 bytes of the _djvu.txt -- a
+range request is enough, no full download needed.
+
+  1908 _b6y1   1910 _c2u2   1911 _g7p6   1914 _b2c5   1915 _g1q8
+  1917 _y6g6   1918 _x3a0   1919 (no suffix)   1921 _y8r9   1922 _s0o3
+  1943 _y9h2   1951 _h4a6   1952 _v6y8   1953 _y4p8   1954 _o8e8
+  1956 _c3n5   1957 _t1a1   1958 _e0u3   1960 _z0r2   1961 _c6h2
+  1962 _y4m2   1964 _v2i9   1965 _s8s5   1966 _p3n4   1968 _c4y7
+  1970 _x1u8   1974 _l5j5
+
+  Year not recovered from the first 45 KB: _a0q1 _b1t0 _b5o6 _i2q2 _m9i5
+  _r7z1 _y9z7 _z6v3. (_y9h2 is also blank on this test but is known from an
+  earlier session's reading to be the 1943 edition, which is a reminder that
+  a blank here means the probe failed, not that the volume is undated.)
+
+  And the older University of Toronto scans, whose suffix is the VOLUME
+  NUMBER AND NOT THE YEAR -- a trap worth knowing, since canadianalmanacd63
+  is the volume for 1910 and canadianalmanacd64 the volume for 1911:
+  ...d22 ...d46 ...d48 ...d52 ...d53 ...d55 ...d62 ...d63 (1910)
+  ...d64 (1911) ...d65 (1912)

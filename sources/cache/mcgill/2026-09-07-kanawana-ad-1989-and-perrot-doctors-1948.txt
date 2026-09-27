@@ -1,0 +1,103 @@
+TWO FINDS, AND ONE OF THEM EXISTS ONLY BECAUSE OF RULE 50
+
+-------------------------------------------------------------------------------
+1. THE McGILL DAILY, VOL. 78 NO. 83, MONDAY 20 FEBRUARY 1989 (Special Issue)
+   A Kamp Kanawana counsellor recruitment advertisement, p. 14
+-------------------------------------------------------------------------------
+
+Identifier: McGillLibrary-mcgill-daily-v78-n083-february-20-1989-13147
+Found by the whole-corpus sweep of 9,890 McGill student publication items (p_479).
+"Kanawana" occurs twice in the issue, both in this advertisement — once in the
+display headline, which the OCR renders "KANflWANA".
+
+  "Kamp Kanawana, a COED camp for children AGED 7-15, is situated in the heart
+  of the Laurentians near St. Sauver [sic], on 1200 ACRES OF LAND AND THREE
+  PRIVATE LAKES. We offer the youth of Montreal a summer filled with the
+  excitement of discovery and personal growth. If you're interested in a summer
+  that will allow you to share your enthusiasm, creativity and leadership with
+  children, phone or write to: Kamp Kanawana, 1441 Drummond St., Montreal
+  (Quebec) H3G 1W3, (514) 849-8331.
+  THE EXPERIENCE THAT LASTS A LIFETIME!"
+
+THREE THINGS, AND THE THIRD IS THE ONE THAT CHANGES SOMETHING.
+
+(a) THE FORTY-ONE-YEAR RECRUITING SERIES NOW HAS A THIRD POINT. The same corpus
+    gave the camp's counsellor advertisements of 20 May 1948 and 25 May 1949,
+    over R. D. Locke's name. This is the same practice — the camp buying display
+    space in a university paper to fill its staff — still running in 1989. The
+    1948-49 ads gave a phone number of "MA. 8331"; this one gives 849-8331. THE
+    LAST FOUR DIGITS ARE THE SAME AND THIS IS NOT ASSERTED AS CONTINUITY. Under
+    the old letter-exchange system MA maps to 62, which would give 628-8331, not
+    849-8331; and 849 is the exchange of the Y's Metropolitan Offices at 1441
+    Drummond Street, which the bulletin of 29 January 1970 gives as 849-5331. So
+    either the subscriber number survived a change of exchange, or 8331 recurs
+    by chance. It is written down as a coincidence worth someone checking, not
+    as a fact.
+
+(b) 1200 ACRES AND THREE PRIVATE LAKES, IN 1989, IN THE CAMP'S OWN WORDS.
+    wiki/site/the-kanawana-site.md tabulates the reported acreage and gives
+    "1,200 acres 'of private land and lakes'" on the authority of The Gazette of
+    18 April 1974, noting that the figure "is not a journalistic outlier — it is
+    the tail of a period." This extends that period by fifteen years and removes
+    the journalist: the camp itself was still advertising 1200 acres in 1989.
+
+(c) "THE EXPERIENCE THAT LASTS A LIFETIME" IS OLDER THAN THE FILM THAT BEARS THE
+    NAME. This wiki knows the phrase as the title of a 1993 YMCA promotional
+    documentary, *Kamp Kanawana: The Experience that Lasts a Lifetime*, produced
+    by Laurentien Productions — cited that way in history/centennial-1994.md and
+    traditions/myths-and-legends.md — and as the title of Grace McMorris's
+    MA thesis (Concordia, 2023), which borrowed it. [The year was written 2019
+    in this cache's first draft and corrected against the wiki's own citation
+    within the hour -- a date carried from memory rather than read.] Nothing in this project says it was a slogan
+    before it was a title. IT WAS. It closes this advertisement in February 1989,
+    four years before the film, set as a tagline. The documentary took its name
+    from the camp's own advertising line rather than giving one to it.
+
+-------------------------------------------------------------------------------
+2. "REPORT OF THE MONTREAL YMCA CAMP PERROT FOR BOYS AND GIRLS", 1948
+   Health and Safety section — a Kanawana staff doctor turning up at Perrot
+-------------------------------------------------------------------------------
+
+Identifier: 1948-report-of-the-montreal-ymca-camp-perrot-for-boys-and-girls
+
+HOW THIS WAS FOUND, WHICH IS THE POINT. The main sweep had already recorded this
+item and read it. The item carries TWO `_djvu.txt` files and the sweep read only
+the first, per the bug recorded as rule 50 (f_5427). `rescan_multi.py`, written
+to back-fill exactly that, searched the second file and hit on it — within its
+first 224 items. This passage would otherwise have stayed unread behind a CLEAN.
+
+  "HEALTH AND SAFETY. The general health of the camp was good. However, a great
+  many cases of poison ivy were treated from contacts made outside the camp
+  property. An educational campaign was constantly mentioned to help the campers
+  recognize this obnoxious weed when on hikes. The greatly improved hospital
+  facilities were extensively used and all the campers, counsellors and staff
+  members were urged to have their cuts, scratches, ailments, attended to at
+  once before deeper infections were allowed to get a hold.
+
+  DR. KELSO OF ST. ANNE'S again gave unstintingly of his skill and professional
+  services. His ready response to all our calls was a source of great aid to us
+  in maintaining the camp health and safety. When Dr. Kelso left on his holidays
+  he asked the doctor taking over his practice to keep a watchful eye on his
+  wards. DR. LOUGHEED, HIS SUCCESSOR, CONTINUED THE INTEREST IN OUR CAMP AND WE
+  WERE AGREEABLY SURPRISED TO LEARN THAT DR. LOUGHEED HAD FORMERLY BEEN ON THE
+  STAFF OF KAMP KANAWANA."
+
+(The OCR of this typescript is poor — "holideys", "obioxious", "teKing OVer" —
+and is silently regularised above; nothing of substance is in doubt.)
+
+WHAT IT GIVES. Two named camp doctors, neither of whom occurs anywhere else in
+this project: greped across wiki/, kb/facts.json, project-docs/ and
+sources/sources.json before this was written, "Kelso" 0 and "Lougheed" 0. Dr.
+Kelso of Sainte-Anne-de-Bellevue attended Camp Perrot on Île Perrot, unpaid
+("gave unstintingly"), across more than one season ("again"). And DR. LOUGHEED
+HAD BEEN ON KANAWANA'S OWN STAFF at some earlier date, which is a named medical
+member of Kanawana staff — a category this project has almost nothing in. The
+report gives no year for that service and no first names.
+
+It also documents the mechanism by which a country doctor's summer camp duty
+passed to his locum, and the "greatly improved hospital facilities" at Perrot,
+which sits beside the John W. Ross Memorial Hospital material already in
+wiki/site/camp-perrot.md.
+
+NULL RESULTS. "Kanawana" occurs once in the report, here. Neither doctor's first
+name is given anywhere in it.

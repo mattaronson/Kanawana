@@ -1,19 +1,21 @@
 # Bruce Netherwood
 
-*Status: draft | Sources: 9*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 12*
+*Last Updated: 2026-09-08 (the 1995 Montreal report's own account of where he went)*
 
 ## Overview
 
-Bruce Netherwood directed Camp Kanawana from 1988 to 1994, succeeding his brother Jay Netherwood, who had held the role in 1986–1987. Bruce came up through the camp himself, appearing as a CIT on a 1984 dining-hall plaque before rising to the directorship four years later. He received the Pip Alumni Award in 2011 and went on to a long career in YMCA camp leadership in Massachusetts. This article also covers Jay Netherwood, whose own biography is otherwise undocumented beyond his confirmed tenure dates.
+Bruce Netherwood directed Camp Kanawana **from 1989 to 1994**, succeeding his brother **Jay Netherwood, who held the role from 1986 to 1989**.^12 *[SUPERSEDED 2026-09-07: this read "from 1988 to 1994, succeeding his brother Jay Netherwood, who had held the role in 1986–1987." **Those dates were corrected in [[people/directors-index|the directors index]] on 2026-08-14 and this article did not catch up.** The Montreal YMCA's 1995 annual report says outright that Bruce "served as Kamp Director from 1989 to 1994", and the Metropolitan Staff rosters name Jay as "Director, Kamp Kanawana" in FY1986, 1987, 1988 **and 1988-89**. The error mattered beyond this page: it made Jay's Winter 1988 article in *Canadian Camping* look like the work of a former director rather than a sitting one.]* Bruce came up through the camp himself, appearing as a CIT on a 1984 dining-hall plaque before rising to the directorship four years later. He received the Pip Alumni Award in 2011 and went on to a long career in YMCA camp leadership in Massachusetts. This article also covers Jay Netherwood, whose own biography is otherwise undocumented beyond his confirmed tenure dates.
 
-## Path to the Directorship (1984–1988)
+## Path to the Directorship (1984–1989)
 
 An "'84 CIT's" dining-hall plaque names Bruce Netherwood among a cohort of counsellor-in-training graduates that year, alongside Alex Acker, Tim Amey, Mike Bishop, Toby Desjardins, Danny Glassman, Joel Goldberg, Randee Hare, Tessa Herbert, Nathalie Lamontagne, Shaun Leggett, Matthew Nadler, and Gill Watt.^1 His brother Jay Netherwood served as Director in 1986 and 1987, succeeding Peter Goddard, who had held the role for some or all of the early-to-mid 1980s between Dave Twynam's directorship (~1980) and Jay's.^2 Jay has no discoverable online presence beyond a Facebook profile; more than ten web searches across multiple surfaces found no further biographical information about him.^2
 
-## Directorship (1988–1994)
+## Directorship (1989–1994)
 
-Bruce Netherwood became Director in 1988 upon Jay's departure from the role, though the 1990 YMCA of Montreal Annual Report lists Jay separately as "Supervisor, Kamp Kanawana," indicating he remained on camp staff in a subordinate capacity after handing over the directorship to his brother.^2 ^3 The same 1990 report describes a five-year strategic-planning process, begun around 1990, covering building strategies for the Downtown YMCA, Kamp Kanawana, and the Du Parc YMCA.^3 Bruce Netherwood is named as YMCA staff on the 1993 Kamp Kanawana Committee, alongside Chairperson Andrew Caddell, Tim Clark, Barbara Drury, Sue Khan, Bob Lewandowski, and Tom Snabl — the committee overseeing the camp's centennial year.^4 The 1988–89 committee (per that year's French-language Annual Report) similarly names both Netherwood brothers as YMCA staff, alongside Andre Herard, Chris Adam, Keith Farquharson, Paul Cappelli, Derek Walsh, Tom Snabl, Maureen McBride, and Bill Pigott.^5 The Concordia Archives hold an envelope addressed to Bruce Netherwood containing T-shirt design materials and colour-separation film, in the YMCA of Montreal fonds' Communications sub-series — physical evidence of his day-to-day operational role.^6
+Bruce Netherwood became Director in **1989** upon Jay's departure from the role,^12 though the 1990 YMCA of Montreal Annual Report lists Jay separately as "Supervisor, Kamp Kanawana," indicating he remained on camp staff in a subordinate capacity after handing over the directorship to his brother.^2 ^3 The same 1990 report describes a five-year strategic-planning process, begun around 1990, covering building strategies for the Downtown YMCA, Kamp Kanawana, and the Du Parc YMCA.^3 Bruce Netherwood is named as YMCA staff on the 1993 Kamp Kanawana Committee, alongside Chairperson Andrew Caddell, Tim Clark, Barbara Drury, Sue Khan, Bob Lewandowski, and Tom Snabl — the committee overseeing the camp's centennial year.^4 The 1988–89 committee (per that year's French-language Annual Report) similarly names both Netherwood brothers as YMCA staff, alongside Andre Herard, Chris Adam, Keith Farquharson, Paul Cappelli, Derek Walsh, Tom Snabl, Maureen McBride, and Bill Pigott.^5 The Concordia Archives hold an envelope addressed to Bruce Netherwood containing T-shirt design materials and colour-separation film, in the YMCA of Montreal fonds' Communications sub-series — physical evidence of his day-to-day operational role.^6
+
+**His own account of a season survives, and it is the 99th.** *The Lookout*, the alumni committee's newsletter of autumn 1993, opens with a "Summer Report" signed "Bruce Netherwood, Director."^10 What he reports: **camper registration filled to over 99% capacity for the fifth consecutive year**, which puts a full house back to 1989; **four Voyageur trips and 38 camper trips**, three of them Junior excursions, with **over four hundred** campers and staff on the water in Papineau-Labelle and Parc La Vérendrye; and an **80% staff return rate** after "a relatively big staff turnover in '92," with staff drawn from Vancouver, Calgary, Halifax, England and Scotland as well as Montreal. The Voyageurs narrowly won the Lumberman-Voyageur. The weather frames the whole report — 1992 had been "dismal" and 1993 was forecast to repeat it, but "the nature room and other indoor programs remained virtually vacant, the infirmary had a surplus of cough drops and a constant shortage of sunscreen." It is a director writing for alumni rather than for the association, and it reads like it.
 
 When Netherwood left the Camp Director role at the end of 1994, the YMCA restructured Kanawana's administration into two parallel positions: a year-round Executive Director based in Montreal, and a three-season on-site Camp Director — the on-site role colloquially called "Chief" (a title from the camp's "playing Indian" era, retired in the early 2020s as part of Kanawana's reconciliation efforts).^7
 
@@ -21,10 +23,25 @@ When Netherwood left the Camp Director role at the end of 1994, the YMCA restruc
 
 Netherwood went on to a long career in YMCA camping, most recently as Vice President of Camping & Social Responsibility at the South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward and day camps at the Hale, Emilson, and Science Center branches; he was previously Executive Director at Camp Burgess & Hayward.^8 He received the Pip Alumni Award in 2011.^9
 
+**The first step of that career is dated to the year he took it, and the source was already in this article's
+citation list.** The Montreal YMCA's 1995 report, in the paragraph that announces Joanna Hoad's appointment:
+"Bruce Netherwood, who served as **Kamp Director from 1989 to 1994**, moved to Cape Cod where he is the
+**Director of Camping Services of the South Shore YMCA in Quincy, Massachusetts**. We thank Bruce for his
+valuable contribution and wish him well with his new responsibilities."^12 That is the association stating the
+1989–1994 span itself rather than this wiki reconstructing it from staff rosters, and it puts him in the job
+immediately rather than by 1996. The title differs from the one the *YMCA Directory* gives from 1996 —
+Director of Camping Services, not Executive Director of the Resident Camping Division — which reads as a
+promotion or a reorganisation rather than a discrepancy.
+
+*One oddity, left as one.* The sentence says Cape Cod and then names **Quincy**, which is south of Boston and
+not on the Cape; **Sandwich**, where the directory later places him and where Camp Burgess sits, is. Quincy is
+the South Shore YMCA's own head office, so the likeliest reading is a head-office address paired with a loose
+description of where the camping ran. [f_5769]
+
 ## Open Questions
 
-1. [Important] What biographical information exists for Jay Netherwood beyond his 1986–1987 directorship and 1988–90 supervisory role? No source found beyond an undiscoverable Facebook profile.
-2. [Nice-to-have] What prompted Bruce Netherwood's move to Massachusetts YMCA camping after leaving Kanawana in 1994?
+1. [Important] What biographical information exists for Jay Netherwood beyond his **1986–1989** directorship and 1989–90 supervisory role?^12 No source found beyond an undiscoverable Facebook profile.
+2. [Nice-to-have] What prompted Bruce Netherwood's move to Massachusetts YMCA camping after leaving Kanawana in 1994? **The destination and its span are now documented, though not the reason — and the move is now dated to 1994–95 rather than 1996, from the 1995 Montreal report (see above).** The published *YMCA Directory* lists him as **Executive Director of the Resident Camping Division of the South Shore YMCA**, Sandwich, Massachusetts, in **1996, 2000, 2001 and 2002**^11 — so he was running a resident camping operation there within two years of leaving Kanawana and was still doing so eight years later. What prompted the move is still unanswered.
 3. [Nice-to-have] The Pip Award citation describes Netherwood as "YMCA leader and author" — what did he author? No published work has been located via web search; it may refer to internal YMCA materials or reports.
 
 ## Related Articles
@@ -33,6 +50,7 @@ Netherwood went on to a long career in YMCA camping, most recently as Vice Presi
 - [[people/notable-alumni/notable-alumni|Notable Alumni of Camp Kanawana]]
 - [[traditions/pip-alumni-award|The Pip Alumni Award]]
 - [[history/centennial-1994|The 1994 Centennial]]
+- [[people/maureen-mcbride|Maureen McBride]]
 
 ## Sources
 
@@ -45,6 +63,9 @@ Netherwood went on to a long career in YMCA camping, most recently as Vice Presi
 7. Oral history, Matt Aronson (1994 administrative restructuring, "Chief" title history) [src_oral_aronson].
 8. South Shore YMCA, Bruce Netherwood bio [src_ssymca_netherwood].
 9. YMCA Quebec, "ALS Advocate Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016), Pip Award recipient list [src_ymca_quebec_pip_skinner].
+10. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" signed by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008]. This is the only piece of Netherwood's own writing about a season this project holds.
+11. *YMCA Directory* for **1996**, **2000**, **2001** and **2002** [src_umedia_ymca_yearbook_series], in the University of Minnesota Libraries' ContentDM collection p16022coll351 — which holds the modern United States directories alongside the historical *Year Book* series. Institutional entries only: name, professional title and employer. See [f_5313].
+12. YMCA of Montreal **1995 annual report**, and the Metropolitan Staff rosters for FY1986 through 1988-89, as set out at [[people/directors-index|Directors and Staff of Camp Kanawana]] — which corrected these dates on **2026-08-14** and which this article had not caught up with. The 1995 report states it directly: "Bruce Netherwood, who served as Kamp Director **from 1989 to 1994**"; the rosters name **Jay Netherwood** as "Director, Kamp Kanawana" in FY1986, 1987, 1988 **and 1988-89**. See [f_5378].
 
 ## Research Notes
 

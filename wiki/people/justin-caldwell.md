@@ -30,7 +30,7 @@ Caldwell has served as on-site Camp Director for the summers of 2025 and 2026, s
 
 1. YMCA Quebec "Our Team" page, Camp YMCA Kanawana [src_ymca_kanawana_team_2025].
 2. Camp YMCA Kanawana Facebook, "Hike and Trip at Camp Kanawana" (2018) [src_fb_kanawana_tripper_caldwell_2018].
-3. Camp YMCA Kanawana Facebook, Voyageur program staff references [src_fb_kanawana].
+3. Camp YMCA Kanawana Facebook, Voyageur program staff references [src_facebook_ykanawana].
 4. ZoomInfo; Datanyze, "Justin Caldwell" listings [src_zoominfo_justin_caldwell].
 5. Oral history, Matt Aronson [src_oral_aronson].
 6. 2025 Kanawana preparation guide, staff contact page [src_kk_prep_guide_2025].

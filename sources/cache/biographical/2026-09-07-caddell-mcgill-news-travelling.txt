@@ -1,0 +1,158 @@
+JAMES CADDELL IN HIS OWN VOICE: "TRAVELING OUT OF THE COMFORT ZONE"
+McGill News (alumni quarterly), Fall 2004, in two pages.
+Recovered 2026-09-07.
+
+=====================================================================
+WHY IT WAS "DEAD", AND IT WAS NOT
+=====================================================================
+
+This project's source record src_mcgill_news_caddell carried the URL
+
+    .../news-archives/2004/fall/travelin
+
+and a read state of "asserted:fetched-page1-page2-404". THE URL IS TRUNCATED BY
+TWO CHARACTERS AND A PATH SEGMENT. The article is at
+
+    https://mcgillnews-archives.mcgill.ca/news-archives/2004/fall/traveling/index.html
+    https://mcgillnews-archives.mcgill.ca/news-archives/2004/fall/traveling/two/index.html
+
+Both return HTTP 200 today with a browser user-agent. The 404 was a fact about
+a mistyped URL, recorded as a fact about the site. FOUND BY FETCHING THE ISSUE
+INDEX -- .../2004/fall/ -- AND READING ITS TABLE OF CONTENTS, which lists
+"Traveling Out of the Comfort Zone" and, in the article's own sidebar,
+"Traveling (Page 2)" at two/index.html.
+
+=====================================================================
+WHY IT MATTERS: THE MAN, NOT THE FACTS
+=====================================================================
+
+James Caddell (1973-2005) is one half of the Pip Alumni Award's memorial and a
+Kanawana camper and counsellor from 1983. This project already knows his life
+in detail, from his CMAT obituary and other second-hand accounts.
+
+WHAT IT DID NOT HAVE IS HIM WRITING. This is a signed first-person dispatch,
+published about a year before he died, describing the trip he died on. Beside
+the Carol Skinner blog it is the second first-person long-form document by a
+Kanawana person this project has identified, and unlike that one it is
+readable.
+
+=====================================================================
+THE ONE LINE THAT TOUCHES CAMP -- AND WHAT IS NOT THERE
+=====================================================================
+
+  "Although we consider ourselves outdoorsy types, BEING VETERAN CANOE
+  TRIPPERS, neither of us have much interest in hunting or fishing."
+
+THAT IS ALL. KANAWANA IS NOT NAMED ANYWHERE IN EITHER PAGE. Neither is the
+YMCA, nor summer camp, nor Quebec. Both pages were searched for all of them.
+The phrase is worth having because the man who wrote it had been canoe
+tripping at Kanawana since 1983 and because canoe tripping is what that camp
+is for -- but the article does not make that connection and neither should
+anyone quoting it.
+
+=====================================================================
+WHAT HE SAYS, IN HIS OWN WORDS
+=====================================================================
+
+THE OPENING, WHICH IS THE WHOLE POSTURE OF THE TRIP:
+
+  "After a year and a half of saving every penny, purging our possessions,
+  quitting our stable government jobs and leaving our comfortable Ottawa
+  apartment, my wife Tara and I set off on a trip around the world. While our
+  friends were starting families in their newly acquired four-bedroom houses,
+  we were becoming hobos, left with nothing but what was in our backpacks. We
+  wondered if we were totally insane, but we knew that a journey across six of
+  the world's continents would provide us with an experience no university or
+  employer could."
+
+THEIR OWN ACCOUNT OF THEIR CAREERS, which differs slightly in wording from the
+obituary this project has used:
+
+  "We both received BAs from McGill in political science and history. McGill
+  was good to us ... Tara was president of the Students' Society in 1997-98 and
+  I was able to take a year off school in 1995 to serve a tour as a UN
+  peacekeeper in Bosnia. These experiences, combined with a couple of MAs, led
+  us to successful careers working for the federal government. I WAS A SENIOR
+  ADVISOR IN THE CANADA STUDENT LOANS PROGRAM and TARA WAS THE MANAGER OF
+  MINISTERIAL SUPPORT FOR THE NATIONAL SECRETARIAT ON HOMELESSNESS - both
+  programs were part of Human Resources Development Canada."
+
+  [The wiki, from the obituary, has him as "Senior Program Manager at Human
+  Resources Development Canada". His own wording is narrower and names the
+  programme. Not a conflict; a refinement from the man himself.]
+
+WHERE THE IDEA CAME FROM -- A BROKEN RADIATOR CAP IN KENYA, ON THEIR HONEYMOON:
+
+  "We started planning in the fall of 2002, roughly ten seconds after we
+  returned from our honeymoon in Africa, where one small event profoundly
+  affected us. While on our way to a national park in the north of Kenya, our
+  Land Rover broke down in a tiny community of a few mud houses near the base
+  of Mount Kenya. We'd been warned to avoid such impoverished communities for
+  fear of being robbed. However, once stranded, we set out to explore ...
+  The next few hours became the most memorable experience of our trip -
+  hanging out with the local children who followed us around ... After a cap
+  from an old water can was jerry-rigged with duct tape (MY SUGGESTION, SINCE
+  ALL CANADIAN SOLDIERS LEARN THAT ANYTHING CAN BE FIXED WITH DUCT TAPE), the
+  truck was ready ... Our happy accident made us realize that there were
+  worlds outside of package tours that we wanted to explore."
+
+THE BUDGET, WHICH THE OBITUARY ACCOUNTS DO NOT GIVE:
+
+  "Our savings would allow us a budget of $100 CDN PER DAY in the U.S.,
+  Australia and Western Europe, and $50 PER DAY in developing countries."
+
+THE ITINERARY AS PLANNED: "North America, Australia, Southeast Asia, the
+Indian subcontinent, the Middle East, Africa, Europe and South America."
+
+THE DISTINCTION THE WHOLE PIECE TURNS ON:
+
+  "our most important goal was to avoid exchanging one comfortable bubble for
+  another - the tourist bubble. The tourist is comfortable on organized tours,
+  eats familiar foods, and stays in approved hotels, while the traveler lives
+  with locals, eats indigenous cuisine, and avoids the beaten path."
+
+PAGE TWO is a set of headed lessons -- "Understand Local Geography and
+Politics", "Always Put Your Hook in the Water", "Join an International Travel
+Organization", "Throw Away the Guidebook", "Plug in Locally" -- with:
+
+  * the shark. Sailing at Possum's Bay outside Hobart, Tasmania, with a
+    skipper named SIMON FIRTH, Tara fishes for the first time and lands "a
+    five-foot-long shark"; Firth takes them home to eat it with his wife, his
+    brother and his ninety-year-old mother. (The article's photograph caption:
+    "James with Simon Firth preparing the shark Tara caught for dinner, in
+    Hobart, Tasmania.")
+  * SERVAS, "a United Nations-affiliated travel organization" whose object is
+    "to encourage peace through travel", through free home-stays. They name
+    two hosts: Arie, a retired Dutch house painter outside Sydney, and John
+    and Margaret in Darwin.
+  * EAST TIMOR, two years after independence: "The capital of Dili was home to
+    burned-out buildings, a destroyed infrastructure and people simply trying
+    to survive day to day. We were moved and humbled by the sense of humour
+    and inner strength of the people we met. After years of struggle and
+    oppression the Timorese were not hardened, but were the warmest and
+    kindest people we had encountered." A photograph caption: "James with
+    Timorese children in Sananain, East Timor."
+  * and the decision, in Dili, to stop being visitors: "we decided a better
+    approach to understanding the culture would be to do volunteer work. We
+    began networking with the UN and a few [NGOs]" -- which is the thread that
+    runs on to the CMAT tsunami orphanage work in Tamil Nadu that the wiki
+    already records.
+
+The page footer reads "Page last updated: Mar. 3, 2006" -- four months after
+his death.
+
+=====================================================================
+STILL NOT RECOVERED, AND NOW LOCATED
+=====================================================================
+
+THE CMAT OBITUARY (src_cmat_caddell_obituary, cmat.ca/james-caddell-soldier-
+adventurer-1973-2005/) IS STILL 404 ON THE LIVE SITE -- confirmed today with a
+browser user-agent, 404 with an 18 KB rebuilt-site page. But the Internet
+Archive has exactly one capture of it:
+
+    2 DECEMBER 2021, HTTP 200
+    http://web.archive.org/web/20211202043604/https://cmat.ca/james-caddell-soldier-adventurer-1973-2005/
+
+web.archive.org is unreachable from this environment (see f_5361), so this is
+an operator task -- but a one-click one, and the record can stop saying the
+obituary is lost.

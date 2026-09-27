@@ -1,11 +1,13 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-09-07 (a dated ceremony, 15 August 1935, with its running order)*
 
-The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
+## Overview
 
-Under Harold Cross's directorship in 1927, the site gained a totem pole and a teepee constructed from old canvas. These additions were part of Cross's expansion of what McMorris terms the camp's "Indian programming," a suite of activities and symbols that borrowed freely from Indigenous cultures. The totem pole in particular became a lasting visual landmark of the ring.
+The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel.^2 ^3 It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
+
+Under Harold Cross's directorship in 1927, the site gained a totem pole and a teepee constructed from old canvas. These additions were part of Cross's expansion of what McMorris terms the camp's "Indian programming,"^2 ^3 a suite of activities and symbols that borrowed freely from Indigenous cultures. The totem pole in particular became a lasting visual landmark of the ring.
 
 ## Construction chronology
 
@@ -30,7 +32,7 @@ The camp's 1988 facilities survey specifies it as: "COUNCIL RING / Purpose: Spec
 
 The Council Ring was substantially rebuilt in 1929 to accommodate 325 seated spectators, a scale that reflects both the camp's growing enrollment and the increasing centrality of the ring to camp life. A gathering space for 325 people at a summer camp in the Laurentians in 1929 was not a casual investment. It signals that whatever happened at the Council Ring, whether campfire programs, tribal competitions, or ceremonial events, the camp leadership considered it important enough to seat everyone at once.
 
-McMorris's analysis situates the Council Ring and its associated "Indian" traditions within the broader history of settler-colonial appropriation in Canadian youth camping. The totem poles, the tribal names, the Council of Tribes ceremony, all of these drew on a curated, child-friendly version of Indigeneity that had little connection to actual Indigenous peoples or practices. This is not unique to Kanawana; it was standard across YMCA and other organized camps of the era. But the physical permanence of the Council Ring, rebuilt to such significant capacity, shows how deeply embedded these practices became in the camp's identity and infrastructure.
+McMorris's analysis situates the Council Ring and its associated "Indian" traditions within the broader history of settler-colonial appropriation in Canadian youth camping.^2 The totem poles, the tribal names, the Council of Tribes ceremony, all of these drew on a curated, child-friendly version of Indigeneity that had little connection to actual Indigenous peoples or practices. This is not unique to Kanawana; it was standard across YMCA and other organized camps of the era. But the physical permanence of the Council Ring, rebuilt to such significant capacity, shows how deeply embedded these practices became in the camp's identity and infrastructure.
 
 ### A complete council-ring manual, 1985
 
@@ -45,32 +47,6 @@ The clearest statement of where the Council Ring came from was made in 1986 by *
 The negative in the same interview matters as much. Of her father's first camp, the Toronto Central YMCA's Camp Couchiching, which ran to about 1912: "**I don't think there was any Indian influence at Couchiching. There was no Council Ring at Camp Couchiching as far as I know or have any record of or any pictures**," and Seton "was later. I don't think he had anything to do with Dad until they were doing the CSET bit."^16 **So on this account the Council Ring entered Canadian camping after 1912, by way of Seton personally, and not out of the YMCA camp tradition Kanawana belonged to** — which makes its arrival at a YMCA camp like Kanawana a borrowing from the private-camp world rather than an inheritance.
 
 Ebbs also names a parallel figure, **Ellsworth Jaeger** of the **Camp of the Red Gods**, whom Seton visited; and she describes the ceremony's form from the inside: "**It was always done very precisely, very organized, and well planned**… the beginning and ending were always the same and most inspirational," with staff "in fear and trembling that somebody would do the wrong thing and spoil the atmosphere." Her explanation of why her father took to it is disarming: he "always loved the theatre and I think this is why the Council Ring, **because it was a spectacle**."^16
-
-## Sources
-
-
-1. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
-2. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
-3. Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
-4. Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
-5. *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
-6. Oral history, Matt Aronson (2026).
-7. *The Gas Bag*, 1923 Re-union Number. Internet Archive.
-8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
-9. McMorris, Grace (2023), Figure 2.1 (1970s totem pole photograph) and p. 68 (1962 site map, "Indian Council Ring" label and totem-pole iconography). Read directly 2026-07-09.
-10. Camp Kanawana current facilities webpage (2026-07-09 check): describes "fire bowls," no mention of "Council Ring" or totem pole by name.
-11. Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
-12. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects". See [f_2453].
-13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
-14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
-15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
-16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
-17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
-18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
-
-### R3 Verification Notes
-
-Council Ring existence confirmed by 1935 History (independent of McMorris). Construction date (1922), totem pole addition (1927), and 1929 rebuild for 325 seats are single-sourced from McMorris citing P145 season reports and annual reports. These are primary archival sources but filtered through a single scholarly pathway.
 
 ## The Council of Tribes Ceremony
 
@@ -88,15 +64,64 @@ That dates and names the channel, and the dates fit Kanawana exactly. Statten wa
 
 Eastaugh also supplies a translation the Kanawana record has never had. Describing the close of the Taylor Statten council ring, he writes that campers remembered "a spine-tingling sensation at the close of the council ring when the entire group rose to sing **'Wakonda dhe dhu'** — **'Father a needy one stands before thee; I who sing am he.'**"^13 Kanawana's c. 1925-1927 script ends with the chant "**Wakonda, dhe-dhu, wapdhin atonhe**", and the same deity name recurs in the staged firelighting of 21 July 1940.^5 ^10 So the words Kanawana campers chanted at the end of council ring for at least fifteen years were part of the same Seton-Statten text, and they are a prayer of supplication. (The underlying words are Omaha, from the sacred song Seton adapted; the wording given here is Eastaugh's 1973 rendering as printed, not an independent translation.) The invocation was not invented at Kanawana and was not generic atmosphere: it was a specific borrowed prayer, transmitted deliberately through the camping movement's own training.
 
-Eastaugh's article is also, in its own right, the clearest surviving statement of how the movement justified the practice at the moment it was starting to be questioned. He opens by comparing camp Indian Lore to the minstrel show — "Have we a parallel in the way we conduct Indian Lore in the summer camp? **I think not**" — and argues the ceremony "should enhance, rather than demean, the Indian and his culture," noting that "**the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs**," with people from Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee reserves working in Ontario camps. But he then concedes the case against: "Candor is also required in levelling with the purist who can quite legitimately claim that Indian Lore in the summer camp **is guilty of ignoring cultural facts**. We have not limited ourselves to archaeological truths. **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His proposed remedy is disclosure rather than discontinuation — "there is nothing wrong with this practice as long as we recognize the source of our material and make the facts known to our campers." And he is candid that the ceremony's power is religious: "why not admit that much of the appeal of the Indian Council Ring Ceremony is dependent upon the observance of primitive ceremonies and a reliance upon the mystery of the wild?"
+Eastaugh's article is also, in its own right, the clearest surviving statement of how the movement justified the practice at the moment it was starting to be questioned. He opens by comparing camp Indian Lore to the minstrel show — "Have we a parallel in the way we conduct Indian Lore in the summer camp? **I think not**" — and argues the ceremony "should enhance, rather than demean, the Indian and his culture," noting that "**the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs**," with people from Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee reserves working in Ontario camps. *That claim has since been tested against this project's own holdings and does not hold for Kanawana: a sweep of every cached document for the Quebec Indigenous community names and for every occurrence of Indian, Native, Autochtone, Mohawk, Cree, Algonquin or Iroquois beside a word for employment or attendance returns nothing about a person at this camp. See [[site/indigenous-names-and-land|Indigenous Place Names and Land History]], which also calibrates that null against a 1969 article reporting that half the staff at another association's camps was Indigenous.* But he then concedes the case against: "Candor is also required in levelling with the purist who can quite legitimately claim that Indian Lore in the summer camp **is guilty of ignoring cultural facts**. We have not limited ourselves to archaeological truths. **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His proposed remedy is disclosure rather than discontinuation — "there is nothing wrong with this practice as long as we recognize the source of our material and make the facts known to our campers." And he is candid that the ceremony's power is religious: "why not admit that much of the appeal of the Indian Council Ring Ceremony is dependent upon the observance of primitive ceremonies and a reliance upon the mystery of the wild?"
 
 One practical note of his bears on how Kanawana's own ring must have operated: a council ring "must be a total, all-camp program", because "**distractions of any kind are 'killers'**" and a handful of scoffers can break the "make believe atmosphere that is so essential." At Ahmek the camp was split by age, eleven-and-under at one sitting and twelve-and-up at another, after early years of interference. Attendance was compulsory where other activities were not.
+
+### The source text, read at last
+
+Eastaugh named Seton in 1973; nobody here had opened Seton. His *Book of Woodcraft and Indian Lore*
+(1912) prints the ceremony in full, and set beside what this project knows of Kanawana's, the descent is
+not a resemblance but a text [f_4854].^19
+
+Seton's **Peace Pipe Ceremony** (pp. 148–149) opens with the Medicine Man standing before the ready-laid
+fire: "*Neetah Kola nayhoon-po omnicheeyay nee-chopt* — Hear me, my friends, we are about to hold a
+council. Now light we the Council Fire after the manner of the Forest children, not in the way of the
+white man, but even as **Wakonda** himself doth light his fire — by the rubbing together of two trees in
+the storm-wind." He works a fire drill; the flame comes; and he says:
+
+> "Now know we that **Wakonda, whose dwelling is above the Thunder-bird, whose messenger is the
+> Thunder-bird, hath been pleased to smile on his children, hath sent down the sacred fire**."
+
+The pipe then goes to Wakonda, to Maka Ina the Mother Earth, and to each of the four winds, the assembly
+answering "*Noon-way*" — Amen — to each. *The Green Triangle* of 21 July 1940 describes Kanawana's own
+fire-lighting in one line that fits this exactly: "an Indian brave came into view; he prayed to Wakonda
+to light the fire."
+
+**And the closing chant has a printed origin with a credit line on it.** At page 145 Seton prints "THE
+OMAHA TRIBAL PRAYER, harmonized by Prof. J. C. Fillmore" — "*Wa-kon-da dhe-dhu Wa-pa-dhin a-ton-he*" —
+credited "(By permission from **Alice C. Fletcher's** *Indian Story and Song*)" and translated "Father a
+needy one stands before thee; **I that sing am he**." Kanawana's script closes "Wakonda, dhe-dhu, wapdhin
+atonhe." Eastaugh remembered it as "I *who* sing am he," one word adrift from the printed line after
+fifty years of singing [f_4855].^19
+
+So the line of descent is now documented end to end: **an Omaha prayer, recorded by the ethnographer
+Alice C. Fletcher and published in 1900, harmonised for piano by John Comfort Fillmore, reprinted by a
+British-born naturalist in 1912, taught to Canadian camp leaders by Taylor Statten in the 1920s, and
+sung at a Laurentian boys' camp by 1927.** Seton also made it institutional: his Herald degree required
+knowing "the Omaha Invocation," his Gleeman degree required singing it.
+
+**What the ceremony is made of.** Seton's own text is a composite. The opening address and the pipe
+invocations are Lakota — *Neetah Kola nayhoon-po*, *Maka Ina*, *Wazi-yata*, *Noon-way* — while the
+closing song is an Omaha prayer from a different nation and a different ethnographer's fieldwork. Set
+against Eastaugh's list of the standard parts (Fire Lighting, Peace Pipe Ceremony, Indian Games, Dances,
+Departure of Hiawatha), the first four are Seton's, in Seton's order. **The Departure of Hiawatha is
+not.** That is Longfellow, an American poem of 1855, and appears nowhere in the Book of Woodcraft
+ceremony. What the camps performed as a single Indigenous rite was assembled from at least three
+places: Lakota phrases, an Omaha prayer and a New England poem [f_4857].^19
 
 ### A third Canadian camp with Wakonda over the fireplace
 
 That the invocation travelled is confirmed by an obituary. When C. R. "Blackie" Blackstock died in 1979, Adele and J. Harry Ebbs wrote that "**Council Ring and Indian Lore is a part of Mazinaw because Blackie had a 'feeling' for our native people**," and that over the lodge fireplace at his own camp he had his friend Fred Hagan carve:^14
 
 > "**May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven.**"
+
+**That carving is Seton's sentence with the tenses changed.** Beside "Now know we that Wakonda, whose
+dwelling is above the Thunder-bird, whose messenger is the Thunder-bird, hath been pleased to smile on
+his children, hath sent down the sacred fire," the Mazinaw inscription keeps the messenger-Thunderbird
+clause, the smiling on his children and the sending down of the sacred fire, turns a statement into a
+petition, and drops the dwelling. It is not an allusion. It settles that the three camps' shared Wakonda
+material is **one text**, not three independent borrowings [f_4856].^19
 
 Camp Mazinaw was founded in 1940 at Bon Echo, and Blackstock had been a founding counsellor at YMCA Camp Kitchikewana in 1921 and waterfront director at Taylor Statten's Camp Ahmek in 1930 and 1931 — so the transmission route is the same one Eastaugh describes, from Seton through Statten's camps into the leaders trained there.^14 Kanawana's script (c. 1925-1927), the Taylor Statten close Eastaugh remembered, and a sentence carved into a Bon Echo fireplace are three instances of one borrowed prayer, at three camps, over sixty years. The name was not local colour that each camp invented; it was inherited, and its bearers knew where it came from.
 
@@ -128,6 +153,35 @@ The spring 1987 issue printed "**A Benediction**", submitted by **Madelene Allen
 
 It bears on this article in a specific way. Kanawana's council-ring texts — the closing invocation, the 1940 firelighting, the Council of Tribes script — have been treated as documents to be dated and sourced. The Seton–Statten chain established above shows that some of the material genuinely was transmitted as fixed text. This shows that some of it was not: **the same benediction existed in at least two forms in the same years, in the same movement, with no author attached to either.** A Kanawana text that does not match a known source exactly is therefore not necessarily a local composition, and one that matches loosely is not necessarily a corruption. Both are what an oral liturgy looks like when it is written down.
 
+### A ceremony with a date on it, 15 August 1935
+
+Most of what this article can say about the Council of Tribes comes from an undated script and from the
+tradition's sources upstream. One issue of the camp newspaper reports a performance, on a day of the week
+and in a named season, with the running order intact.^20
+
+> On Thursday last there was held **the first Indian Council Ring Ceremony of the Tribes of Kanawana for
+> this season**… Towards nightfall all the braves and chiefs gathered on **the territory inhabited by the
+> Juniors**, clad in the characteristic blanket and feathers, and **proceeded as tribes, each with a little
+> Chief**, to the main Council Ring. After their entrance and the **ceremony of Roll Call** the Council was
+> officially opened. **The fire was lit from four** [torches] **symbolic of truth, of a beautiful body**…
+> Then the council was thrown open to **reports of interesting phenomena of nature** in this section of the
+> country, followed by **challenges** and a particularly fetching **dance by the Senior Camp**. The ceremony
+> ended in the **chanting of the Omaha Tribal Prayer**, the braves filed out to the haunting music of the
+> tom-tom.
+
+The Thursday before the issue of Saturday 17 August 1935 is **15 August**. Two details are worth pulling out.
+The **four-fold fire** is Seton's: his council fire is lit from four fires standing for truth, beauty,
+fortitude and love, and "a beautiful body" is Seton's own gloss on beauty rather than a Kanawana coinage.
+The OCR breaks off before the remaining two, so only half the formula survives here. And the **procession
+from the Juniors' ground**, each tribe behind its own little Chief, is a piece of staging the script this
+project holds does not describe — the ceremony began somewhere else and walked to the ring.
+
+One sentence in the report sits awkwardly with the rest of this article: "repeated demands for more make it
+almost a certainty that **next year will witness other similar programs**." That reads as though the
+practice were new or lately revived in 1935, where the c. 1925–1927 script implies a decade of continuity.
+The likeliest reading is that the *ceremony* was continuous and the **first of the season** is what the
+paper is announcing, which is what the sentence literally says. It is recorded here rather than resolved.
+
 ## Location and Modern Use
 
 The Council Ring is located at the far west end of the camp, a ten- to fifteen-minute walk past the Senior Boys section.^6 It remains the primary ceremonial site. In the 2000s era, the ring hosts the Opening Campfire for each session, the opening campfire of the L&V Games, and the Closing Fire of the summer.^6
@@ -154,3 +208,31 @@ The "1970s photograph" showing a standing totem pole is McMorris's thesis Figure
 - How did Council Ring ceremonies evolve after the decline of "playing Indian" programming in the 1950s-1960s?
 - [New 2026-09-04] Seton's original Council Ring text is now identified as the source of Kanawana's ceremony.^13 Two things follow that are worth pursuing: locate Seton's published ceremony (*The Book of Woodcraft*, the Woodcraft Indians manuals) and compare it line by line against the c. 1925-1927 "Tribes of Kanawana in Council" script at Concordia, to establish what Kanawana kept, cut and invented; and pursue Eastaugh's offer of "a complete and detailed description of the rituals, ceremonies, games and organization" from the Taylor Statten Camps, whose version is the one Kanawana's leaders would have been taught.
 - What is the full list of ceremonies and events held at the Council Ring in the modern era?
+
+## Sources
+
+
+1. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
+2. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+3. Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
+4. *The archival pointer, and deliberately uncited.* Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947 — the series in which the reports this article quotes are held. The volumes themselves were read from the Concordia-digitized run and are cited at note 1; this entry says where the paper is.
+5. *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
+6. Oral history, Matt Aronson (2026).
+7. *The Gas Bag*, 1923 Re-union Number. Internet Archive.
+8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
+9. McMorris, Grace (2023), Figure 2.1 (1970s totem pole photograph) and p. 68 (1962 site map, "Indian Council Ring" label and totem-pole iconography). Read directly 2026-07-09.
+10. Camp Kanawana current facilities webpage (2026-07-09 check): describes "fire bowls," no mention of "Council Ring" or totem pole by name.
+11. Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
+12. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects". See [f_2453].
+13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
+14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
+15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
+16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
+17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
+18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
+19. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]: the Omaha Tribal Prayer at p. 145, the Peace Pipe Ceremony at pp. 148–149, the Scalp Dance, and the Herald and Gleeman degree requirements. Read in full on 2026-09-05. See [f_4854], [f_4855], [f_4856], [f_4857].
+20. *The Green Triangle*, **17 August 1935** [src_ymf_the_green_triangle_1935_08_17]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1935-08-17.txt`. Read word for word 2026-09-07. See [f_5595].
+
+### R3 Verification Notes
+
+Council Ring existence confirmed by 1935 History (independent of McMorris). Construction date (1922), totem pole addition (1927), and 1929 rebuild for 325 seats are single-sourced from McMorris citing P145 season reports and annual reports. These are primary archival sources but filtered through a single scholarly pathway.

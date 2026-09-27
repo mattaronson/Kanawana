@@ -1,0 +1,137 @@
+SOURCE EXTRACT — read from the full djvu text, 2026-09-06 (p_435)
+=================================================================
+YEAR BOOK OF THE YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA
+May 1, 1908, to April 30, 1909
+Internet Archive: ymcayearbookand00amergoog — NOT lending-restricted, djvu text 1,096,459 bytes
+
+THE CATALOGUE SAYS 1907. THE TITLE PAGE SAYS OTHERWISE.
+--------------------------------------------------------
+Internet Archive metadata gives `year: 1907, date: 1907`. The title page, at scan line 1381,
+reads in full:
+
+    YEAR BOOK
+    OF THE
+    YOUNG MEN'S CHRISTIAN
+    ASSOCIATIONS
+    OF NORTH AMERICA
+    May I. 1908, to April 30, 1909
+    NEW YORK
+    YOUNG MEN'S CHRISTIAN ASSOCIATION PRESS
+    1909
+
+with "Copyright, 1909" on the verso. THIS IS THE 1909 VOLUME, covering the association year that
+ended 30 April 1909. The catalogue is out by two years, which is now the fourth wrong year this
+project has caught in this series and its neighbours.
+
+IT MATTERS MORE THAN USUAL HERE. 1909 IS THE FIRST YEAR OF THIS PROJECT'S 1909-1920 HOLE. Taken
+on its catalogue year the volume is a duplicate of one already held and would have been skipped.
+
+A note on why the earlier title-page sweep missed it. The sweep pattern was /FOR (THE )?YEARS?
+1[89]dd/, which catches "For the Year 1899." and finds NOTHING in this volume: this one dates
+itself by the association year, "May 1, 1908, to April 30, 1909", with no "for the year" at all.
+A null from a pattern is a fact about the pattern.
+
+
+I. THE MONTREAL ASSOCIATION IN 1909
+===================================
+The Quebec branch directory, scan line 8797:
+
+    Quebec
+    Montreal            Pres.,                    John W. Ross
+                        Gen. Secy.,               D. A. Budge
+        Central Dept    Ch.,                      C. C. Holland
+                        Secy.,                    [no name printed]
+                        Asst.,                    W. J. Holliday
+                        Asst.,                    Fred G. White
+                        Ed. Dir.,                 [NO NAME PRINTED]
+                        Phys. Dir.,               J. E. Merritt
+                        Asst. Phys. Dir.,         Herbert C. Patterson
+                        Boys' Work Dir.,          M. G. Brooks
+        Fairmount Ave. Br.  Ch.,                  H. T. Wilson
+                            Secy.,                W. A. Maclaren
+    Quebec              Pres.,                    R. B. Lindsay
+                        Gen. Secy.,               H. M. Gilchrist
+                        Phys. Dir.,               Garnet I. Sovereign
+    Sherbrooke          Pres.,                    R. N. Robins
+
+And the alphabetical list of employed officers, whose figures are years of entry into Association
+work, Montreal entries only (scan lines 16768-20578), quoted with the OCR's slips:
+
+    Billings, T. H., Montreal, Que., Sec Int. Com., 07
+    Brooks. M, G„ Montreal, Que., Boys, 05
+    Blown, W. G„ McGitl Univ., Montreal. 07          [BROWN, W. G., McGill]
+    Budge, D, A., Montreal, Que,, Sec, 74
+    Calh<iun, C, K., Montreal. Qii« . Sec. Int. Com,. 90
+    Dudley. J. M., Montreal, Sec. Int. Com.. 95
+    Erffing* E. R.. Montreal, Que.. R. R, Asst., OS  [year illegible; 08 or 05]
+    HoUiday W, J.. Montreal. Que,, AsEt., 06
+    McGoniEle, F. C„ Montreal, Que, R. R. Sec. 09    [McGONIGLE]
+    Maclaren, W. A., Montreal. Que., Faiimount, Sec., 04
+    JMerxitt, T. E., Montreal, Que., Ph. Dir., 94    [MERRITT — "J. E." in the directory]
+    Patterson, H. C, Montreal, Que., Asst. Ph. Dir., 08
+    Ritchie. F. H. T., Montreal, Sec. Int. Com,, 9fi [96]
+    tWhite, F, G., Montreal Que,, Asst., 09
+
+
+II. WHAT IS NEW, CHECKED BY GREP BEFORE BEING WRITTEN DOWN
+==========================================================
+  M. G. BROOKS — occurs NOWHERE in this project, neither in the repo nor anywhere in the 954-file
+    cache. He is Montreal's BOYS' WORK DIRECTOR in 1909 and entered Association work in 1905.
+    (Two other Brookses are in the cache — Bob Brooks and Lynne Brooks of the Canadian Camping
+    world in the 1970s and 80s. Neither is him.)
+
+  FRED G. WHITE — new, an Assistant who entered Association work in 1909, i.e. new in post.
+
+  HERBERT C. PATTERSON — the FIRST NAME of the "H. C. Paterson, Montreal, Westmount, Physical,
+    entered 08" that the 1921 volume gave and this project recorded in f_4964. Note the spelling:
+    this volume prints PATTERSON with two t's, the 1921 volume PATERSON with one. Note also that
+    the project separately holds a PHILIP G. PATERSON as the camp's 1923 director; NOTHING here
+    connects the two men and they are not to be joined on a surname.
+
+  J. E. MERRITT'S YEAR OF ENTRY IS 1894 — the year the camp was founded. He was already known
+    here as Physical Director in the 1906, 1907 and 1908 volumes, succeeding W. H. Ball; his
+    entry date was not.
+
+  W. G. BROWN at McGill University, entered 07; F. C. McGONIGLE, Railroad Secretary, entered 09;
+    E. R. ERFFING/ERVING, Railroad Assistant.
+
+  C. C. HOLLAND continues as Central Department Chairman, as in 1907 and 1908.
+
+
+III. THE THING WORTH NOTICING: HOLLIDAY IS NO LONGER BOYS' WORK DIRECTOR
+=======================================================================
+This project holds f_4967, built from the 1906, 1907 and 1908 volumes: W. J. Holliday entered
+YMCA work in 1906, was an Assistant that year, and was MONTREAL'S BOYS' WORK DIRECTOR in both
+1907 and 1908 — and he is the man the association's own 1931 report calls Kanawana's FIRST CAMP
+DIRECTOR.
+
+In this volume he is listed as "Asst.", and the Boys' Work Director is M. G. Brooks.
+
+BOTH LISTINGS IN THE VOLUME AGREE. The branch directory prints "Asst., W. J. Holliday" and
+"Boys' Work Dir., M. G. Brooks"; the alphabetical index prints "Holliday, W. J., Montreal, Que.,
+Asst., 06", where the 1907 and 1908 volumes printed "Holliday, W. J., Montreal, Que., Boys, 06".
+So the change is carried in two independent places in the same book and is not one OCR slip.
+
+WHAT THAT IS AND IS NOT. It is a change of title in the association's own annual roster between
+the 1908 and 1909 volumes. It is NOT, on this evidence, a demotion, a dispute, a departure, or
+anything else with a motive attached: a title can change for a reorganisation, a secondment, an
+illness, or because a man moved to a job the roster names differently. The volume says what he
+was called and nothing about why. What it does establish is that KANAWANA'S FIRST CAMP DIRECTOR
+WAS NOT THE ASSOCIATION'S BOYS' WORK DIRECTOR IN 1909, which is a year the project previously had
+nothing for at all, and that the man in that post was M. G. Brooks.
+
+IV. AND MONTREAL STILL HAS NO EDUCATIONAL DIRECTOR
+==================================================
+The "Ed. Dir." line is printed with no name against it — as it was in 1900, after E. G. Randal
+left for Taunton. The 1906 volume had J. S. Jamieson in the post and the 1907 and 1908 volumes
+W. H. Henderson, so it was filled and is now empty again. The next Educational Director this
+project has is F. H. Spinney, at the CAMP rather than the association, from about 1917.
+
+V. "KANAWANA" IN THIS VOLUME
+============================
+Zero occurrences, as in every volume of this series read so far.
+
+QUERIES RUN: 'Montr' across the whole text; 'YEAR BOOK|OFFICIAL ROSTER|ASSOCIATION PRESS|copyright'
+across the front matter to find the title page; 'kanawana'; and repo-wide greps on "M. G. Brooks",
+"Brooks", "C. C. Holland", "Fred G. White", "Herbert C. Patterson", "H. C. Patterson",
+"H. C. Paterson", "J. E. Merritt" and "Maclaren" before any of them was called new.

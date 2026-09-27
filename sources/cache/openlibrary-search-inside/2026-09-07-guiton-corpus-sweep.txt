@@ -1,0 +1,184 @@
+GEOFFREY GUITON -- Internet Archive book-corpus sweep
+Surface: openlibrary.org/search/inside.json
+Swept 2026-09-07, under p_430.
+
+=====================================================================
+THE MECHANICAL FINDING FIRST, BECAUSE IT CORRECTS A RULE WRITTEN TODAY
+=====================================================================
+
+This morning's sweep concluded that the corpus search is "excellent for an
+UNCOMMON name and useless for a common one," on the evidence that
+"Kenneth J. Hollinshead" returned three clean hits while "M. G. Brooks"
+returned 934. THE DIAGNOSIS WAS WRONG, AND IT COST COVERAGE.
+
+The instrument does not phrase-match an unquoted query. It ANDs the tokens
+independently across the whole book, so "Ronald Hanagan" matches any volume
+containing a Ronald anywhere and a Hanagan anywhere:
+
+    Ronald Hanagan      unquoted    total = 1,570   (all noise)
+    Geoffrey Guiton     unquoted    total = 2,620   (all noise)
+
+Hollinshead worked not because the name is uncommon as a NAME but because
+both of its tokens are rare enough that a book carrying each separately is
+itself rare.
+
+QUOTE THE PHRASE AND IT WORKS EXACTLY AS WANTED:
+
+    "Ronald Hanagan"    quoted      total = 1
+    "Geoffrey Guiton"   quoted      total = 9
+
+Nine hits, eight of them the same man, on a name that unquoted returned two
+and a half thousand pages of Camus criticism and a French mayor. THE RULE IS
+NOT ABOUT NAME FREQUENCY. IT IS: ALWAYS QUOTE THE PHRASE. Every unquoted
+two-token name search run before this one should be re-run.
+
+(The single "Ronald Hanagan" hit is a novel -- Sergeant Major Ronald Hanagan
+in "Trial by Fire" -- and is not our man.)
+
+=====================================================================
+WHAT THE QUOTED SWEEP RETURNED ON GEOFFREY GUITON
+=====================================================================
+
+Query: "Geoffrey Guiton"  -- 9 hits.
+Query: "Guiton" "Fellowship of the West"  -- 6 hits.
+Query: "Reverend Geoffrey Guiton"  -- 1 hit.
+
+ALL OF THE BELOW ARE SEARCH HIGHLIGHTS. NONE OF THESE VOLUMES WAS READ HERE;
+they are borrow-restricted on the Internet Archive. Ellipses are the
+highlighter's truncation, not ours.
+
+--- companionsofpeac0000stor
+    "Companions of the Peace : diaries and letters of Monica Storrs, 1931-1939"
+  > "our first visitors arrived - the Rev. Geoffrey Guiton and another student
+     called Norton Deane"
+  > "and also in '31 ... Soon after that Geoffrey Guiton volunteered for the
+     Cana[dian] Mission"
+  > "organized in 1929 by three Montreal priests, Geoffrey Guiton, Elton Scott,
+     and R.K. Naylor, who"
+  > "Geoffrey Guiton (1892-1947), one of the founders of the Fellowship of the
+     West, served in"
+  ** THE DATES ARE HERE, IN WHAT READS AS AN EDITOR'S FOOTNOTE: 1892-1947. **
+
+--- godsgallopinggir0000stor
+    "God's galloping girl : the Peace River diaries of Monica Storrs, 1929-[1931]"
+  > "Fellowship of the West. Three Montreal priests, Geoffrey Guiton, Elton
+     Scott, and R.K. Naylor had been deeply"
+  > "first in the hospital. The priest was Rev. Geoffrey Guiton, one of the
+     founders of the Fellowship of the"
+  > "But Guiton says he can raise practically all the money through his
+     Fellowship of the West in Montreal"
+  > "friend to Mr. Guiton. In fact, they are the twin pillars of the Fellowship
+     of the West. He is a charming"
+  > "good-bye to Mr. Guiton and Charlie, who were just going back to Montreal.
+     Mr. Guiton has certainly done"
+
+--- blessedcommunion0000coop
+    "The blessed communion: the origins and history of the Diocese of Montreal"
+  > "social work, was co-opted. The Rev. Geoffrey Guiton, later a missionary,
+     took charge of actual"
+  > "priests were immediately responsible, Geoffrey Guiton, Elton Scott, and
+     R. K. Naylor. Guiton was destined to have"
+  > "Montreal Anglicanism. The Fellowship of the West / The Fellowship of the
+     West grew out of the enthusiasm"
+  > [table of contents] "XXII The Fellowship of the West: The Colonization
+     Movement . 187"
+
+--- measureoffaithan0000reis
+    "The measure of faith : annals of the Diocese of Montreal, 1760-2000"
+  > "sparkplugs of the movement, however, were priests: Geoffrey Guiton, Elton
+     Scott and R.K. Naylor, who determined"
+  > "The Fellowship of the West (1929) This year saw the formation in Montreal
+     of a movement called the Fellowship of the West."
+  > "In 1930 three teams were sent out: Geoffrey Guiton and Richard Haviland,
+     W. C. Eccleston and Henry"
+  > "the street and maintain morale. The Rev. Geoffrey Guiton was the Anglican
+     representative in this work"
+
+--- anglicanchurchin0000phil / anglicanchurchin0000carr
+    Philip Carrington, "The Anglican Church in Canada: a history"
+    (two scans of the same book)
+  > "forming the Fellowship of the West, largely through the enthusiasm of the
+     Rev. Geoffrey Guiton (who later on devoted his life to missionary"
+  > "work of the Fellowship of the West had prepared the way. In 1930 a
+     Fellowship of the West was established"
+  > "The Fellowship of the West continued to send clergy, including George"
+
+--- journeytoindia0000thom
+    "Journey to India"
+  > "[mis]sionary who had built up the school, the Reverend Geoffrey Guiton.
+     Geoffrey, as I learned about him, seemed to"
+
+--- ymcayearbookoffi00youn
+    "YMCA year book and official rosters (1921)"
+  > "Br. Physical, Reginald P. Thomas Boys, Geoffrey Guiton Asst. Boys, Robert
+     E. Blake Asst. Boys"
+  ** This is the corpus returning our own instrument. The same Montreal North
+     Branch line the ContentDM run gives, in a book scan. **
+
+--- 1994congressiona0000unse_t3t8
+    A 1994 U.S. congressional staff directory. "Gerhardt, Geoffrey Guiton,
+    Mark" -- two adjacent entries the highlighter joined. NOT A PERSON.
+
+=====================================================================
+WHAT THE OTHER INSTRUMENT SAYS, AND WHY THE TWO ARE WORTH SETTING SIDE BY SIDE
+=====================================================================
+
+ContentDM p16022coll351 (University of Minnesota's YMCA Year Book run),
+searched "Guiton", 16 page hits, in the volumes for 1919-20, 1920-21,
+1921-22, 1922-23, 1923-24, 1924-25, 1925-26 and 1926-27 -- EIGHT CONSECUTIVE
+VOLUMES WITH NO GAP -- AND NONE LATER.
+
+[Corrected on the spot: this paragraph first said the 1923-24 volume returned
+nothing and the run was not clean. It was written from a list of volume years
+in which one lookup had failed and printed "?" instead of its date. The "?"
+was 1923-24, and page 46 of that very volume is quoted below. A failed lookup
+is not an absent record, and reading it as one would have manufactured a gap
+in an unbroken run.]
+
+  1919-20 vol, p.380: "Montreal, North Br. Asst., Geoffrey Guiton --
+      Physical, Reginald P. Thomas -- Boys, Charles G. Hewett"
+      [so Hewett held the Boys' post and Guiton came in under him]
+
+  1920-21 and 1921-22 vols: "Montreal, North Br. Physical, Reginald P. Thomas
+      -- Boys, Geoffrey Guiton -- Asst. Boys, Robert E. Blake -- Asst. Boys,
+      G. S. Mooney"
+
+  1923-24 vol, p.46: "North Br., 2300 Park Ave. Chairman, A. E. Shaw --
+      Secretary, W. J. Holliday ... Physical, Reginald P. Thomas -- Boys,
+      Geoffrey Guiton -- Assistant, Robert Johnston"
+
+  1926-27 vol, p.57: "East Montreal, North Br., 5550 Park Ave. ... Physical,
+      Reginald P. Thomas -- Boys, Geoffrey Guiton"
+
+  ALPHABETICAL LIST OF EMPLOYED OFFICERS, which is what settles it:
+      "Guiton, Geoffrey, Montreal, Que, North, Boys', 20"
+      "Guiton, Geoffrey, Montreal, North, Asst., 20"
+  HIS YEAR OF ENTRY INTO ASSOCIATION WORK IS 1920, printed unchanged in every
+  volume he appears in. Born 1892 (above), he was twenty-eight when he entered.
+
+=====================================================================
+WHAT IS AND IS NOT ESTABLISHED
+=====================================================================
+
+ESTABLISHED, from the rosters alone: a Geoffrey Guiton was on the paid staff
+of the YMCA of Montreal's North Branch from 1920, as assistant and then as
+Boys' Secretary, through the 1926-27 volume, and North Branch families
+applied to him for Kanawana (1922 brochure, already in this project).
+
+ESTABLISHED, from the church histories alone: a Geoffrey Guiton (1892-1947)
+was an Anglican priest in Montreal who helped found the Fellowship of the
+West in 1929, went to the Peace River in 1930, and later built up a school
+in India as a missionary.
+
+NOT ESTABLISHED: that these are one man. It is a join on an uncommon name in
+one city with no overlap in dates -- the YMCA record stops after 1926-27 and
+the church record starts in 1929, which is the right shape for a man leaving
+a secretaryship for theological college, and is also the shape a coincidence
+would take. NOTHING READ HERE SAYS SO.
+
+WHAT WOULD SETTLE IT: the Montreal Diocesan Theological College's register
+for the later 1920s; a 1947 obituary; or any church source naming his work
+before ordination. The Storrs volumes are edited with footnotes -- the
+1892-1947 dates come from one -- so the editor may well have written down
+what he did before 1929. Those books are borrow-restricted here and were
+not read.

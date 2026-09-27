@@ -1,7 +1,7 @@
 # What the Plaques Say Besides Names
 
-*Status: R3-verified | Sources: 3*
-*Last Updated: 2026-09-02*
+*Status: R3-verified | Sources: 5*
+*Last Updated: 2026-09-08 (Kanawoodstock in 1978)*
 
 ## Overview
 
@@ -45,6 +45,12 @@ Three objects, widely separated, establish a recurring music festival the wiki d
 
 Each generation reached for the music of its own moment to name the same event — and the 2009 object is not a plaque at all but a piece of the festival's equipment, kept.
 
+**The run is much longer than the objects.** The camp's own director's report for **1978** lists Kanawoodstock
+among that season's special programmes, beside the Kanawana Kountry Fair, Klondyke Day, a Santa Claus Parade
+and a Star Wars Day.^4 With the 1987 sighting already recorded below, the festival is documented across
+**1978, 1987, 1993 or 1995, 2000 and 2009** — at least thirty-one years. The three objects are a sample of
+that, not the extent of it. [f_5798]
+
 ## Themed days and all-camp games
 
 Four boards record a competition format the wiki has not named as a tradition:^1
@@ -54,6 +60,41 @@ Four boards record a competition format the wiki has not named as a tradition:^1
 - **Wizard of Oz Day** — a deeply carved board, badly weathered, reading approximately "Wizard of Oz Day / Kamp Kanawana / Winning Team / of 19[?]0." The year and team are not recoverable.
 - An **Arthurian all-camp day**, "Sir Kay, or Arthur's Lost Knight," ran in 1987 and is separately documented in the camp's own director's report, which rated it "slightly less than mediocre."
 
+**The 1978 season names forty-one of them at once, and the boards are the survivors of a much denser
+programme.** Derek Walsh's director's report for that year lists what the camp ran beside the daily
+schedule: the Kanabec Winter Carnival, a Canada Day Pageant, the **Kanawana Kountry Fair**, nightly Kabarets,
+**Postcard Suppers**, **Klondyke Day** and a **Klondyke Chuck Wagon Rally**, The Energetic Company (skits on
+energy conservation), Astronomy, **Pyjama Breakfasts**, a **Viking Day and Funeral**, Rumbles, Carnival Day,
+**Shave, Shower and Shampoo Day**, a **Utensil Meal**, a **Santa Claus Parade**, Halloween, **Star Wars Day**,
+Xmas Day, a Fishermen's Lunch, **World Record Day**, Kanawoodstock, a **Green Triangle Banquet**, Douce the
+Fire, **Greaser Day**, Sideline Bucket Basketball, Casino Night, **Capture the Lantern**, Mission Impossible,
+movie nights, a **Monks Meal**, a Réveillon, **Canoe Hockey**, a Craft Shop Quiz, Frisbee Golf, a Fishing
+Derby, the **Lumbermen–Voyageurs** contest ("Lumbermen won… again"), and **Kanawana Day at Olympic Stadium on
+10 September** with an Expos ballgame.^4
+
+**The year before gives fifteen more, and seven of them recur.** The 1977 report lists "Christmas Day; **swim
+meet with Lac Marois Association**; **Topsy-Turvy Day**; The Energetic Company; the **Kanawana 500**
+cross-country car rally; Santa Claus Parade; **Olympics Day**; Klondyke Day; World Record Day; the **Derek
+Walsh invitational golf tournament**; Fishermen's Supper; Pyjama Breakfasts; **Letter Lunches**;
+Lumbermen–Voyageur Competitions; Green Triangle Banquet (Lumbermen won)."^5 Seven of those appear again in
+1978 — The Energetic Company, the Santa Claus Parade, Klondyke Day, World Record Day, Pyjama Breakfasts, the
+Lumbermen–Voyageurs and the Green Triangle Banquet — so they are fixtures, not one-offs, and **the Lumbermen
+won in both years**, which is what 1978's "Lumbermen won… again" is referring to.
+
+*Two of the new ones are worth their own line.* The **swim meet with the Lac Marois Association** is the only
+inter-community sporting fixture in this project, against a neighbouring lake's residents rather than another
+camp. And the **Derek Walsh invitational golf tournament** is named for the man who signed the report — a camp
+naming an event after its own sitting director, which is either affection or a joke, and the document does not
+say which. The 1977 programmes are credited in part to **Kevin Forster**, the Junior Boys Section Director,
+"who initiated a number of the above in his section." [f_5805]
+
+*Three of the 1978 items land on things this article already holds.* **Viking Day** is on a 1972 board above and
+running again six years later. **Pyjama Breakfasts** answer the "pyjama parade" of the 1935 season chronicle,
+forty-three years apart. And **Star Wars Day** is a year after the film, which is the same
+reach-for-the-moment the Kanawoodstock objects show across three decades. The credit goes to "the four Section
+Directors and **Eric Sandmark**," with special thanks to **Kerry Finucan**, who had built a programme resource
+file over the preceding winter. [f_5798]
+
 Alongside these the **all-camp game** was named and commemorated each session: a ship-shaped board for *"Treasure Island KK — 1st Session All Kamp 1996,"* and a bone-shaped board for the third session of 1995.
 
 ## Raku
@@ -62,7 +103,9 @@ That 1995 board reads **"We saved Raku and the red-day tuck!"** — which on its
 
 Raku was a dog — and specifically he was **Camp Director Joanna A.A. Hoad's** dog.^2 A plaque's shape carried the whole meaning of a sentence that is otherwise a private joke, and the date fits exactly: Hoad's on-site directorship is recorded as running from 1995 to 2000, so an all-camp game built around rescuing Raku falls in her **first season**. The new director's dog, made the object of the whole camp's game.
 
-That is worth one further note. Hoad's Kanawana tenure is the one span in [[people/directors-index|the directors index]] that no document has ever corroborated — two full research passes across nine or more surfaces found nothing, and the 1995–2000 dates rest on oral history alone.^2 A bone-shaped board dated to the third session of 1995, naming a dog the operator independently identifies as hers, is not proof of her appointment; it is a dated physical object consistent with her being at camp that summer, produced by a different route than the memory it agrees with. That is the first material evidence of any kind touching those dates.
+That is worth one further note, and it needs rewriting rather than deleting. Until 2026-09-07 this passage said Hoad's tenure was "the one span in the directors index that no document has ever corroborated," the 1995–2000 dates resting on oral history alone, and the bone-shaped board being "the first material evidence of any kind touching those dates." **The dates were in the association's own annual reports the whole time.** The 1995 volume announces her appointment in March of that year and calls her the first female director in the camp's history; the Senior Management rosters carry her through 1999–2000. See [[people/joanna-hoad|Joanna A.A. Hoad]] and [f_5717].
+
+What survives of the original observation is the better half of it. A board dated to the third session of **1995** — her first season, as the reports now independently establish — built an all-camp game around the new director's dog. The object and the printed record were made by different routes and agree, and the object is the only one of the two that says anything at all about how she was received.
 
 He remains the only camp animal recorded anywhere in this project.
 
@@ -81,7 +124,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 ## Open Questions
 
 1. [Nice-to-have, answered 2026-08-28] ~~Who was Raku?~~ Director Joanna A.A. Hoad's dog.^2 Whether there were other camp animals is still open — he is the only one on record.
-2. [Important, advanced 2026-09-03] Was Kanawoodstock an annual event with three surviving objects, or an occasional one? **It was running in 1987**, six years before the earliest object — the Director's Report for that year lists it among the special events that "went exceptionally well," beside Glissade d'Eau, Secret Friends, the Green Triangle, The Legend of the Tipi, Kabarets and the Chicago Coffee House.^3 So the objects are a sample of a longer run, not the run itself. The gaps between 1987, 1993/95, 2000 and 2009 are gaps in what survived.
+2. ~~[Important] Was Kanawoodstock an annual event with three surviving objects, or an occasional one?~~ **[Advanced again 2026-09-08]** It was running in **1978**, in the camp's own director's report for that season^4 — nine years before the 1987 sighting below and fifteen before the earliest object. Documented across 1978, 1987, 1993/95, 2000 and 2009. Whether it ran in every intervening year is still open, but "occasional" is no longer a live reading. *[Previous state:]* **It was running in 1987**, six years before the earliest object — the Director's Report for that year lists it among the special events that "went exceptionally well," beside Glissade d'Eau, Secret Friends, the Green Triangle, The Legend of the Tipi, Kabarets and the Chicago Coffee House.^3 So the objects are a sample of a longer run, not the run itself. The gaps between 1987, 1993/95, 2000 and 2009 are gaps in what survived.
 3. [Important] What did the camp's use of Indigenous-derived imagery look like over time, and did it change? Three dated objects exist; nothing in the knowledge base discusses them.
 4. [Nice-to-have] The Wizard of Oz board's year and winning team could not be read even after contrast enhancement. Does anyone recall a Wizard of Oz Day?
 5. [Nice-to-have] How were cabins normally named? The Zodiac board suggests campers did it themselves, in a recorded act.
@@ -98,6 +141,8 @@ The boards draw on two visual vocabularies that do not mix:^1
 1. Kanawana Flickr "Plaque" album, all 151 images transcribed in the p_291 audit [src_flickr_kanawana_plaque_album]. Per-image records in `kb/plaque-audit/audit.jsonl`; the 1987 Arthurian day is separately from *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
 2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_sanctum_suez_raku]. See [f_2353].
 3. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Programs — Mini Programs". See [f_2457].
+4. *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its list of the season's special programmes. Read 2026-09-08 under p_441. See [f_5798].
+5. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its special-programme list. Read 2026-09-08 under p_441. See [f_5805].
 
 ## Research Notes
 

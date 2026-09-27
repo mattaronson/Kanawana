@@ -72,12 +72,12 @@ The same interview is emphatic that the Council Ring did **not** come from that 
 
 1. YMCA of Greater Toronto, Camp Pine Crest [src_ymca_gta_pine_crest].
 2. "Our History," YMCA Canada [src_ymca_canada_history].
-3. YMCA of Greater Toronto Blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pine_crest_games]. NOTE: this single blog post was previously listed four times under three duplicate source ids (src_ymcagta_pine_crest_games, src_ymca_gta_blog_games, src_ymcagta_pinecrest_games); consolidated here. The duplicate records themselves are a KB-hygiene item, tracked in p_220.
+3. YMCA of Greater Toronto Blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pinecrest_games]. NOTE: this single blog post was previously listed four times under three duplicate source ids; they were merged into one record on 2026-09-07 under p_303, and the ids this note used to name have all become the one above. The duplicate records themselves are a KB-hygiene item, tracked in p_220.
 4. YMCA Camp Pine Crest (Encyclopedia Entry) [src_pine_crest_encyclopedia].
 5. *Lumbermen & Voyageurs: The YMCA Pine Crest Story* [src_pine_crest_book].
 6. Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" (summer camp tradition) [src_wikipedia_color_war].
 7. YMCA Quebec, "Summer Camp Kanawana: History" — states the L&V Games were "inspired by Pinecrest Camp" [src_ymca_kanawana_history].
-8. The L&V Games (this wiki) — the modern three-day format rests on weak leads and is an open question there; the 1947-1958 event ran a full week [src_leigh_evans_lv_blog].
+8. The L&V Games (this wiki) — the modern three-day format rests on weak leads and is an open question there; the 1947-1958 event ran a full week [src_leigh_evans_blog].
 9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
 10. C. R. Blackstock, "Camping… Our Past, Present and Future," *Canadian Camping* Vol. 30 No. 3 (May 1978), pp. 1, 3, 12, with the author note on p. 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 119).
 11. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the same read (issue 125).

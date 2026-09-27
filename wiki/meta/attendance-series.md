@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 57*
+*Last Updated: 2026-09-08 (what the parents thought, 1974-1978; 1916 by branch)*
 
 ## Overview
 
@@ -9,7 +9,7 @@ This article assembles every camper count and camper-week figure the project has
 
 It is kept as a separate article because it is a **dataset with its own integrity problems**, and those problems need to travel with the numbers rather than be smoothed away in prose elsewhere. Six internal inconsistencies are flagged in the tables below and explained in [Where the record disagrees with itself](#where-the-record-disagrees-with-itself). **Do not quote a figure from here without checking whether it carries a flag.**
 
-**Dating.** Every year below is a **season**, not a report year. The association's fiscal year ended 30 April through the 1925 report, ran eleven months to 31 March 1926, ended 31 March from 1926 to 1950, and matched the calendar year from 1951. So a report up to 1950 describes the *previous* summer.^1 Getting this wrong has produced at least four dated errors in this wiki; see [[people/greig-macdiarmid|Greig Macdiarmid]] and [[site/council-ring|The Council Ring]].
+**Dating.** Every year below is a **season**, not a report year. The association's fiscal year ended 30 April through the 1925 report, ran eleven months to 31 March 1926, ended 31 March from 1926 to 1950, matched the calendar year from the 100th report (1951) to the 111th (1962), and **ended 31 May from the 112th report onward**, still so in 1989. So a report up to 1950 describes the *previous* summer, a December report describes its own, and **a June-to-May report describes the previous summer again**. *(Extended 2026-09-07: this note stopped at "matched the calendar year from 1951," which reads as calendar years for ever and puts any post-1962 report a whole year out. Two volumes are also not normal years: the **100th spans twenty-one months**, April 1950 to December 1951, which is why the 1950 season appears nowhere below, and the **112th spans seventeen months**, January 1963 to May 1964. `project-docs/annual-report-year-ends.md` is the authority; this is a summary of it.)*^1 Getting this wrong has produced at least four dated errors in this wiki; see [[people/greig-macdiarmid|Greig Macdiarmid]] and [[site/council-ring|The Council Ring]].
 
 ## The Lac St. Joseph era (1894–1909)
 
@@ -21,10 +21,18 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1895 | 22 | — | "22 members and leaders" |
 | 1896 | 28 | 40 | First year the reports state the split explicitly |
 | 1897 | 24 | — | 25 June – 9 July |
-| 1898 | 20 | 85 | Junior camp 23 June – 7 July |
-| 1899 | 37 | 72 | Log clubhouse opened, cost $700 |
+| 1898 | 20 | 85 | Junior camp 23 June – 7 July under W. F. Chapman and C. S. Paterson, with five visitors on Dominion Day; senior camp 9 July – 4 September under **Archibald McKellar** (given as "A. Mackellar" in the report, and identified from the association's 1898 roster, where he is an Assistant Secretary [f_4980]), **C. B. Powter**, A. R. Ross and W. H. Ball. Senior 85 = 19 + 11 + 42 + 13. **Length of stay:** 2 men four weeks, 1 three, 3 two-and-a-half, 1 two, 28 between one and two, 15 one week, 28 odd days [f_4912], [f_4913] |
+| 1899 | 37 | 72 | Log clubhouse opened, cost $700. **Possibly a year out:** the report for the year ending 30 April 1899 says the Log Club house was "completed in **September**", i.e. September 1898, and free of debt. Completion and opening may differ; not resolved [f_4912] |
+| **1900** | **45** | — | 28 June – 14 July, under Mr. Calhoun and Mr. Brown; 6 leaders, 17 visitors, six tents; eleven wet days out of sixteen; the cook "disgustingly dirty in his work"; balance $5.05 [f_4848]^8 |
 | 1901 | 60 | 147 | Split by age: 17 "Business Boys," 43 "School" — the earliest documented sectioning |
+| **1902** | *(ran)* | *(ran)* | The Junior Committee had charge of the Boys' Camp "from the middle of June to the 12th of July," the Senior Committee the balance to 6 September [f_4848] |
+| **1903** | **210** | — | "210 campers attended Camp Jubilee in 1903" — a figure this project already held and this series had never carried [f_0666] |
+| **1903** | **49** | — | **26 June – 9 July, at Lac St. Joseph.** "On account of the difficulty in securing proper supervision, it was found necessary to take both Business and School Boys in one camp." **Mr. Harry Ballantyne in charge**, with eight volunteer leaders. The association had **no Boys' Secretary at all** that summer — R. H. Macdonald left in May and C. M. Daggett did not arrive until September — which is the supervision difficulty the report means^37 |
 | 1904 | 79 | — | "the largest camp ever conducted" |
+| **1905** | *(ran)* | — | "We consider it to have been one of the most successful Camps we have ever held" [f_4848] |
+| **1906** | *(216 total)* | *(in the 216)* | "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th"; Business Boys 16–30 June, School Boys 30 June–14 July, Senior Camp 14 July–8 September. The four component figures are illegible in the OCR; only the total survives [f_4852] ^10 |
+| **1907** | **77** | — | Two sections from 15 June: 28 Business Boys, then 41 School Boys with eight leaders [f_4848] |
+| **1908** | *(ran)* | — | The report thanks "the volunteer leaders with the Junior Camp" for making "this season's Camp a success" [f_4848] |
 | 1909 | 66 | — | 19 June – 17 July |
 
 ## Kanawana (1910–1949)
@@ -32,14 +40,14 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | Season | Campers | Boy-weeks | Notes |
 |---|---|---|---|
 | 1910 | *(capacity 70)* | — | Opening season, 1 July – 15 Aug, under **W. J. Holliday** — whom the 1931 report calls "**the first camp director**" |
-| 1912 | 187 | — | |
-| 1913 | 162 | — | |
+| 1912 | 187 | — | "Last summer **123 men and 187 boys** secured a most delightful vacation in these helpful surroundings" — the 123 is the men's camp at Lac St. Joseph the same summer, and the two must not be added^31 |
+| 1913 | 162 | — | **In charge of the season: D. J. Evans, Harold Cross and H. A. Lordly, "for successive portions."** Open July and August. The staff names sit in the same sentence as this figure and had gone into [[people/directors-index|the directors index]] without ever being carried across to this row; Cross would direct the camp a decade later^36 |
 | 1915 | 167 | — | 26 June – 25 Aug |
-| 1916 | 175 | — | |
+| 1916 | 175 | — | **Central Branch 68, Westmount 54, North 53** — the earliest by-branch split of a season here, and it sums exactly.^55 Season **24 June – 18 August** per the annual report; the *advertised* season was 24 June – 12 August, at $5.00 a week^11 — see the note below. [f_5790] |
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |
-| 1918 | 223 | avg daily 66 | |
-| **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90 |
-| 1921 | 391 | — | Peak 212; 812 badges won |
+| 1918 | 223 | avg daily 66 | Season **26 June – 24 August**; the report calls it "a record season"; camp closed the year $302 to the good^27 |
+| **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90. Season **advertised** 28 June – 30 August, the longest to that point — a plan, not a record of what ran^27 |
+| 1921 | 391 | — | Season **22 June – 27 August**, the longest dated season in the record; peak 212; 812 badges won ⚠️^26 |
 | 1922 | 307 | — | |
 | 1923 | 269 | 934 | **Scored 893/1000 — highest in Canada** in the national Camp Grading Scheme |
 | 1924 | 272 | 906 or 916 ⚠️ | |
@@ -56,7 +64,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1935 | 259 | 917 | |
 | 1936 | 310 | 1,092 | |
 | 1937 | 407 | 1,442 | Registration refused for July periods |
-| 1938 | 364 | 1,315 | 29th season |
+| 1938 | 364 | 1,315 | 29th season. *A different measure from the same year:* the CBM broadcast script of 10 November recalls twelve-year-old Sandy Spence singing on a Sunday at camp "to **over 250 campers and visitors**" — a single service, campers and visitors counted together, not a season total [f_5002] |
 | 1939 | 526 | 1,477 | **133 "Old Country" boys** in five touring groups |
 | 1940 | — | 1,438 | Four-week scarlet fever quarantine |
 | 1941 | 322 | 1,266 | |
@@ -69,59 +77,623 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1948 | 328 | 1,327 | 585 parents' visits |
 | 1949 | 557 | 1,464 | 57 personnel; **1,210 Sunday chapel attendances** |
 
-## Kanawana (1952–2023)
+**On the 1954 "average stay of 5.5 weeks."** The report prints it; this table does not adopt it. An eight-week season with 446 boys averaging 5.5 weeks would be about 2,450 camper-weeks, half again more than any figure in this series for the period, and the 1953 report gives three and a half weeks for a comparable season. These scans render 3 as 5 elsewhere. The figure is recorded as printed and flagged, not corrected — a suspicion is not a reading.^14
+
+## Kanawana (1950–2023)
 
 | Season | Campers | Camper-weeks | Notes |
 |---|---|---|---|
+| **1950** | *(ran)* | — | Attested only in comparison: the 1951 report has Kanawana's attendance "above the previous year." The season falls in the gap left when the association moved its fiscal year from ending 31 March to ending 31 December [f_4847] |
+| **1951** | *(ran)* | — | "In spite of an unusually wet summer, aggregate attendance at Kamp Kanawana was above the previous year" [f_4847] |
 | 1952 | ~406 | — | The Long House built and dedicated mid-July |
-| 1953 | 450 | — | Avg stay 3.5 weeks |
-| 1954 | 446 | — | "the year of great rains" |
-| 1955 | 473 | — | |
-| 1956 | 523 | — | |
-| 1957 | 558 | — | |
-| 1958 | 528 | — | |
-| 1959 | 526 | — | Voyageurs pilot, 30 boys |
-| 1963 | 602 | — | Includes Voyageurs; 75 leaders |
-| 1964 | 535 (+64 leaders) | — | 120 acres acquired |
-| 1965 | 420 | 1,200 or 1,182 ⚠️ | Attributed to weather, summer school, changed family holidays |
+| 1953 | 450 | — | Avg stay 3.5 weeks; more hikes, and "keener interest in nature lore" as a result^14 |
+| 1954 | 446 | — | "the year of great rains"; 662 tests passed, 371 boys on overnight hikes, 201 through the graded Y.M.C.A. swim tests and 151 non-swimmers through the elementary one; older boys went up the Archambault River by canoe **every week**. Average stay printed as **5.5 weeks**, which is almost certainly a misread of 3.5 — see the note^14 |
+| 1955 | 473 | — | Avg stay 3.5 weeks; 72 boys learned to swim, 323 passed intermediate swimming tests, 182 boating/canoeing/sailing awards, 22 life-saving and master swimming awards. Tent groups of seven planned their own programme, with "competition with self, rather than comparison with others" the stated key note^16 |
+| 1956 | 523 | **1,624** | Camper weeks added 2026-09-07: the religion rows sum to it, and the three-row block is proved complete in four neighbouring years^46 |
+| 1957 | 558 | **1,696** camper-weeks | Camp "filled to capacity"; average stay three weeks — and 1,696 over 558 is 3.04, which is where that note independently lands^43; age breakdown below^15. The Foremen's Club, "as usual," paid for 19 campers at Camp Perrot^16 |
+| 1958 ⚠️ | 528 *or 538* | **1,623** camper-weeks | 1,623 over 528 is 3.07 weeks^43. Age breakdown below; the printed total and the printed ages do not reconcile^15. **Two further sub-tables in the 1966 printing both sum to 538**, and the same blocks reconcile exactly for 1956, 1960 and 1961 — see below^46 |
+| 1959 | 526 | **1,567** | Voyageurs pilot, 30 boys. Camper weeks added 2026-09-07 on the same basis^46 |
+| **1960** | **545** | **1,585** | "Kamp Kanawana for boys operated for eight weeks at near capacity"; the Zeller Family Foundation study of leadership and camper growth begins [f_4846]. Counts added 2026-09-07 from the ten year summary [f_5652]^45 |
+| **1961** | **503** | **1,509** | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846]. Counts added 2026-09-07 [f_5652]^45 |
+| **1962** | **590** ⚠️ *or 550 or 548* | **1,640** *(also 12,425 camper days)* | From the statistical summary, which counts the city day camps separately [f_4846]. **A news release of 22 April 1963 says 550, "the highest enrollment," with 66 staff and counsellors under Ross Seaman**^19 — see the note below. **The ten year summary makes a third figure, 548, and gives the camper-weeks total: `c_071`**^45 |
+| 1963 ⚠️ | 602 *or 567* | **1,641** | Includes Voyageurs; 75 leaders. **The ten year summary says 567 — and the Voyageurs note may be exactly the difference: `c_071`**^45 |
+| 1964 | 535 (+64 leaders) | **1,518** *(budgeted 1,530)* | **The actual figure, twelve weeks short of budget, found 2026-09-07** [f_5652]^45. 120 acres acquired. Stays: about two thirds two weeks, **131** four weeks, **12** six, **20** the whole season. Peak population about **390**, roughly **300** fed daily^44 |
+| 1965 ⚠️ | 420 *or 429* | **1,182** | Attributed to weather, summer school, changed family holidays. **Two further printings of the ten year summary give 1,182, which settles the camper-weeks flag on the balance of evidence; they also give 429 campers against this row's 420, which opens a new one: `c_071`**^45 |
 | 1966 | 488 | 1,323 | 73rd year |
-| 1967 | 421 | 1,098 | Plus 3,000 meals and 2,170 bed-nights for 664 Expo visitors |
-| 1968 | — | +35% on 1967 | **Coeducation begins**; 66 girls registered |
-| 1969 | 622 | 1,613 | A camper drowned this summer |
-| 1972 | 523 | — | **Over 35% of campers first-language French** |
-| 1974 | 475 | — | "second highest registration in 25 years" |
+| 1967 | 421 | 1,098 | Plus 3,000 meals and 2,170 bed-nights for 664 Expo visitors. **32% of campers were Y members; almost 40% had spent one or more two-week periods at Kanawana in previous summers**^18 |
+| 1968 | **577** *(66 girls)* | **1,514** *(172 girl-weeks)* | **Coeducation begins**; 66 girls registered — and the ten year summary's 66 is what confirmed this project was reading its columns correctly^45. **66 girls of 577 campers**, the first year of the summary's girl series, added 2026-09-07 [f_5654] |
+| 1969 | 622 *(160 girls)* | 1,613 *(392 girl-weeks)* | A camper drowned this summer. Girls added 2026-09-07^45 |
+| **1970** | **572** *(203 girls)* | **1,442** *(520 girl-weeks)* | Campers and the girl split added 2026-09-07^45. Registration started slowly and was pulled up by "drench mailings" [f_4845]. **But a news release of 28 May 1970 already had "almost 500 boys and girls" enrolled, plus 24 for Les Voyageurs**^20 — see the note below |
+| **1971** ⚠️ | **481** (284 boys, 197 girls) *or 492* | **1,247** (743 + 504) *or 1,270* | The first year the director's report breaks registration out by sex [f_4843]. **The ten year summary gives 492 and 1,270 for the same season, agreeing exactly on 197 girls and differing on every boys' figure: `c_070`**^45 |
+| 1972 ⚠️ | 523 *or 520 (215 girls)* | **1,377** *(571 girl-weeks)* | **Over 35% of campers first-language French**. Camper-weeks and the girl split added 2026-09-07; the summary's camper count is 520 against this row's 523: `c_071`^45 |
+| **1973** | **467** *(208 girls)* | **1,276** *(or 1,272; 578 girl-weeks)* | From the 1975 report's own comparative [f_4843]. Campers added 2026-09-07; the ten year summary gives 1,272 weeks where the 1975 report's comparative gives 1,276^45 |
+| **1974** | **449** *(198 girls)* | **1,264** *(544 girl-weeks)* | Same source; campers and the girl split added 2026-09-07^45. **See the correction below: the 475 this table carried at 1974 belongs to 1975** |
+| **1975** | **475** *(229 girls)* | **1,356** *(652 girl-weeks)* | "The eighty-second year of Kamp Kanawana has come to an end"; children from Canada, the U.S., Europe and Abu Dhabi; ~25 sponsored, plus children from an orphanage and Weredale House [f_4843, f_4849] |
+| **1976** | **480** *(238 girls)* | **1,358** *(646 girl-weeks)* | Six provinces and seven countries; budget was 1,250 weeks [f_4843] |
+| **1977** | **414** *(167 girls)* | **1,174** | A significant decrease, with 108 kamper weeks of cancellations after 1 June [f_4843] |
+| **1978** | **442** *(170 girls)* | **1,227** | Up 9% on 1977 [f_4843]. Girls added 2026-09-07^45 |
+| **1979** | **441** + 18 C.I.T.s | **1,375** *(incl. 132 C.I.T. weeks)* | Returnee rate 48.8%, down 7.3 points [f_4843] |
 | 1980 | 750+ | — | |
-| 1988 | — | 750 of 756 available = **99.2% occupancy** | |
+| **1985** | — | **1,214** | 80% occupancy [f_4844] |
+| **1986** | — | **1,400** | 92.5% occupancy; Les Voyageurs de la Verendrye 22 weeks [f_4844] |
+| **1987** | — | **1,412** | 93% occupancy; Les Voyageurs 46 weeks [f_4844] |
+| 1988 ⚠️ | — | 750 of 756 available = **99.2% occupancy** — *a different unit from the rows above, and possibly a different season*^5 ^28 | See `c_067` below |
+| **1989–1993** | **over 99% of capacity, five years running** | — | The camp's own director, writing for alumni at the close of the 99th summer: "For the fifth consecutive year camper registration was filled to over 99% capacity." Counting back from 1993 that covers 1989 through 1993, and it joins directly onto the 99.2% recorded for 1988 above — **a full house for six consecutive seasons, 1988 to 1993**, running into the centennial year's 101%. No per-year figure survives inside the 1989–1993 band, only Netherwood's "fifth consecutive year" [f_5008]^12 |
 | 1994 | 101% of capacity | — | 70% return rate; centennial |
 | 1996 | 92% occupancy | — | |
-| 1998–99 | 1,500 | — | *Includes rentals and non-residential use* |
-| 1999–2000 | 1,150 | — | *Ages 3–60, i.e. includes rentals* |
+| **1997–98** | **1,750** | — | *PROGRAMS / PERSONS table, year ended 31 May 1998 — the year before this series previously began, and the highest figure in the whole run*^29 |
+| 1998–99 | 1,500 | — | *The report calls these fifteen hundred **campers**, on a two-week residential experience, 52 of them on financial assistance — see the caution below*^29 |
+| 1999–2000 | 1,150 | — | *Ages 3–60, and the report says why: "a total of 1150 people participated in our **summer rental and camp programs** alone" — rentals are in, for this year explicitly*^32 |
 | 2000–01 | 1,220 | — | *Same caveat* |
-| 2005 | 770 | — | |
+| **2001** | **"more than 220"** *and* **1,332** | — | **One report, two numbers, and they cannot both be season registrations.** The 2001-2002 annual report's "A Year of Firsts" says "during the summer, the camp welcomed **more than 220 campers, up 19% from last year. Registration has never been this high!**" Its own Social Audit table gives "**YMCA Kamp Kanawana 1,332**". The 1,332 is a programme persons count like the 2008 and 2009 rows below. **The 220 is the problem**: a camp that took 473 in 1955 and 770 the following summer cannot have set a registration record at 220, so either the figure is scoped to something the sentence does not name, or a digit is lost in the scan. Both are recorded; neither is preferred, and no trend should be drawn through the 220^25 |
+| **2002** | **770** | — | "On site at Kamp Kanawana, **770 Kampers** enjoyed a whole range of outdoor activities", and "registration has increased **40% over the past three years**", in the annual report for the **year ended 31 May 2003** — so this is the summer of 2002. **Corrected 2026-09-06: this row previously read 2005 and carried no citation at all**, and no fact in the KB supported it; the figure matches this report exactly and its year does not.^23 |
+| *(a round figure, not a season count)* | *"800 children and youth"* | — | The association's own 2004-2005 annual report describes the camp as host to 800 "every year", which is a descriptor rather than a registration; it sits beside the 770 above rather than replacing it^22 |
+| **2002–03** | **2,350** | — | *Persons, not campers*, from the same Social Audit table as the 2008 and 2009 rows below, **recovered from the French edition** where the English scan separates the numbers from their labels.^49 The column reconciles exactly: its thirty-two data rows sum to 129,038, the figure printed as the total and repeated in the sentence above the table. **The same volume gives 770 Kampers in prose**, which is the split this series already records for 2001 |
+| **2005–06** *and* **2007** | **1,020**, printed identically in both | — | *Persons, not campers*, French editions again.^49 **Recorded as one printing appearing twice rather than two data points**: every other row moves substantially between the two volumes — day camps 3,404 then 1,842, swimming 8,890 then 5,361 — and the only other unchanged row is a round 3,000. A figure that does not move where everything else does is more likely carried forward than measured | **And an occupancy figure for 2007, from a different table: 80% of capacity**, which the 2008 report gives retrospectively.^53 [f_5782]
+| **2008** | **1,091** | — | *Persons, not campers.* The association's "Social Audit" table, headed PROGRAMS / PERSONS, gives "Residential camp - YMCA Kanawana **1,091**" for the year ended 31 December 2008 — a programme participation count on the same footing as "Swimming lessons 5,449", so it is not a season registration and should not be compared with one^24 | **The same year's occupancy is 91%**, up from 80% in 2007 — the association attributing the rise to "the nature of the project and the quality of the camp's programming." These are the first occupancy percentages here after 1996's 92%, and the only ones for the 2000s.^53
+| **2009** | **1,281** | — | *Same table, same caveat*: "Residential camp - Y Kanawana **1,281**", year ended 31 December 2009^24 |
+| **2010** | **780** *residential*; **1,450** *nature classes* | — | **The same table, and in 2010 it splits the camp in two**: "Camp résidentiel - Camp Y Kanawana **780**" and "**Classes nature** - Camp Y Kanawana **1 450**", from the French community report.^51 *Two things follow.* The residential figure is **down 39% on 2009** in one year, which no document here explains; and the split shows the camp's school-season nature programme carrying nearly twice the residential count, which the 2008 and 2009 rows — labelled "Residential camp" alone — may or may not have excluded. **The 2007 report says what that programme was built for**, three years before it appears in the table: the fundraising campaign would pay for "la construction d'**installations trois saisons** pour accueillir **des écoles et des groupes communautaires** le printemps et l'automne."^52 So *Classes nature* is the green shift's stated purpose arriving as a number. *A cross-check written here on 2026-09-08 was withdrawn the same hour*: the report's "plus de 2 000 jeunes de 6 à 17 ans" looked like a total the two rows sum toward, and 780 + 1,450 is 2,230 — but [[history/modern-era|the modern era article]] had already established that figure as **a standing capacity claim the association repeats every year**, not a count for 2010. Two numbers agreeing does not make either a measurement of the other |
+| **2016** | **"800 +"** | — | *Unit unstated.* The community report's headline infographic: "**800 + youth had a transformative experience in nature at Camp YMCA Kanawana**," between "5,500 + children learned how to swim" and a seniors count. The phrase does not say whether it counts residential campers only or includes nature classes. Against 2010's split of 780 residential and 1,450 nature classes, it sits close to the residential figure and far below the combined one — suggestive, not established.^54 [f_5783] |
+| **2017** | **"700 +"** | — | The same infographic, same phrase, between "5,700 +" swimmers and "7,300" seniors.^54 |
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
 
-**A caution on the 1998–2001 figures.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
+**A staff returnee rate, and it is not the campers'.** This article holds a twenty-year camper returnee
+series for 1960–1979. The 1975 director's report gives the other one, once: "our returnee rate **decreased
+from 72% last season to 52% this year**. Most of Kanawana's new staff were in **senior capacities**."^57 A
+twenty-point fall in a single season with the churn at the senior end, and the only staff figure of its kind
+here. The same page is unusually candid about why the summer felt difficult — the director was "disappointed
+in performance of others due to their **selfish attitude** in working with other staff," a "diverse minority"
+who "caused feelings of frustration with other staff including myself at times." [f_5807]
+
+**How families found the camp, 1979.** The same run of questionnaires asked new campers' parents how they
+had heard of Kanawana. The 1975–1978 columns are too damaged to use — stray characters, dropped values, a
+"friend or neighbour" reading of 8% against 51, 47 and 49 in the neighbouring years, which is the scan and not
+a collapse. **The 1979 column is legible**: friend or neighbour **26.06%**; YMCA branch **9.97**; advertising
+**4.25**; school **0.06**; relative of a former camper **12.75**; and **other 40.88**, with the report's own
+footnote, "*This figure is largely **Former Kampers**.*"^56 Three rows — Quebec Camping Association, K.K.
+staff member, newspaper article — have no legible 1979 value, so the column sums to 93.97 and the residue is
+those three.
+
+*The finding survives the damage.* The largest single channel is former campers, and with "relative of a
+former kamper" beside it **more than half of new campers in 1979 arrived through someone who had been to
+Kanawana**. Advertising brought 4.25%, schools effectively none, and the association's own branches under a
+tenth. [f_5801]
+
+**What the parents thought, five years running.** This article counts campers and camper-weeks and has
+nothing on satisfaction in any year but these. Derek Walsh's 1978 director's report prints the camp's own
+post-season questionnaire:^56
+
+| Appraisal | 1974 | 1975 | 1976 | 1977 | 1978 |
+|---|---|---|---|---|---|
+| Excellent | 28% | 29% | 30% | **39.42%** | **39.26%** |
+| Very Good | 60 | 56 | 53 | 54.02 | 54.81 |
+| Good | 12 | 14 | 13 | 6.57 | 5.93 |
+| Fair | 0 | **5** | 4 | 0 | 0 |
+| Poor | 0 | **5** | 0 | 0 | 0 |
+
+*Two cautions.* The 1974–76 columns are whole numbers and the 1977–78 columns carry two decimals, which is
+**the camp changing how it counted** rather than the parents changing how they answered: the later two are
+computed from a denominator and the earlier three rounded.
+
+*And the 1975 Fair and Poor values were corrected within the day.* The 1978 report's scan reads them as "235"
+and "25"; this table first gave 2.5 in each, **on the reasoning that the column must sum to 100**. The **1976**
+report prints the same series independently and gives **5% and 5%**.^56 My values were wrong, and the premise
+behind them was worse: 29 + 56 + 14 + 5 + 5 = **109**, so the 1975 column does not sum to 100 in the
+association's own printing and never could have. The 1974 and 1976 columns do sum to 100, which is exactly what
+made the assumption feel safe. **A repair that looks arithmetically forced is still a guess when the arithmetic
+is assumed.** [f_5803]
+
+**And the 1976 report supplies the denominators the 1978 one omits**: 153 responses on the food question, 153
+on whether parents visited, **133 on the appraisal**, and 76 on how a new camper's family heard of the camp.
+So the appraisal series rests on about 133 families. The same page gives a **visiting rate** — "Did you visit
+Kamp? 1976: **Yes 42%, No 58%**" — against the 1979 report's 117 yes and 71 no out of 188, which is **62%**. A
+twenty-point rise in three years that neither report remarks on.
+Excellent-plus-Very-Good runs **88, 85, 83, 93.44, 94.07** — whatever the change in method was, the rise sits
+entirely in the last two years. [f_5795]
+
+**An advertised season and a season are not the same thing.** This table gave 1916 as "24 June – 12 August"
+from a **Kamp Kanawana advertisement** in *The High School Magazine*, printed before the summer. The
+association's own report for the year says the camp "opened on June 24th, **continuing until August 18th**" —
+six days longer.^55 Neither source is wrong; one is a plan and the other an outcome. *Every advertised season
+date in this project should be read as the first of those two,* which is a caution the table did not carry
+before 2026-09-08.
+
+**The 99.2% is not a camper-week count, and it may not be 1988.** The figure comes from the
+association's annual report **for the year ended 31 May 1988**: "Kamp Kanawana ... completed its 94th
+year of operation this past summer with a 99.2% occupancy rate. This represents the use of **750 out
+of the 756 camper weeks available**."^28 Two things follow, and neither is resolvable from that
+document. **The unit is not the column's unit** — 756 is the whole capacity there, while the camp's
+own director reports 1,412 camper weeks for 1987, 1,400 for 1986 and 1,214 for 1985, all larger than
+the capacity the annual report names. A reader running down the column sees 1,412 fall to 750 and
+that is not what happened. **And the season is ambiguous**: the fiscal year's own summer is 1987, but
+annual reports are written after their year-end and routinely describe the summer that followed. The
+"94th year" does not decide it — on 1894 as year one that is 1987, but the same camp's director called
+1993 "the 99th summer," which needs 1895 as year one. If the 99.2% belongs to 1987 it sits beside the
+director's own 93% for that season, and the six-consecutive-full-seasons reading below loses its first
+year. Logged as **`c_067`** and left for a human. What would settle it is the camp's 1988 season report,
+which this project does not hold, or the annual report for the year ended 31 May 1989.
+
+**And the camp did not know what its own capacity meant.** That is not an inference; it is stated twice,
+by two different directors, in the two years the series is otherwise best documented. The **1969** report,
+under a heading that runs "Registration, Capacity, Facilities and Land Utilization", says registration is
+unevenly spread across the summer and then: "**It seems to be then, that the problem of first urgency is
+establishing a reasonable capacity for Kamp Kanawana.** This should be based upon dining and program
+facilities and sleeping accommodation."^48
+
+A year later it is still open, and the **1970** report lists the candidate definitions rather than
+choosing one: "We were not overcrowded as far as sleeping and eating facilities went but our program
+areas were taxed to their limits. **A decision should be made as to the maximum number of campers we
+accommodate each period — is it based on budget, seating in dining hall, number of beds or what
+criteria?**"^48
+
+This bears on `c_067` without settling it. Part of what is in dispute there is what "capacity" denotes
+when one document's denominator is 756 camper weeks and another's season runs to 1,412. **Two capacity
+figures from an institution that never agreed with itself on the denominator are not necessarily
+contradictory** — and the assumption that the association had a single capacity in mind throughout was
+never stated, but was doing work. The which-summer half of the conflict is untouched, both sides remain
+documented, and it stays open. [f_5687]
+
+**What else that report says about the camp**, none of it in dispute: the age range was **7 to 15**;
+**20 children with special needs** were supported at camp through linkages with the **Montreal Oral School
+for the Deaf**, Jewish Family Services, Ville Marie Social Services and Social Welfare, with specialised
+staff, "while fully participating in the challenges of the regular camp program"; campers came from
+Quebec, the rest of Canada and **seven other countries**; and it was "the **second year** of an
+exchange with the Bunac Camp of Great Britain which provided us with **4** highly-qualified
+counselors" — which corroborates the camp's own report that BUNAC was used "for the first time last
+summer" in 1987, and gives the same count of four.^28
+
+**A note on the French editions, which are translations and not second witnesses.** Sixteen French
+editions of these reports sit in this project's cache, every one of them twinned with an English
+edition already cited here. Three pairs were compared passage by passage — 1988, 2000-2001 and 2006 —
+and all three are straight translations, sentence for sentence.^30 So they are not independent
+sources and nothing in this table should be corroborated by counting one twice. **What they are good
+for is the OCR**, which is damaged differently in each: the 2000-2001 English reads "ages of 3 and 60"
+cleanly where its French reads "3 à 00 ans," and the reverse will happen elsewhere. One repair has
+already come out of it — the 1988 English says children came to camp through "the Montreal School for
+the Deaf," a generic description, where the French names **l'École orale de Montréal pour les sourds**,
+the Montreal Oral School for the Deaf.^30
+
+**A caution on the 1997–2001 figures, and a qualification of it.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. **But the caution is uneven across the years, because it was written from one volume and applied to all of them.** The report for the year ended 31 May 1999 introduces its own 1,500 as campers and nothing else: "Fifteen hundred **campers** came from the Montreal area last summer, but also from Africa, Asia, Europe and South America. Children from all backgrounds enjoyed an incredible **two-week camping experience**. **Fifty-two of them benefited from the financial-assistance program**."^29 That is a residential camper count in everything but name. Mixed use is real — the same page says camp facilities were also used to train counsellors and to run anti-violence programs for teenage girls — but the year with "ages 3–60" behind it and the year with that paragraph behind it should not carry the same warning without saying so. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
+
+**On "second highest registration in 25 years."** The 1974-75 annual report's phrase is quoted above without being tested. It is false if "registration" means different campers: 475 is beaten in the 1950-1975 window by 622 (1969), 602 (1963), 590 (1962), 558 (1957), 528 (1958), 526 (1959), 523 (1956 and 1972) and 481 (1971) — about tenth, not second. It is very nearly right if it means **camper-weeks**: 1,356 is beaten only by 1,613 (1969) and 1,442 (1970) among the weeks this table holds for that window, which makes it third, and second if either of those falls outside whatever the report was counting. The report does not say which it means, and this is arithmetic on figures assembled elsewhere in this article rather than anything the document states, so the weeks reading is offered and not adopted. What can be said flatly is that the claim does not survive on camper counts.^21
+
+**"Started slowly" and "almost 500 enrolled by late May" sit oddly together.** The 1970 director's report says registration was slow and had to be pulled up by mailings; a Montreal YMCA news release of 28 May that year reports "a total of almost 500 boys and girls have been enrolled to spend part of this summer at Kamp Kanawana. Another 24 boys have been signed up for Les Voyageurs canoe adventures."^20 **A pre-registration count is not an attendance figure** and is not entered as one in the table — the row still carries no camper count. But the two statements come from the same association about the same season, and anyone using either should know the other exists. The Voyageurs' 24 is also the first figure for that programme since the 41s of 1966 and 1967.
+
+**Two figures for 1962, both from the association.** The statistical summary gives 590; a news release of 22 April 1963 gives 550 and calls it the highest enrolment the camp had seen.^19 They are forty apart and neither says what it is counting. The likeliest reconciliation is that they cut the population differently — the summary's own note distinguishes the city day camps — but since neither document defines its terms, both figures are shown and neither is preferred. The same release adds that **15 boys were assisted through the campership fund**, "replenished each year by contribution from interested friends of the Camp," and that Kanawana and Otoreke together took 2,097 people while the seven day camps and fun clubs took 1,928.
+
+**The one year with a returning-camper rate.** The 1967 report is the only volume in this series that says how many campers had been before: "Some 32% of those who spent their vacation at Kanawana were Y members. Almost 40% had spent one or more two-week periods there during previous summers."^18 Nearly two campers in five were returning, and barely a third came through YMCA membership. No other season in this table has either figure, so neither can be set against a trend.
+
+### How old the campers were, 1957 and 1958
+
+The 1958 report prints a "Kanawana Statistics" table with columns for 1956, 1957 and 1958. The 1956 column is destroyed in this scan and is not reproduced. The length-of-stay half of the same table survives only as figures that do not align to their columns, and is not reproduced either.^15
+
+| Age | 1957 | 1958 |
+|---|---|---|
+| 8 | 47 | 18 |
+| 9 | 68 | 60 |
+| 10 | 102 | 87 |
+| 11 | 96 | 115 |
+| 12 | 88 | 84 |
+| 13 | 74 | 80 |
+| 14 | 50 | 45 |
+| 15 | 27 | 39 |
+| 16 | 6 | 10 |
+| **Total as printed** | **558** | **528** |
+
+**The 1957 column checks and the 1958 column does not.** The nine 1957 figures sum to exactly 558, which is the total this table already carried for that season from another source. The nine 1958 figures sum to 538 against a printed total of 528. Either one age figure is misread by ten or the total is; 528 and 538 are a plausible OCR pair in these scans. Nothing has been adjusted, and the 1958 row above still shows 528.
+
+**Kanawana in the late 1950s was a camp for ten- to twelve-year-olds.** Taking the 1957 column as sound, ages 10 through 12 account for 286 campers of 558 — more than half — while everyone aged 15 or 16 comes to 33, six per cent of the camp. That thin senior tail is the demographic shape behind the older-boys problem the association was working on at exactly this moment, and behind the founding of [[traditions/canoe-trips|Les Voyageurs de la Vérendrye]] for older campers in 1959. The report draws no such connection; this table simply shows the distribution the camp had.
+
+## A 2024 figure, and two that were refused
+
+**2024: 782.** The YMCAs of Québec impact report for that year: "**782 kids and teens** enjoyed a stay in
+the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program."^41 This series
+had nothing for 2024, and nothing anywhere in the 2010s beyond the plaque-derived years. It is a single
+association-published number with no breakdown by session and no statement of what counts as a stay, so it
+carries the same caution as every annual-report figure in this series — see *A note for anyone taking a figure from an annual report*, below.
+
+**And 2011: over 700.** The 2011 community report's chronology — "Summer is set to begin for **over 700
+campers**" — is a forward-looking statement made at the season's opening, not a season total, and is
+recorded here as such.
+
+**Two figures from the same series were deliberately not taken.** The 2010 report's "more than **2,000**
+youth aged 6 to 17 years **each year**" is a recurring capacity statement rather than a count for 2010. The
+2012 report's "**3,000** children were welcomed by our **day camps and** YMCA Camp Kanawana" is a combined
+figure across the day camps and the resident camp. Both would sit convincingly in a column of camper
+numbers and both would be wrong there. *The value of this series is that its gaps are honest; a figure that
+looks like a data point and is not is worse than the gap it fills.*
+
+**A footnote to the first of those two, added 2026-09-07.** The camp's own 2026 parent guide states, in a passage about lost property rather than about attendance, that "**more than 2,000 participants and staff visit Camp YMCA Kanawana between May and October**."^42 That is the same order of magnitude as the 2010 "more than 2,000 youth aged 6 to 17 each year" and it carries the qualification the 2010 sentence lacked: a **season** rather than a year, and **participants and staff** rather than campers. It is still not a camper count and is still not entered in the table. What it does is explain the 2010 figure: a round number for everyone who comes through the gate across a six-month operating season, which is a real thing the camp knows about itself and simply not the thing this series measures.
 
 ## Where the record disagrees with itself
 
-Six inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
+Eight inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
 
-**All six were re-checked against the OCR on 2026-08-14 and all six are genuine** — the association contradicting itself, not a transcription error on this project's side. The verifying quotations are recorded in the KB. Sampled ordinary figures (1894, 1923, 1939, 1949, 1969) also checked clean.
+**The first six were re-checked against the OCR on 2026-08-14 and all six are genuine** — the association contradicting itself, not a transcription error on this project's side. The verifying quotations are recorded in the KB. Sampled ordinary figures (1894, 1923, 1939, 1949, 1969) also checked clean.
 
 1. **The 289-boy season is dated three different ways.** The FY1919-20 report — audited 10 May 1920 — describes it as happening "during the year," which can only be summer 1919. But the retrospective tables in the 1922-23 and 1924 reports label 289 as **1920**, and the 1921-22 report says "391 boys as compared with 289 in **1921**." Three attributions for one number. *Reading adopted here (inference, not statement):* 289 is summer **1919**, and the retrospective tables shifted the pre-1921 column by a year. The 391 column is anchored — its branch breakdown (16+12+73+130+160) sums exactly to 391.
 2. **1924 boy-weeks: 916 or 906?** The 1926 report says 916; the tabulated series in the 1927 report says 906.
 3. **1934 boy-weeks: 1,017 or 972?** The 1935 report versus the 1936 report.
 4. **1932 campers: 360 or 385?** The 1933 report gives a branch-by-branch table summing to 360. The 1934 report says 1933's 287 was "a decrease of 98 from 1932," which gives 385.
-5. **1965 camper-weeks: 1,200 or 1,182?** The 1965 report versus the 1966-67 report.
+5. **1965 camper-weeks: 1,200 or 1,182?** The 1965 report versus the 1966-67 report. *(Updated 2026-09-07, and the balance has moved a long way.* **1,182 now has four witnesses and 1,200 has one.** *The figure appears in the 1966-67 report, in the 1969 printing of the ten year summary and in the 1970 printing — and in each of those it is not merely printed but* **reconciles**: 1965's four sections sum to 1,182 exactly, and its eight weekly rows sum to 1,182 exactly. The 1,200 appears once, in the 1965 report itself, and nothing in that report corroborates it. **This is still two documented sources and is not marked resolved here**, per the rule that a documented figure is not overturned by weight of reprinting alone — but it should no longer be read as an even split, and a human closing it has an easy call.)*
 6. **The 1930 arithmetic does not close.** The 1931 report says "1512 boy weeks, an increase of 432 over last year" — but 1929's 1,090 plus 432 is 1,522, not 1,512. Two later reports independently confirm **1,512**, so the error is in the "432."
+
+8. **A Verdun figure the 1922-23 report gives twice and differently — recorded because a hole looks like an absence.** Its Verdun branch narrative lists among the year's achievements "Twenty-two boys attended Kamp Kanawana." Its metropolitan enrolment table for the same period gives a Verdun row of 12 for 1921 and 14 for 1922. **Neither 14 nor 18 is 22.** *What is uncertain here is the table, not the narrative:* the table's row labels are wrecked in the OCR ("Winatiached", "NETGILETI Ay"), and the row order is inferred by matching the 1921 column against the previous report's spelled-out branch list — Unattached 4 plus Grand'Mère 12 making the 16 "unattached" of 1921-22, then 12, 73, 130, 160. On that reading rows two and three are Grand'Mère and Verdun, **both 12 in 1921**, which is precisely why they are interchangeable and why the 1922 pair, 18 and 14, could belong either way round. Possible explanations: the branch counted differently from the metropolitan office, the narrative rounded or covered a different season, or the OCR is simply wrong. **Do not cite a Verdun figure for 1922 without the printed page.** The 307 metropolitan total is not in doubt.^34
+
+7. **The 1921 badge total does not match the 1921 badge list.** The 1921-22 report says "A total of 812 badges were won by the boys for proficiency in the following subjects," then lists ten: camp improvement 65, life saving 30, rowing 38, beginners' swimming 20, hikes 105, resuscitation 35, wood craft 20, bandaging 20, simple remedies 26, basketry 30. **Those sum to 389.** The list may be partial, the total may be a misprint, or 812 may count every badge awarded against a list of only the proficiency subjects; 389 doubled is 778, so a simple doubling does not explain it either. The ten subjects and their individual counts are the safe figures — the total is not.^26
 
 And one that is not an arithmetic problem but a reporting one: **the 1918 report calls the 1917 season "a splendid increase over last year, both in attendance and receipts"** while giving 168 campers against the previous year's 175. Receipts may well have risen; attendance did not.
 
 **A lifetime-total contradiction, too.** The 1964 report says "**Forty thousand** boys have earned the title 'Kanawanian' since Kanawana was established." The 1984 report says "More than **34,000** people have benefited over the years." The later figure is smaller than the earlier one. Neither is reconcilable with the other, and neither is reconcilable with the season-by-season series above, which totals well under 40,000 for the years it covers.
 
-**A scope note that matters for the pre-1921 rows.** Those figures count the **boys' camp only**. The reports give the senior/members' camp separately, and it is often the larger of the two — the 1918 report, for instance, gives the Senior Camp "Attendance 90, as compared with 130, last year" under W. H. Henderson, W. A. MacLaren and M. F. Furey, right beside the 168 boys. The two series must not be added together.^1
+**A scope note that matters for the pre-1921 rows.** Those figures count the **boys' camp only**. The reports give the senior/members' camp separately, and it is often the larger of the two — the 1918 report, for instance, gives the Senior Camp "Attendance 90, as compared with 130, last year" under W. H. Henderson, W. A. MacLaren and M. F. Furey, right beside the 168 boys. The two series must not be added together.^1 **The senior series continues one year further, and the association names the cause of its fall.** The 1919 volume gives the Senior Camp open "for two weeks — July 13 to 29, 1918" under Henderson and MacLaren, plus weekends and holidays in May, June and August, "with an attendance of seventy-two members," and states that "the enlistment for overseas' service from our membership greatly interfered with the operation of the Senior Camp this year."^27 So 130, 90, 72 across 1916, 1917 and 1918 — while the boys' camp set a record in that last summer. The two series move in opposite directions in the final year of the war, which is what one would expect of a men's camp. (The report's own "two weeks" and its "July 13 to 29" do not agree; the dates are the specific claim.)
+
+## The 2026-09-05 fill, and one correction it forced
+
+Twenty-two seasons were added to the tables above on 2026-09-05, and not one came from a new source.
+Every document behind them was already in this repository, catalogued and marked *extracted* — the
+camp's own directors' reports for 1971 and 1973–1979 and 1987, the YMCA of Montreal's annual reports,
+the Report of the Junior Camp Committee of 1900. **The gap was never an absence of evidence. It was an
+absence of assembly**: these documents had been mined for programme, staff and buildings, and their
+attendance lines had never been carried across [f_4843, f_4844, f_4845, f_4846, f_4847, f_4848].
+
+**The correction.** This table carried **475 campers at 1974**, with the note "second highest
+registration in 25 years," taken from the YMCA of Montreal's annual report for 1974–1975. *(Two things about that source were noticed only on a re-read, 2026-09-06, and neither disturbs the correction. First, **that volume never states its year-end month** — it calls itself "Annual Report 1975," refers to "the Association's 1974-1975 fiscal year," and heads its financial columns "1973/74 1974/75," but names no date. The 31 May year-end for this era is established from the 1972-73 and 1981-82 volumes, not this one; and a year ending 31 May 1975 could not contain the summer of 1975, so the correction's conclusion implies either that this report describes a season after its own fiscal close or that its year-end is not 31 May. Unresolved, and flagged under p_450. Second, see the note on "second highest" below.)*^21 The camp's
+own 1975 director's report says "This summer, we worked with 475 different children," and gives camper
+weeks of 1,356 for 1975 against 1,264 for 1974 and 1,276 for 1973 — so 475 is the **1975** figure, and
+1974 was the lower year of the two. The 475 has been moved and 1974 now carries its camper-week figure
+instead. The likely cause is the association's June-to-May fiscal year: a report labelled 1974–1975
+sits across two summers, and the wrong one was picked. That is the fourth dated error in this wiki
+traceable to the fiscal-year problem the Dating note warns about.
+
+## A second fill, from artefacts rather than reports
+
+The reports run out long before the record does. Two bodies of physical evidence already held here carry
+seasons the reports never mention.
+
+**The plaque corpus.** Kanawana's cabin, section and staff plaques name people by season, and the person
+index built from them carries dated appearances for 1955, 1956, 1959–65, 1968, 1970, 1972, 1973, 1975,
+1979–90 and 1992–2010. A board naming a cabin's campers and their counsellor in a given summer was made
+at camp, in that summer, for those people: it is direct physical evidence the season happened. That
+alone closes **1981–1984, 1989–90, 1992–93, 1995–97, 2002–04 and 2006–2010** [f_4850].^9 What it does not
+give is attendance. The corpus counts whoever appears on boards that survived, which swings from two
+names in 1987 to 205 in 2008 and says nothing about how many were at camp.
+
+**What a counsellor was paid, and what the camp had to sell.** The 1964 report is the only document
+here that prices the staff. Thirty-one counsellors at an **average age of 19.8** years, up 1.2 on 1962;
+**eighteen of them (60%) university students** and three graduates; an **average salary of $173** against
+a range of **$100 to $280**, with six over $200; and nine who had counselled at Kanawana before.^44
+
+The same page states the camp's commercial problem in one line. It **budgeted 1,530 camper-weeks and
+missed**, running a deficit, and **about half of each year's campers returned** — so "roughly 250 new
+campers" had to be recruited every year simply to hold the budget. That is the arithmetic behind every
+recruitment advertisement in [[documents/kanawana-in-media|the media article]], and it is the only place
+in this project where the camp writes down what its churn actually was.
+
+**A ten-year table nobody could read — in that printing.** The camp's own 1965 report carries a "KAMP
+KANAWANA TEN YEAR SUMMARY" covering camper ages, stay lengths, **religious affiliation** (Protestant,
+Roman Catholic, Jewish, Buddhist, not reported), counsellor ages and colleges, administrative staff,
+junior counsellors in training, and a geographical distribution by Montreal district and suburb.
+**That scan has separated its headers from its values and interleaved the row labels**, so which
+figure belongs to which row and year cannot be established from it, and it is not guessed at here. Two
+cells survive because they carry their own arithmetic: the 1957 and 1958 camper-week totals above,
+each confirmed by summing its own components and again by the average stay.^43
+
+*(Corrected 2026-09-07. This passage previously ended: "The rest needs page images, queued as `p_497`.
+The religious breakdown in particular is held nowhere else in this project." **Both halves were wrong,
+and wrong in the same way.** The summary is a **rolling** ten-year window, reprinted at the back of at
+least eight cached reports — 1965, 1966, 1969, 1970, 1975, 1976, 1978 and 1979 — and four of those
+printings survived scanning with their columns intact. Between them they cover **every season from 1960
+to 1978**, including the whole of the 1960s the 1965 printing was wanted for. Nobody had checked whether
+the table appeared anywhere else before it was written off. The general lesson, which applies well
+beyond this article: a serial publication carrying a rolling appendix **reprints its own back years**,
+so a damaged table is worth looking for in a later volume before page images are requested.)*^45
+
+### What the ten year summary says
+
+Reading a wide OCR'd table sideways is exactly how a plausible reconstruction gets mistaken for data,
+so nothing below was written down until it passed a test the scan could not fake. The summary prints
+each year's camper weeks **three separate times** — as a sum of section rows, as a sum of eight weekly
+rows, and as a printed total — and the 1969 and 1970 reports print the years 1961–1965 independently of
+each other. Every figure in the table below reconciles at least two of those ways, and the column
+alignment was confirmed against five counts this project already held from other sources (**488** in
+1966, **421** in 1967, **66 girls** in 1968, **622** in 1969, **475** in 1975), all of which the table
+reproduces to the camper.
+
+The table also turns out to carry its own error-correcting check. **Average length of stay** is printed
+as its own row, and it is camper weeks over campers — a ratio nobody reading a damaged scan could
+reconstruct, but one the clerk with the real figures could. Where the document contradicts itself about
+girl weeks, that row decides: it picks **520** for 1970 over the 515 and 535 also printed, **537** for
+1971 over 515 and 575, and **578** for 1973 over a weekly-row sum of 604. It also reads the scanned
+"2.38" girl campers of 1976 back to **238**. Two cells fail every test and have been left alone: the
+whole-camp average printed for 1967 (2.84, where 1,098 over 421 is 2.61) and both of 1974's, printed a
+rounding notch high.^45 [f_5658]
+
+**A fifth section, and when it stopped.** The early-1960s printings carry **five** section rows where
+every later printing carries four: Pioneers, Woodsmen, Coureur de Bois, Pathfinders and **Rangers**.
+Rangers weeks run 48, 46, 46, 40, 28 for 1960 through 1964 and the row is a dash from 1965. The section
+was never more than about three per cent of camp and it halved over five years before ending. Its
+disappearance is confirmed by arithmetic rather than only read off the row: 1965's four remaining
+sections sum exactly to the printed total, leaving nothing for a fifth. **This project had no record of
+a Rangers section at Kanawana at all.**^45 [f_5653]
+
+**And a log book of it survives.** Concordia's finding aid for sub-series **P145/12B07**, Kamp Kanawana
+*Program*, lists in **Box HA2315**: "**Rangers log book. - 1957**".^50 That is three years before the
+first Rangers row in the table above, so the section is older than the run of figures that revealed it,
+and a log book is the kind of document that would say what the Rangers actually were — an age band, a
+programme, or something else again. *The finding aid was already in this project's cache and had been
+marked read in full*; the entry had simply never been carried anywhere, which is how a document naming
+a section nobody knew existed sat unremarked beside the discovery of it. Two neighbouring entries in the
+same box are worth the same request: "**Lumbermen-Voyageurs week. - 1958**", earlier than anything
+[[traditions/lv-games|the L&V Games article]] holds from inside the camp, and "**Horseback riding
+program. - 1971**", the year [[site/camp-becsies|the riding programme]] was condemned and cancelled and
+run anyway.
+
+**Coeducation, counted.** Girls appear in brackets inside every total from 1968, under the legend
+"Figures shown in brackets - Girl Campers (included in overall totals)". They are eleven per cent of
+camp in the first coeducational season, **just under half by 1976** (238 of 480), and back to about
+forty per cent by 1978 as total registration fell. The structural fact underneath is easy to miss: girls
+appear only in the **Woodsmen and Pathfinders** rows, never in Pioneers or Coureur de Bois. The camp ran
+coeducation in two of its four sections, and the other two stayed all-boy until they were wound up after
+1972.^45 [f_5654]
+
+**The returnee rate, 1960–1979.** "Percentage of former campers" gives this project a twenty-year
+loyalty series it did not have, and the shape is a V. It climbs through the early 1960s to **52 per cent
+in 1964**, collapses to **31.45 per cent in 1970**, then climbs steadily to **56.11 per cent in 1978**
+before falling back to 48.80 in 1979. The low is the second coeducational season, and the table shows
+girls returning at a much lower rate than boys in exactly those years (18.75 per cent in 1969 against a
+whole-camp 34.73). The two ends of the series check each other: the 1979 director's report describes
+that year's rate as down 7.3 points, and 56.11 minus 48.80 is 7.31.^45 [f_5655]
+
+| | 1960 | 1961 | 1962 | 1963 | 1964 | 1965 | 1966 | 1967 | 1968 | 1969 | 1970 | 1971 | 1972 | 1973 | 1974 | 1975 | 1976 | 1977 | 1978 | 1979 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Camper weeks | 1,585 | 1,509 | 1,640 | 1,641 | 1,518 | 1,182 | 1,323 | 1,098 | 1,514 | 1,613 | 1,442 | 1,270 | 1,377 | 1,272 | 1,264 | 1,356 | 1,358 | 1,174 | 1,227 | — |
+| Campers | 545 | 503 | 548 | 567 | 535 | 429 | 488 | 421 | 577 | 622 | 572 | 492 | 520 | 467 | 449 | 475 | 480 | 414 | 442 | — |
+| *of them girls* | — | — | — | — | — | — | — | — | 66 | 160 | 203 | 197 | 215 | 208 | 198 | 229 | 238 | 167 | 170 | — |
+| Former campers % | 43.1 | 44.7 | 49.2 | 51 | 52 | 43.92 | 40.6 ⚠️ | 47.8 | 41.13 | 34.73 | 31.45 | 36.79 | 42.12 | 42.6 | 45.2 | 46.8 | 44.8 | 54.83 | 56.11 | 48.80 |
+| 'Y' members % | 38.3 | 35.6 | 37.61 | 36.2 | 37.5 | 38.0 | 35.1 | 32.3 | 27.49 | 21.54 | 21.66 | 20.95 | 14.44 | *(no records)* | | | | | | |
+
+*The 1966 returnee rate is printed as 40.6 in the 1970 report and 40.25 in the 1975 and 1976 reports.
+Camper counts for 1962, 1963, 1965, 1971 and 1972 are disputed by the contemporaneous reports; see the
+flags on those rows and `c_070`, `c_071`.*
+
+**The camp stopped asking whether its campers were members.** The last row of the summary is "Percentage
+of 'Y' members", and it sits between 35 and 38 per cent for the whole of the early 1960s without moving,
+then falls every single year from 1966 to **14.44 per cent in 1972**. In the 1975 and 1976 printings the
+row simply stops there and the remaining cells read **"(NO RECORDS)"**. By the 1978 and 1979 printings
+the row has been dropped from the table altogether. The camp quit counting the thing immediately after
+it had more than halved, and then removed the question from its own annual statistics — which is a
+finding about the institution rather than about the campers, and is the sort of thing an attendance
+series is unusually well placed to catch.^45 [f_5656]
+
+**How long children actually stayed, and the whole-summer camper's disappearance.** The same page counts
+children by length of stay, and it is the only long run of that measure this project holds.
+
+| Stay | 1960 | 1961 | 1962 | 1963 | 1964 | 1965 | 1966 | 1967 | 1968 | 1969 | 1970 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 week | 0 | 0 | 3 | 1 | 2 | 1 | 1 | 2 | *3* | 1 | 4 |
+| **2 weeks** | **369** | **316** | **345** | **360** | **364** | **286** | **334** | **304** | **416** | **464** | **432** |
+| 3 weeks | 3 | 1 | 1 | 2 | 7 | 3 | 9 | 11 | 5 | 17 | 11 |
+| 4 weeks | 129 | 143 | 163 | 143 | 131 | 111 | 120 | 81 | 132 | 111 | 106 |
+| 5 weeks & up | 2 | 0 | 0 | 1 | 12 | 2 | 2 | 6 | 0 | 2 | 2 |
+| 6 weeks & up | 16 | 21 | 19 | 21 | 0 | 19 | 17 | 13 | 15 | 20 | 13 |
+| 7 weeks & up | 26 | 22 | 20 | 29 | 20 | 5 | 5 | 3 | 6 | *7* | 4 |
+
+*Italicised cells are unreadable in the scan and are the value the year's own total requires. The rows are
+children, so each column must sum to that year's camper count: **1960, 1961, 1966 and 1970 sum exactly**,
+1962, 1964, 1965 and 1967 are within three, and only 1963 is off — by ten, in the one year whose camper
+count is itself disputed (`c_071`).*
+
+Two weeks was the standard stay and got more so, from 68 per cent of campers in 1960 to 75 per cent in
+1970. **What changed underneath is the long stay.** Children at camp for six weeks or more number 42 in
+1960, 38 in 1961, 39 in 1962, 50 in 1963 — and then 22 in 1966, 16 in 1967, 17 in 1970. Total registration
+barely moved across that decade. The child who spent most of the summer at Kanawana was ordinary in 1960
+and nearly extinct by 1970, and nothing else in this project records that happening.
+
+The 1964 column is worth singling out because it can be checked against a **different document**: the 1964
+director's report says in prose "about two thirds two weeks, 131 four weeks, 12 six, 20 the whole season",
+and the table gives 364 at two weeks (68.0 per cent of 535), 131 at four, 12 at "5 & up" and 20 at "7 &
+up". Four numbers, two sources, no contact between them.^45 [f_5663]
+
+**The age block on the same page does not reconcile, and is not published here.** The summary also counts
+campers by single year of age, 6 to 17. Tested the same way, it fails: the dense rows (ages 8 to 15) carry
+nine values against ten year-columns, and **both possible alignments produce age sums larger than the
+year's camper count** — left-aligning in 1974 and 1977, right-aligning in 1970, 1971 and 1973. A subtotal
+cannot exceed its total, so the scan has damaged the rows and not merely shifted them; the sparse rows are
+worse still. This is recorded rather than passed over in silence so that the next pass does not spend a
+morning rediscovering it. Page images would settle this block too.^45 [f_5664]
+
+**And a fifth printing reaches back to 1956 — because its scan is worse.** The 1966 report's copy is
+broken to one value per line, which sounds fatal and is the opposite: for the earliest columns **the row
+labels stayed attached to their values**, which is exactly what the 1965 printing lost. The 1956 column's
+age rows sum to **523**, the camper count this project already held for 1956 from a different source,
+which validates the whole column at a stroke; the 1960 and 1961 columns reproduce the 1970 printing value
+for value, giving a second independent witness to figures already published above.^46 [f_5665]
+
+It also yields **two camper-week totals this project did not have — 1956 = 1,624 and 1959 = 1,567** — and
+they are not read off a total row. Where the three religion rows sum exactly to a year's known
+camper-week figure the minor rows must be blank, and for 1958, 1960, 1961 and 1963 they do, to the week.
+On that basis the sum is the total. 1,624 over 523 campers is an average stay of 3.11 weeks, which sits
+where it should between the 3.5 recorded for 1955 and the 3.04 for 1957.
+
+**The Rangers were four times bigger in 1958.** The 1958 column gives Pioneers 357, Woodsmen 397, Coureur
+de Bois 371, Pathfinders 380 and **Rangers 118**, summing to 1,623 — the camper-week total already held.
+So the section did not fade from a small base: 118 weeks in 1958, 48 by 1960, gone by 1965. It lost about
+sixty per cent in two years and then had a long tail, and **the wind-down is the story rather than the
+ending**.^46 [f_5667]
+
+**1958 has a third and fourth witness now, and they disagree with the row above.** This table already
+flagged 1958 because the printed total and the printed ages do not reconcile. The 1966 printing supplies
+two more independent sub-tables for that column and **both sum to 538**, not 528 — while the same two
+blocks reconcile exactly for 1956, 1960 and 1961 and to within one for 1959. That does not settle the
+number, and the camper-week total of 1,623 is not in doubt. It moves the problem from one sub-table
+disagreeing with a printed figure to **three sub-tables agreeing with each other against it**.^46 [f_5668]
+
+**The religious breakdown, six years of it, and the line that moves.** This article previously said the
+block was held nowhere else and could not be read. Six columns reconcile, and four of them (1958, 1960,
+1961, 1963) sum **exactly** to a camper-week total known independently — which is what establishes that
+the three named rows account for the whole camp in these years and that Buddhist, Hindu or Moslem and
+Not-reported are blank.
+
+| Camper weeks | 1956 | 1958 | 1959 | 1960 | 1961 | 1963 |
+|---|---|---|---|---|---|---|
+| Protestant | 1,134 | 1,203 | 1,154 | 1,079 | 963 | 963 |
+| Roman Catholic | 170 | 184 | 229 | 258 | 266 | 318 |
+| Jewish | 320 | 236 | 184 | 248 | 280 | 360 |
+| *Roman Catholic share* | *10.5%* | *11.3%* | *14.6%* | *16.3%* | *17.6%* | *19.4%* |
+| *Protestant share* | *69.8%* | *74.1%* | *73.6%* | *68.1%* | *63.8%* | *58.7%* |
+
+**The Roman Catholic line is the one that moves, and it moves one way only** — nearly doubling in seven
+years without a single reversal. The Protestant share falls from 69.8 to 58.7 per cent across the same
+span; the Jewish share swings between 11.7 and 21.9 without a trend. **By 1963 the camp was 41 per cent
+non-Protestant**, which for an institution founded as a Protestant young men's association in Quebec, on
+either side of the Quiet Revolution, is a fact about the province as much as about the camp.
+
+**The later columns are not published.** From 1964 the three rows stop summing to their totals, falling
+short by a margin that grows from 16 to 69 weeks. There is an apparent collapse in Jewish camper weeks
+after 1963 in those columns, and it is **not recorded here**, because a shortfall that size means either
+a growing residual category or a misread row and nothing in the scan distinguishes them. Page images
+would settle it; a reconstruction would be arithmetic dressed as evidence, which is the specific failure
+`p_497` was written to avoid.^45 ^46 [f_5657] [f_5666]
+
+*(Refined 2026-09-07, against my own reasoning above. The paragraph originally said the shortfall meant
+"a growing **Not-reported** category or a misread row", which assumed six categories because that is what
+the 1970 impression's damaged block shows. **The 1969 impression lists seven**, adding a row for **"No
+religion"**. The exact sums in the table above are unaffected and those figures stand. But the shortfall
+now has a seventh possible home rather than three, which makes reconstructing the later columns
+**worse**-founded than when the refusal was written, not better.)*^47 [f_5669]
+
+**Where the campers came from — the list survives, the numbers do not.** The summary's last block is
+"GEOGRAPHICAL DISTRIBUTION OF CAMPERS" by Montreal district and suburb. **Its counts are shredded beyond
+recovery** in the 1966 impression, reducing to strings like `KH wWOoOoUwmdrwn COrN`, and no figure from it
+is recorded here. **The twenty-five row labels are intact**, and they are worth having on their own,
+because a list of the places an institution counts is a statement about who it thinks it is for. In the
+order printed: Île Perrot, Senneville, Baie d'Urfé, Beaurepaire, Beaconsfield, Pointe Claire, Valois,
+Dorval, Lachine, Ville St-Pierre, St-Laurent, Ahuntsic and Cartierville, "N.D.G., Montreal West and
+Hampstead", Côte St-Luc, Westmount, Snowdon, Central, Outremont, North End, Rosemount, T.M.R., Rosemère,
+Roxboro, Dollard-des-Ormeaux, Pierrefonds. The order is geographic — west to east along the Lakeshore,
+then into the city, then north and off-island, with the two newest suburbs appended at the end.
+
+**What is on it is the West Island and anglophone central Montreal. What is not on it:** Verdun, LaSalle,
+the South Shore, and the entire east end — no Hochelaga, no Maisonneuve, no Pointe-Saint-Charles, no
+Saint-Henri and **no Little Burgundy**. Rosemount and "North End" are the easternmost entries.
+
+This is a catchment and not a census, and a district's absence could mean the camp drew nobody from it or
+that the list follows YMCA branch boundaries; the document does not say which.
+
+*(Corrected 2026-09-07, within hours, from the 1969 report's own copy of the same block.* **The list
+changed between impressions, and the absences above are evidence about the 1966 list rather than about
+where campers came from.** *This passage originally set the missing districts beside the 1971* Projet La
+Petite Bourgogne *and the association's later language about inner-city families, which invited reading
+the 1966 list as the camp's shape up to that point. The 1969 impression carries the same block with a
+wider list comparing two years, 1965 and 1969, and it includes* **South Shore** *and* **Verdun-LaSalle**
+*— the two absences I made most of — along with Hudson, Laval, Rosemère & Lorraine, Roxboro,
+Dollard-des-Ormeaux, Pierrefonds & Île Bizard, Arvida, St-Jérôme, Quebec City, Ontario, Nova Scotia and
+the U.S.A. Several 1966 rows are consolidated differently, and Kirkland and Châteauguay appear where the
+1966 list had neither.* **Two years before the Petite Bourgogne project the camp was already counting
+Verdun-LaSalle and the South Shore.** *The inference is withdrawn; the 1966 list stands as a list.)*^48
+
+**The 1969 counts are not recorded here either.** That block does carry numbers, for 1965 and 1969, and
+several label-value pairs are visible in the scan. They are not written down, because the two year-columns
+are interleaved and assigning a value to a year would repeat exactly the column shift that produced this
+wiki's wrong Rangers date, corrected earlier the same day. The district names are certain; the numbers
+are not.^48 [f_5670]
+
+**Both of these questions stopped being asked.** The religion block is printed in the 1965, 1966, 1969
+and 1970 impressions and is **absent entirely** from 1975, 1976, 1978 and 1979 — checked by searching all
+four for every category name, with no hits. The 'Y' membership row lasts a little longer, reading "(NO
+RECORDS)" after 1972 and gone from the table by 1978. So within a few years the camp stopped recording
+what religion its campers were and whether they belonged to the YMCA: **the two questions that had
+defined who the institution thought it was serving**. Neither disappearance is announced anywhere in the
+reports. Both are visible only by laying the impressions of one appendix side by side.^47 [f_5669]
+
+**The L&V trophy.** The Kanawana Annual Trophy carries a shield for every season from 1947 to 2025
+except 2021, transcribed in full. A shield means the Games were contested that summer, and in an
+ordinary year that means the camp ran — which covers every remaining blank from 1976 forward.
+
+**And the trophy contains its own warning.** There is a **2020** shield, and the camp did not run in
+2020: the Games were played remotely, by alumni and campers from their own homes. So a shield is strong
+evidence of a season and not conclusive evidence of a *residential* season, and the one year in
+seventy-nine where the two come apart is documented as such [f_4851, f_2007]. For 1976–2019 nothing
+suggests another remote year, and the plaques independently attest most of those seasons — but the
+distinction is worth keeping, because it is exactly the kind of thing a later reader would otherwise
+have to rediscover.
+
+**1906 came out of the same pass.** The report for the year ending 30 April 1907 gives the season in its
+own words — "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th. The
+Business Boys' Camp, June 16-30; School Boys, June 30 to July 14, and Senior Camp, July 14 to September
+8" — and a four-line attendance table totalling **216**. Only the total is legible in the OCR; the four
+components are not, so this is a combined boys-and-seniors figure with no boys-only split, and the split
+is sitting on the printed page for whoever reaches it [f_4852].
+
+**What is still blank, after both fills: 1911, 1914 and 1920 — three seasons.** Each needs a volume this
+project does not hold: the reports covering the 1911, 1914 and 1920 seasons, which would be the annual
+reports of 1912, 1915 and 1921. The digitized run jumps 1910 → 1913, 1914 → 1915 with no Kanawana
+content in the 1915, and 1920 → 1921-1922.
+
+**What the fills do not do is prove continuity.** These are seasons *attested*, and several are
+attested only in the weakest way the tables mark as *(ran)* — a season named in a sentence about
+something else, or, for 1950, attested only because the next year's report compares against it. That is
+still evidence of operation, which is what the 126-consecutive-seasons claim needs; it is not an
+attendance figure, and the tables do not pretend otherwise.
+
+**Seasons the reports alone left blank:** 1911, 1914, 1919 (as distinct from the disputed 289-boy
+season), 1920, 1981–1984, 1989–1993, 1995–1997 and most of 2010–2019. All but three are closed by the
+artefacts, in the section below.
+
+## A note for anyone taking a figure from an annual report
+
+**The YMCA of Montreal's annual reports do not all run to the same year-end, and this decides which
+summer is inside which volume.** *(Corrected 2026-09-06. This section previously said the reports
+"run to 31 March" without qualification, on the strength of five title pages from the 1940s. The
+association used four different year-ends across the run; see [f_5081] and the generated table at
+`project-docs/annual-report-year-ends.md`.)*
+
+- **30 April**, through the 1925 report — season is the previous summer.
+- **31 March**, from 1926 through 1950 — season is the previous summer.
+- **31 December**, from the 100th report (1951) through the 111th (1962) — **season is the report's own year.**
+- **31 May**, from the 112th report (year ended 31 May 1964) through 1989 — season is the previous summer.
+
+Only the December window inverts. **Both changeovers are dated from the report ordinals, which run
+consecutively across them, so no volume is missing**: the 100th report spans twenty-one months,
+1 April 1950 to 31 December 1951, and the 112th spans seventeen, 1 January 1963 to 31 May 1964.^17
+
+**This is why the 1950 row below is empty.** The summer of 1950 sits inside the 100th report's
+twenty-one months, and the report describes one summer — "in spite of an unusually wet summer,
+aggregate attendance at Kamp Kanawana was above the previous year," which reads as 1951 measured
+against 1950. The 1950 season is not described anywhere in the series. The hole is real, not an
+artefact of which volumes were digitized, and no further reading of these reports will fill it.^17 The cache filenames are no guide either: the file named 1963 is
+the report for the year ended 31 May 1964, while the one named 1984 is for the year ended 31 May
+1984. **And the file named 1965 is the 114th, whose title page reads "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — there the filename year is the year the fiscal year *begins*, the opposite of the other two.**^33 Read the title page.
+
+**That title page also shortens an inference.** The 1966-67 volume states no year-end anywhere in its text, only that it is the "one hundred and fifteenth," so its placement is walked forward from the 112th, which does state one. Two of the intervening steps came from the year-end scanner rather than from a page read by eye. The 114th is now fixed directly, both endpoints and the ordinal together, so the 115th being the year ended 31 May 1967 rests on **one** step from a stated anchor instead of three from a distant one.^33 It is still an inference, and what the title page changes is the *kind* of support rather than the number of links: the 114th now rests on a page read by eye, both endpoints and the ordinal together, instead of on a regex match. *(Corrected 2026-09-06, within the hour. This passage first said the year-end scanner had missed the line because it gives a full span rather than a "for the year ending" formula. The scanner reads it correctly and has a pattern written for spans of exactly that shape.)*
+
+**For the 1926–1950 stretch the rule below holds and this article's rows rest on it.** Every title
+page in that stretch says it: "The Ninety-Second Annual Report of the Young Men's
+Christian Association of Montreal, **for the Year Ending March 31st, 1943**," the Ninety-Third for
+1944, and so on.^13 A report dated to 31 March 1947 covers April 1946 to March 1947, and the only
+summer inside it is 1946.
+
+The rows for those years are entered on that basis and are right. The check that established it: the
+1945 report gives "Kanawana for boys 400," which is the row above for **1944**; the 1947 report
+gives 302, which is the row for **1946**; and the 1946 report, whose summer is 1945, reads "52h" in
+a scan that renders 4 as *h* throughout ("31,8h5" for 31,845) and confuses 3 with 5 — so 324,
+which is the row for 1945.^13
+
+The note is here because the offset is a trap for the next person who greps a report for a number,
+and because it decided something outside this article: [[site/camp-thunderbird|Camp Thunderbird]]
+is known almost entirely from these tables, and the convention dates its two summers to **1942 and
+1943** — ending in the season Camp Perrot began.
+
+## A cause for the 1967 dip, from the national office
+
+The table records **488 campers and 1,323 camper-weeks in 1966 against 421 and 1,098 in 1967** — a fall of about fourteen per cent in campers and seventeen in camper-weeks — and offers no reason for it. The YMCA of Canada's national review of that year does: the ordinary programmes carried the load, "youth program, camping, (**although in Eastern Canada there was a slight falling off of attendance at residence camps which was attributed to family trips to Expo 67**), and especially Physical Education."^35
+
+Kanawana is an Eastern Canadian residence camp and its numbers fit the tendency. *That is not the same as saying Expo caused this camp's fall*: the bulletin describes a region, not a camp, and the 1965 row two lines above shows Kanawana attributing its own drop to weather, summer school and changed family holidays — three things that were not a world's fair. The camp's own 1967 report is where to test it.
+
+**What is worth pausing on is that the camp was on both sides of Expo at once.** The same 1967 row records Kanawana serving **3,000 meals and 2,170 bed-nights to 664 Expo visitors**. The fair took Montreal families away from the camp in July and August and sent strangers to sleep in it, and the association counted both in the same season.
 
 ## What the shape of the series shows
 
@@ -133,13 +705,55 @@ Three things stand out and none of them is visible from any single article.
 
 **Camper-weeks and camper-counts diverge from the 1950s.** Headcounts rise (450 → 558 across 1953–57) while average stay falls (3.5 weeks in 1953, 3.1 in 1956, "about 3" in 1957). More children for less time each — the same shift that shows up as shorter sessions in the modern programme.
 
+**1936: two hundred and forty, and a figure for the beginning.** The *Green Triangle*'s Re-union
+Number of 17 October 1936, addressing an alumni audience: "Things have changed at Camp since those
+early days. **Where fifty boys once camped two hundred and forty now live.** We have three sections
+instead of one. Some of us now sleep in cabins where our dads slept in tents on the bare ground."^38
+
+Read this as what it is. **240** is a round number given in a speech to alumni, not a registration
+count, and the season it describes is the summer of 1936. **Fifty** is rounder still and undated — "those
+early days" could mean the 1894 founding, the 1909–10 move, or simply the speaker's own boyhood. The
+figure worth relying on is the 240; the fifty is a rhetorical baseline and is recorded as one. The
+same passage independently attests **multi-generational attendance in 1936** — "there are a number of
+fellows whose fathers camped at Kanawana as boys many years ago" — five years before the 1941 CFCF
+broadcast this wiki dates that observation from.
+
+**c. 2001: "some 700 teens."** The Montreal YMCA's 150th-anniversary publication describes the camp in
+its facilities directory: "Kanawana… **welcomes some 700 teens, boys and girls between the ages of 6
+and 16 every summer**. Campers stay for **five to twelve days**, depending on their level of
+experience and which nature activities interest them most. **The site is also open to groups during
+winter.**"^39
+
+Read with the usual caution for a round number in a commemorative book. It is a description of a
+typical season rather than a count of one, and "teens" sits oddly against an age range starting at
+six. What it does give firmly is the **shape** of the season around 2001: ages 6 to 16, sessions of
+five to twelve days graded by experience, and winter group use as a standing part of the operation
+rather than an experiment.
+
+**A booking figure rather than an attendance one, March 1969.** The Montreal YMCA's newsletter of 27
+March 1969: "**Pre-registration for the upcoming summer at Kanawana remains well ahead of last year.**
+The Kamp's **Olga Hall** reports that as of March 26, the total of **camper weeks booked stood at
+420**."^40
+
+This is a different kind of number from the rest of this series and is kept separate for that reason:
+it counts **camper weeks booked three months before the season**, not campers who came. It is useful
+in two ways all the same. It is a **mid-March waypoint**, which no other year in this series has, so a
+future find of the same kind would be comparable. And "well ahead of last year" is a growth statement
+from inside the camp office, in a year the camp was moving to coeducation.
+
 ## Open Questions
 
 1. [Important] Settle the 289-boy season. The FY1919-20 report's own audit date makes 1919 the natural reading, but three later tables disagree. A 1920 or 1921 season report, if one survives at Concordia, would fix the column.
-2. [Important] What are the missing years? No figure has been located for 1900, 1902–03, 1905–08, 1911, 1914, 1920, 1950–51, 1960–62, 1970–71, 1973, 1975–79, 1981–87, 1989–93, 1995, 1997, 2002–04 or 2006–19. Many are recoverable — the annual reports carry a Kanawana line most years, and the 1970s–80s season reports survive.
+2. ~~[Important] What are the missing years?~~ **[Largely closed 2026-09-05.]** Twenty-three seasons were
+   filled from documents already in this repository — 1900, 1902–03, 1905–08, 1950–51, 1960–62, 1970–71,
+   1973–79 and 1985–87 — the 1974 figure was corrected, and the plaque corpus and the L&V trophy then
+   closed every remaining year from 1976 forward as *operating*. **Three seasons are still blank:
+   1911, 1914 and 1920.** Each needs a volume this project does not hold — the annual reports covering
+   those seasons, published in 1912, 1915 and 1921 — and none is in the digitized run. That is now a
+   question about three specific books, not about a scattered forty years.
 3. [Nice-to-have] Reconcile the 40,000 (1964) and 34,000 (1984) lifetime totals, or establish that both are institutional round numbers rather than counts.
 4. [Nice-to-have] The balance-sheet property valuations run in every annual report from 1925 ($17,876.39) through at least 1951 ($70,567.80). A book-value series across eighty years is extractable but the columnar OCR is badly damaged and each figure needs checking against the page image — queued as `p_259`.
-5. [Nice-to-have] Fee data is sparse but now spans seven years: **$8.50/week is documented for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home."
+5. [Nice-to-have, extended 2026-09-06] Fee data is sparse but now spans nine years and shows one sharp move. **$5.00 a week in 1916**, advertised in *The High School Magazine* of Montreal with the season given as **24 June to 12 August** — seven weeks — and enquiries taken "at any Branch of the Y.M.C.A."^11 **$8.00 in 1918**, **$8.50 for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home." So the fee rose **sixty per cent across the war**, 1916 to 1918, and then barely moved for eleven years. Later figures: **$210 a fortnight in 1976**, **$370 residential and $385 wilderness in 1983**.
 
 ## Related Articles
 
@@ -150,15 +764,77 @@ Three things stand out and none of them is visible from any single article.
 - [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[history/modern-era|The Modern Era]]
 - [[site/camp-otoreke|Camp Otoreke]]
+- [[connections/institutional-lineage/cca-statistics|The Association's Own Statistics, and the One Camp in Ten]] — the national denominator, and why it counts only the accredited tenth
 
 ## Sources
 
-1. YMCA of Montreal Annual Reports, digitized run 1856–2009 (Internet Archive), read in full for Kanawana content in August 2026. All camper counts, boy-/camper-week figures, fees and the six internal inconsistencies above are drawn from this run [src_ia_ymca_montreal_annual_reports_collection].
+*A note on how the tables cite.* Rows carry a marker where a single document gives that season's
+figure. Three entries below are **block sources** covering runs of rows rather than single ones, and
+they are named here rather than repeated down a column: **note 4**, the season reports of 1964-1979 and
+1987, for the figures the annual reports omit; **note 6**, the directors' reports of 1971 and 1973-1979
+and 1987; and **note 7**, the association's annual reports for 1903, 1906, 1908, 1909, 1951, 1960, 1961
+and 1962, read specifically for the gap seasons. Where a row in those ranges carries no marker of its
+own, one of those three is its source.
+
+1. YMCA of Montreal Annual Reports, digitized run 1856–2009 (Internet Archive), read in full for Kanawana content in August 2026. All camper counts, boy-/camper-week figures, fees and inconsistencies 1-6 above are drawn from this run [src_ia_ymca_montreal_annual_reports_collection].
 2. YMCA of Montreal Annual Report 1894-95, for the founding season and the parallel Junior/Senior camps [src_ia_sgw_annual_report_1894_1895]; and the 1910 report for Kanawana's opening capacity [src_ia_sgw_annual_report_1910].
 3. YMCAs of Québec annual impact and community reports, 2020–2025, for the modern residential figures [src_ia_ymca_montreal_fonds_collection].
 4. Kamp Kanawana season reports, 1964–1979 and 1987 (Internet Archive), for figures the annual reports omit [src_ia_kanawana_report_1964, src_ia_kanawana_report_1969, src_ia_kanawana_report_1979].
 5. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, for the 99.2% occupancy figure [src_ia_kanawana_place_to_grow_1988].
+6. Kamp Kanawana directors' reports, 1971 and 1973–1979 and 1987, read for attendance on 2026-09-05 [src_ia_kanawana_report_1971], [src_ia_kanawana_report_1973], [src_ia_kanawana_report_1974], [src_ia_kanawana_report_1975], [src_ia_kanawana_directors_report_1976], [src_ia_kanawana_report_1977], [src_ia_kanawana_report_1978], [src_ia_kanawana_report_1979], [src_ia_kanawana_report_1987], [src_ia_kanawana_report_1970]. See [f_4843], [f_4844], [f_4845], [f_4849].
+7. YMCA of Montreal annual reports for 1903, 1906, 1908, 1909, 1951, 1960, 1961 and 1962, read for the gap seasons on 2026-09-05 [src_ymf_sgw_ymca_annual_report_1903], [src_ymf_sgw_ymca_annual_report_1906], [src_ymf_sgw_ymca_annual_report_1908], [src_ymf_sgw_ymca_annual_report_1909], [src_ymf_sgw_ymca_annual_report_1951], [src_ymf_sgw_ymca_annual_report_1960], [src_ymf_sgw_ymca_annual_report_1961], [src_ymf_sgw_ymca_annual_report_1962]. See [f_4846], [f_4847], [f_4848].
+8. Report of the Junior Camp Committee, 1900, dated 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. The 45 boys, the six tents, the eleven wet days and the $5.05. See [f_4848].
+9. Kanawana plaque corpus and the person index built from it (p_291) [src_flickr_kanawana_plaque_album]; the Kanawana Annual Trophy for Lumbermen Voyageur Games, winners shields 1947–2025 [src_photo_lv_annual_trophy]. Read as season evidence on 2026-09-05. See [f_4850], [f_4851].
+10. YMCA of Montreal annual report for the year ending 30 April 1907, for the 1906 season [src_ymf_sgw_ymca_annual_report_1907]. See [f_4852].
+11. *The High School Magazine* (Montreal, 1916), the Kamp Kanawana advertisement on the first advertising page [src_high_school_magazine_montreal_1916]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. Cached, with a caution about the unsigned canoe-trip narrative printed immediately before the advertisements and NOT attributed to Kanawana, at `sources/cache/periodicals/1916-high-school-magazine-montreal-kanawana-advertisement.txt`. See [f_4948].
+12. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
+13. The YMCA of Montreal annual reports' "Summer Camps" camper tables, 1943-1947 [src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947]. See [f_5038].
+14. YMCA of Montreal annual reports for the years ending **31 December 1953** and **31 December 1954** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954]. December-year volumes, so their seasons are 1953 and 1954 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5083].
+15. YMCA of Montreal annual report for the year ending **31 December 1958** [src_ymf_sgw_ymca_annual_report_1958], the "Kanawana Statistics" table. Read 2026-09-06 under p_441. See [f_5085].
+16. YMCA of Montreal annual reports for the years ending **31 December 1955** and **31 December 1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957]. December-year volumes, so their seasons are 1955 and 1957 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5086].
+17. The YMCA of Montreal annual report ordinals, which date both year-end changes and show no volume missing: the 97th (year ending 31 March 1948) through the 100th (31 December 1951), and the 109th through 113th (December 1960, 1961, 1962, then the years ended 31 May 1964 and 1965) [src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1950, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1962, src_ymf_sgw_ymca_annual_report_1963]. Read 2026-09-06 under p_450. See [f_5090].
+18. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
+19. Montreal YMCA news release, **22 April 1963** [src_ymf_news_release_1963_04_22]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-04-22.txt`; read 2026-09-06 under p_451. See [f_5105].
+20. Montreal YMCA news release, **28 May 1970** [src_ymf_p0145_news_release_1970_05_28]. Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-05-28.txt`; read 2026-09-06 under p_451. See [f_5106].
+21. YMCA of Montreal annual report for the fiscal year **1974-1975** [src_ymf_sgw_ymca_annual_report_1974_1975]. **This volume never states its year-end month** — see [f_5112] and p_450. Re-read 2026-09-06.
+22. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005]: "Every year, Camp YMCA Kanawana is host to 800 children and youth from very different worlds." Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project, so nothing in it had been read by any route.
+23. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: "Registration has increased 40% over the past three years. This summer, 60 youth explored our challenging rivers and trails. On site at Kamp Kanawana, 770 Kampers enjoyed a whole range of outdoor activities in the same spirit of fun and togetherness as the first Kampers in 1894." Read 2026-09-06 under p_454.
+24. Montreal YMCA annual reports for the years ended 31 December 2008 and 31 December 2009 [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2009], the "Social Audit" table headed PROGRAMS / PERSONS. Read 2026-09-06 under p_454. The same table appears in the 2002-2003, 2003-2004, 2004-2005 and 2007 reports but its number column is separated from its labels by the OCR in those years, so only 2008 and 2009 are legible here.
+25. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the Social Audit table. Read 2026-09-06 under p_454. THE SAME REPORT GIVES TWO NUMBERS that cannot both be season registrations; see the rows.
+26. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section, covering the summer of 1921. Read closely 2026-09-06 under p_454 — this volume had been keyword-swept for years and quoted at second hand in the 289-boy note above, but not read. See [f_5166], [f_5167].
+27. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men] — the "Camps" section, covering the summer of 1918, and the recruiting page advertising the 1919 season. Read 2026-09-06 under p_454. See [f_5175], [f_5176], [f_5177].
+28. YMCA of Montreal annual report **for the year ended 31 May 1988** [src_ymf_sgw_ymca_annual_report_1988], the section headed "KAMP KANAWANA: NON NOBIS SOLUM." Read 2026-09-06 under p_454. See [f_5182] and `c_067`.
+29. YMCA of Montreal annual reports for the years ended **31 May 1998** and **31 May 1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999] — the "PROGRAMS / PERSONS" table in each, and the 1999 volume's page headed "KANAWANA - THE CAMP WHERE EVERYONE IS WELCOME." Read 2026-09-06 under p_454. See [f_5183].
+30. The **French editions** of the annual reports for 1988, 2000-2001 and 2006 [src_ymf_sgw_ymca_annual_report_1988_fr, src_ymf_sgw_ymca_annual_report_2000_2001_fr, src_ymf_sgw_ymca_annual_report_2006_fr], compared passage by passage against their English twins 2026-09-06 under p_454. All three are straight translations; their value is as a second scan of the same text, since the OCR damage falls differently. See [f_5184].
+31. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913] — "Last summer 123 men and 187 boys secured a most delightful vacation in these helpful surroundings," covering the summer of 1912. Read 2026-09-06 under p_454. See [f_5193].
+32. YMCA of Montreal annual report for **1999-2000** [src_ymf_sgw_ymca_annual_report_1999_2000], the page headed "Kamp Kanawana - A Camp for People of All Ages." Read 2026-09-06 under p_454. See [f_5195].
+33. YMCA of Montreal, **114th Annual Report** [src_ymf_sgw_ymca_annual_report_1965]. Its title page states the span outright — "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — read by eye 2026-09-06 while working on Camp Otoreke. See [f_5203].
+34. YMCA of Montreal annual report for the year ending 30 April 1923 [src_ymf_sgw_ymca_annual_report_1922_1923] — its Verdun branch narrative and its metropolitan enrolment table, which do not agree. Read 2026-09-06 under p_454. See [f_5173].
+35. National review of 1967, *National Council Bulletin* Vol. 41 No. 3 (1968), YMCA of Canada [src_ia_ymca_national_council_bulletin_41_03]. Internet Archive item `national-council-bulletin-vol-41-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5253].
+36. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. The sentence this row's figure comes from also names the season's staff, which had not been extracted until 2026-09-07. See [f_5282] and [f_5285].
+37. *Men of Montreal* Vol. I No. 6, June 1904 — the association's monthly, this issue mastheaded the "Camp Club House, Lake St. Joseph, and Summer Camp Number" [src_ymf_sgw_ymca_annual_report_1904_men_of_montreal], with the YMCA of Montreal annual report for **1905** [src_ymf_sgw_ymca_annual_report_1905]. Both cached here since before this session. The 1903 season is reported in the June 1904 issue, which also announces the coming 1904 camps. See [f_5332] and [f_5333].
+38. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+39. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.
+40. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
+41. YMCAs of Québec, impact report for **2024** [src_ymf_ymca_impact_report_2024]: "782 kids and teens enjoyed a stay in the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program." Read 2026-09-07 under the sharpened p_441. See [f_5586].
+42. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`; read word for word 2026-09-07 under p_487. See [f_5603].
+43. Kamp Kanawana's own annual report for **1965** [src_ia_kanawana_report_1965], `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`, under the heading "KAMP KANAWANA TEN YEAR SUMMARY". The **1,696** camper-weeks of **1957** and **1,623** of **1958**, the two tests each of them passes, and a description of everything else the table covers — including a religious-affiliation breakdown this project holds nowhere else — are at [f_5641]. Found 2026-09-07 under p_491; the rest of the table needs page images (p_497).
+44. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964]. The **535** campers and their stay lengths, the peak population of about **390** with roughly **300** fed daily, the **31** counsellors at an average age of **19.8** and an average salary of **$173**, and the missed budget of **1,530** camper-weeks are all at [f_2389]. Brought into this article 2026-09-07 under p_492.
+45. **The "KAMP KANAWANA TEN YEAR SUMMARY", read across four intact printings**, 2026-09-07 under `p_499`: the annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970] and the directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], with the returnee row extended by the **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979] printings. All cached in `sources/cache/ymca-montreal-fonds/`. The rolling nature of the table and what it costs to have missed it are at [f_5651]; the 1960-65 counts and how each was tested at [f_5652]; the Rangers section at [f_5653]; the girl series at [f_5654]; the returnee series at [f_5655]; the 'Y' membership collapse and its deletion from the table at [f_5656]; the religious breakdown and why only three columns of it are published at [f_5657]; the average-stay row used as an error-correcting check at [f_5658]. Disagreements with the contemporaneous reports are at `c_070` (1971) and `c_071` (1962, 1963, 1965, 1972).
+46. The **1966** printing of the same rolling appendix, in Kamp Kanawana's own annual report for 1966 [src_ia_kanawana_annual_report_1966], `sources/cache/ymca-montreal-fonds/1966-kamp-kanawana-annual-report.txt`. Read 2026-09-07 under `p_499`. Its scan is broken to one value per line, which for the earliest columns PRESERVED the row labels the 1965 printing lost. The 1956 reach-back and the two new camper-week totals are at [f_5665]; the religious series at [f_5666]; the 1958 Rangers figure at [f_5667]; the 1958 camper-count problem at [f_5668].
+47. The **1969** impression of the rolling appendix [src_ia_kanawana_report_1969] compared against the 1970, 1975, 1976, 1978 and 1979 impressions. Its religion block lists SEVEN categories including "No religion" where the 1970 block shows six, and the block is absent from every impression from 1975 on. Checked 2026-09-07 under `p_499` by searching all four later files for each category name. See [f_5669].
+48. Kamp Kanawana's own annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970], their capacity passages: the 1969 "Registration, Capacity, Facilities and Land Utilization" section and the 1970 REGISTRATION section. Read 2026-09-07 under `p_491`. See [f_5687], and the note added to `c_067`.
 
+49. The **French editions** of the association's annual reports for **2002-2003**, **2005-2006**, **2007**, **2008** and **2009** [src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2005_2006_fr, src_ymf_sgw_ymca_annual_report_2007_fr, src_ymf_sgw_ymca_annual_report_2008_fr, src_ymf_sgw_ymca_annual_report_2009_fr], their PROGRAMMES / PERSONNES tables. Read 2026-09-07 under `p_259`, on the premise that the OCR damage falls differently — which is what note 24 above says defeated the English scans for these years. **Controlled**: the French 2008 and 2009 tables give 1 091 and 1 281, exactly the English figures at note 24. See [f_5718].
+
+50. Concordia University Archives, YMCA of Montreal fonds, sub-sub-series **P145/12B07 — Kamp Kanawana, Program** (finding aid) [src_concordia_mirror_12b07]. Box HA2315's item list: the 1957 Rangers log book, the 1958 Lumbermen-Voyageurs week, the 1971 horseback riding programme. Re-read 2026-09-08 under p_487, which was auditing records that assert a full read; this one had been read and its entries never used. See [f_5757].
+51. **Les YMCA du Québec, rapport communautaire 2010, French edition** [src_ymf_sgw_ymca_community_report_2010_fr], the *Bilan social* table and the June entry of the year's chronology. Read 2026-09-08 under p_487: the record was marked "full-text-cached-and-keyword-swept-not-read-closely" and carries twenty-four mentions of the camp against no facts, the most of any record in that population. See [f_5759].
+52. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Foundation section on the Kanawana development. Read 2026-09-08 under p_487. See [f_5760].
+53. YMCA of Montreal / The YMCAs of Québec, annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section headed "Camp YMCA Kanawana: Objectives all but met". Read 2026-09-08 under p_487. See [f_5782].
+54. The YMCAs of Québec, community reports for **2016** and **2017**, English and French editions [src_ymf_sgw_ymca_community_report_2016, src_ymf_sgw_ymca_community_report_2016_fr, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2017_fr], the headline infographics. Read 2026-09-08 under p_487, reached through the French editions' absent-token triage. **The number precedes its label** in both years and both languages; the 2017 English prints "5,700" and "700" close enough to read as a pair, and the scale settles the assignment. See [f_5783].
+55. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5790].
+56. *Kamp Kanawana Director's Annual Report* for **1976**, **1978** and **1979** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979], their conclusions and questionnaire tables. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py` run over the **extracted** population. See [f_5795].
+57. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its Kampers and Staff sections. Read 2026-09-08 under p_441. See [f_5807].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.

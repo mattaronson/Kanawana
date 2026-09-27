@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 32*
+*Last Updated: 2026-09-08 (Itche Kerr in a contemporaneous document at last, as C.I.T. Director in 1977)*
 
 ## Overview
 
@@ -18,6 +18,8 @@ The official camp song, **"On My Way to Kanawana,"** was composed and performed 
 > "My invitation to this year's closing banquet was written at **summer's end 1977**. I wrote it myself late one night with some help from **three friends**. What we wrote was as spontaneous as love itself. One moment there was nothing the next, a song which payed tribute to friends, a place, an experience we loved. I had forgotten all about the song. Something as ethereal as a song at a summer camp should have easily vanished into the mists of time. Somehow, **the next summer it was remembered and it has been sung every summer since**. Much like the names on the ancient plaques that haunt the dining hall; my Kamp nickname has always accompanied any introduction to the song as the mysterious author of long ago."^19
 
 So: written in one night at the end of summer **1977**, by Kerr with three unnamed collaborators; revived in **1978** and sung annually thereafter. Kerr was on the Kanawana staff in 1975 (filling in as a counsellor for a week), 1976 (taking over the CIT program mid-summer) and 1977 (CIT Director), and returned to run a song workshop at pre-camp in 1992.^19 **Note what this account does not support:** no contemporaneous 1977 or 1978 document naming Kerr as composer has been found. His own 1993 retrospective is the sole source, and it is a memoir written sixteen years after the fact — reliable on authorship, less so on detail.
+
+**One half of that memoir is now corroborated by a contemporaneous document.** The camp's own director's report for 1977 lists Richard "(Itche)" Kerr on the staff with the title **Counsellor-in-Training Director**, and devotes a paragraph to him: "Under its Director, Itche Kerr, the group of 13 C.I.T.s were exposed to on-the-job training in virtually every area of Kamp... The success of the program was due to Itche for the commendable way he ran it."^32 So the man was where his 1993 account says he was, in the job it says he held, in the summer it says the song was written. [f_5821] That does not make him the composer — the report says nothing about a song, and the banquet he describes falls at the end of the same season the report is summing up — but it moves him from a name traceable only through a Concordia catalogue entry and a Pip Award list, as Open Question 9 below still records, to a person documented in the camp's own paperwork at the time. The composition itself still rests on his word alone.
 
 The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy. Its exact box number is now confirmed: Concordia's static finding-aid page for sub-sub-series 12B04 gives the catalog entry "On My Way to Kanawana. Song composed and performed by Richard Itch Kerr. CD. 4'30. - nd." at **Box HA2559**; the item is undated ("nd") in the finding aid itself.^16
 
@@ -153,9 +155,76 @@ A CBM radio broadcast of 10 November 1938, "The Voice of Youth," was performed b
 
 The same script records where singing happened — "those zippy camp sing-songs in the dining hall, at **Farewell Rock**, around the fire-rafts on the lake, and — of course — at our Saturday Night Shows" — and names **John Pearson** as the song leader, "waving his arms at us when leading the sing-songs."^19 A 1936 broadcast adds that there was a **daily** song-and-music period after dinner at which "new songs are learned."^19
 
+## "Dear Old Kanawana" (1932)
+
+*The Green Triangle* of 30 July 1932 prints a verse over the name **Max Ford** and the year, in the
+place a paper of that era gives a poem:^25
+
+> I'm glad I'm back at dear old Kanawana
+> With her trees so stately and so fair.
+> Let me lie and rest beneath their shadows,
+> And forget my troubles and my cares.
+> For I love her valleys and her mountains,
+> Rocks and trees bring messages to me,
+> Telling me there's one place, Kanawana,
+> Where my tired soul can e'er be free.
+
+**It was sung, not only printed.** A week later the same paper describes juniors walking home in the
+rain from the Shawbridge Boys' Farm: "Some of them were singing the theme song of *Sunshine Susie*,
+while others expressed their feelings by singing '**I wish I was back at dear Old Kanawana**'."^26
+The first line is inverted — glad to be back, in the printed verse; wishing to be back, on a wet road
+eight miles out — which is what happens to a song once boys have it. Whether Ford wrote the words to
+an existing tune, as "Alabama Jubilee" and "Johnny Verbeck" both suggest was the house method, is not
+stated, and the metre is a common one.
+
+**A hymn written at camp, 1932.** The Sunday service of 21 August 1932 was held "in the open chapel on
+the lake trail," and the two hymns sung were "What a Friend We Have In Jesus" and "**the new Hymn
+written by Doug. Clarke**."^27 Clarke is elsewhere in the same season's paper giving "an operatic
+rendering of *Pagliacci*" at a Saturday Night Show and, in the last issue, the Serenade from *The
+Barber of Seville* — so the camp had a musician on staff capable of writing a hymn, and he wrote one.
+The hymn's words are not printed and no later issue names it.
+
+**And the Kanawana Yell on the road.** The paper of 13 August 1932 has a hiking party returning from
+Morin Heights: "While passing farmhouses and **D'Arcy McGee Camp** the hikers united in the **Kanawana
+Yell**."^27 The yell is not transcribed, which is a pity, but its use is: it was what you did when
+passing another camp, and it identified you at a distance. The same passage calls the party "the
+Kanawanians," six years before the "old Kanawanians" this wiki dates to 1938.
+
+## The Sunday Musicals and the Harmony Club, 1939
+
+The camp's Sunday music was not only sing-songs. The opening issue of 1939 reports the season's first
+"Sunday Musical," an hour in the Lodge, and prints the programme:^29 it opened with "a rousing
+rendition of **the camp marching song**"; then **Frank Patterson** played **Rachmaninoff's Prelude in
+C sharp minor**; the camp learned a new song, "**In Poland there's an Inn**"; **Bill Koss** played
+**Mendelssohn's Spring Song** on the violin; "Abide With Me" was sung by **the Harmony Club**;
+Patterson played **Liszt's Liebestraum**; the camp sang "We are climbing Jacob's Ladder"; and the
+Harmony Club led "Now the Day is Over" to close.
+
+**The Harmony Club** is a named camp singing group this project has nowhere else. And the repertoire
+is worth noting for what it is not: a Laurentian boys' camp in 1939 programming Rachmaninoff, Liszt
+and Mendelssohn played by campers, between a marching song and a hymn.
+
+## "Kanawana Melody" (1940)
+
+A second camp verse, printed over the name **Frank Sharpe** — the same man who was Special Events
+Editor of the 1938 *Voice of Youth* broadcast — in the issue of 4 August 1940:^29
+
+> Kanawana's hills and lakes, its trees and sunset glows,
+> Its murmurs of the day and night in never ending flow;
+> Its fireflies like low stars of night, its meal time din and stir;
+> Its rains that spatter of tent flies and mosquitoes' whining burr;
+> Its song and chatter, fun and games, its chapel mid the trees;
+> Its moonlit shores, canoes and boats, and myriad sights like these;
+> And, best of all, its lasting friends that campers brought and brings —
+> Are like a melody of joy that Kanawana sings.
+
+Like Max Ford's verse of 1932 it is a list poem and it names places this wiki holds separately — the
+chapel among the trees, the moonlit shores, the tent flies. Unlike Ford's, nothing in the run shows it
+being sung.
+
 ## Four named songs from 1933
 
-The *Green Triangle* of 29 July 1933 describes campers singing on the way up to camp and names four songs by title — **"Marois," "The Nonsense Song," "Sea-Side"** and **"Yo Triumphy"** — alongside an unnamed "the camp song" distinct from all four.^19 "Marois" is almost certainly connected to Lake Marois and to Marois Day, the 1935 season's most anticipated event; "Yo Triumphy" is the 1922 cheer below, still in the repertoire eleven years later, which is the only continuity this article can demonstrate between the 1920s and 1930s material.
+The *Green Triangle* of 29 July 1933 describes campers singing on the way up to camp and names four songs by title — **"Marois," "The Nonsense Song," "Sea-Side"** and **"Yo Triumphy"** — alongside an unnamed "the camp song" distinct from all four. **[The camp song is very probably identified, 2026-09-07.]** The 1933 piece is headed with a line in quotation marks — "**I'm glad I'm back at dear old Kanawana**" — and opens "That certainly was the thought that was uppermost in the minds of the four of us who drove up in all the rain and storm last night. As soon as we had left Montreal behind us someone, Graham Pelley I think, **started up the camp song**."^28 That heading is the first line of the verse *The Green Triangle* had printed over Max Ford's name a year earlier, set out above. So the song the four men started as they left the city, before working through "Marois," "The Nonsense Song," "Sea-Side" and "Yo Triumphy," was almost certainly Ford's. The caveat is real and small: a heading may be the writer's own framing rather than a title, and the text does not say "we sang 'Dear Old Kanawana'" in so many words. But a 1932 verse, a 1932 hike singing it, and a 1933 article headed with its first line and calling something "the camp song" in the next sentence is three converging attestations, and the alternative is that the camp had two different songs opening with the same eight words.^19 "Marois" is almost certainly connected to Lake Marois and to Marois Day, the 1935 season's most anticipated event; "Yo Triumphy" is the 1922 cheer below, still in the repertoire eleven years later, which is the only continuity this article can demonstrate between the 1920s and 1930s material.
 
 **No lyrics survive for any of these.** Across the entire digitized corpus there are song *titles* and one complete *yell* text, and no camp-song lyrics whatsoever.
 
@@ -174,6 +243,36 @@ This is the only complete Kanawana cheer text recovered from the corpus besides 
 > **YEA, PATHFINDERS!**
 
 The article printing it explains its function: "This yell, which was original to the Pathfinders in 1965, required maximum participation and group effort in order for it to sound really good **in the dining hall**." It gives the section's motto — "one for all and all for one" — and a closing call-and-response: "Pathfinders, ARE YOU READY?" answered "WE ARE." The dining hall was the venue for section yells generally: the 1970 season report notes a section that "seemed to act and react as one section most of the time (ie Pathfinder yell in the dining hall)," and an all-camp "Kanawana Yell" existed as early as 1932.^19
+
+
+## "God's Back Yard" (1979)
+
+The camp's own director's report for 1979 closes not with a summary but with a poem, titled **"God's Back
+Yard"** and signed **Joan Dalrymple**.^31 [[people/dave-twynam|Dave Twynam]]'s article has recorded for
+months that the report ends with a poem by her; the poem itself was never taken out of the document.
+
+It runs twenty lines in rhyming couplets, structured by a refrain. It opens:
+
+> Close your eyes and think real hard / Imagine kamp as God's back yard. / The grass so green, the hills so
+> tall / Close your eyes and think of all / The beauty of our life at kamp, / The morning sun on the grass so
+> damp.
+
+and closes:
+
+> Remember the good times with friends old and new. / Take all of these memories home with you. / Yes, we've
+> worked together and played so hard, / **At Kanawana, in God's back yard.**
+
+Between them it works through the site and the season — "**Flags in a circle from countries brave** / Close
+your eyes and see them wave"; "Children together and children apart / Some grown up and some ready to start";
+"Can you picture your cabin or a favorite tree?"; "The sounds of night time, dark and still / The laughter
+from a far away hill." *It is quoted in part rather than whole here, the work being one identified person's;
+the full text is at lines 990–1026 of the cached report.*
+
+**Two things in it are evidence and not only imagery.** The **flags in a circle from countries brave** are a
+detail of the site that nothing else in this project records for 1979. And the frame is religious: this wiki
+traces the camp's explicitly Christian programming thinning steadily across the century, and this is the only
+place in the camp's own paper where the site is called God's. [f_5799]
+
 
 ## Section Cheers
 
@@ -214,6 +313,99 @@ The camp used **CFCF Radio** (Montreal, Canadian Marconi, est. 1922) for promoti
 A morning devotional practice at meals is documented from at least 1922. The brochure describes "a short morning devotional period at the breakfast table" as part of the religious program, along with "the quiet period before lights out led by the tent leader" and "Sunday services in the open-air chapel and around the fire."^2 The McMorris thesis identifies "Grace" as a continuing feature of camp life.^13
 
 By the 2000s era, Grace was not a single fixed prayer but a rotation of several **sung graces**. Two identified graces are: (1) **"Johnny Appleseed"** — the folk grace widely used at North American camps ("Oh, the Lord is good to me, and so I thank the Lord..."); and (2) the lyrics of **"Joy to the World"** by Three Dog Night ("Jeremiah was a bullfrog...") adapted as a grace.^14
+
+## What the movement taught about singing, 1970 — and where Kanawana's songs sit in it
+
+**Jack Pearse**, director of Camp Tawingo, set out the period's own theory of camp singing in *Canadian
+Camping* in June 1970, in five categories with a named repertoire under each.^24
+
+| Category | What it is, in his words | Some of his named songs |
+|---|---|---|
+| **1. Novelty number** | "our broadest category" — tongue twisters, nonsense songs, familiar songs given a novel touch; "the backbone of the sing song" | One Flea Fly · Hole in the Bottom of the Sea · Tipperary · She'll be Coming Round the Mountain · Bingo · My Bonnie · Old MacDonald |
+| **2. Action songs** | "the novelty number makes the sing song successful, action songs make the song *leader* successful" | My Hat it Has Three Corners · Under the Spreading Chestnut Tree · Heads and Shoulders, Knees and Toes · This Old Man · Grand Old Duke of York |
+| **3. Rounds** | for "a change of pace… harmony, without any effort on the part of the singers", with an eight-step teaching method | *Rousers:* Little Tommy Tinker · Row, Row, Row Your Boat · *Fun:* Kookaburra · Three Blind Mice · *Quiet:* Fire's Burning · Oh How Lovely is the Evening |
+| **4. Spirituals and folk songs** | "a change of rhythm, mood and atmosphere" | Swing Low Sweet Chariot · He's Got the Whole World · Where Have All the Flowers Gone · This Land is Your Land · We Shall Overcome · **Kum Ba Yah** |
+| **5. Quiet songs** | "we have passed through the era when the louder and more boisterous was the singing, the more successful was the sing song" | **Stephen Foster songs** · Harvest Moon · Moonlight Bay · Tell Me Why |
+
+And a rule he prints in capitals: **"ALL SING SONGS SHOULD END WITH QUIET SINGING."** [f_4869]
+
+**Two of Kanawana's recorded songs are in his lists, and that settles what they are.** *Kum Bah Yah*
+appears here under spirituals and folk songs, and *My Old Kentucky Home* — sung solo by a twelve-year-old
+in the 1938 broadcast, above — is a Stephen Foster song, the first entry in his quiet category. **Neither
+is Kanawana property.** They are the movement's common stock, and a later pass should not read either as
+evidence of anything local [f_4870].
+
+**And the camp's own songs are exactly what the movement told leaders to make.** "On My Way to
+Kanawana," the Marching Song, "Dear Old Kanawana" to the Battle Hymn of the Republic, the local
+adaptation of "Alabama Jubilee" — these fall under Pearse's instruction for the novelty category, which
+is not a description but an order: "**Find some novelty numbers. Invent some.**" A camp with its own
+songs was a camp doing what the association's magazine taught, in the years Kanawana's repertoire was
+being sung. That is a better-founded claim than either "Kanawana's songs are unusual" or "Kanawana's
+songs are borrowed," and it is the one the sources support [f_4870].
+
+His closing rule also matches the shape already documented here: Kay McClelland's 1956 campfire
+structure, in the section below, ends the same way.
+
+## What a Montreal YMCA camp songbook actually held, 1941
+
+Open question 5 below asks what was in the Kanawana song books of 1941–1945, and has stood as a dead end
+since July because Concordia's finding aid stops at folder level. **This project holds the sibling camp's
+book**, from the same fonds, the same institution and the same year: a 1941 songbook for
+[[site/camp-otoreke|Camp Otoreke]], 64,053 characters of it, numbered to at least 94.^30 It does not
+itemize Kanawana's book. It does answer the question a Montreal YMCA camp songbook of 1941 was asked.
+
+Read for Kanawana's own purposes it is thin — five lines about the camp, and this wiki already had them.
+Read as a document it has a shape, and the shape is the evidence. It **opens with the camp's own song** (to
+the tune of "Sierra Sue"), then goes straight to **wartime British patriotism**: "There'll Always Be an
+England," "Land of Hope and Glory," and "I Am a Canadian" set out across four blocks, then Kipling's "The
+Road to Mandalay." A long **parlour and art-song** run follows — "Drink to Me Only," "Early One Morning,"
+"All Through the Night," "Sweet and Low," "Believe Me If All Those Endearing Young Charms," "Santa Lucia,"
+"Juanita," "Love's Old Sweet Song," "Let Me Call You Sweetheart," "Smiles," "There's a Long Long Trail" —
+then a **Scots and Irish block** at roughly 24 to 34, "Annie Laurie," "Loch Lomond," "Comin' Thro' the Rye,"
+"Auld Lang Syne," "Roamin' in the Gloamin'," "My Wild Irish Rose," "Cockles and Mussels," "The Rose of
+Tralee," "Mother Machree," "An Eriskay Love Lilt," "Come Back to Erin," "Billy Boy" — then **five sea
+shanties** at 38 to 42: "Bound for the Rio Grande," "The Dead Horse," "Fire Down Below," "The Banks of
+Sacramento," "Haul Away Joe."
+
+Then the book stops sounding like a community songbook and starts sounding like a camp. "Ich Bin In
+Musikaut," "Working on the Railroad," "Beer Barrel Polka," "The Little Skunk's Hole," "Yip-I-Dee," "The
+Bells of Hell," **"What Shall We Do With a Sleepy Camper?"** at 54, "It Ain't No Fault of Mine," "You Can't
+Get to Heaven," "There's a Fly on Baby's Bran," "Whistle While You Work" and "Heigh-Ho" — the two Snow White
+songs, four years old in 1941 and already in the book — "Down by the Old Mill Stream," "The Old Pine Tree,"
+"The Old Apple Tree," "Twilight on the Prairie," "She'll Be Comin' Round the Mountain," "Grandfather's
+Clock," "Clementine," "One More River," "Short'nin' Bread," "On Moonlight Bay," "Rise and Shine." Two rounds
+follow, "Lovely Evening" and "Row Your Boat."
+
+Three findings come out of it for this article.
+
+**Number 73 is the Battle Hymn of the Republic.** That is the tune this wiki records for "Dear Old
+Kanawana." It sat in the sibling camp's printed book, numbered, in exactly the years Kanawana's own song
+books were compiled — so a boy moving between the two Montreal YMCA camps arrived already knowing the tune,
+and the borrowing looks less like a local invention than like the obvious thing to do with a song everyone
+in the system could already sing.
+
+**The book closes on French Canada, and the choice is deliberate.** Songs 90 to 94 are "En passant par la
+Lorraine," "C'est l'aviron qui nous mène en haut," "À la claire fontaine," "En roulant ma boule roulant" and
+**"Vive la Canadienne!"** Five songs of the standard Quebec folk canon, at the end of an otherwise English
+book, at an English-language Montreal YMCA camp, in 1941. That is earlier than anything in
+[[connections/institutional-lineage/french-language-camping-national|French-Language Camping]], and it puts
+the French repertoire inside English camps a generation before the institutional story usually starts. The
+canoe songs among them are the paddling repertoire, which is the likeliest route in.
+
+**And the localisation habit is on the page.** Number 55 or thereabouts, "You Can't Get to Heaven," carries
+the line "**You can't go to heaven in an Otoreke boat**" — the camp's own name dropped into a standard song,
+which is precisely the practice the Kanawana material shows and this article describes under "How the
+repertoire was passed on."
+
+One part of the book needs saying plainly rather than leaving out. Six of the ninety-four are **minstrel or
+ethnic-caricature songs**: "The Darky Sunday School," "Short'nin' Bread," "Carry Me Back to Old Virginny,"
+"In the Evening by the Moonlight," "A Gay Caballero" and "Abdul the Bulbul Ameer." They were standard
+North American community-singing repertoire in 1941 and their presence here is not remarkable for the
+period; they are listed because a repertoire with its uncomfortable half quietly removed is not the
+repertoire, and a later reader comparing this book to a modern one should be able to see what changed.
+
+The OCR is poor. About ten of the ninety-four numbers are unrecovered and the page order is jumbled in
+places, so this is the repertoire and approximately its order, not a verified table of contents.
 
 ## How the repertoire was passed on
 
@@ -266,12 +458,13 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 2. [Critical, partially advanced 2026-07-09] What cheers are associated with the L&V Games (Voyageur cheer, Lumberman cheer, section cheers)? One section cheer (Voyageurs sound-off, girls'-section cheer) is in fact already documented on the "Medley '81" sheet (f_1566) — see the corrected Section Cheers note above. A possible model/common-origin lead surfaced: YMCA Camp Pine Crest's "Lumbermen vs. Voyageurs" games (since 1940) — its centennial book is an unread, worth-pursuing source.
 3. ~~[Critical] What is the full text of the Kamp Kanawana Marching Song?~~ [Largely resolved] Full 2000s-era text recorded from oral history (f_1196).^14 Remaining: the rediscovered lost verses from Concordia (2006) for comparison against the modern version.
 4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
-5. [Important, re-confirmed dead end 2026-07-09] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? Box number now confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
+5. [Important, ADVANCED 2026-09-07 — no longer a flat dead end] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? **The sibling camp's 1941 book is held in full and its repertoire is now enumerated** — see "What a Montreal YMCA camp songbook actually held, 1941" above. That is the same institution, the same fonds and the same year, and it establishes what such a book contained, including the Battle Hymn of the Republic at number 73 and a five-song French-Canadian close. Kanawana's own titles remain unlisted, and only page images of HA2315 will give them. Box number confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
 6. [PARTIALLY ANSWERED 2026-08-25] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? **The cheer was already described as a "former Kanawana yell" in *The Green Triangle* of 9 July 1938, and reprinted so campers could learn it again** — so it fell out of general use between 1933 (when campers were still singing it) and 1938, and was the object of a deliberate revival attempt that year. Whether the Marching Song displaced it, and whether the two overlapped, remains open. The earlier note that "only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this" was correct — this came from the digitized 1938 run. The 1941-1975 issues remain undigitized and would settle the rest.
-7. [Critical, new 2026-09-04] Did the Canadian Camping Association's 1972 national songbook appeal produce a published songbook, and did Kanawana submit a song to it? The appeal asked every camp in Canada for the words and the tune of its camp song.^21 Two searches follow: forward through the 1973-1975 issues of *Canadian Camping* for an announcement of the songbook, and for the disposition of the "C.C.A. Archives" named in the same notice, which was collecting camp brochures at the time.
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
 8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
 9. [Nice-to-have, re-confirmed dead end 2026-07-09] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when? Independently re-searched this session (web, LinkedIn/Facebook, the primary blog source) — only the famous pop songwriter Richard Kerr (co-writer of "Mandy") surfaces, with no documented YMCA/camp connection; the Kanawana alumnus "Richard Itch Kerr" has no trace anywhere online outside the Concordia catalog entry and Pip Award recipient lists. This is now independently confirmed exhausted across two separate sessions.
+
+10. [Critical, new 2026-09-04] [renumbered 2026-09-05: this was written as a second "7."] Did the Canadian Camping Association's 1972 national songbook appeal produce a published songbook, and did Kanawana submit a song to it? The appeal asked every camp in Canada for the words and the tune of its camp song.^21 Two searches follow: forward through the 1973-1975 issues of *Canadian Camping* for an announcement of the songbook, and for the disposition of the "C.C.A. Archives" named in the same notice, which was collecting camp brochures at the time.
 
 ## Related Articles
 
@@ -309,6 +502,15 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 21. "Attention! All Camp Directors" (boxed notice), *Canadian Camping* Vol. 25 No. 1 (Fall 1972), p. 3. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 96).
 22. Christine Nixon (Camp Oconto), "Music for Young Campers," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 6, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 133). Written about camps generally, not about Kanawana. The thunderstorm advice quoted alongside it is from "Storms Ahead," *Canadian Camping* Vol. 30 No. 4 (June 1978), pp. 4-5 (issue 120). The Camp Howdy "Camper Care Package," from the B.C.C.A. Newsletter of October/November 1980, is reprinted in *Canadian Camping* Vol. 32 No. 6 (December 1980), p. 4 (issue 134).
 23. Marjorie Booth, "Camp Music Idea," *Canadian Camping* Vol. 35 No. 1 (Spring 1983), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 146).
+24. Jack Pearse (Director, Camp Tawingo), "Song Leading," *Canadian Camping* Vol. 22 No. 4 (June 1970), pp. 8-9 [src_ia_canadian_camping_collection]. The five categories, the named repertoire under each, the eight-step method for teaching a round, and the rule that all sing songs end quietly. See [f_4869], [f_4870].
+25. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
+26. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
+27. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
+28. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+29. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
+30. *Camp Otoreke songbook*, 1941 [src_ymf_1941_camp_otoreke_songs]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1941-camp-otoreke-songs.txt`, 64,053 characters. Held since 2026-08-25 at basis "asserted: keyword-swept, not read closely" on a record marked *extracted*; read word for word 2026-09-07 under p_487, and the repertoire enumerated. See [f_5004] and [f_5602].
+31. *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its closing page. Read 2026-09-08 under p_441. See [f_5799].
+32. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its staff list and COUNSELLOR-IN-TRAINING PROGRAM section. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under `p_441`. See [f_5821] and [f_5818].
 
 ## Research Notes
 

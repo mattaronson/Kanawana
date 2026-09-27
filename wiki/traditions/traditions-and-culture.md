@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 61*
+*Last Updated: 2026-09-07 (twenty-four years of the camp's World Service giving, and a column that corrected itself)*
 
 ## Overview
 
@@ -25,6 +25,29 @@ A systematic search for post-2005 "Kamp Kanawana" usage (2026-07-07) found no ge
 
 The YMCA's Christian character shaped daily routines throughout the camp's early decades. Morning devotions were held around the flagpole, and evening vespers provided a contemplative close to each day.^4 An open-air chapel held its first service of the 1935 season on June 30, with an organized choir documented in the 1938 Green Triangle.^5 ^6 On final nights of the camp season, conversion commitments were sought from campers.^4 The extent to which formal spiritual observances continue in the modern camp is undocumented.
 
+**The camp gave money away, and the association printed how much.** From at least 1940 to 1963, the
+YMCA of Montreal's World Service tables list Kanawana as a contributing unit in its own right, on the
+same page as Central, Westmount, Notre Dame de Grace and Lachine.^61 The line runs in the tens of
+dollars through the war (**$47.34** in 1942, **$55.85** in 1943, **$63.36** in 1944, **$79.03** in 1945,
+**$62.14** in 1946), crosses a hundred at the end of the decade (**$154.64** secured in 1949 against a
+budget of $100), and reaches **$280.40** in 1957 and **$485** in 1958. By 1961 the association set the
+camp no target at all and it turned in **$400** anyway.
+
+Two things about that series are worth keeping. **Camp Otoreke's line is several times larger
+throughout** — budgeted at $1,000 in 1955 and 1957 where Kanawana was budgeted $165 and $250 — which is
+a difference in what the two camps were for as much as in what they raised. And **the tables do not say
+where a camp's money came from.** Camp Perrot's own reports say plainly that its Penny Fair proceeds and
+its chapel collections went to the World Service Fund; no Kanawana document read so far says the same of
+Kanawana, so reading these figures as the campers' Sunday collections is an assumption and is left as
+one here.^61 [f_5710]
+
+**One year in that run was wrong on the page and a column of addition fixed it.** The 1947 table gives
+Kanawana **$671.79** under a printed total of $18,100.68. The eleven legible lines above it already sum
+to $17,797.17, so 671.79 plus Otoreke's 209.89 overshoots the total before Camp Perrot's line is added
+at all. Read as **$71.79** the column closes exactly, and hands back the line the scan had lost
+entirely: **Camp Perrot, $21.83**. The reading needs only an inserted leading digit, and it puts the
+year back inside a series that runs 62.14, 79.03 and 71.43 on either side of it.^61 [f_5711]
+
 ## Annual Events and Competitions
 
 The camp calendar was punctuated by recurring competitive and social events:
@@ -32,12 +55,434 @@ The camp calendar was punctuated by recurring competitive and social events:
 - **Shawbridge Meet**: An annual athletic competition involving a hike to Shawbridge, with the J. Earl Birks Trophy awarded. As of 1922, it had been running for ten years (since approximately 1912).^2 ^7 Still documented in 1935.^5
 - **Silver Trophies**: Annual inter-branch competition awards; in 1923, Westmount won Athletics and Aquatics for the third consecutive year.^7
 - **Boating Carnival** and **All-Camp Regatta**: Documented in 1935.^5
-- **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area.^5
+- **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area — and mixed events; the 1932 programme, with its Ladies' and Mixed races, is set out in [[history/coeducation-gender|Coeducation and Gender]]. The paper devoted an entire issue to the occasion in 1936, headed "**Marois Issue**" and written throughout in verse addressed to the visiting girls^53.^5
 - **Annual Circus**: Raised $5 in proceeds during the 1935 season.^5
-- **Fancy Dress Ball**: Documented in the 1938 Green Triangle.^6
+- **Fancy Dress Ball**: Documented in the 1938 *Green Triangle* — and three years earlier, as a "**fancy dress carnival**" on a Thursday evening in June 1935, with prizes to Jimmy Hamilton "as a savage tribesman", Burgess and Drossey "as a rickshaw team", Bruce Johnson "as a hula-hula dancer", Dickie Ott "as a bandit" and Junior Taylor "as a Chinaman"^47 — a costume list very much of its date, recorded as printed.^6
 - **Pyjama Parade**: An annual procession to the post office.^5
 - **Eating-Out Day**: At a "haunted house" location, documented in 1935.^5
 - **Torch Ceremony for World Friendship**: Held in 1935, this was part of a YMCA-wide interwar peace tradition.^5 ^22 The movement originated at a 1926 international YMCA conference where representatives from 52 nations lit a "Fire of Friendship" and passed torches to the younger generation, who declared: "We leave this fire with a vision of a great Christian fellowship, conscious of difference but resolved to love."^22 YMCA Camp Fuller (Providence) held a similar "World-Wide Friendship" ceremony in 1932.^22
+
+## The Fire of Friendship at Kanawana, 1932
+
+The entry above dates Kanawana's Torch Ceremony to **1935** and open question 3 below treats the
+matter as resolved. *The Green Triangle* of **6 August 1932** carries a full description of the
+ceremony held at camp the previous Tuesday, which moves Kanawana's participation back **three years**
+and supplies the chain it belonged to.^44
+
+**It was one link in a scheduled worldwide chain.** "Last Tuesday the camp participated in a **world
+wide chain of Fires of Friendship**. Tuesday was the anniversary of the **International Fire of
+Friendship at Toronto last year when 1400 boys** united in pledging themselves to a better and more
+sympathetic understanding of the peoples of other countries." So Kanawana was keeping an anniversary
+of a Toronto gathering of **1931**, on a date other camps were keeping too.
+
+**The Chief dated the origin to Vaumarcus, Switzerland, in 1925.** He "opened the ceremony by telling
+of the first Fire of Friendship at **Vaumarcus, Switzerland, in 1925**," and the reporter thought part
+of what he said worth quoting: "Boys and their leaders from **17 countries** had gathered around that
+Fire. They sought **unity, not uniformity; fellowship not rivalry; the spirit of service rather than
+the spirit of boasting; stern reality, not hazy idealism; the message of Christ to the world today,
+not vague sentimentalism**." This article's entry above gives the origin as a **1926** international
+conference of 52 nations. The two accounts are a year and a good many countries apart, and both are
+kept: 1925 at Vaumarcus with seventeen countries is what Kanawana's own Chief told the campers in 1932.
+
+**The mechanics, which the archive elsewhere holds only as a catalogue title.** "All week long the
+whole camp had been cutting and preparing torches… These torches were **carved and each fellow got a
+number of his friends to sign his torch**." Then "a boy from each of the **13 International Fires of
+Friendship** which have been held since that time stepped forward and, lighting his torch from the one
+held by the Chief, gave to us the message from the Fire he represented" — thirteen fires between 1925
+and 1932. Boys representing each of the continents entered the inner circle with greetings; twenty
+boys stood at the fire with the rest of the camp in a larger circle around them; then "the campers all
+filed past the Fire and one by one lighted their torches," and standing in one great circle repeated
+the pledge brought from Toronto:
+
+> We leave this fire conscious of differences and of the task before us, but with a wider vision of
+> Christian fellowship and a deeper faith in God our Father, and determined to work for peace and good
+> will among men.
+
+That is close to, but not the same as, the declaration quoted in the entry above. Both wordings are
+kept rather than reconciled.
+
+**And the account is signed by a name this wiki dates three years later.** The piece is signed "**Graig
+MacDermaid**," and the issue of 30 July 1932 records the camp welcoming "**Mr. McDermit**" among new
+staff.^43 [[people/greig-macdiarmid|Greig Macdiarmid]] is dated in this wiki to **1935–1939** as Camp
+Chief. The OCR of these mimeographs confuses vowels throughout, and a leader arriving in July 1932 who
+is Chief by 1935 is an ordinary career; but the identification rests on a spelling, so it is recorded
+as likely and the directors' dates are left alone.
+
+## Two 1932 patterns worth naming
+
+**Camp leagues were named after consumer brands.** Across three issues of 1932 the intramural teams
+are: **Cadillacs and Auburns** in juvenile baseball; **Minty's, Forhan's and Pepsodent's** in the
+"**Tooth Paste League**"; and **Harley Davidsons, Hendersons, Indians and Super X** in a motorcycle
+league run as a "reliability tour."^43 ^44 Three different brand categories in one season is a habit
+rather than a joke, and it is a small piece of evidence about how much of the boys' commercial world
+came up the hill with them.
+
+**And camp kept the Los Angeles Olympics as they happened.** The week of 6 August 1932 was "Olympic
+week," with the junior section divided into teams representing **Japan, Canada, the U.S.A., France,
+England and Australia**, points awarded across all games, and a track meet at which the boys
+"impersonated **Percy Williams**, **Phil Edwards** and other Olympic stars" — the two best-known
+Canadian sprinters of the day. Japan and the U.S.A. tied at 23 points; Canada came third.^44
+
+## The Saturday Night Show, 1932
+
+Four consecutive issues describe the Saturday programme, and together they give the form rather than
+one instance.^45 It opened with a sing-song; then a talk that was explicitly "the educational section"
+(a health talk from the camp doctor one week, **Jim Mills on bird lore** another); then sketches and
+music from the campers — cross-talk acts, a dentist's-office sketch by four Junior campers, boy
+soloists, **Preston Robb** doing "a clever rendering of a Scotchman's act," a monologue as an
+assistant village minister, a tumbling exhibition, blindfold boxing that failed because the blindfolds
+would not stay on, and **Douglas Clarke** singing *Pagliacci* one week and the Serenade from *The
+Barber of Seville* another. **The week's issue of the *Green Triangle* was read aloud** as a fixed item
+of the programme — which is how a mimeographed sheet reached a camp of boys, and why its gossip column
+is written to be heard. The evening closed with a radio parody by two recurring characters, "Snoop and
+Peep," broadcasting "over our super-super-super pterodactyl, 13 cylinder, air-cooled radio."
+
+The Sunday that followed had its own shape: chapel "in the open chapel on the lake trail," a hymn, a
+solo, prayers from a leader, an address — Reg Kelley's farewell text was "**Watch, stand firm in
+faith, play the man and be strong**," illustrated throughout with references to sport — and the
+Benediction given by the Chief. The Sunday night **Council Ring** assembled "the Chiefs and Little
+Chiefs," in the last issue of the season.
+
+## The Kanawana Circus
+
+The camp ran an annual circus, and the knowledge base has carried facts about it for a year without
+any article saying so. It is documented in **1933**, **1935** and **1942**, and the 1933 account
+implies **1932** as well.
+
+**The fullest description is of Thursday 3 August 1933.**^46 It was a fundraiser and the paper is
+frank about that: "It turned out to be a fairly profitable business, as the camp pulled in some
+**fifty dollars**. The Chief, and others who are connected with the treasury, were highly elated as
+this showed **a marked improvement over last year's proceeds**" — so there was a 1932 circus too.
+"Only one crate of oranges were given out, as the various **rackets and gyp machines** were a greater
+swindle than ever."
+
+The booths are listed, and half of them were rigged. Tent 12 of the Juniors ran "a large tin on which
+was painted measly little dots. These dots you had to cover with a coin. Of course that was
+impossible, but **the Chief bit**, as he went out after supper to make a grand cleanup, and the
+leeches clung to him till his last gasp." Another Junior tent ran a bowl of water in a dish: "they
+jiggled the whole works just as you threw, so your coin would bounce out if you did happen to land it
+in the small bowl." **Doug Clarke** had "some weird contraptions down in the lower pavilion" and was
+teased "almost to tears" by "a small group of the usual holiday rowdies," which "only added a little
+zest to the show." **The Rev. Mr. Prettie** ran the refreshment stand — soft drinks and ice cream —
+and "this little stand pulled in more cash than any other." The straight games were bean bag toss,
+hammering the nail, darts, knife throwing, horseshoes and Eric Wright's ball-throwing rig. **Mr.
+Langille** "received over forty Sun kisses; but rumour has it that he paid just about as many dollars
+for them, so he wasn't so hot after all."
+
+**1940, with numbers.** The circus of Thursday 25 July 1940 was held on the Junior Campus and the
+paper counted it: "**330 oranges** were distributed… In all, **5,122 tickets were sold**, and **240
+soft drinks** were imbibed."^51 It reports "literally hundreds of booths, with everything from games
+of skill to riding the graceful and swift steed of **M. Page**" — a horse, in fact a mare, from the
+neighbouring [[people/page-family|Page family]], tame enough to carry most of Juvenile Camp and still
+able to throw the business manager and all three of "Kanawana's 'Three Men On A Horse', **Roby Kidd**,
+Tom Hardwick, and our daring B.M."
+
+**And the two Kidds are somebody.** The circus report names **Roby Kidd**, and six years earlier a **John
+P. Kidd** was a Kanawana leader. They were brothers — the elder went on to run the Canadian Citizenship
+Council, the younger became one of the central figures of adult education worldwide — and Roby was on the
+Montreal YMCA's staff in the North Branch boys'-work post that sent boys to this camp when he turned up
+clowning on the Page family's mare. The whole of it, including what his biography does not say, is at
+[[people/notable-alumni/kidd-brothers|The Kidd Brothers]].^55 ^56
+
+alone; neither full text has been downloaded, and their records say so.)* The best-attended booths were the ice cream and soft drink stand
+and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
+to most who bought them."
+
+**And the orange-winning was a tracked record.** "**Chief failed to reach the all camp record for
+winning them. He set this record in 1935, when he won 110 oranges, either by hook or by crook.**" So
+the number of oranges a camper could win off the booths was a standing camp record with a holder, and
+the holder in 1940 was the Chief himself, five years on. Beside the 1933 account of the Chief losing
+money at a rigged Junior tent's game, a consistent picture: the circus was the day the staff were
+fair game.
+
+**The later instances.** The 1935 season chronicle records "the annual Circus… of which the **$55**
+proceeds" went to camp funds — five dollars up on 1933. And in **August 1942** Camp Director R. H.
+Hanagan and Resident Director E. E. Smee staged a circus and parade covering the Bantam, Junior,
+Intermediate and Senior sections, with Hanagan appearing in Indian garb on horseback; the *Gazette*
+covered it, and the games it names — darts, nail and hammer, hoop-la, coconut shy — are recognisably
+the 1933 list nine years on. A camp event that keeps its booth list for a decade is a tradition, not
+a one-off, and the staff losing their own money at rigged games run by twelve-year-olds appears to
+have been the point.
+
+**The paper's standing columns had names and were staffed as posts.** The masthead of 30 June 1935
+lists an editorial board with a section representative for each of Senior, Junior and Juvenile camp,
+then two bylines that are jokes rather than people: "**Kanawana Thru' a Keyhole** — The Snoop" and
+"**Advice to the Love Lorn** — Dorthie Dix," with "**Reporters — Everybody in Camp**."^47 Both
+pseudonyms were running the same columns that appeared in the paper's first issue three summers
+earlier, so a newspaper that lasted from 1932 to 1940 was handing down not only a masthead but two
+comic personae.
+
+## Internationalism at Kanawana, 1932–1965
+
+The Fire of Friendship above was not a one-off gesture, and the strand it belongs to runs across the
+whole period this article covers. Set the pieces beside each other and they make an argument the camp
+was making about itself.
+
+**1932: a link in a worldwide chain**, described in the section above — thirteen international fires
+since Vaumarcus, a boy carrying the message of each, and a pledge about "peace and good will among
+men."
+
+**1935: the ceremony again, at the Council Ring, with nine nationalities in camp.** *The Green
+Triangle* of 6 July 1935 describes that year's Torch Ceremony, "symbolic of World Friendship and
+Brotherliness," held at the **Council Ring**.^48 The Chief spoke "about the two Fires of Friendship,
+at **Vaumarcus, Switzerland, in 1925**, and at **Toronto in 1933**" — note that the 1932 account gave
+the Toronto fire as the previous year, 1931, so either there was more than one or the date drifted in
+retelling; both are recorded. Boys representing each continent lit torches from one kindled at
+Toronto, and together lit "the first Kanawana fire for 1935." Then "**runners were dispatched with
+flaming torches to light the other fires of Kanawana**," and in the interval before they returned,
+"**natives of nine different countries then in camp told something of the youth of their own land**."
+Nine nationalities, at a Montreal boys' camp, in 1935, each given the floor.
+
+**1935: a carp from Japan.** A week later, on 7 July, "at an impressive ceremony around the flag pole
+on Junior Campus," **Mr. Ernest Trueman of Montreal** "presented to the Camp **on behalf of the youth
+of Japan** a '**Koi Nobori**' or huge effigy of a carp, which flew from the flagpole for the remainder
+of the day. In an effort to promote international goodwill and brotherhood, the boys of [Japan] have
+dispatched such fish to nations all over the world. One came here to Kanawana and **was accepted in
+the spirit it was given. A fitting reply has been mailed to our Japanese friends**, and those who
+attended the ceremony have a clearer understanding of the Japanese than ever before."^48 *(The scan
+reads "the boys of Cjina" in that one sentence, against "the youth of Japan" and "our Japanese
+friends" either side of it; the OCR of this run is poor and the surrounding text is unambiguous.)* A
+koinobori flying over a Laurentian boys' camp in 1935, six years before Japan and Canada were at war,
+with a reply posted back — this project holds nothing else like it.
+
+**1937: it was in the work crew, not only the ceremony.** Every other item in this section is a
+ceremony or a statement, and every one is about campers. The Spring Issue of *The Green Triangle*, 30
+March 1937, is about staff, and about the least ceremonial job at camp. Its columnist recalls a chapel
+service in which it was mentioned that in the first truckload of those sent up to break camp "there was
+a group forming almost a **League of Nation nationalities**: **Jack Cameron**, the golfing Scot, **Capt.
+Kidd**, the piratical British Columbian Canadian business major-domo, **Neri Guadagni**, the Italian card
+sharp, **Wes Woo**, the story-telling Chinese mandarin, **Bud Flaherty**, the American biologist, and Jo
+Peep, the expatriated English Haile Selassie."^58 He draws the moral himself: "this mixture of
+nationalities, much like the mixture of different types of campers, was banded together to learn how, by
+experience, to get along with each other. **Camping is fun, but camping is also opportunity to meet,
+play with, work with, and understand those with whom we come in contact.**" Six men in a truck, sent
+ahead to open the place, and the camp made the composition of that truckload the subject of a sermon.
+
+**The same sentence is a list of ethnic caricatures, and the date is the sharpest thing in it.** The
+Italian is a card sharp, the Chinese man a "story-telling mandarin," the Scot golfs. And the columnist
+calls himself "the expatriated English Haile Selassie" — Haile Selassie had been living in exile in Bath
+since Italy took Addis Ababa in **May 1936**, ten months before this issue went out — while **Neri
+Guadagni, "the Italian," stands two names earlier in the same list**. The paper celebrates a League of
+Nations at camp in the act of making a joke of the League's most public failure, with an Italian beside
+the man making it, and shows no sign of noticing. It is quoted here rather than tidied because this
+section argues the camp's internationalism was deliberate and sustained, which it was. This is what that
+looked like from the inside in 1937: real, and casually shot through with the racial vocabulary of its
+decade. Jack Cameron, first of the six, turns up again driving canoe trippers north in 1940; see
+[[traditions/canoe-trips|Canoe Trips]].
+
+**1938: fifteen nations, and an argument for why it mattered.** The opening campfire of the 1938
+season, in the Council Ring: "The first part of the programme was an expression of 'goodwill towards
+men' — goodwill towards the people of all nations and creeds. **The camp itself is cosmopolitan,
+having among its ranks campers who represent some fifteen different nations.** By becoming friendly
+with those fellows we will gain respect for their various countries, and, **because we form a part of
+public opinion, will be a force for internationalism**."^50 Fifteen nations against the nine counted
+in 1935, and a stated theory of why a boys' camp should care: that the campers were future public
+opinion. Written in July 1938.
+
+**1964: it was in the staff again, and the camp counted who came.** Thirty years after the
+League-of-Nations truckload, the camp's own annual report describes the same thing without the
+epithets: "**In one section alone six different countries were represented on the staff**, one from
+Holland, one from Poland, three from England, one from France, one from Australia and of course from
+Canada. **Three of the staff were English University students who came to Canada on a student chartered
+plane and stayed nine weeks in camp** before making a tour of parts of Canada and the United States."
+Staff came "from as far east in Canada as Cape Breton Island to Toronto in the west and as far south as
+Virginia in the United States."^59
+
+The campers were counted the same way. Two boys came **from Japan**, their fathers posted to Montreal
+with the **International Civil Aviation Organization**; their counsellor was **from Malaysia** and spoke
+four eastern languages, none of them Japanese. One boy came **from Haiti**, "his father being the
+commander of the army of that country." Others came from the Bahamas and the United States, and the
+report notes "an increasing number of **French campers, many of whom are sent to Kanawana to learn
+English**," alongside "many '**new Canadian**' boys… from such countries as Hungary, Holland, Germany,
+France and Italy."^59
+
+**And one paragraph is about who was choosing not to go elsewhere.** "The new **YMHA** camp has made no
+difference to the total number of **Jewish boys** attending Kanawana. It would seem reasonable to
+predict that we will always retain a fair number of Jewish campers, as **the parents of many of them
+feel that this is a good opportunity for them to get outside of the Jewish community for a period of
+time**."^59 It is the camp's own reading of other people's motives, written by a director watching a
+competitor open, and it should be read as that rather than as testimony from the families concerned.
+What it does establish is that Kanawana enrolled Jewish campers in numbers the director thought worth a
+paragraph, and that he expected to go on doing so. The camp's own ten-year statistical table of the same
+period counts campers as Protestant, Roman Catholic, Jewish, Buddhist and not reported; those figures
+are not recoverable from the scan, and what they would show is set out at
+[[meta/attendance-series|The Attendance Series]].
+
+**1965: three languages a tent.** Thirty years on, a camper's own piece in *The Chestnut*: "In most
+tents, there are **at least three languages**. I think this is good because it helps campers to get
+along with people from different countries… I find that an **international camp** is fun and
+adventurous and that is my main reason for coming to Kamp Kanawana each summer." Quoted more fully in
+[[history/coeducation-gender|Coeducation and Gender]], where it was first written up.
+
+**What holds these together** is that the camp kept doing this deliberately for at least three
+decades, and said so in its own publications rather than in fundraising copy. If this strand grows
+much further it should have its own article; for now it belongs here.
+
+## Two evenings from 1935
+
+**The pyjama parade.** "Thursday night another milestone in Kanawana for 1935 was passed — the pyjama
+parade. To the martial strains of Robert Greening's accordion and Doug MacDonald's bugle and the not
+so melodious tones of Ken Clark's makeshift drum, **the whole camp, dressed in pyjamas or less,
+marched down to the post office** to receive the day's mail and as many oranges as possible… but the
+real hit of the evening was **the Chief in his purple striped with yellow pyjamas**. Even Ralph
+Flitton in his lone hand towel couldn't steal the show."^48
+
+**The Boating Carnival.** Decorated boats entered by tent, judged, and won by a pie: the 1935 prize
+list has a tie for first between two Junior tents, with entries named "**Toonerville Trolley**" and
+"**Kanawana Prison**," and a Senior Camp entry called "**A Waiting Game**." The seniors' own entry is
+described only as one "we shan't tell you what it was — the matter is much too delicate; suffice it
+to say that a **House of Parliament** was removed from the hill."^48
+
+## The Code of a Good Sport
+
+The paper's very first sport section, in July 1932, told campers to "remember the **ten commandments
+of a True Sport**" and quoted only the last of them. Three years later the paper printed the list, and
+the two issues together give what a Kanawana boy was expected to have by heart.^49 As printed on 20
+July 1935, with the numbering as the scan has it:
+
+> 1. Thou shalt not quit.
+> 2. Thou shalt not alibi.
+> 3. Thou shalt not gloat over winning.
+> 4. Thou shalt not be a rotten loser.
+> 5. Thou shalt not take unfair advantage.
+> 6. Honour the game thou playest, for he who [playeth the game straight and hard, wins, though he
+>    loses] —
+
+The sixth breaks off where the OCR fails; the bracketed completion is the 1932 issue's own wording of
+the same line. **Only six of the ten survive**, and no other issue read so far reprints the list, so
+four are lost unless a page image turns up. The code arrived at camp attached to a story: a visitor
+left with the editor an account of **Larry Shields**, the Penn State miler, who slowed at the anchor
+of a distance medley relay in Philadelphia to let a fallen Georgetown runner regain his feet, won the
+sprint, was disqualified anyway, and was "hailed as a hero in spite of the fact that he lost."
+
+## How the Best Camper Shield was decided, and the year it changed
+
+The Shields are listed among this article's end-of-season traditions. *The Green Triangle* of 27 July
+1935 records both the method and a deliberate change to it:^49
+
+> A new system of arriving at a decision as to who deserved the awards was adopted this year.
+> **Formerly, campers were chosen by their leaders and sectional director alone**; but this year
+> **every camper in every section had a chance to vote** for the boy whom he thought to be the best
+> all round camper. Then [from] the ten or twelve boys who received the most votes the leaders and
+> staff together chose the boys to receive the shields. Thus **this year the shield means more than
+> ever before** — it carries with it the **double approval of campers and staff alike**.
+
+A two-stage method — open nomination by the whole section, final selection by staff — introduced in
+1935 and explained to the campers in their own paper, with an argument for why it made the award worth
+more. The July winners were Bob Bennet (Senior), John Kennedy and Bryce Chatam (Junior) and Junior
+Taylor (Juvenile).
+
+**Two smaller things from the same fortnight.** A photographer, **Mr. Fowle**, spent the week at camp
+teaching a photography class and on the Friday "took a **mass picture of all Campers**," printed and
+displayed in the dining hall — so a whole-camp photograph of 1935 was made, which is worth knowing for
+anyone working through the fonds' image holdings. He was still there the following week: at the chapel
+service of **21 July**, "Mr. Harold Mills of Montreal sang, and several pictures were [taken] by Mr.
+Fowle. They are now on display in the dining hall."^60 And **Mr. Spearman**, Camp Chief through 1934,
+returned in 1935 to deliver the chapel address under his successor.
+
+**Was he a government photographer?** This project has said so, and the claim should be stated more
+carefully than that. The camp paper says only "photographer, who has done a great deal of work in **all
+parts of Canada**." The word *government* comes from the season chronicle, in a sentence whose scan has
+eaten the name it belongs to: "[unreadable] official government photographer, spent some time in camp
+taking both still and moving pictures."^60 The two accounts describe the same week — Howard C. Ross,
+K.C., reads his poetry in both — but that fixes the week, not the man, and the fourth week may have had
+one visiting photographer or two. **A government photographer named Fowle is an inference**, and the
+moving pictures, which would be the earliest film of Kanawana by twenty-five years, hang on the half of
+it that has no name attached.
+
+Eight further searches on 7 September 2026 — four in the digitised book corpus, two on the open web, and
+two of the archive index — returned nothing on him. The only Fowle the book corpus offers in a
+government-film setting is **"Chick" Fowle**, a cameraman of Britain's GPO Film Unit, which is the wrong
+country and, on the face of it, the wrong decade; it is named here so the next pass does not mistake it
+for a lead. One line remains open and is independent of him: on **13 July**, of the carnival's repeat
+performance for visitors, the paper says "at that time **press photographs** will be taken."^60 Press,
+not Fowle — which puts camp pictures in a Montreal newspaper of July 1935 if any survive. [f_5709]
+
+## Cuckoo Day, 1938
+
+A tradition this project had no record of, described in full, and already a revival when it was
+described.^52 *The Green Triangle* of 6 August 1938, on Thursday the 4th:
+
+> The announcement of **Cuckoo Day** for Thursday, August 4th was received with much uneasiness by the
+> Camp — **who but the Camp Council knew** whether we would be hauled out of bed at the unearthly hour
+> of 5 a.m., or be allowed the blissful rest of an extra hour's sleep; whether we would have a
+> moonlight dip at 10 a.m., or at 4; whether we would have porridge for supper, or salad for
+> breakfast…
+
+**The day inverted the camp.** Breakfast was rung at the hour of evening programme and served like
+one, with announcements. "Butter and jam were served on huge trays, while the milk was placed in open
+bowls; the milk jug on the staff table was a **large eight gallon milk can**, into which their cups
+were informally dipped. **Chief and the Doctor acted as waiters for the whole camp**, and when the
+time came for the first course to be served, they unceremoniously placed **a huge pan of porridge in
+the middle of the dining hall**, from which the campers filled their bowls. In a similar way the
+toast, **done on one side only**, was served."
+
+**And then the roles reversed for the day's programme.** At the boating period "all leaders being on
+patrol" meant "there were no row boats left for the campers, who stood on shore and gaped as the
+patrols enjoyed a pleasant outing." At general swim, "the leaders and staff enjoyed a long swim while
+**the campers acted as patrols**, who had a short swim afterwards." Dinner "was served and eaten much
+more civilly," and the afternoon was a regatta.
+
+Two things are worth taking from it. The **Camp Council** — announced as a new body in the season's
+opening issue that July — was the authority that set the day and kept it secret, so a camper committee
+had real programme power in 1938. And the paper's verdict is that "the **revival** of this event was a
+great success, and should be made an [annual affair]," so **Cuckoo Day predates 1938** and had lapsed.
+Nothing read so far says when it began or when it stopped.
+
+**The craft shop advertised itself as a radio station.** The same issue: "Calling all boys! Bring your
+airplane models, plasticine models, vases, trays, bookcases, whisks, serviette rings, cork calendars,
+caterpillars, horses' teeth, boats, bugs, snakes, sketches, **felt crests**, fungi, fossils, et cetera
+to the craftshop to take place in the **gigantic hobby show** this coming Sunday. Enter your models in
+the airplane show, photographic negative contest or various other displays… Your models will be safe
+in the care of Tom Best until they are returned to you. **Station KKC signing off. That is all.**"
+
+## The camp kept up with the outside world
+
+A pattern worth naming, because it runs across the whole 1930s run and every instance is small on its
+own. In **1932** the intramural leagues were named for cars, toothpaste and motorcycles, and the
+junior programme spent a week as the Los Angeles Olympics with teams for six nations. In **1938** the
+boating carnival's floats were **Cleopatra in a galley ship** (Senior camp, and the winner), the
+**Louis vs. Schmeling fight** (Juvenile cabin 2 — the rematch had been fought on 22 June that year,
+six weeks earlier), the **Dionne Quintuplets** (cabin 1), a **Pirate Ship**, the **survivors from the
+Titanic**, and one tent's straight-faced "Opening Ceremonies at Kamp Kanawana."^52 The announcer,
+**Norm Wallace**, wore "a cap which might have been stolen from a Montreal street-car conductor," and
+under his announcements "the music from **Benny Goodman's records** was wafted from the gramophone in
+the **Crow's Nest**."
+
+Swing records, a heavyweight title fight, the quintuplets and the Olympics all reached a Laurentian
+boys' camp within weeks of happening. Whatever else the camp was selling — woodcraft, the simple life,
+the out-of-doors — its campers arrived with the decade in their heads and built it into their boats.
+
+## The Masquerade Ball and a yelling contest
+
+**The masquerade ball was annual and the Juveniles held their own.** *The Green Triangle* of 22 August
+1940: "Last Saturday night saw the success of another **annual masquerade ball**. **Like last year the
+Juvenile Section held a separate ball of their own**, while over in the dining hall the Juniors and
+Seniors held theirs. After the general march led by Doug Fairbairn in which the winners were picked,
+there was group singing," a solo, "and a short talk by the Doctor. **The feature of the evening was
+the hobo dance**, after which refreshments were served. A moonlight dip was also a highlight."^53 With
+the fancy dress carnival of June 1935 and the fancy dress ball of 1938, that makes the costume evening
+a fixture across at least six seasons, and 1940 adds two things: it had **split by section** by 1939,
+and it had a set piece of its own called the hobo dance.
+
+**And on a rainy day in 1939, the Chief made the whole dining hall compose yells.** "Another rainy
+day, and at the Chief's suggestion **each table in the dining hall composed and delivered themselves
+of a yell at supper time**. The judges for the occasion were **Nurse Rayner, Dr. Robb and Bill
+Green**. After a good deal of hulla-lu-hullo, the Doctor called it a dead heat between Senior Table
+No. 1 and the Staff; an exciting 'shout off' resulted in a victory for the Staff, with the Seniors
+yelling '**we were gypped**.' The Chief presented the prize — **a large hollow bull's horn filled with
+stale chocolates**, which were hesitatingly consumed by the staff. The winning yells will be printed
+if the demand is sufficient."^53 The demand was evidently not sufficient: no later issue prints them.
+[[traditions/camp-songs-cheers|The songs and cheers article]] has the camp's yells surviving only in
+fragments, and this is a day on which a dozen new ones were composed and none written down.
+
+**The reunion tradition was still running in 1981, and by then it had split in two.** *Ka-News* of 21
+April 1981 lists what was coming: "**Kamper Reunion at Westmount Y on May 2**… All are welcome of
+course, and hope to see you there. **Staff Reunion/Get-together is tentatively planned for May 30/31
+in St. Sauveur.**"^54 [[documents/green-triangle|The Green Triangle]] records the twenty-seventh annual
+reunion of "old Kanawanians" in October 1936, counting the series from about 1909. Forty-five years
+later the camp was still holding one — two, in fact, a campers' reunion in the city and a staff
+reunion at the camp itself, five weeks apart.
 
 ## L&V Games
 
@@ -67,6 +512,10 @@ Documented ceremonies from the archives include:^10 ^11
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
 
+**And one the camp itself never printed.** Everything above comes from Kanawana's own paper — programmes, newsletters, catalogue titles, a thesis working from the fonds. A book about something else entirely gives a ceremony none of them mentions. Jan Elvin's *The Box from Braunau: In Search of My Father's War* (2009), describing her father's Quebec boyhood, says that at the end of a session "**early in the morning, all the campers observed the camp ritual of jumping into the cool lake bare naked**."^37 Her father and his brother went "every summer" after the family moved to Drummondville in 1926, so this is the Harold Cross years.
+
+It is worth being plain about why this is not in the camp's own record. A camp writing to parents prints the 6.30 morning dip with its physical exercises, which this project has from the camp's own early literature, and does not print the naked one on the last morning. That is not concealment; it is what a brochure is for. The consequence for anyone using this wiki is that **the absence of a tradition from the camp's publications is not evidence that it did not exist**, and the way to find the rest of them is books by people who were not writing for the camp.
+
 ## The Camper's Oath
 
 Every camper and their parent/guardian must read and sign a formal bilingual "Serment du campeur / Camper's Oath," explicitly tied to the motto Non Nobis Solum. Recovered copies from 2010 and 2013 are nearly word-for-word identical, indicating a stable, standardized text across at least that period. The oath commits campers to respect the natural environment, treat campers and staff with respect and courtesy, use appropriate language, respect others' belongings, follow all safety regulations (on camp and on canoe trip expeditions), abstain from alcohol, illegal substances, and tobacco during their stay or expedition, and contribute to the camp community through joy, enthusiasm, and humour. Breach of the safety provisions can result in immediate dismissal from camp or from a canoe trip expedition. The signed copy is kept on file at the camp office.^29
@@ -86,6 +535,27 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 - **KLS (Kanawana Life Saver)**: Based on the RLSS Award of Merit
 - **The Green Triangle**: Described as "the coveted Green Triangle" in a Reader's Digest account, this award was given to campers who accomplished a specified series of feats. Charles "Smillie" Buckland was the first recipient.^19
 
+**The badges survive, and somebody labelled them.** A scrapbook page in the camp's physical archive, captioned
+"**Awards, Circa 1940**" and annotated in period handwriting, shows the felt badges themselves with a note
+on each.^57 A **maroon triangle with an embroidered maple leaf**: "This was the leadership crest — Westmount
+'Y'." A **plain green felt 'K'**: "The small 'K'. **The second highest award**." An **outlined, unfilled
+triangle**: "awarded after getting a certain # of badges." And an **orange-and-black circular patch**
+carrying the YMCA Spirit/Mind/Body triangle with the citation **John 17:21** at its centre — the "that they
+all may be one" verse, which is the YMCA's own founding text and not a Kanawana choice. Three felt pennants
+in blue, gold and brown each carry a stitched **K** and nothing else.
+
+Two things this settles about the list above, which is drawn from the 1922 and 1923 brochures. **The
+hierarchy survived to about 1940 in the same shape** — the small k is still explicitly "the second highest
+award" nearly twenty years on, and the triangle is still the badge-count award. And the maroon leadership
+crest is a **branch** crest, Westmount's, worn at camp: the honour system and the branch system were both on
+the same tunic.
+
+**A separate club, not a rank.** Another felt badge in the same set reads "**KANAWANA OUTING CLUB**" around
+the YMCA triangle.^57 This project has no other trace of an Outing Club, and it does not fit anywhere in the
+badge hierarchy above; it looks like a membership, not an award. See
+[[traditions/winter-programming|Winter Programming]], which describes a Kanawana Outing Club in a later
+period — whether the badge belongs to that body or to an earlier one of the same name is not established.
+
 ### The M. E. Williams cups (1917–1922)
 
 A competition this wiki had no record of, with a winners roll thirty years older than the L&V trophy's. The *Gas Bag* "Extra, Vol. 13 No. 1" of 1923 asks "**Which branch will win the M. E. Williams cups?**" and prints a two-column table of winners for **Aquatics** and **Athletics**, 1917 through 1922.^34
@@ -95,13 +565,30 @@ Crucially it was an **inter-branch** competition — North Branch, Central and W
 | Year | Aquatics | Athletics |
 |---|---|---|
 | 1917 | North Branch | Westmount |
-| 1918 | *[ditto]* | Central |
-| 1919 | *[ditto]* | *[ditto]* |
-| 1920 | Central | *[ditto]* |
+| 1918 | " | Central |
+| 1919 | " | " |
+| 1920 | Central | " |
 | 1921 | Westmount | Westmount |
-| 1922 | *[ditto]* | *[ditto]* |
+| 1922 | " | " |
 
-**The ditto readings are an inference and are marked as such.** The OCR renders the repeat marks as garbage characters — "sf", "s", "ce", "ef", "es" — which is consistent with ditto marks but not proof of them. The *named* entries are certain; the repeats need a page image to confirm. Who M. E. Williams was, when the cups were first given, and when they lapsed are all undocumented.
+So in full: **Aquatics** — North Branch 1917–19, Central 1920, Westmount 1921–22. **Athletics** — Westmount
+1917, Central 1918–20, Westmount 1921–22.
+
+**Confirmed from the page image, 2026-09-06.** This table previously carried its repeats as
+*[ditto]* with a note that the reading was an inference, because the OCR renders the marks as "sf", "s",
+"ce", "ef" and "es". The page was fetched and read directly: the marks are plain double quotes and the
+inference was right.^36 The heading above the table is a question, not a record — "Which branch will win
+the M. E. Williams cups?" — so 1923 itself is not a result.
+
+**Who M. E. Williams was is still unknown, and there are four Williamses to keep apart.** The name occurs
+**exactly once** in this project's entire source cache: here. The annual reports for 1917 through 1924
+mention no cup, trophy or shield in a camp context, so neither the gift of the cups nor their lapse is
+documented. The reports do carry a **George E. Williams** — on the board 1913–18, an advisory member of
+the Italian Y.M.C.A. board from June 1915, chairman of the committee for Work Amongst Foreigners from
+January 1916 — whose initials are *G. E.*, not M. E., and none of whose recorded work is camp work. He is
+a candidate on dates alone and is not identified here. Two more Williamses are traps: **Sir George
+Williams**, the YMCA's founder, died in 1905 and gave his name to Sir George Williams College; and
+**C. T. Williams** was the association's President around 1899–1902.^36
 
 ### Two lost honours, recovered 2026-08-14
 
@@ -146,6 +633,58 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 
 **The roll itself.** Twenty-nine people were invested between 1980 and 2009, each named on a dining-hall board with their year and the title Sir or Lady. This wiki recorded three of them until the [[meta/plaque-audit|plaque audit]] of August 2026 recovered the full list. The roll, the cross-references it opens up, and what its considerable gaps might mean are set out in **[[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]]**.
 
+## "Old Kanawanians": the word in 1938, in someone else's newspaper
+
+**Every use of "Kanawanian" this wiki held was the camp using its own word about its own people.** The
+1964 annual report's "Forty thousand boys have earned the title 'Kanawanian' since Kanawana was
+opened"; the 1980 charter of the Knights of Kanawana; the Order of Owens citation, which honours "a
+Kanawanian who best exemplifies the leadership qualities and attitude of a canoe tripper"; and Ayunda
+Dube's "We are all Kanawanians" of 2004-05, below. Institutional language about itself, in other
+words, which does not tell you whether anyone outside used the word.
+
+**Someone outside did, in 1938, and did not stop to explain it.** *The McGill Daily* of 2 March 1938
+reported the Student Christian Movement's ski weekend at Lac Guindon, and one party's misadventure:^41
+
+> "During Sunday afternoon, one skiing party got itself into such a predicament that at one time each
+> of its nine members was pointing to a different direction for return. When they neared Kamp
+> Kanawana they were finally led back safely under the direction of **two old Kanawanians in the
+> party**, only half an hour too late for supper."
+
+That is twenty-six years earlier than the earliest dated instance previously held here, and it is a
+different kind of evidence. A student newspaper writing for a general campus readership uses the word
+in passing, about two men in a ski party, with no gloss — so it was current in Montreal student
+circles by 1938 and expected to be understood. The form is worth noting too: **"old Kanawanians,"** on
+the model of an old boy of a school, which is how alumni of the English schools were named.
+
+**What the same sentence does not say, since it invites the error.** The conference was not held at
+Kanawana. It was at Madame Hébert's "Laurentide Home" on the shores of Lac Guindon, about three miles
+up the lumber trail from Shawbridge, and the party merely passed near the camp.^41 What that *does*
+establish belongs to the site rather than to the culture: nine lost skiers knew where they were when
+Kanawana came in sight, and two former campers could navigate home from it — so the place was known,
+recognisable and passable in deep winter, in trail country the Douglas Trail and the Johannsen-West
+route ran through. See [[site/places-and-locations|Places and Locations]].
+
+## "We are all Kanawanians": a counsellor's account, 2004-05
+
+The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
+only first-person account of arriving at Kanawana as a counsellor that this project holds from any
+year. A native of **Zimbabwe**, he came to Montreal as a refugee at nineteen and found "his first
+home away from home and contacts at the Downtown YMCA"; three years later he was asked to become a
+counsellor at the camp and agreed "without hesitation".^38
+
+What he says about the first day is the part worth keeping, because the camp's own literature never
+puts it this way. **"After having said 'yes', I was scared — scared of being the only black guy at
+the camp — and of not being accepted by the other counsellors."** He had never been to a summer
+camp. On the first day the fear "was immediately dispelled": the counsellors "came from all over in
+the world. There were no racial or cultural distinctions in the group. **At Kanawana, the only
+culture that exists is the camp culture. We are all Kanawanians.**"^38
+
+**Two cautions.** This is a testimonial published by the association in its own annual report, so it
+is the camp describing itself through someone it chose to profile, and it reads as such. And it is
+one person's account of one year, which is what makes it valuable and also what limits it: nothing
+here says the counsellor body was as diverse in any other season, and this project has no other
+account to set beside it.
+
 ## Images
 
 ![The Order of the Knights of Kanawana, 1981](../../assets/images/art/knights-of-kanawana-charter.jpg)
@@ -163,15 +702,56 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 ![Felt YMCA pennant, c.1930s](../../assets/images/artifacts/ymca-pennant-crest.jpg)
 *A felt YMCA pennant bearing the camp crest and the motto “Non Nobis Solum.” Copyright All rights reserved by Kanawana.*
 
+**A third phrase, used as the camp motto in 1932.** The first issue of *The Green Triangle*, 23 July
+1932, closes its account of a juniors' farewell programme: "This ended another successful evening with
+the **camp motto 'Shoot Straight and hit the mark'**."^42 The phrase occurs nowhere else in this
+project, and it is called *the camp motto* by the camp's own paper.
+
+**What to make of it, carefully.** It does not displace either motto above and is not offered as doing
+so. The register is sporting rather than institutional, and the same issue closes its sport section
+with the period creed "Honour the game thou playest, for he who playeth the game straight and hard,
+wins, though he loses" — so "shoot straight and hit the mark" may be a sportsmanship slogan in
+ceremonial use rather than the motto on the crest. But the camp's own newspaper calls it the camp
+motto, in 1932, which is squarely inside the window open question 1 below is about; and
+[[documents/green-triangle|the newspaper article]] records as a corpus-wide null that **neither**
+"Non Nobis Solum" **nor** "Each for all and all for each" appears anywhere in the paper's whole
+1932–1940 run. A negative that large now has a positive beside it: what the paper does carry, once, is
+a third phrase. Whether the Latin motto was not yet adopted, or simply never printed in a camper
+newsletter, remains open — but the possibility that the camp used a different motto out loud in the
+1930s is now evidenced rather than speculative.
+
 ## Open Questions
 
 1. [Critical, re-confirmed dead end 2026-07-09] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"? The English motto is documented in the 1922 and 1927 brochures. The Latin motto is first attested in the 1993 documentary. Even the McMorris thesis, with full archival access, could not narrow this window. A concrete physical-archive target now exists: Concordia's Box HA1874 holds individually itemized (but undigitized) camp brochures from 1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, and 1983 — inspecting these, particularly the pre-1993 ones, is very likely the only way to narrow the transition window.^30 Note: "Each for all — all for each" is also the motto of Camp Becket (Becket-Chimney Corners YMCA, est. 1903), suggesting a shared YMCA camping tradition.
 2. ~~[Critical] Which pre-WWII traditions survived into the modern era?~~ [Partially resolved] Oral history (2026-06-13) confirms: the Council Ring ceremonies (Opening/Closing/L&V fires), the time capsule burial/retrieval tradition, the section system (renamed 1959), and the Kanawana Marching Song all survived. The dam ceremony did not survive past ~1985. The Shawbridge Meet, Pyjama Parade, and Eating-Out Day/Haunted House status are unknown.
-3. ~~[Important] What was the "Torch Ceremony for World Friendship"?~~ [Resolved] Part of a YMCA-wide interwar peace tradition originating at a 1926 international conference. Camp Fuller (1932) and Kanawana (1935) both held versions.
-4. [Important, re-confirmed dead end 2026-07-09] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935. A direct fetch of Concordia's 12A finding aid (1895-1982) and QAHN's dedicated Shawbridge-history article both confirm zero mentions of the meet; the McMorris thesis full text likewise contains zero "Shawbridge" mentions. This is now a confirmed dead end for free online sources — only a BAnQ numérique login/library-card search of the Montreal Star/La Presse (blocked to this tool by paywall) or a direct Concordia annual-report request for the 1936-1946 range could resolve it.
+3. [Important, **Partially resolved; reopened in part 2026-09-07**] What was the "Torch Ceremony for World Friendship"? Part of a YMCA-wide interwar peace tradition. **Kanawana held it in 1932, not first in 1935** — see the section above, from *The Green Triangle* of 6 August 1932, which describes the ceremony in full. Two things the earlier answer got only partly right: the origin, given here by Kanawana's own Chief as **Vaumarcus, Switzerland, 1925, with seventeen countries** against the 1926 conference of fifty-two nations recorded above; and the chain, which by 1932 ran to **thirteen international fires** and was being kept on a common anniversary date by camps across the world. What remains open is when Kanawana first joined it, since 1932 is now only the earliest year documented rather than the first.
+4. [Important, re-confirmed dead end 2026-07-09] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935. A direct fetch of Concordia's 12A finding aid (1895-1982) and QAHN's dedicated Shawbridge-history article both confirm zero mentions of the meet;^31 the McMorris thesis full text likewise contains zero "Shawbridge" mentions. This is now a confirmed dead end for free online sources — only a BAnQ numérique login/library-card search of the Montreal Star/La Presse (blocked to this tool by paywall) or a direct Concordia annual-report request for the 1936-1946 range could resolve it.
 5. [Important, re-confirmed dead end 2026-07-09] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)? Both are confirmed to be catalog-title-only entries in Concordia's Box HA2315, with no descriptive content in the finding aid itself.^30 One new detail was found: the Fire of Friendship's suggested programme was designed "to be used at the end of a Boy Scout day," per the McMorris thesis (see Ceremonial Traditions above) — but the 1936 firelighting ceremony itself remains wholly undescribed online.
 6. [Nice-to-have, re-confirmed dead end 2026-07-09] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives (Box HA1874), but the public finding aid lists it only as a single undifferentiated box-level entry — individual issue dates are not itemized online. Only five total items from this collection are digitized on Internet Archive (the 1923 brochure, 1935 chronicle, the one 1938 Green Triangle issue, the 1941 CFCF broadcast, and a previously uncited May 1980 "Ka-News" issue, which contains no motto/Shawbridge-relevant content). A direct request to Concordia Records Management for the box's item list is the only remaining path.
 7. [Nice-to-have, re-confirmed dead end 2026-07-09] Did "Kamp Kanawana" persist informally (merchandise, staff/alumni culture, signage) after the official spring-2005 spelling change to "Camp"? A fresh sweep across Facebook, Instagram, TikTok, Reddit, Etsy, eBay, Worthpoint, and Wikimapia found no dated evidence of post-2005 informal "Kamp" usage — every hit is either a citation of an object whose own original title used the old spelling, or an unrelated legacy URL slug. One operator recollection places the change in the mid-to-late 2010s — a decade after the documented institutional switch — which may reflect informal persistence not yet found in any dated source, but this remains unconfirmed after two independent search passes.
+
+**The staff turned the motto into an organisation, and it reached Haiti.** The Montreal YMCA's
+annual report for the year ended 31 May 2003: "The Kamp's summer staff founded a **volunteer group
+called Non Nobis Solum** (Kanawana's motto, which means 'not for ourselves alone') whose goal is to
+**organize community outreach projects and raise funds to sponsor youth in our partner YMCA in
+Haiti**."^39 Nothing else in this project mentions the group, a Haitian partner YMCA, or what became
+of either. It is the only instance found so far of Kanawana staff constituting themselves as a body
+outside the camp's own structures.
+
+**And the Haitian partner has a name and a date.** The previous year's report announces it: under
+"**International Programs — Inauguration of the YMCA of Haiti**", "the new YMCA in **Port-au-Prince**
+began its activities with the opening of the **Konbit Youth Centre**", the Creole word *konbit*
+meaning the pooling of community resources.^40 So the association opened a YMCA in Port-au-Prince in
+2001-02, and Kanawana's summer staff formed a group the following year to raise money for youth
+there. **The two reports are one year apart and this article joins them; neither says the other's
+name**, and no source read here follows the group or the partnership past 2003.
+
+**Two more things the same "Year of Firsts" records**, neither of them anywhere else in this
+project. In November, "a large number of the summer campers met up again at the **Westmount YMCA**
+for **Kamp Kabaret** — an evening of songs, skits and laughs", an off-season reunion of campers.
+And "**Kanapalooza** was another first for the camp that could well become an annual event.
+**Monitors past and present staged a benefit concert at Club Soda and raised $2,000** for Kamp
+Kanawana."^40 Whether either was ever held again is not known here.
 
 ## Related Articles
 
@@ -184,6 +764,7 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 - [[traditions/camp-songs-cheers|Camp Songs, Cheers, and Musical Traditions]]
 - [[traditions/myths-and-legends|Kanawana Myths and Legends]]
 - [[traditions/order-of-owens|The Order of Owens]]
+- [[traditions/plaque-culture|What the Plaques Say Besides Names]]
 
 ## Sources
 
@@ -222,4 +803,32 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 33. Kamp Kanawana season reports and newsletters in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 29 July 1940 (Red Feather); the 1965 camp publication *The Chestnut* (Golden Arrow, Red Feather Revue); *Kanawana… A Place to Grow*, 1988 (founding dates for the Order of Owens, Knights of Kanawana and Walden Solos); *Kamp Kanawana Director's Report 1987* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_place_to_grow_1988, src_ia_kanawana_report_1987].
 34. *The Gas Bag*, "Extra, Vol. 13 No. 1" (1923), Kamp Kanawana official paper (Internet Archive, Concordia-digitized fonds) [src_ia_ymca_montreal_fonds_collection].
 35. *The Green Triangle*, issues of 2 June 1938 and 21 July 1940 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2281].
+36. The 1923 *Gas-Bag Extra*, page 1, **read from the page image** on 2026-09-06 [src_ymf_the_gas_bag_extra_vol_13_no_1]; and the YMCA of Montreal annual reports 1913–1924 for the Williams disambiguation [src_ia_ymca_montreal_annual_reports_collection]. See [f_4925], [f_4926].
+37. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009), Internet Archive scan leaf 296 [src_elvin_box_from_braunau_2009]. **One passage only**, reconstructed 2026-09-06 from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4952].
+38. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the "People with Strong Values" profile of Ayunda Dube. Read 2026-09-06 under p_454. A SELF-AUTHORED PUBLISHED TESTIMONIAL, given by name to the association for its own annual report, not a third-party assessment of a private individual, so the embargo procedure for personal assessments does not apply.
+39. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: the Non Nobis Solum staff volunteer group. Read 2026-09-06 under p_454.
+40. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the International Programs page. Read 2026-09-06 under p_454.
+41. "Lost Skiers Find Trails," *The McGill Daily* Vol. 27 No. 87, 2 March 1938 [src_mcgill_daily_1938_03_02]. Transcribed in full at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5405], [f_5406].
+42. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
+43. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
+44. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
+45. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
+46. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+47. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+48. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+49. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+50. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
+51. *The Green Triangle*, Issue 2, **21 July 1940**, and Vol. 47 No. 4, **29 July 1940** [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+52. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+53. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
+54. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+55. D. Cochrane and others, *J. R. Kidd: An International Legacy of Learning* (Monographs on Comparative and Area Studies in Adult Education) [src_kidd_international_legacy]. Internet Archive item `ERIC_ED272738`, full djvu text downloaded and read 2026-09-07. **"Kanawana" occurs zero times in it**; what it supplies is Kidd's Montreal YMCA career, his North Branch boys'-work post and his brother John. See [f_5569] and [f_5570].
+56. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts"; and *The Passionate Educators* [src_passionate_educators], whose notes cite four letters from J. R. Kidd to J. P. Kidd in 1950-51. Both reached through Open Library search-inside 2026-09-07; **neither full text was downloaded**, so both are snippet evidence. See [f_5571].
+57. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — an operator-supplied set of scanned artefacts. The **c.1940** scrapbook page of felt badges is at [f_1582] and the **Kanawana Outing Club** badge at [f_1583]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+58. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30], cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`. The **1937** break-camp truckload, the "League of Nation nationalities" passage and the caricatures in it are at [f_5629]. **Jack Cameron**, first of the six named, is followed across four documents from **1936** to **1940** at [f_5626].
 
+59. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964], `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. The staff of six nationalities in one section and the three English students who flew out on a charter are quoted from it directly; the camper origins — the Bahamas, the U.S.A., the two boys from **Japan**, the boy from **Haiti**, and the "new Canadian" boys — are at [f_2391], and the **535** campers and the counsellor figures at [f_2389]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+
+60. *The Green Triangle* for **13 July**, **20 July** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_13, src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27], and *A History of Kamp Kanawana*, the 1935 season chronicle [src_history_1935], cached at `sources/cache/green-triangle/1935-history.txt`. Read side by side 2026-09-07 under `p_495`; the government question and the null searches are at [f_5709], and the identification they qualify at [f_5628].
+
+61. YMCA of Montreal annual reports for **1940**, **1943**–**1947**, **1949**–**1958** and **1961**–**1963** [src_ymf_sgw_ymca_annual_report_1940, src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1950, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957], their World Service tables. Swept 2026-09-07 under `p_259`. **Only the 1947 and 1957 tables have been reconciled against their own printed totals**; the 1949 and 1955 columns each overshoot theirs, so their Kanawana lines are legible but not column-verified. The series is at [f_5710] and the 1947 correction at [f_5711].

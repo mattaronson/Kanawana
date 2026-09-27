@@ -35,7 +35,7 @@ The correction also dissolves an apparent contradiction with [[people/notable-al
 
 1. Camp Stephens Alumni Blog, 2013 posts on Nelson McEwen and Ross Bannerman careers [src_camp_stephens_alumni_blog].
 2. Concordia University Archives, YMCA of Montreal fonds P0145/12B01 (Kanawana General Administration, incl. Bannerman's 1969 report) [src_concordia_atom_12B01].
-3. Concordia University AtoM, YMCA of Montreal Fonds P0145 (full finding aid, International Branch file reference) [src_concordia_atom_fonds].
+3. Concordia University AtoM, YMCA of Montreal Fonds P0145 (full finding aid, International Branch file reference) [src_concordia_fonds].
 4. YMCA of Montreal news release, November 27, 1970: appointment of Ross Bannerman as General Secretary effective December 1, 1970 [src_ia_ymca_news_release_1970_11_27].
 5. YMCA of Montreal Annual Reports 1977-78 and 1978-79 (Internet Archive) — Metropolitan Staff mastheads and the Branch Chairmen and Executive Directors listing [src_ia_ymca_annual_report_1977_78, src_ia_ymca_annual_report_1978_79].
 6. Kamp Kanawana director's and annual reports, digitized in Internet Archive's rma-concordia-publications collection [src_ia_ymca_annual_report_1978_79].

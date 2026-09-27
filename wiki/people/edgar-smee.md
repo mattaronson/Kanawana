@@ -19,7 +19,7 @@ This two-tier directorship — Camp Director and Resident Director — is one of
 
 ## The 30-Year Absence (c. 1938–1968)
 
-The Environmentalist of the Year biography states that Smee returned to Hamilton "after a 30-year absence" in 1968.^3 His departure from Hamilton around 1938 aligns precisely with his earliest documented Kanawana service in 1939, strongly suggesting he relocated to Montreal for YMCA work. His activities during the years between 1942 and 1968 are entirely undocumented in publicly available sources. Given his YMCA camp experience, he may have continued in YMCA or youth-service work, but this remains speculative pending archival research.
+The Environmentalist of the Year biography states that Smee returned to Hamilton "after a 30-year absence" in 1968.^3 His departure from Hamilton around 1938 aligns precisely with his earliest documented Kanawana service in 1939, strongly suggesting he relocated to Montreal for YMCA work.^7 *That is this article's inference and not a statement in either source*, which is why it carries its own note. His activities during the years between 1942 and 1968 are entirely undocumented in publicly available sources. Given his YMCA camp experience, he may have continued in YMCA or youth-service work, but this remains speculative pending archival research.
 
 ## Environmental Career (1968–2002)
 
@@ -70,5 +70,5 @@ Smee died peacefully on February 7, 2002, at the Glebe Centre in Ottawa, at age 
 5. *Globe and Mail* obituary, February 11, 2002: Edgar E. Smee death notice. Family, memorial details.
 6. Hamilton Community Foundation: Ed Smee Conserver Society Environmental Fund (est. 1999).
 7. McMorris (2023); EOY 1983 profile. Chronological inference from Hamilton departure c. 1938 and Kanawana service 1939–1942.
-8. Concordia University Archives: YMCA of Montreal fonds P0145. Potential staff records.
+8. *A lead, not a source, and deliberately uncited.* Concordia University Archives, YMCA of Montreal fonds P0145 — potential staff records for the 1942-1968 years this article cannot document. Not consulted; nothing here rests on it.
 9. YMCA Camp Manitou-Lin (Grand Rapids, MI area) history page [src_grymca_manitoulin_history]. Comparative Resident Director/Camp Director title data point.

@@ -1,0 +1,101 @@
+SOURCE EXTRACT — read from the full djvu text, 2026-09-06
+=========================================================
+YMCA YEAR BOOK AND OFFICIAL ROSTERS (1922)
+New York: Association Press. Internet Archive: ymcayearbookoffi01youn
+
+NOT LENDING-RESTRICTED. The full djvu text (1,508,916 bytes) was downloaded and searched.
+"Kanawana" occurs ZERO times — as in all nine volumes of this series now held. It rosters staff,
+not programmes.
+
+WHY THIS VOLUME. p_433 named it next because 1922 is the season Lemuel P. Ereaux directed the camp
+and Hay Finlay ran its senior section.
+
+
+THE YMCA OF MONTREAL, 1922
+--------------------------
+
+    Montreal, 127 Drummond St.
+      President, GERALD W. BIRKS
+      Gen. Secy., J. W. Beaton
+      Consulting, D. A. BUDGE
+      Financial, J. O. Lough
+      Accountant, John S. Gibb
+      Canadianization, R. Gordon Burgoyne
+      Cote St. Paul, JOHN G. MacKINNON
+      Verdun, GRANT D. BRANDON
+
+    Central Br., 127 Drummond St.
+      Chairman, A. J. Meiklejohn
+      Secy., J. Morley Carson
+      Membership, F. B. Wilson
+      Social, H. J. Swetman
+      Educational, Anson W. Young
+      Physical, Merwin F. Furey
+      Asst. Physical, O. S. McCutcheon
+      Asst. Physical, George F. Harris
+      Boys, R. E. G. Davis
+      Asst. Boys, F. Owen Stredder
+      Asst. (Office), Frank Spence
+      Asst. (Office), William Henry Caradine
+
+    North Br., 2300 Park Ave.
+      Chairman, William Taylor
+      Secy., W. J. HOLLIDAY
+
+
+FIVE THINGS
+-----------
+
+**W. J. HOLLIDAY IS STILL THERE, AND HE IS RUNNING A BRANCH.** `directors-index.md` says of the man
+who opened Kanawana: "How far past 1910 he continued is not stated." He is **Secretary of the North
+Branch at 2300 Park Avenue in 1922**. His documented Montreal career now runs **1906 to 1922 at
+least**: Assistant Secretary 1906, Boys' Work Director 1907-08, camp director 1910-12?, branch
+secretary by 1922.
+
+**HAY FINLAY IS GONE**, and the timing is exact. He is "Asst. Physical, Hay Finlay" at Central in
+the 1921 volume; Central's assistant physicals in 1922 are O. S. McCutcheon and George F. Harris.
+Kanawana's 1922 brochure calls him "**ex**-Central YMCA Boys' Physical Director, then at McGill
+Physical Education". The roster puts his departure between the two volumes — the same season he ran
+the camp's senior section.
+
+**MacKINNON AND BRANDON BOTH MOVED.** John G. MacKinnon was Industrial Secretary in 1921 and is at
+**Côte St. Paul** in 1922; Grant D. Brandon was Community Secretary in 1921 and is at **Verdun**.
+Both are branch or district postings, which is what a boys'-work man's career does after the camp
+seasons this project records for them (MacKinnon 1916-19, Brandon 1918 and 1921).
+
+**THE PRESIDENT CHANGED**: A. O. Dawson in 1921, GERALD W. BIRKS in 1922.
+
+**D. A. BUDGE, TO THE MONTH.** The volume carries a continent-wide "LIST OF SECRETARIES ENTERING
+ASSOCIATION SERVICE BEFORE JAN. 1, 1893, AND STILL EMPLOYED APRIL, 1922. (In a few cases service has
+not been continuous)." Its fifth line reads:
+
+    Mar. 1874    D. A. Budge, Consulting Sec, Montreal
+
+Forty-eight years, and only four men on the whole continent ahead of him — Robert Weidensall
+(Oct. 1868), Richard C. Morse (Dec. 1869), Isaac G. Jenkins (April 1871) and H. S. Ninde (July
+1872). The general secretary who presided over the camp's founding entered YMCA service in **March
+1874**.
+
+
+AND ONE OUTSIDE MONTREAL
+------------------------
+Under ONTARIO AND QUEBEC TERRITORY, 86 Adelaide St. E., Toronto:
+
+    tHarry Ballantyne   Territorial Secretary
+    T. D. PATTON        Assistant Territorial Secretary
+    Percival J. Lee     Assistant Territorial Secretary
+    William R. Cook     Boys' Work Secretary
+    A. S. Hopper        Financial Secretary
+
+`t-duncan-patton.md` summarises his career as "Territorial Secretary at Toronto (1922-26)". The 1922
+roster has him as **Assistant** Territorial Secretary, under Harry Ballantyne. Not a contradiction —
+he may have been promoted inside that span — but the article's phrasing compresses an arrival into a
+tenure, and the roster is the more precise witness for 1922.
+
+
+NOT FOUND
+---------
+The volume's *Alphabetical List of Employed Officers* begins at scan line 18262, and W. J. Holliday
+does not appear in it under that spelling; only five occurrences of "Holliday" exist in the whole
+file and four are the Pennsylvania town of Hollidaysburg. Either the OCR has mangled his index line
+or he is listed under a variant. The roster entry above is not in doubt.

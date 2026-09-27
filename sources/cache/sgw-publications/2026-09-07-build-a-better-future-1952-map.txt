@@ -1,0 +1,78 @@
+"BUILD A BETTER FUTURE" — Sir George Williams College building-fund prospectus, 1952
+and a map of the Y's Greater Montreal properties
+
+Internet Archive identifier: sgw-build-a-better-future
+Creator: Sir George Williams College | date 1952 | one _djvu.txt, 37,916 chars
+Archive description: "Prospectus for a fundraising campaign for the Sir George
+Williams College Building Fund."
+Found 2026-09-07 by the accounted sweep of rma-concordia-publications (p_479).
+Not previously in sources.json.
+
+-------------------------------------------------------------------------------
+WHAT THE DOCUMENT IS
+-------------------------------------------------------------------------------
+
+A donor prospectus for a new College building. Its argument: the Evening
+Division is "bursting at the seams," several hundred students were turned away
+last year, the Drummond-Stanley Building "originally provided accommodation for
+only 2,000," four rented annexes "are not designed for educational work;
+conditions are crowded and makeshift," and the target is to accommodate 6,000
+in the Evening Division. "The Survey and Policy Committee of the YMCA has
+recommended that this need be met by constructing a new classroom and
+administration building" — a four-storey structure beside the Drummond-Stanley
+Building, in which the College would retain 23,000 square feet on two floors.
+It names Principal Norris, Dean Henry F. Hall and Bursar Henry G. Worrell
+reviewing the blueprints.
+
+-------------------------------------------------------------------------------
+WHERE THE CAMPS APPEAR, AND WHAT KIND OF EVIDENCE THAT IS
+-------------------------------------------------------------------------------
+
+READ THIS BEFORE USING THE PASSAGE. The camp names do NOT occur in a sentence.
+They are labels on a MAP, captioned "HERE IS YOUR Y.M.C.A. OF GREATER MONTREAL",
+and what the OCR returns is the scattered label text in reading order with the
+cartography lost:
+
+  "CAMP OTOREKE   CAMP KANAWANA   CAMP PERROT   GOUIN BLVD   CHRISTIEVILLE SKI
+  LODGE   …TO … LAURENTIANS …  ST. MICHEL RD.   INTERNATIONAL   COTE DE LIESSE
+  CENTRAL Y.M.C.A.   ROSEMOUNT   NEW SIR GEORGE WILLIAMS COLLEGE   NOTRE DAME DE
+  GRACE   …SHERBROOKE…   WESTMOUNT   …CITY HALL…   BRANCH
+  HERE IS YOUR Y.M.C.A. OF GREATER MONTREAL"
+
+Legend fragments follow: "Building Fund", "Other Projects", "Y.M.C.A. Branches".
+
+SO WHAT CAN AND CANNOT BE TAKEN FROM IT. What can: that in 1952 a Sir George
+Williams College fundraising prospectus put THE THREE CAMPS AND THE
+CHRISTIEVILLE SKI LODGE on a single map of the Association's Greater Montreal
+holdings, alongside the branches and the proposed new College building, under
+the heading "your Y.M.C.A." What cannot: any spatial relationship, any distance,
+any symbol-to-legend assignment, or which items were marked "Building Fund"
+against "Other Projects". Those are properties of a graphic and the OCR of a
+graphic does not preserve them. THE PAGE IMAGE WOULD SETTLE THEM AND HAS NOT
+BEEN LOOKED AT.
+
+-------------------------------------------------------------------------------
+TWO THINGS WORTH HAVING
+-------------------------------------------------------------------------------
+
+1. CHRISTIEVILLE SKI LODGE IS ON A DONOR MAP IN 1952. wiki/site/camp-otoreke.md
+   records, from Concordia's finding aid, a "Purchase by YMCA of Christieville
+   property. - 1948-1951", a "Friendly Home-Christieville rental" (1948), the
+   "Christieville site" (1949) and "Christieville ski lodge correspondence"
+   (1959) — a property the wiki says "the Y appears to have acquired… and run
+   for at least a decade." This is the middle of that decade and it is not a
+   file title: the lodge was established enough by 1952 to be worth showing
+   donors by name.
+
+2. THE CAMPS ARE INSIDE THE COLLEGE'S OWN FUNDRAISING FAMILY. This is a SIR
+   GEORGE WILLIAMS COLLEGE prospectus, and the map it prints is of the YMCA's
+   properties with the College as one item among them. It is the same identity
+   that runs through everything found today — the college on the second and
+   third floors of the Drummond Street Y building, the Training Fellowship men
+   staffing the camps, Camp Otoreke in the college calendar — seen here from the
+   fundraising side, where a donor is asked to think of the camps and the
+   college as one institution's estate.
+
+NULL RESULTS. Each of Kanawana, Otoreke, Perrot, Christieville and Gouin occurs
+EXACTLY ONCE in the whole 37,916-character document, all of them in this map.
+There is no prose about any camp anywhere in the prospectus.

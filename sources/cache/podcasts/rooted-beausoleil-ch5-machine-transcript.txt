@@ -1,0 +1,111 @@
+MACHINE TRANSCRIPT -- NOT A PUBLISHED ONE.
+
+Source: "Chapter 5: Camp Kitchikewana", from Rooted: Beausoleil Island, a Know
+History podcast. Published 18 October 2021 on Buzzsprout; 12 minutes 10 seconds.
+Audio: https://www.buzzsprout.com/1866499/episodes/9324020-chapter-5-camp-kitchikewana.mp3
+
+No transcript is published for this episode -- the Buzzsprout page carries the
+scaffolding for one and no content. This text was produced on 2026-09-05 by
+running faster-whisper (small model, int8, CPU) over the downloaded audio, in
+this project's own session. It has never been checked against the recording by
+ear, and the model mangles proper nouns throughout: "Kichikawana" and
+"Kitchi" for Kitchikewana, "Boasley" for Beausoleil, "Muscoca" for Muskoka,
+"Sean Courbier" for the interpreter Shawn Corbiere. Timestamps are in seconds.
+
+READ IT AS EVIDENCE ABOUT THE AUDIO FILTERED THROUGH A MODEL, not as the
+speakers' words. In particular, a word absent here may have been misheard --
+though the words this project was looking for (lumberman, voyageur, games,
+competition) are absent in every spelling variant searched.
+
+Speakers identified in the audio: Liz Edwards (host); Brian Shelley (former
+camper and director, YMCA Camp Kitchikewana); Shawn Corbiere (Georgian Bay
+Islands Indigenous outreach officer and interpreter).
+--------------------------------------------------------------------------
+
+[12] Resting on a large sandy shore on the east side of Boasley Island, you will find Camp Kichikawana.
+[19] The camp is a local institution. In fact, it's even older than Georgian Bay Islands National Park.
+[26] In 2019, Camp Kichikawana celebrated its 100th anniversary, while Georgian Bay Islands was only in its 90th year.
+[38] What makes Kichikawana so special isn't how old it is.
+[42] It's the island itself that makes children, families, and even whole generations return every summer.
+[48] I'm your host, Liz Edwards, and this is Rooted Boasley Island, a podcast exploring the history of Boasley Island through the environment around us.
+[64] This is Chapter 5. Camp Kichikawana.
+[74] Camp Kichikawana is owned and operated by the YMCA of Simcoe, Muscoca, running four two-week-long camp sessions every summer for kids aged 6 to 16.
+[86] Since 1919, campers have gathered together on Kichikawana sands to participate in activities like sailing, canoeing, mountain biking, art, music, and outtrips to other parts of the island,
+[100] all while in a beautiful, pristine national park.
+[104] But what if I told you that Kichikawana has actually been a summer camp for thousands of years?
+[110] Former camper and Kichikawana director Brian Shelley explains the historical significance of this site.
+[118] Yeah, so YMCA Camp Kichikawana is uniquely located in Georgian Bay Islands National Park, and I would say that it is a true partnership.
+[126] I think that the goals and objectives of Parks Canada complement really nicely the goals and objectives of the YMCA and vice versa.
+[136] We don't look at it as a landlord-tenant kind of relationship, we look at it as a partnership.
+[140] And so through that, we're in the unique position to be able to engage the parks' interpretive staff to help educate children and youth about Indigenous history of the island.
+[155] So the YMCA Camp Kichikawana is located on Bosley Island, which is a place that's been visited for over 5,000 years.
+[163] It was always so cool to me how much varied geography there is in the island.
+[169] As you get to the north end, it's all Canadian shield, and the south end you've got these giant, giant trees, the St. Lawrence lowlands.
+[178] And then where Kitchi is in the middle, it's just like so unique, right?
+[182] Like the fact that it's basically all beach is where the two different geographic regions meet.
+[188] Brian has been involved with Camp Kichikawana ever since he first started there as a camper.
+[193] To me as a kid, you know, I may not have known the right wording to describe that, but I remember the first time I went to Kitchikawana,
+[200] I could tell it was different and that the landscape was unlike anything I'd ever seen before and that it was, you know, in my head.
+[207] I remember thinking, like, if you could have designed the perfect site for a summer camp, this would be it.
+[213] Between, you know, the amount of beach you have and shade and then, you know, the rock formation for campfires,
+[220] protected harbors for sailing and canoeing lessons, but then, you know, access to good wind for sailing.
+[225] It was just the landscape and the geography even as a 12 or 13-year-old kind of blew my mind.
+[231] Brian shares more about how summer camp helped to shape him into the person he is today
+[237] and why Camp Kichikawana, like many summer camps, is so important for youth to attend.
+[243] I think what's unique about camps is that the desired outcome isn't to build great canoeists or sailors or Olympic caliber swimmers.
+[255] The outcome is designed to build really good people and we use sailing lessons and canoeing lessons and sailing lessons in arts and crafts
+[263] as a way to build self-confidence and to build interpersonal skills.
+[269] As part of a national park, all of these resources are now protected for generations of Kichikawana campers to enjoy.
+[277] The majority of the archaeological artifacts relating to the early history of Beausoleil Island were found at Camp Kichikawana.
+[284] Remnants of fire pits, clay pottery, projectile points, and trade items all suggest that the area was used as a spot for indigenous peoples to gather in the summertime to hunt, fish, and harvest.
+[297] It doesn't take an archaeologist to decipher why they chose this spot. Camp Kichikawana stands on a large embankment in a sheltered bay.
+[306] From the shore, you can easily see boats coming and going in case of an attack.
+[310] The sheltered bay is an ideal for fishing and the area is shielded from the strong northwestern winds of Georgian Bay.
+[318] Nearby are plenty of wild raspberry, blackberry, and blueberry bushes, and the central location allowed for easy travel to other parts of the island.
+[328] Where Camp Kichikawana is located, there's been artifacts found that are over 5,000 years old, but it's never been a permanent settlement.
+[335] It's always been a meeting place and so it's kind of always been a summer camp.
+[340] Whether or not it wasn't a summer camp as we think of it today, but it was never a permanent settlement.
+[346] And that's just so cool to me that at the YMCA we have this privilege to continue that tradition and continue to expose young people to this really significant and interesting piece of the island.
+[362] The majority of the artifacts found at Camp Kichikawana date back to the archaic period, about 7,000 years ago.
+[369] This period is characterized by the appearance of ground stone tools, more refined projectile points, and a reliance on local rock sources.
+[379] There's also a lack of pottery and smoking pipes and an increase in the numbers and the sizes of archeological sites.
+[386] Sean Courbier, Georgian Bay Island's Indigenous Outreach Officer and interpreter shares more about the archeology found at Camp Kichikawana.
+[395] For me, the history really strikes a note with me because we know that over 5,000 years ago that stone tool manufacturing was going on here in the park.
+[405] We actually took up the art of footnapping and I'm just sharing it with everybody that I can share with and hopefully pass it on to keep it carried on.
+[417] One of the oldest artifacts found on Boasley Island was quite literally stumbled upon by a Camp Kichikawana staff member.
+[425] While they were swimming, they cut their foot on something sharp and pulled out of the water a large quartzite knife, about 1 foot long and 7,000 years old.
+[435] Other amazing artifacts found here tell us how the island changed throughout history.
+[440] Throughout the recent history of Boasley Island, several other summer camps have come and gone.
+[445] Besides Kichikawana, there is one other YMCA summer camp on the island, Camp Queen Elizabeth.
+[451] Founded in 1953 and run by the YMCA of London Middlesex, Ontario, Camp Queen Elizabeth can be found north of Camp Kichikawana, located on very different terrain.
+[464] I think what's so special about Boasley Island is that in the course of a 25 minute walk you can experience the Canadian Shield,
+[477] you can experience the St. Lawrence Lowlands, you can walk out on the most beautiful beach that you've seen this side of the Ivory Coast,
+[486] and you can be walking around the circumference of an untouched lake that is a protected ecosystem.
+[498] I've been to a lot of beautiful places in this world.
+[501] I don't know that I've ever seen or visited a place that has such vastly different geological formations and geological regions, and to me that is magic.
+[514] While Camp Queen Elizabeth and Kichikawana provide campers with amazing opportunities to learn, grow and discover Boasley Island,
+[522] Camp Kichikawana is particularly impactful for kids and adults who visit this location.
+[528] Brian Shelley speaks about how his time at Camp Kichikawana influenced his future.
+[536] My experience at Camp Kichikawana changed my life and defined my life.
+[543] I think through my experience there I gained a lot of personal self-confidence.
+[550] I made my best friends, who are still my best friends today, 30 years later.
+[558] I gained an understanding and a connection to our natural environment that I don't know would have existed without my experience at Camp.
+[567] I grew up brother in Kitchener, Ontario, so not a huge urban center, but certainly not a rural experience.
+[578] I can say that my connection to the earth and my connection to the natural environment really is formed through my experience of going to Camp Kichikawana as a kid
+[589] and growing there as a counselor over the years and leading canoe trips to McCray Lake or to Three Rock Shoot,
+[598] or leading hiking trips on the island.
+[600] Actually, I kind of preferred the hiking trips on the island to the canoe trips
+[605] in that I thought it was really cool to be able to feel firsthand the changing geological formations on the island
+[615] as you traveled either north to south or east to west.
+[619] And seeing that in kids' faces as you walk the trails of the island to Christian Beach or up to Ferry Lake
+[632] and just the wide-eyed wonder of kids that maybe hadn't been exposed to this kind of natural environment before.
+[639] I think as much as I gained self-confidence, as I said, and certainly made great friends,
+[648] I think that connection to the natural environment really owes itself to my experience at Camp Kichikawana,
+[655] especially as a young person in my teens.
+[665] Rooted Bosle Island is a no-history podcast.
+[668] It is hosted by Liz Edwards, produced by Liz Edwards and Emily Keyes, with sound design by Liz Edwards.
+[676] Our guests today include Brian Shelley and Sean Corpierre.
+[681] Rooted Bosle Island is recorded in London, Ontario on the traditional lands of the Atawanderan,
+[687] Anishinaabek, Haudenosaunee, and Lunapuak, and in Ottawa, Ontario on the unceded territory of the Algonquin.
+[697] Bosle Island is located on the traditional lands of the Anishinaabek, Huron-Wendat, and Métis Nation.
+[704] These lands continue to be home to First Nation and Métis peoples whom we recognize as the contemporary stewards of the land and waters we are on today.

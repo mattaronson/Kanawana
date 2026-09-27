@@ -1,28 +1,83 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 22*
-*Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
-*Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
-*Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-09-08 (a whole tripping season counted, 1977; the fifteen rivers of 2026)*
+
+*Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
+*2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
+*2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
+
+## Overview
+
+Canoe tripping is the oldest continuous strand of Kanawana's programming and the one the camp was known for outside its own walls. It begins in 1925 as an optional extra, is a tiered system of graded routes by 1945, produces a separately accredited wilderness camp of its own in the 1960s and 1970s — [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]], spun out of this article — and is still being described to American camp guides in the late 1980s as a ladder running "from 2 mile hikes to 100 mile wilderness canoe trips… according to age and ability."
+
+This article covers the camp's own tripping: the early trips and what they cost, the postwar routes, the movement-wide safety reckoning of 1975–1981 that reshaped how every Canadian camp ran a trip, and the boat-building of 2001–02. The wilderness satellite has its own article.
+
+## The early trips, 1925-1948
 
 Canoe trips were introduced to Kanawana's program in 1925, offered as an optional extra at $3.50 per camper on top of the regular camp fee. By 1928, the camp director was already proposing more ambitious expeditions, suggesting 10- to 12-day trips for senior campers.
 
-The program expanded significantly through the 1930s. In 1936, trips began departing for the Lake Archambault region north of the camp, and by the following summer eight separate trips were heading to the Archambault area in a single season. The shift from short local paddles to multi-day wilderness expeditions marked a fundamental change in how Kanawana understood its relationship to the Laurentian landscape. Camp was no longer just a fixed site. The backcountry became part of the program itself.
+The program expanded significantly through the 1930s. The camp's own 1935 history lists a "Four-day trip to Otoreke" among the season's activities, which is the earliest dated trip named in this article and puts multi-day paddling in the programme by then.^9 In 1936, trips began departing for the Lake Archambault region north of the camp, and by the following summer eight separate trips were heading to the Archambault area in a single season. The shift from short local paddles to multi-day wilderness expeditions marked a fundamental change in how Kanawana understood its relationship to the Laurentian landscape. Camp was no longer just a fixed site. The backcountry became part of the program itself.
 
-By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^mc The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
+By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^1 The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
 
-By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
+**And the receiving camp counted them.** Camp Perrot's season report for 1948 tabulates the overnight groups that used its property, and among the Central, Westmount, Southwestern and Point St. Charles Y boys it lists "**Kanawana Canoe Parties (2 visits) — 20**."^29 That is the other end of the intermediate route described above: twenty Kanawana trippers, in two parties, paddling to the association's other camp and sleeping there. It puts the two YMCA camps in an operational relationship and not merely an institutional one. **And it was not a one-off**: the 1951 Perrot report's list of "Groups Using Camp Perrot" carries a "Kanawana Canoe Trip" among the church picnics and branch outings, three years later, though that table's numbers column is lost to the scan.^29 See [[site/camp-perrot|Camp Perrot]].
+
+By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^1 The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^1 That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^1 By 1964, over twenty trips were departing each season.^1 The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
+
+### What a ten-day canoe trip cost in 1926
+
+Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **Herbert B. Bell**, "an experienced canoe-trip leader," for **two men on a ten-day canoe trip in Algonquin Park**. The food was side bacon, cheese, flour, rolled oats, salt pork, tinned goods, peanut butter, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper and baking powder; the equipment a box of matches, a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two quarts, two dessert spoons, a teaspoon, two packsacks and a length of rope. The costs are given as:
+
+| | |
+|---|---|
+| Food | $11.18 |
+| Equipment | $6.60 |
+| Canoe (rental) | $8.00 |
+| **Total** | **$25.78** |
+
+— "approximately **$1.25 per person per day**."^22
+
+This is the only itemised cost of a 1920s Canadian canoe trip found by this project, and it is a direct comparator for Kanawana's own tripping in the same decade: the camp was running canoe trips out of Lake Wilson through the 1920s, and the figure gives a sense of what its per-camper tripping costs would have been against a season fee. Nothing here is a Kanawana record; it is a contemporary benchmark from the same years and the same kind of country.
+
+### The man who drove them: Jack Cameron, 1936-1941
+
+A Concordia Archives photograph in the camp's historical album is captioned "**Pop Cameron and the Canoe Trippers**" and can be dated to **1941** by the "54-868 QUEBEC 41" plate on the car in it.^31 Nothing else in this project attached a first name to that caption. The *Green Triangle* of **21 July 1940** does: "JUVENILE CANOE TRIP - UP NORT'. Monday morning, six of us piled into the back of **Jack Cameron's car** and were off to St. Donat de Montcalm. Here we got our permits to travel in the bush."^31
+
+A car, canoe trippers, and consecutive summers. The identification is not proved, because no document uses both names, but a second Cameron driving a second carload of trippers in the same two seasons is a poor explanation of the coincidence. Taken with the earlier issues, Jack Cameron sits in four documents across six years: the 1937 Spring Issue's list of the League-of-Nations crew sent up in the first truck to break camp — "**Jack Cameron, the golfing Scot**" — the same issue's recollection of "**Jack Cameron's hair cuts**" from the 1936 season, the 1937 closing staff roster, and this 1940 trip log.^31
+
+What none of the four gives is his role or title, his years of service, or whether "Pop" was in use before 1940. He is a man who is repeatedly present, who cut hair and drove the juveniles north, and whose job at the camp is nowhere written down. The pattern is worth naming, because the driving is the part that matters here: getting six boys to St-Donat in 1940 meant a private car and a day of somebody's time, and the trip logs almost never record who provided either.
+
+### 1945 to 1948: eight trips down the North River, and a circuit to Kingston and back
+
+The association's annual reports fill in the decade the article otherwise crosses in one sentence. Of the 1945 season: "**Two 19-foot canoes were purchased for out-trips, and eight trips were made, starting from Shawbridge, down the North River, to the Ottawa River and return.**"^26 That is the intermediate tier of the 1945 codified system being counted — eight departures, one route, and the canoes bought to do it.
+
+Two years later the report singles out something else entirely. "**A specific feature last summer was the long canoe trip via the North River, Ottawa River, Rideau River and Lakes to Kingston, down through the Thousand Islands to Vaudreuil and up the Ottawa and North Rivers to our camp.**"^26 Read as a route that is a closed loop: down the North River to the Ottawa, up the Ottawa and into the Rideau system, through the Rideau lakes to Lake Ontario at Kingston, back down the St. Lawrence through the Thousand Islands to Vaudreuil, and home up the Ottawa and the North. The camp went out its own front door, reached Lake Ontario by water, and came back a different way.
+
+The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
+
+The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^26 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
+
+### 1963 at Kanawana, in numbers, and a first for parents
+
+The YMCA of Montreal's annual report for the year ended 31 May 1964 gives the main camp's season, alongside the Voyageurs material now in [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]]. "**602 boys** attended Kanawana and Les Voyageurs de la Verendrye in 1963, led by **75 young men**, most of whom were college students and graduates" — the two programmes counted together, which is how the association was now reporting them.^27
+
+"**419 swimming tests** were passed at Kanawana in 1963 indicating a lively interest in water-front program. **20 five-day canoe trips** were taken by the older campers during the season in areas north of the camp which provide wilderness camping experiences. Kamp Kanawana has long been known as a canoe tripping camp as **187 boys passed the canoe tests** this season. Every boy has the opportunity for one or more one to five-day hikes during his stay. Last summer there were **147 such hikes** involving distances of **one to forty miles**, depending on age of the campers. **Even the youngest campers go on at least one overnight hike.**"^27
+
+And one line that belongs to no other article here: "An **orientation program for parents of new Kanawana campers involving 5 meetings** was an important innovation."^27 This project holds nothing else on the camp's relationship with parents beyond counts of Sunday visitors, and the report calls it an innovation, which makes 1963 its first year.
+
+## The wilderness satellite, 1959-1979
+
+**The programme that grew out of these trips has its own article.** From 1959 Kanawana ran a wilderness satellite — an Older Boys Camp based at the camp itself, then from 1963 a base camp at **Lac Landron** inside the Réserve faunique La Vérendrye, three hundred miles north of Montreal.^8 It took crews of five on trips of two and three weeks, was listed by the Canadian Camping Association in January 1975 as **a camp in its own right** with its own director and provincial accreditation,^12 lost its base camp in the 1970s, and survived into the late 1980s as a fourteen-day trip programme inside the parent camp. A. Ross Seaman's obituary names him its founder.
+
+Its full history — the 1959 season from inside, the move to Lac Landron and the philosophy the camp wrote down there, the crews and the mileages year by year, the absorption proposed in 1970 and refused in writing, and the two staff-assessment passages held under embargo — is at **[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]]**. It was spun out of this article on 2026-09-07, where it had grown to 8,346 words of 16,292.
 
 ## Coeducation and Later Developments
 
 The first all-female Voyageur trip departed from Kanawana in 1972, a milestone in the camp's transition to coeducation.^3 In 1998, the one-month Adventurer Canoe Trip was introduced, extending the program's reach to the most committed young trippers.^3
 
-**And by 1975 the programme was a separately accredited camp, with girls in a fifth of its places.** The Canadian Camping Association's January 1975 national Directory Issue lists **Les Voyageurs de la Vérendrye (YMCA)** not as a Kanawana section but as **a camp in its own right**, alongside and separate from the Kanawana entry, in the Quebec Camping Association's list of accredited member camps:^12
 
-> **LES VOYAGEURS DE LA VERENDRYE (YMCA)** — Director Derek V. Walsh — "c/o Kamp Kanawana, P.O. Box 310, St. Sauveur des Monts, Quebec." Activities: **Wilderness, Canoe Trips, Fishing, Campcraft**. **15 boys 13–17 / 5 girls 13–17.**
-
-Three things follow. The programme was **accredited in its own name** by the province, which means it was inspected as a camp and its records were kept as a camp's. Its **scale was twenty campers** in that season, against Kanawana's registered 180 — a small, selective operation, which fits the tripping tradition described above. And it puts an independent, dated figure behind the coeducation milestone: **three years after the first all-female trip, five of the twenty places were girls' places**, listed in the same age band as the boys'. That corroborates the 1972 date from a source that is not the camp's own institutional copy, and quantifies what "co-ed" meant in the programme at that point.
-
+## Safety and the tripping ethic, 1975-1981
 
 ### November 1975: every paddler in a lifejacket, by federal law
 
@@ -42,7 +97,50 @@ In December 1978 the Canadian Camping Association devoted its editorial to a dea
 
 The editorial does not name the camp, the party or the water, and this article does not identify it. What it records is the effect: the association's own judgement, in print, that a decade or more of confidence in Canadian camp tripping standards had been misplaced, and its call to "identify the risks in adventure tripping" so that "**the Canadian Camping Association could use this information to set standards and Governments could base their travel regulations on them**." It also supplies the precedent the association reached for — "**In the 1920s a camp in Southern Ontario had a similar experience at Balsam Lake. Out of that came the slogan 'Hang on to the canoe — for three days and three nights'. It was also the spur to camp people to establish standard strokes**" — which is the origin, dated to the 1920s, of two things any Kanawana tripper would recognise.
 
-Kanawana ran a separately accredited wilderness tripping camp in La Vérendrye through exactly these years, under the same provincial association. Whatever review of tripping practice followed in Quebec in 1979 applied to it. Together with the November 1975 flotation regulation above, this makes the second half of the 1970s the period in which the safety framework around Kanawana's canoe trips was rebuilt — and neither change originated at the camp.
+Kanawana ran a separately accredited wilderness tripping camp in La Vérendrye through exactly these years, under the same provincial association — see [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]]. Whatever review of tripping practice followed in Quebec in 1979 applied to it. Together with the November 1975 flotation regulation above, this makes the second half of the 1970s the period in which the safety framework around Kanawana's canoe trips was rebuilt — and neither change originated at the camp.
+
+### 1979: the tripping ethic itself is rebuilt
+
+Between the 1978 death and the 1980 decisions sits a year in which the association rewrote not its
+safety rules but its **ethics** — and none of it originated at Kanawana.^23
+
+In **March 1979** Kevin Redmond's "No Trace Camping" brought leave-no-trace ethics into Canadian camping
+and aimed them squarely at camp tripping practice, and at camping tradition itself: "**Beware of the
+traditions — axes, saws, elaborate latrines, garbage pits and material shelters, all of which can be
+found in camping texts.**" Its creed ran "I will keep my groups small. I will not cut down trees or
+branches. I will not build fires or if I do I will keep them small and scatter their remains… I will
+LEAVE NO TRACE," and its test was a question: "**Will the next traveller, be he a couple of hours or
+years away, know that you have been there?**" [f_4061]
+
+In **June 1979** came twenty numbered **Environmental Maintenance Standards** from a Conference of
+Canadian Interpreters, which open on the problem of camps that have occupied one site for many years —
+Kanawana's own confession of 1970 — and go on to question permanent out-trip sites, motor boats and flush
+toilets [f_4082]. These are treated at length in
+[[traditions/environmental-history|Environmental Education and Stewardship]].
+
+In **October 1979** Hartwick, Jorgenson and Gear's "Canoe Tripping in the Twentieth Century" put the
+contradiction in one sentence — "**the irony of canoe tripping is that it has the potential of
+destroying the very environment the tripper seeks out to enjoy**" — and concluded that since the number
+of users would not decline voluntarily, "the answer must lie in lessening their impact." Their rules are
+specific: carry out everything "and a little of what others have left"; small stoves or a metal fire
+container; let the fire burn to ash "leaving no charcoal"; "if you find several fire pits at your site,
+clean up the best one or two and eliminate the others"; gather firewood by canoe at a distance even when
+wood is available on site; and "**do not blight the campsite for your own comfort (e.g. trenches, bough
+beds, tables, natural shelters, garbage pits)**" [f_4091].
+
+**That last list is the measure of the change.** Trenches, bough beds, camp tables and garbage pits were
+not lapses — they were **technique**, printed in the manuals, taught to counsellors, and the mark of a
+competent tripper. Within seven months in 1979 the national magazine carried three statements telling
+camps to stop doing all of them [f_4092].
+
+**Why this belongs in Kanawana's article when Kanawana appears in none of it.** The camp's later
+environmental commitments — the composting toilets, the Leave No Trace certification its executive
+director holds, the low-impact tripping it now advertises — read very differently depending on whether
+the movement arrived there first. It did. Taken with the November 1975 flotation regulation and the
+reckoning after the 1978 Quebec death, **the whole safety-and-ethics framework around a Quebec camp's
+wilderness tripping was rebuilt between 1975 and 1979**, in the association's own pages, by people at
+other camps. Kanawana joined a movement here; it did not lead one, and no source in this project shows
+it dissenting either.
 
 ### What the movement decided, 1980
 
@@ -57,6 +155,15 @@ On liability, one answer draws the line the whole exercise turns on: "**nothing 
 Two answers are worth keeping for what they say about why camps tripped at all: "**tripping allows children a chance to 'shine' who ordinarily would not in camp living**", and "**trip leaders, once they sever their group from the relative safety of base camp, have their responsibilities and concerns multiplied tenfold**."
 
 **And a written emergency procedure, adopted as policy.** In the same issue the Ontario Camping Association printed the emergency procedures it had distributed to all member camps, together with a reporting rule "**adopted as policy of the O.C.A. effective February, 1980**".^15 The procedure for a serious accident or death on camp property runs to fifteen steps, and its shape is legal as much as medical: establish the emergency and confirm care is under way; **"begin to log each action; both the time and procedure, including all phone calls"**; summon help with a stated form of words; call legal counsel and, in the case of death, the police, who "**MUST be called**"; inform staff, then campers, then the parents named on the camper application; **initiate written statements from everyone involved, each writing their own, plus a record of conditions before the accident and photographs "if at all possible"**; take a lawyer's advice on any letter to parents and any press release; and "**only the Camp Director or his designate speaks to the press**". A parallel procedure covers accidents on excursions off the property, where the trip leader delegates first aid, sends a message by the fastest route with someone kept at the telephone, logs every call in and out, and the senior person on the trip must recommend "concerning the remainder of the trip, that is, to be continued, aborted, altered". It ends: "**The Camp stands behind its staff members and expects each member to perform to the best of his/her capabilities and training.**"
+
+**Forty-six years on, the same problem is addressed from the other end, and it names a contractor.** The
+camp's 2026 registration package asks a parent to acknowledge: "In case of a serious emergency during a
+**back-country trip** where an **evacuation by plane or helicopter** is required to ensure my child's safety
+and health, I understand that a third-party organization, **AirMedic**, will be responsible for evacuating my
+child."^34 The 1980 procedure above is what staff do once something has happened; this is what a parent is
+told before it does. The same package's list of inherent risks names **"contact with water or drowning"**
+among seven categories — the only place in this project where the camp states drowning as a risk of its own
+programme in its own words. The full list is at [[history/modern-era|The Modern Era]]. [f_5791]
 
 The reporting policy required a member camp to telephone the association's president within 24 hours and file a written report within 20 days naming the person injured or deceased with the date, time and place, and set out what the association would then decide — including "**the position to be taken by the O.C.A. at the inquest**", who would appear as its witness, and "**methods by which the learning gained as a result of the incident might be usefully shared with the membership**".
 
@@ -100,9 +207,112 @@ This is not a Kanawana document, and nothing here names the camp. It is recorded
 
 Two related national facts of the same year belong beside it. The **Canadian Recreational Canoeing Association** issued a revised *Standards Tests of Achievement in Canoeing* with a **five-level award scheme**, checklists and award cards, "**available in both French and English**" — so the CRCA grades that appear as bare Roman numerals in the 1980 survey were a purchasable, bilingual certification a Quebec camp could issue, and any Kanawana canoeing award card of this period should be checked against those five levels before being taken for a camp-invented award.^18 And the CCA's **1981 National Wilderness Travel Leadership School** was held at the **Yamnuska Centre, the Calgary YMCA's outdoor recreation headquarters**, with twelve participants drawn from seven provinces **including Quebec** — a four-day hike with rotating day leaders, staged simulated accidents, one-to-one evaluation of each leader, and sessions on tripping nutrition, thermal balance and menu planning.^19 A YMCA site, a national school and a Quebec place at it together make one plausible route by which a Kanawana tripping staff member of these years was trained; the participant is not named as being from Kanawana and no such claim is made here.
 
-Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip leader) role distinct from the section directors who ran the camp-based program. Rob Shackell appears as Tripper across at least four documented trips between 2001 and 2010 — the 2001 Voyageurs 4th-session portage, the 2005 Swazi trip, the 2008 Missinaibi River 21-day Voyageurs Ultimate expedition, and the 2010 Ashuapmushuan River trip — the longest documented tripping tenure of any named individual in the plaque archive. Steve Wesley co-led the 2010 Voyageurs 3rd-session and Ashuapmushuan trips alongside Shackell. Other named trip leaders include Lorna McNeish, credited "Capitaine" of the 2000 Voyageurs cohort, and Mark Chamandy-Cook, Tripper on a 2009 Talahassee trip through the Papineau-Labelle wildlife reserve.
+Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip leader) role distinct from the section directors who ran the camp-based program. Rob Shackell appears as Tripper across at least four documented trips between 2001 and 2010 — the 2001 Voyageurs 4th-session portage, the 2005 Swazi trip, the 2008 Missinaibi River 21-day Voyageurs Ultimate expedition, and the 2010 Ashuapmushuan River trip — the longest documented tripping tenure of any named individual in the plaque archive. Steve Wesley co-led the 2010 Voyageurs 3rd-session and Ashuapmushuan trips alongside Shackell. Other named trip leaders include Lorna McNeish, credited "Capitaine" of the 2000 Voyageurs cohort, and Mark Chamandy-Cook, Tripper on a 2009 Talahassee trip through the Papineau-Labelle wildlife reserve.^10
 
-Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) runs a 26-day white-water canoe expedition.^4 ^5 The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
+**And the year before that, the route knowledge arrived with a hire.** The 1975 report: "We were fortunate
+this summer to recruit a very experienced and capable Hike & Trip Director, **Dick Mischook**… Due to
+Kanawana's past trip logs and records together with **Dick's knowledge of trips from Powter's Camp**, we were
+able to **decrease the distance needed for trucking trips out** and maintain the various desired wilderness
+experiences. I should also mention that Dick obtained **exclusive permission for Kanawana to send canoe trips
+to Parc Joliette**."^36
+
+*Powter's Camp is not a stranger to this project.* **C. B. Powter** was running the YMCA's own camp at Lac
+Saint-Joseph in 1898, beside the association's Physical Director W. H. Ball, and founded Powter's Camp —
+"Sans Egal" — on the same lake in 1902 ([[site/camp-otoreke|Camp Otoreke]] has the whole of it). Here it is
+1975, the camp is still a going concern, and its route knowledge crosses to Kanawana **in one man's head when
+he changes jobs**. This wiki has documented staff moving between camps many times; programme content moving
+with them is new. **Parc Joliette** is a destination new here too, on terms the report calls exclusive.
+[f_5813]
+
+**The year before it, and the trips left the watershed.** The 1976 report, under Hike & Trip: "What a summer
+it was! After over **14,000 miles on the Kamp van in 7 weeks, over 85 trips** were sent out. These included the
+local trips on kamp property to extensive canoe trips in such areas as **Papineau-Labelle Park, Manewan Indian
+Reservation, Kempt Lake, 31 Mile Lake**, back packing trips to **Mont Marcy in Vermont** and **war canoe trips
+from Mont Laurier to Ottawa and then Ottawa to Montreal**."^36 The programme gained "several more canoes as
+well as various equipment from **Wilderness Survival Camp**," and was directed "again this year" by **Dick
+Mischook**, a name new to this project.
+
+*The war canoe route is a journey rather than an outing.* Mont Laurier to Ottawa is roughly two hundred
+kilometres down the Lièvre and the Ottawa; Ottawa to Montreal is another two hundred down the Ottawa and into
+the St Lawrence. In war canoes, in one season. Neither leg appears anywhere else here.
+
+*Two of the destinations need a note.* **"Mont Marcy in Vermont"** is probably **Mount Marcy**, which is the
+high point of the Adirondacks and in **New York**; the report's geography is left as it stands, because the
+camp may equally have meant a Vermont summit the scan has mangled. And **"Manewan Indian Reservation"** is
+almost certainly **Manawan**, the Atikamekw community in Lanaudière — which would make it the only trip
+destination in this project on an Indigenous community's land. **85 trips in 1976 against 75 in 1977**: two
+consecutive whole-season counts, and the later year is the smaller. [f_5806]
+
+**A whole tripping season counted, 1977, and canoes are a quarter of it.** The director's report for that
+year gives "Hike & Trip statistics" in six lines: **backpacking trips (Vermont) 6; extended canoe trips 19;
+local hikes and overnights 38; sneakouts 12; total number of out-trips 75; total number of people nights
+1,196**.^36
+
+*Three things sit in that.* **Extended canoe trips are 19 of 75** — a quarter of the out-trips, in a camp
+whose tripping identity this wiki writes almost entirely in canoes; local hikes and overnights are half.
+**"Sneakouts" is a formal category in a report to the association**, counted at twelve, which turns an
+unofficial-sounding thing into an accounted programme item. And the backpacking goes to **Vermont**, out of
+the country: the same report says "our truck travelled over **19,000 miles**, with trips to Vermont, **31 Mile
+Lake, Post River, White Fish Reservoir, Mont Laurier, Lac Légaré and Clear Lake** among other regions."
+1,196 people-nights against a season of about four hundred campers is roughly three out-trip nights each, and
+the report claims "almost every Kanawanian had some sort of overnight experience." [f_5804]
+
+**How much tripping a single season actually was, in 1993.** Director Bruce Netherwood's report on the 99th summer counts it: **four Voyageur trips and 38 camper trips**, three of the latter Junior excursions, and **over four hundred Kanawanians** on the water across Papineau-Labelle and Parc La Vérendrye.^25 That is the only *other* whole-season trip count this article holds, and unlike 1977's it is not broken down by kind. Netherwood's "over four hundred" counts campers and staff together and cannot be turned into a participation rate, but it is a large fraction of a camp that ran at over 99% of capacity that summer, and the reserve pairing the 2026 programme still uses — Papineau-Labelle and La Vérendrye — was already the shape of it.
+
+**Where the trips actually go, in 2026, and it is not the Laurentians.** The parent guide names the water:
+"Our Hike and Trip program runs canoe trips on the following rivers: **Noire, Dumoine, Coulonge, Bazin, Rouge,
+Gatineau, Missinaibi, Mistassini, Mistassibi, Lièvre, Jacques Cartier, Batiscan, Pontax, Ashuapmushuan, and
+the Chochocouane**. We also paddle flatwater trips" in the **La Vérendrye** and **Papineau-Labelle** reserves.^35
+Fifteen rivers, and the reach is the point: the **Missinaibi** is in Ontario and drains to James Bay; the
+**Pontax** is on the eastern James Bay coast in Eeyou Istchee; the Ashuapmushuan, Mistassini and Mistassibi are
+the Lac Saint-Jean rivers; the Jacques-Cartier and Batiscan run to the St Lawrence north of Quebec City.
+
+*And one name on the list closes a loop.* The **Chochocouane** appears once before in this project — in
+[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]], as a river a trip under Heyer
+**attempted to reach and failed**. [f_5792]
+
+Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) is a 26-day *programme* built around a **19-day** white-water canoe expedition.^4 ^5 ^30 *(Corrected 2026-09-07: this read "runs a 26-day white-water canoe expedition". Twenty-six days is the programme; the camp's own page puts the expedition inside it at nineteen. The distinction matters here, because the 2008 Missinaibi River trip below is recorded at 21 days — a shortening against 26 and a lengthening against 19, and the difference is what is being counted.)* **The longest trip the camp runs is not in this article.** The **Foresters canoe-guides-in-training**
+programme — 48 days, ages 16 and 17, mixed — trains participants "for the role of a canoe trip guide"
+through "hands-on workshops and **a canoe expedition consisting of 28 to 32 days of whitewater travel and
+four days of flatwater travel**."^30 That is a thirty-two to thirty-six day expedition undertaken by
+sixteen- and seventeen-year-olds, and it appears nowhere else in this wiki — not here, not in
+[[traditions/cit-lit-program|the CIT and LIT article]], not in
+[[traditions/programs-activities|Programs and Activities]]. It sits beside **Trailblazers**, the
+counsellor-in-training stream of the same length, which runs "more than 200 hours of workshops and training"
+and a five-day trip: two 48-day programmes, one making counsellors and one making guides.
+
+The rest of the ladder, in the camp's own numbers: **Voyageurs** (12 days, 13–16) contains **an eight-day
+trip**; **Voyageurs Extreme** (19 days, 14–17) runs "an initial four-day trip" and then a camper-planned
+**12-day river trip in Quebec or Ontario**; **Rangers** (24 days, 15–16) is the first leadership rung and
+carries **DAFA** certification.^30 All four leadership programmes require a separate **application** rather
+than simple registration, which is a selection step the camp-based sections do not have.
+
+The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
+
+## Building them, not only paddling them, 2001-03
+
+One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, under **YMCA Kamp Kanawana**, a "**Programme de construction de canots**" — a canoe-*building* programme, as distinct from everything else on this page, which is about canoes being paddled.^28 It sits beside a second Kanawana line, "Accessibilité au YMCA."
+
+*The money is not assigned here.* The scan puts **$16,323** on the accessibility line and leaves the canoe line without a figure of its own, so the amount may belong to either or be a total for both, and nothing in the table decides it.
+
+**It ran a second year, and that year the figure is unambiguous.** [f_5766] The 2002-03 table prints "**KAMP KANAWANA — Canoe building program — $2,000**," with no accessibility line beside it, and the French edition confirms it as "*Programme de construction de canots, 2 000 $*."^32 So the programme was not a one-off, and the 2001-02 ambiguity above narrows: at $2,000 in a year when it stood alone, the canoe line is unlikely to have carried $16,323 by itself the year before, which makes the total-for-both reading much the more probable. That still does not make it certain, and the 2001-02 split between the canoe programme and Accessibilité au YMCA remains unassigned within that $16,323. Nor is anything known about what the programme was, who ran it, how long it lasted, or whether a canoe came out of it. **"Canoe building" and "construction de canots" occur nowhere else in this project** — which, for an article this long about canoes, is worth saying plainly.
+
+
+**And one trip has a parent's account of what it did.** The YMCAs of Québec's 2010 community report prints a
+letter written after a canoe-camping trip, with first names only: "I want to thank you (camp) and Jen's guides
+**Joe and Elli** for giving Jen an awesome experience. She has not stopped talking about it since I picked her
+up on Friday, and it seems she has **a new found belief in herself**. I know she learned many valuable lessons
+during the trip, and that they will help keep her on track **during the school year**."^33 Almost everything
+this article holds about what tripping was for comes from staff, directors or the association. This is a
+mother, and the unit she measures the trip in is a school year. See
+[[history/modern-era|The Modern Era]] for the 2016 letter beside it. [f_5776]
+
+## Open Questions
+
+1. [Important] **What happened to canoe tripping between 1948 and 1959?** This article jumps from the postwar routes to the founding of the wilderness satellite. The annual reports for those years have been read for other purposes; nobody has read them for tripping.
+2. [Important] **Did the movement's 1975–1981 safety reckoning change anything at Kanawana specifically?** The national material is well documented here — the 1975 flotation regulation, the 1978 fatality and the reckoning that followed, the 1979 rebuilding of the tripping ethic, the 1981 white-water precautions — but no Kanawana document has been found responding to any of it. A director's report from those years would settle it.
+3. [Nice-to-have] **Who were the trippers?** Named trip staff exist from photo-mined dining-hall plaques for 2000–2010 and from the Voyageurs reports; the decades between are anonymous.
+4. [Nice-to-have] **When did the camp stop running its own long trips**, if it did? The Porter Sargent guides describe the ladder in 1983–84 and 1987;^24 the YMCA Quebec material describes present-day trips under different section names, and nothing here bridges them.
 
 ## Related Articles
 
@@ -116,27 +326,12 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 
-### What a ten-day canoe trip cost in 1926
-
-Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **Herbert B. Bell**, "an experienced canoe-trip leader," for **two men on a ten-day canoe trip in Algonquin Park**. The food was side bacon, cheese, flour, rolled oats, salt pork, tinned goods, peanut butter, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper and baking powder; the equipment a box of matches, a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two quarts, two dessert spoons, a teaspoon, two packsacks and a length of rope. The costs are given as:
-
-| | |
-|---|---|
-| Food | $11.18 |
-| Equipment | $6.60 |
-| Canoe (rental) | $8.00 |
-| **Total** | **$25.78** |
-
-— "approximately **$1.25 per person per day**."^22
-
-This is the only itemised cost of a 1920s Canadian canoe trip found by this project, and it is a direct comparator for Kanawana's own tripping in the same decade: the camp was running canoe trips out of Lake Wilson through the 1920s, and the figure gives a sense of what its per-camper tripping costs would have been against a season fee. Nothing here is a Kanawana record; it is a contemporary benchmark from the same years and the same kind of country.
-
 ## Sources
 
-*Renumbered 2026-08-14. This list was previously an unnumbered bullet list, while the body carried numeric markers ^3–^7 — so none of those five citations resolved to anything. Only ^7 had a label, on the eighth bullet. The list is now numbered in its original order, and the markers point where the ^7 label implies they were always meant to.*
+*Renumbered 2026-09-07 when Les Voyageurs de la Vérendrye was spun out to `site/les-voyageurs-de-la-verendrye.md`. Seventeen notes moved to the child and one (the YMCA of Montreal's 112th Annual Report) is cited by both and was duplicated rather than moved. Entries 1, 2, 8, 9, 10 and 11 were already uncited before that cut and are kept, since removing a source record is not a renumbering decision.*
 
 1. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/) [src_mcmorris_thesis]
-2. Concordia University Records Management and Archives, Fonds P145, Sub-series 12K: Les Voyageurs de la Vérendrye. Includes exploratory canoe trip logs (1958), La Vérendrye Park pilot project budget (c.1959), welcome document (1960s), Lac Landron lease (1962-63), program brochure (1963), camper records (1967-1980), and review booklet (1982). [src_concordia_fonds]
+2. *Moved with its subject, and kept here as the pointer.* Concordia University Records Management and Archives, Fonds P145, Sub-series 12K: Les Voyageurs de la Vérendrye. Includes exploratory canoe trip logs (1958), La Vérendrye Park pilot project budget (c.1959), welcome document (1960s), Lac Landron lease (1962-63), program brochure (1963), camper records (1967-1980), and review booklet (1982). [src_concordia_fonds] The Voyageurs material was spun out to [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]] on 2026-09-07 and this sub-series is cited there; it stays listed here because this article is where a reader looking for canoe-trip records will start.
 3. YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Timeline confirms Voyageurs de la Vérendrye (1950s), first all-female Voyageur trip (1972), Adventurer program (1998). *Caution: this same undated sheet is the source of the erroneous "1969" coeducation date corrected elsewhere in this wiki; treat its dates as institutional copy, not documentation.*
 4. YMCA Quebec, "Summer Camp Kanawana: Programs" (ymcaquebec.org). Confirms Voyageurs Ultimate section and ongoing canoe tripping.
 5. YMCA Quebec, "Adventurers Pathfinders: Canoe-Tripping" (ymcaquebec.org, 2026). Girls and NB 13–16; La Vérendrye or river trips.
@@ -145,7 +340,7 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 8. French Wikipedia, "Lac Landron" [src_wikipedia_lac_landron]; "Réserve faunique La Vérendrye" [src_reserve_laverendrye_history]. Radio-Canada/La Presse, SEPAQ canoe-camping administration transition, 2022 [src_radiocanada_sepaq_laverendrye_2022].
 9. *A History of Kamp Kanawana* (1935). Internet Archive. Mentions "Four-day trip to Otoreke," confirming canoe trips existed by 1935. [src_history_1935]
 10. Canoe-trip dining-hall plaques, photo-mined 2026-07-05 (f_1708, f_1719-f_1723): named Trippers and trip captains, 2000-2010. [src_flickr_kanawana_plaque_album]
-11. *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976] — records the first award of the Order of Owens to a tripper, and Derek Walsh's note that the L&V Games "interfers with the best of the tripping season."
+11. *Moved with its subject, 2026-09-08, and kept here as the pointer.* *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976] — records the first award of the Order of Owens to a tripper, and Derek Walsh's note that the L&V Games "interfers with the best of the tripping season." The first-award passage is quoted in full at [[traditions/order-of-owens|The Order of Owens]], which is the article that turns on it; nothing here rests on this report any more.
 12. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 13. Jocelyn Palm, "Your Waterfront Program: Lifejackets and Personal Flotation Devices," *Canadian Camping* Vol. 29 No. 3 (May 1977), pp. 7-8, with the accompanying note on the Small Vessels Regulations [src_ia_canadian_camping_collection]. Found by the same read (issue 113).
 14. Editorial, *Canadian Camping* Vol. 30 No. 6 (December 1978), p. 3 [src_ia_canadian_camping_collection]. Found by the same read (issue 122). The incident is unnamed in the source and is not identified here.
@@ -157,3 +352,17 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 20. "News from Publications" (the Society of Camp Directors' donation of *Canoe Tripping Practices in Canada*, John R. Latimer, Research Chairman, 1979) and Mike Budd, "The Risk Factor in Outdoor Pursuits," reprinted from *Runner* (Health & Physical Education Council, Alberta Teachers' Association), *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 11-13 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
 21. "The Camping Advisor," *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 5 [src_ia_canadian_camping_collection], quoting Michael Hatton, *Lightweight Camping: A Four Season Source Book*. Found by the same read (issue 143).
 22. Adele Ebbs, "Canoe Tripping — In The 1920's," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), p. 9, reprinting Herbert B. Bell's 1926 list [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
+23. The 1979 leave-no-trace sequence in *Canadian Camping* [src_ia_canadian_camping_collection]: Kevin Redmond, "No Trace Camping" (March 1979); the twenty Environmental Maintenance Standards from a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association Newsletter of May 1979 (June 1979); and Hartwick, Jorgenson and Gear, "Canoe Tripping in the Twentieth Century" (October 1979). See [f_4061], [f_4082], [f_4091], [f_4092].
+24. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
+25. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
+26. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5076], [f_5077].
+27. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964, so its camping season is the summer of **1963** (see [f_5090]). Read 2026-09-06 under p_441. See [f_5091], [f_5092].
+28. YMCA *Rapport Annuel 2001-2002*, French edition [src_ia_sgw_ymca_annual_report_2001_2002_fr], Internet Archive item `sgw-ymca-annual-report-2001-2002-fr`, in the `ymca-montreal-fonds` collection. The foundation grants table. Read 2026-09-07 under p_462 as a second scan of a report whose English edition this project already holds. See [f_5257].
+29. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_camp_perrot_season_report], the table of overnight groups using the property; and the Camp Perrot annual report for 1951 [src_ymf_1951_camp_perrot_annual_report], its "Groups Using Camp Perrot" list. Recovered 2026-09-07 from the second text file of an item this project had read only the first of; the 1951 recurrence found the same day under `p_491`. See [f_5432] and [f_5699].
+30. Camp YMCA Kanawana, the six expedition and leadership programme pages [src_ymcaq_kanawana_expedition_leadership_pages_2026] — Voyageurs, Voyageurs Extreme, Voyageurs Ultimate, Rangers, Trailblazers CIT and Foresters canoe-guides-in-training, under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07 and advertising the 2027 season; cached together at `sources/cache/web-pages/ymcaquebec-kanawana-expedition-leadership-pages-2026.txt`, one header line per page giving its own URL. See [f_5614].
+31. *The Green Triangle*, Issue 2, **21 July 1940** [src_ymf_the_green_triangle_1940_07_21], and a Concordia Archives photograph captioned "Pop Cameron and the Canoe Trippers", dated by its **1941** Quebec licence plate [src_flickr_kanawana_concordia_historical_album]. The **1940** canoe-trip log naming **Jack Cameron's car** and the **1941** photograph naming **Pop Cameron** are joined at [f_5626]; the photograph alone is at [f_1571].
+32. YMCA of Montreal annual report **2002-2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Foundation's endowment allocation table. Read 2026-09-08 under p_487. The four-year series is at [[history/modern-era|The Modern Era]]. See [f_5766].
+33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].
+34. Camp YMCA Kanawana, the registration package published at ymcaquebec.org [src_ymcaq_kanawana_jobs_intl_leadership_2026], its emergency and inherent-risk clauses. Read 2026-09-08 under p_441. See [f_5791].
+35. *Camp Kanawana Parent Guide 2026*, English and French editions [src_kk_prep_guide_2026, src_kk_prep_guide_2026_fr], the Hike and Trip programme page. Read 2026-09-08 under p_441. The English guide is cited elsewhere in this wiki as ^pg26 and this list was not taken from it. See [f_5792].
+36. *Kamp Kanawana Director's Report* for **1975**, **1976** and **1977** [src_ia_kanawana_report_1975, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977], their Hike & Trip sections and the 1977 special-programme list. Read 2026-09-08 under p_441. See [f_5804], [f_5805], [f_5806] and [f_5813].

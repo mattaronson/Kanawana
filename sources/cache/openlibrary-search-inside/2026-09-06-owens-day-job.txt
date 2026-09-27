@@ -1,0 +1,65 @@
+O. N. H. OWENS — HIS DAY JOB AND HIS FIRST NAME
+===============================================
+Recovered 2026-09-06 under p_430 (sweep the corpus on the camp's PEOPLE, not on "Camp Kanawana").
+Open Library search-inside, `openlibrary.org/search/inside.json`. None of these books was read;
+every line below is a search highlight, and the two longer ones were reconstructed by walking
+overlapping phrase queries.
+
+WHY OWENS. traditions/order-of-owens.md identifies O. N. H. Owens with "Norrey Owens", the donor of
+the Order of Owens, on the strength of both names holding the presidency of the Quebec Camping
+Association. It records forty-eight years of Montreal YMCA camping service, 1929 to 1977 — and NO
+OCCUPATION. It also flags, as "suggestive but unproven", a Library and Archives Canada First World
+War personnel file for "OWENS, OWEN NORREYS HARRINGTON".
+
+THE QUERY THAT WORKED was the index form of the name, "Owens, O. N. H." — not the running form.
+Two hits, both the same book.
+
+1. FINANCIAL POST, *DIRECTORY OF DIRECTORS*, 1947  [directoryofdirec0000unse_h0p6,
+   directoryofdirec0000unse_n6h5, directoryofdirec0000unse_n8a1 — three scans of one edition]
+
+   His own index entry:
+     "OWENS, O. N. H.; man. dir. Central Investment Corp., 1240 Phillips Sq., Montreal"
+   (the n6h5 scan prints the address as "1240 Union Ave., Montreal" — the same block; Phillips
+   Square is where Birks' flagship store stands)
+
+   And the company entry, reconstructed over five queries:
+     "... 2, P.Q.  Directors — H. G. Birks, pres.; V. M. Birks, vice-pres.; O. N. H. OWENS, MAN.
+      DIR.; R. R. Johnson, G. D. Birks.  Other Exec. Officers ..."
+
+   So: managing director of a Birks family investment company, sitting on its board with three
+   Birkses. Gerald W. Birks was president of the YMCA of Montreal in 1922 (people/directors-index.md).
+
+2. ART INDEX, vol. 1  [artindex0001unse]
+
+     "OWENS, Owen N. H.  Incorporating a parking garage in the office building.  Arch Forum
+      52:897-902"
+
+   THE ONLY SOURCE FOUND THAT SPELLS THE LEADING GIVEN NAME. *Architectural Forum* vol. 52 is 1930.
+
+3. THE ARTICLE IS STILL CITED  [isbn_9780773759749 / bwb_KS-292-791]
+
+   *Montreal Metropolis, 1880-1930* / *Montréal métropole, 1880-1930* (Canadian Centre for
+   Architecture, 1998), in both its editions:
+     "... can be found in N.H. Owens, 'Incorporating a Parking Garage in the Office Building,'
+      Architectural [Forum] ..."
+     "... est illustrée dans N.H. Owens, « Incorporating a Parking Garage in the Office Building »,
+      Architectural [Forum] ..."
+   Which Montreal building the CCA is discussing was not recovered — the surrounding sentence did
+   not come back on two attempts.
+
+WHAT IS JOINED AND WHAT IS NOT
+------------------------------
+The Directory's "O. N. H. Owens" and the Art Index's "Owen N. H. Owens" are joined by initials,
+surname, city and subject: a Montreal investment-company managing director writing on how to put a
+parking garage inside an office building is a man writing about his own trade. THAT IS A STRONG
+READING AND NOT A DOCUMENT. No source found names both the Central Investment Corp. post and the
+Architectural Forum article.
+
+The LAC file's "OWEN NORREYS HARRINGTON" is likewise now supported rather than proved: "Owen N. H."
+supplies the leading given name the wiki said no document in the corpus spells out, and it explains
+the 1929 YMCA listing as "N. H. Owens" — a man called Owen Owens dropping the first of them.
+
+NULLS FROM THE SAME PASS, so nobody repeats them: "Kanawanna" 0, "Lac Kanawana" 0, "Kanawana, Que"
+0, "Lake Kanawana" 1 (Stuart McLean's *Vinyl Cafe Notebooks*, already held). The camp's name forms
+are exhausted. "McGerrigle" returns 346, "Duncan Patton" 107 and "Hedley S. Dimock" 269 — too many
+to enumerate unpaired, and none of them swept yet.
