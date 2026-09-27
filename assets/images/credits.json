@@ -5295,6 +5295,31 @@
       "status": "acquired",
       "priority": 2,
       "notes": "White on purple, the Y mark with its registered-trademark symbol over three lines of heavy capitals. The only place the word KANAWANA appears on this garment: the front carries no lettering. The garment is PURPLE, on the operator's direct observation; the photographs render it as a dark desaturated blue or magenta depending on the frame and cannot be used to name the colour."
+    },
+    {
+      "id": "img_mug_kanawana_2019",
+      "title": "Kanawana mug, c. 2019 — white line-art design on black",
+      "caption_on_original": "KANAWANA",
+      "date": "2019",
+      "date_precision": "year",
+      "source": "Photographed by the operator and supplied 2026-09-27",
+      "source_ref": "src_photo_kanawana_mug_2019",
+      "source_url": null,
+      "rights": "Design copyright Camp YMCA Kanawana / YMCAs of Québec, designer unidentified. Photograph of an object in the operator's possession, supplied for this project. In copyright; recorded here as documentation, not licensed for reuse.",
+      "linked_facts": [
+        "f_5854",
+        "f_5855",
+        "f_5858"
+      ],
+      "suggested_articles": [
+        "kanawana-in-media",
+        "traditions-and-culture"
+      ],
+      "target_filename": "artifacts/mug-kanawana-2019.jpg",
+      "filename": "artifacts/mug-kanawana-2019.jpg",
+      "status": "acquired",
+      "priority": 2,
+      "notes": "Photographed in hand on a kitchen counter; unrelated household objects are in frame and are not described. The same design ran on t-shirts that year per oral history. Designer unidentified: see p_504."
     }
   ],
   "moving_images": [

@@ -7175,3 +7175,38 @@ construction date remains unestablished, with two readings that the corpus canno
 (Concordia P145/12B03) and the Ross & Macdonald "YMCA Boy's Camp buildings" drawings of
 1913-1914 (CCA AP013.S1.D37) would each settle the question outright. Neither has been examined.
 Charlton's own 1943 manuscript (Concordia P145/12A, Box HA1881) is unread.
+
+## 2026-09-27 -- The 2019 designer: a lead that cannot resolve where it was pointed
+
+**Topic:** Who designed the Kanawana line-art design used on mugs and t-shirts in 2019.
+
+**Lead as given (oral, the operator):** a camp alumnus who had previously worked for Hudson's Bay on
+the designs used for Canada's merchandise at a recent Olympic Games. Name not recalled.
+
+**Surfaces searched:** web search (eight queries), one direct page fetch of the YMCAs of Québec blog.
+
+**Queries run, all null on the identification:**
+"Camp Kanawana" designer Hudson's Bay Olympic merchandise alumnus; "Kanawana" 2019 t-shirt design
+illustrator Montreal; Hudson's Bay Olympic collection graphic designer Montreal "summer camp"
+illustrator; "Camp Kanawana" OR "Kamp Kanawana" designer illustrator alumni merchandise; "Hudson's Bay"
+Olympic collection designer credited PyeongChang 2018 Rio 2016 in-house design team name; linkedin
+"Kanawana" graphic designer "Hudson's Bay"; "ymcakanawana" 2019 mug OR t-shirt design artist credit;
+"Kanawana" 2019 125th OR anniversary merchandise mug tent design YMCA Saint-Sauveur. Plus a fetch of
+the YMCAs of Québec "Kanawana's 125th anniversary" blog URL, which served generic site content.
+
+**The useful negative.** Every press release and article on Hudson's Bay's Team Canada Olympic
+collections credits "Hudson's Bay's in-house team of designers" and names no member of it. That holds
+for PyeongChang 2018 and Tokyo 2020 in the coverage read. Hudson's Bay outfitted Team Canada through
+Tokyo 2020 and was replaced by Lululemon from 2022, so "a recent Olympic Games" relative to a 2019
+design means Sochi 2014, Rio 2016 or PyeongChang 2018. The lead therefore describes an UNCREDITED
+member of an in-house team. This is not a failure of searching; it is structural, and searching the
+Olympic record harder will not fix it.
+
+**Incidental finding worth more than the search:** 2019 is the camp's 125th, and the YMCAs of Québec
+ran an anniversary celebration that summer. The design carries no 125 and no year, so the coincidence
+is recorded and not asserted as a commission.
+
+**Where to go instead (p_504, none attempted):** the camp's own 2019 staff list; the camp's Instagram
+and Facebook from summer 2019, which may credit the artist; LinkedIn filtered on Hudson's Bay plus
+Montreal plus graphic design, looking for Kanawana in the experience field; the 2019 L&V team shirts,
+still to be supplied, which may carry a signature; and the operator's alumni network.

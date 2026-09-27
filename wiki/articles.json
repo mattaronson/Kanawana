@@ -7767,6 +7767,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Colour corrected on the operator's direct observation: the 2023 staff shirt is purple, not navy. This project had named the colour off the photographs, which could not support it -- the two frames of one garment disagree by ninety degrees of hue at very low saturation. f_5846 amended in place with the measurements, and the source record now carries a caution against naming this colour from the images."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-27",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The merchandise section reaches back to 2019 on a mug the operator supplied, carrying a line-art design that also ran on t-shirts that year, the camp's 125th. The designer is unidentified: the operator's lead, an alumnus who had worked on Hudson's Bay's Team Canada Olympic merchandise, was searched eight ways and did not resolve, because that coverage credits an in-house team and names no individual. Queued as p_504. The mug also puts the Y mark at the top and centre of its front, which pulls against the oral account that the wordmark only became prominent in the last two or three years; raised as c_075 and left open for the operator. Sources 41 -> 42."
         }
       ],
       "ralph_loops_completed": 1,
@@ -7833,7 +7840,12 @@
         "f_5850",
         "f_5851",
         "f_5852",
-        "f_5853"
+        "f_5853",
+        "f_5854",
+        "f_5855",
+        "f_5856",
+        "f_5857",
+        "f_5858"
       ],
       "sources_cited": [
         "src_cache_canadiancampingmagazine_vol29_no1_1977february",
@@ -7857,6 +7869,7 @@
         "src_newspapers_gazette_1918",
         "src_oral_aronson",
         "src_oral_aronson_merch_design_2026",
+        "src_photo_kanawana_mug_2019",
         "src_photo_staff_shirts_2022_2023",
         "src_torge_dear_sam_2007",
         "src_ymf_1938_11_07_kanawana_goes_on_the_air",
@@ -7865,7 +7878,7 @@
         "src_ymf_the_green_triangle_1935_07_20",
         "src_ymf_the_green_triangle_1935_07_27"
       ],
-      "open_questions": 6,
+      "open_questions": 9,
       "cross_links": [
         "centennial-1967",
         "howie-langille",
@@ -7877,7 +7890,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 10033,
+      "word_count": 10772,
       "tags": {
         "era": [
           "1960s",

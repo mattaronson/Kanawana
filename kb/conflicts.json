@@ -1149,6 +1149,19 @@
       "resolution": "Resolved in favour of f_5850, the physical examination. f_5847 amended in place with a SUPERSEDED IN PART note limited to the wordmark; its other four observations stand. The superseded reading is preserved, not deleted.",
       "resolved_at": "2026-09-27",
       "status": "resolved"
+    },
+    {
+      "conflict_id": "c_075",
+      "description": "f_5848 (oral, 2026-09-27) says the YMCA wordmark moved to a more prominent position on camp merchandise only in the last two or three years before 2026. f_5858: a mug the same operator dates to 2019 carries the Y mark as the sun at the top and centre of its front design, which is as prominent as a placement gets. The two may not actually conflict. A mark drawn into an illustration by the camp's own designer is a different act from a corporate wordmark applied by head office, and mugs may not have followed the shirts' rule. But as stated the claims pull against each other and the tension should not be smoothed over.",
+      "entity": "YMCA wordmark prominence on Kanawana merchandise",
+      "facts": [
+        "f_5848",
+        "f_5858"
+      ],
+      "raised": "2026-09-27",
+      "raised_by": "auto",
+      "status": "open",
+      "notes": "HUMAN DECISION POINT. Not resolvable by the standing oral-yields-to-documented directive: the documented object and the oral claim may be about different things, and only the operator can say whether he meant applied corporate branding as distinct from a designer's use of the mark. Two questions settle it: was the Y on the 2019 design put there by the camp's designer or required by head office, and did mugs follow the same branding rule as apparel?"
     }
   ]
 }

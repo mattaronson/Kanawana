@@ -29708,10 +29708,28 @@
       "extracted": true,
       "extraction_version": "11.84",
       "reliability": "primary",
-      "notes": "Former camper, counsellor and program director. Camp merchandise has almost always been designed by a member of camp staff, with a few exceptions; the YMCA wordmark moved to a more prominent position on merchandise only in the last two or three years before 2026; Camp Director Kate 'Wawa' Taylor designed the 2022 and 2023 staff shirts and kept those years' designs from being produced by the YMCA's in-house marketing team; the camper shirts for those years used the same logo on a different shirt colour. Part of the ongoing oral history recorded at src_oral_aronson.",
+      "notes": "Former camper, counsellor and program director. Camp merchandise has almost always been designed by a member of camp staff, with a few exceptions; the YMCA wordmark moved to a more prominent position on merchandise only in the last two or three years before 2026; Camp Director Kate 'Wawa' Taylor designed the 2022 and 2023 staff shirts and kept those years' designs from being produced by the YMCA's in-house marketing team; the camper shirts for those years used the same logo on a different shirt colour. Part of the ongoing oral history recorded at src_oral_aronson. ADDED SAME DAY: a black ceramic mug carrying a white line-art design the operator dates to 2019, used on mugs and t-shirts that year; specific L&V team shirts were also made in 2019. The designer is not recalled by name: the operator believes it was an alumnus who had previously worked for Hudson's Bay on the designs used for Canada's merchandise at a recent Olympic Games. Flagged for research, not asserted.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_photo_kanawana_mug_2019",
+      "type": "web",
+      "title": "Photograph: Kanawana mug, black with white line-art design, c. 2019",
+      "date": "2019",
+      "date_precision": "year",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-27T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "11.88",
+      "reliability": "primary",
+      "notes": "Black glazed ceramic mug in the operator's possession, photographed in hand 2026-09-27. White single-weight line art: a wall tent flanked by two conifers, a sun above it containing the YMCA Y mark, a standing figure either side, a curved water line with a fish below, and KANAWANA arched beneath in hand-drawn angular capitals. The operator dates the design to 2019 and says it ran on mugs and t-shirts that year. Filed at assets/images/artifacts/mug-kanawana-2019.jpg. The mug is photographed on a kitchen counter with unrelated household objects in frame; only the mug is described here.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     }
   ],
-  "source_count": 1762
+  "source_count": 1763
 }

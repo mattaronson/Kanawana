@@ -9425,3 +9425,25 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   images. Worth generalising -- the other garment is natural white and safe, but any future colour
   claim off a photograph in this collection needs the object or the operator behind it.
   All eleven verify checks pass.
+
+[2026-09-27] THE 2019 MUG -- a design three years older than anything else recent, and a name nobody has
+  Operator supplied a black mug carrying a white line-art design he dates to 2019, used on mugs and
+  t-shirts that year. Filed at assets/images/artifacts/mug-kanawana-2019.jpg. Source
+  src_photo_kanawana_mug_2019. sources.json 1762 -> 1763.
+  Facts f_5854 (the design), f_5855 (2019 dating, and 2019 is the camp's 125th), f_5856 (the designer
+  lead), f_5857 (the null and why it is structural), f_5858 (the Y mark's placement).
+  kb/facts.json v11.87 -> v11.88, 5815 -> 5820.
+  DESIGNER: not identified and not asserted. Eight web queries plus a page fetch, all logged in
+  research-log.md. The finding that matters is negative and structural: Hudson's Bay's Team Canada
+  Olympic collections are credited in every press release to "an in-house team of designers" with no
+  individual named, so the operator's lead describes exactly the person that record will not name.
+  HBC outfitted through Tokyo 2020, Lululemon from 2022, so the Games is Sochi 2014, Rio 2016 or
+  PyeongChang 2018. Queued as p_504 with five untried surfaces, none of them Olympic coverage.
+  CONFLICT c_075 RAISED AND LEFT OPEN. The mug puts the Y mark at the top and centre of its front, as
+  the sun. f_5848 says the wordmark only became prominent in the last two or three years before 2026.
+  Deliberately NOT resolved under the oral-yields-to-documented directive, because the two claims may
+  not be about the same thing: a mark drawn into an illustration by the camp's own designer is a
+  different act from a corporate wordmark applied by head office, and mugs may not have followed the
+  shirts' rule. Needs the operator, not research.
+  PENDING: the 2019 L&V team shirts, to be supplied. Noted in p_504.
+  All eleven verify checks pass.

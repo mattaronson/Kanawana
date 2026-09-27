@@ -1,8 +1,8 @@
 {
-  "version": "11.87",
-  "kb_version": "11.87",
+  "version": "11.88",
+  "kb_version": "11.88",
   "migrated_from": "3.3",
-  "fact_count": 5815,
+  "fact_count": 5820,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104960,7 +104960,9 @@
         "staff t-shirt"
       ],
       "date_ref": "2026",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_5858"
+      ],
       "added_version": "11.84",
       "added_by": "manual"
     },
@@ -105053,6 +105055,96 @@
       "date_ref": "2023",
       "conflicts_with": [],
       "added_version": "11.86",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5854",
+      "claim": "THE 2019 LINE-ART DESIGN, AS IT APPEARS ON A MUG. White single-weight line art on black glazed ceramic. At the centre a wall tent with a platform or step beneath it, flanked by two simple conifers. Above the tent a sun disc containing the YMCA Y mark, its rays alternating long lines and short dashes. A standing figure at each side: at left a bearded person in a toque and vest with a pack, holding an axe head-up; at right a long-haired person in a t-shirt and shorts holding poles. Below the tent a curved water line with three waves, enclosing a fish drawn in outline. Beneath everything, KANAWANA arched in hand-drawn angular capitals. No date and no lettering other than the camp's name.",
+      "sources": [
+        "src_photo_kanawana_mug_2019"
+      ],
+      "confidence": "stated",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA",
+        "mug"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "11.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5855",
+      "claim": "THE 2019 DESIGN RAN ACROSS MERCHANDISE, AND 2019 IS THE CAMP'S 125TH. The operator dates the line-art design to 2019 and says it was used on both mugs and t-shirts that year, and that specific L&V team shirts were made in 2019 as well. 2019 is the 125th anniversary of the camp's 1894 founding, and the YMCAs of Quebec ran a 125th anniversary celebration that summer. Whether the design was commissioned for the anniversary is NOT established: the object carries no anniversary lettering, no date and no 125.",
+      "sources": [
+        "src_oral_aronson_merch_design_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games",
+        "mug"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "11.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5856",
+      "claim": "THE 2019 DESIGNER, A LEAD AND NOT AN IDENTIFICATION. The operator does not recall the designer's name. He believes it was a Kanawana alumnus who had previously worked for Hudson's Bay on the designs used for Canada's merchandise at a recent Olympic Games. Recorded as an unverified lead. No name is asserted, and nothing in the published record has been found to support or refute it.",
+      "sources": [
+        "src_oral_aronson_merch_design_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Camp Kanawana",
+        "Hudson's Bay Company"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "11.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5857",
+      "claim": "WHY THE 2019 DESIGNER LEAD IS UNLIKELY TO RESOLVE FROM PUBLISHED SOURCES, A NULL RESULT WORTH KEEPING. Eight web searches on 2026-09-27 found no individual designer named in any press coverage of Hudson's Bay's Team Canada Olympic collections. The coverage credits 'Hudson's Bay's in-house team of designers' and names no member of it, for PyeongChang 2018, Tokyo 2020 or earlier Games. Hudson's Bay outfitted Team Canada through Tokyo 2020 and was replaced by Lululemon from 2022, so 'a recent Olympic Games' relative to a 2019 design means Sochi 2014, Rio 2016 or PyeongChang 2018. The lead therefore describes an UNCREDITED member of an in-house team, which is exactly the person the press record will not name. The identification will have to come from alumni memory, the camp's own staff records, or a search of the camp's alumni network, not from Olympic coverage.",
+      "sources": [
+        "src_oral_aronson_merch_design_2026"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Hudson's Bay Company",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-27",
+      "conflicts_with": [],
+      "added_version": "11.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5858",
+      "claim": "THE 2019 MUG PUTS THE Y MARK FRONT AND CENTRE, WHICH SITS AGAINST THE ORAL ACCOUNT OF WHEN THAT STARTED. On this object the YMCA Y mark is not on a back or a sleeve: it is the sun at the top of the composition, the highest and most central element. The oral record at f_5848 says the wordmark moved to a more prominent position on camp merchandise only in the last two or three years before 2026. Two readings are possible and neither is established. Either the wordmark's prominence is older than the oral account allows, or the two are describing different things: a mark DRAWN INTO an illustration by the camp's own designer is not the same act as a corporate wordmark APPLIED to merchandise by head office, and mugs may not have followed the same rule as shirts. Logged as conflict c_075.",
+      "sources": [
+        "src_photo_kanawana_mug_2019"
+      ],
+      "confidence": "disputed",
+      "category": "culture",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA",
+        "mug"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [
+        "f_5848"
+      ],
+      "added_version": "11.88",
       "added_by": "manual"
     }
   ]

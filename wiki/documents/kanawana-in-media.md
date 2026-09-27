@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 41*
-*Last Updated: 2026-09-27 (staff-designed merchandise; the 2022 and 2023 shirts, their backs, and who drew them)*
+*Status: E1-reviewed | Sources: 42*
+*Last Updated: 2026-09-27 (staff-designed merchandise back to 2019; the mug, the two shirts, and a designer not yet named)*
 
 ## Overview
 
@@ -196,6 +196,41 @@ The **2022 and 2023 staff t-shirts were designed by Camp Director Kate "Wawa" Ta
 years' designs from being produced by the YMCA's in-house marketing team.^41 See
 [[people/kate-taylor|Kate Taylor]], whose own record includes work as a graphic designer outside the camp.
 The camper shirts for both years used the same logo on a different shirt colour.^41
+
+### The 2019 line-art design
+
+The earliest of the recent designs this project holds is not on cloth. A black glazed mug carries a white
+single-weight line drawing: a wall tent with a step beneath it, flanked by two simple conifers; above it a
+sun disc containing the **YMCA Y mark**, its rays alternating long lines and short dashes; a standing
+figure at each side, a bearded one at left in a toque and vest with a pack and an axe held head-up, a
+long-haired one at right in a t-shirt and shorts holding poles; below the tent a curved water line of three
+waves enclosing a fish in outline; and **KANAWANA** arched beneath it all in hand-drawn angular capitals.
+No date, and no lettering but the name.^42
+
+The operator dates the design to 2019 and says it ran on both mugs and t-shirts that year, with separate
+[[traditions/lv-games|L&V]] team shirts alongside it.^42 **2019 is the camp's 125th**, and the YMCAs of
+Québec ran an anniversary celebration that summer. Whether the design was drawn for the anniversary is not
+established and the object does not say so: there is no 125 on it, and no year at all.^42
+
+**Who drew it is not known.** The operator recalls that the designer was a camp alumnus who had previously
+worked for Hudson's Bay on the designs used for Canada's merchandise at a recent Olympic Games, but not the
+name.^42 That lead was worked on 27 September 2026 and did not resolve, for a reason worth stating: every
+press release and article on Hudson's Bay's Team Canada collections credits "Hudson's Bay's in-house team of
+designers" and names no member of it. Hudson's Bay outfitted Team Canada through Tokyo 2020 and was replaced
+by Lululemon from 2022, so the Games in question is Sochi 2014, Rio 2016 or PyeongChang 2018. The lead
+describes an uncredited member of an in-house team, which is precisely the person the Olympic record will
+not identify. The name will have to come from the camp's own 2019 staff list, its social media of that
+summer, or alumni memory.^42 Logged as **p_504**.
+
+**One thing on this mug pulls against the oral account above.** The Y mark here is not on a back or a
+sleeve. It is the sun, the highest and most central element of the design. The oral record says the
+wordmark moved to a more prominent position on camp merchandise only in the last two or three years before
+2026.^41 Either that is older than the account allows, or the two are describing different acts: a mark
+drawn into an illustration by the camp's own designer is not a corporate wordmark applied by head office,
+and mugs may not have followed the shirts' rule. Logged as conflict **c_075** and left open, because only
+the people involved can say which it is.
+
+### The 2022 and 2023 staff shirts
 
 Two staff garments supplied in 2026 are the only examples of the camp's graphic output after the 1990s
 this project holds, and they are worth setting beside the older art for what has changed.^40
@@ -528,6 +563,12 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 ![“Voyageurs” program advertisement, c.1981](../../assets/images/art/voyageurs-ad-1981.jpg)
 *A “Voyageurs” program advertisement, c.1981. Copyright All rights reserved by Kanawana.*
 
+![Kanawana mug, c. 2019](../../assets/images/artifacts/mug-kanawana-2019.jpg)
+*The 2019 line-art design on a mug: a wall tent between two conifers, the Y mark as the sun above it, a
+figure either side, a fish in the water below, and KANAWANA arched beneath. The same design ran on
+t-shirts that year. Design copyright Camp YMCA Kanawana, designer unidentified; photograph supplied by
+the operator.^42*
+
 ![Kanawana staff t-shirt, 2022](../../assets/images/art/tshirt-staff-2022.jpg)
 *The 2022 staff shirt: a hexagonal topographic badge, brush-script "Kanawana", a conifer treeline against a
 setting sun, and "est. 1894". Design copyright Camp YMCA Kanawana; photograph supplied by the operator.^40*
@@ -557,6 +598,9 @@ Kanawana; photograph supplied by the operator.^40*
 6. In which year did the YMCA wordmark first move to the front of camp merchandise?^41
 7. What colours were the 2022 and 2023 camper shirts?^41
 8. Do the rights to the 2022 and 2023 artwork rest with the YMCA or with the designer?
+9. Who designed the 2019 line-art design used on mugs and t-shirts? See **p_504**; the Olympic lead did not resolve.^42
+10. Was the 2019 design commissioned for the camp's 125th anniversary, or is the coincidence of year only that?^42
+11. Was the Y mark on the 2019 design the designer's choice or head office's requirement, and did mugs follow the same branding rule as apparel? See **c_075**.^42
 
 ## Related Articles
 
@@ -631,6 +675,16 @@ Kanawana; photograph supplied by the operator.^40*
     YMCA's in-house marketing team, and the camper shirts of those years. Part of the ongoing oral history
     recorded at [src_oral_aronson]; given its own dated record in keeping with this project's practice for
     topic-specific oral testimony. See [f_5848], [f_5849] and [f_5851].
+
+42. **Kanawana mug, c. 2019, and the design it carries** [src_photo_kanawana_mug_2019]: a black glazed mug
+    in the operator's possession, photographed 2026-09-27 and filed at
+    `assets/images/artifacts/mug-kanawana-2019.jpg`. The **dating, the use on t-shirts, the L&V team shirts
+    of the same year and the designer lead** are oral, from the same 27 September 2026 conversation
+    [src_oral_aronson_merch_design_2026]. **The designer is not named and no name is asserted.** Eight web
+    searches that day returned no individual credited on any Hudson's Bay Team Canada Olympic collection;
+    the coverage credits an in-house team and names nobody. See [f_5854] for the design, [f_5855] for the
+    2019 dating and the 125th, [f_5856] for the lead, [f_5857] for the null result and why it is structural
+    rather than a failure of searching, and [f_5858] for the Y mark's placement.
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 
